@@ -1,0 +1,30 @@
+[
+    {
+        "id": "la-cooking_puzzle-game_start_display_clear_condition_lang-count",
+        "data": {
+            "id": "la-cooking_puzzle-game_start_display_clear_condition_lang-count",
+            "text": "完成{0}道菜品！"
+        }
+    },
+    {
+        "id": "la-cooking_puzzle-game_start_display_clear_condition_lang-score_attack",
+        "data": {
+            "id": "la-cooking_puzzle-game_start_display_clear_condition_lang-score_attack",
+            "text": "以刷新最佳得分为目标吧！"
+        }
+    },
+    {
+        "id": "la-cooking_puzzle-mode_select_display_clear_condition_lang-count",
+        "data": {
+            "id": "la-cooking_puzzle-mode_select_display_clear_condition_lang-count",
+            "text": "按照要求完成\\n指定数量的菜品！"
+        }
+    },
+    {
+        "id": "la-cooking_puzzle-mode_select_display_clear_condition_lang-score_attack",
+        "data": {
+            "id": "la-cooking_puzzle-mode_select_display_clear_condition_lang-score_attack",
+            "text": "以刷新最佳得分\\n为目标吧！"
+        }
+    }
+]

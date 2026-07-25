@@ -1,0 +1,128 @@
+[
+    {
+        "id": "la-item_type_detail-card_level_limit_break",
+        "data": {
+            "id": "la-item_type_detail-card_level_limit_break",
+            "text": "成员"
+        }
+    },
+    {
+        "id": "la-item_type_detail-card_level_up",
+        "data": {
+            "id": "la-item_type_detail-card_level_up",
+            "text": "成员"
+        }
+    },
+    {
+        "id": "la-item_type_detail-card_potential_upgrade",
+        "data": {
+            "id": "la-item_type_detail-card_potential_upgrade",
+            "text": "成员"
+        }
+    },
+    {
+        "id": "la-item_type_detail-character_coin",
+        "data": {
+            "id": "la-item_type_detail-character_coin",
+            "text": "会员"
+        }
+    },
+    {
+        "id": "la-item_type_detail-exchange",
+        "data": {
+            "id": "la-item_type_detail-exchange",
+            "text": "兑换道具"
+        }
+    },
+    {
+        "id": "la-item_type_detail-facility",
+        "data": {
+            "id": "la-item_type_detail-facility",
+            "text": "乐园"
+        }
+    },
+    {
+        "id": "la-item_type_detail-gacha_ticket",
+        "data": {
+            "id": "la-item_type_detail-gacha_ticket",
+            "text": "扭蛋"
+        }
+    },
+    {
+        "id": "la-item_type_detail-gold",
+        "data": {
+            "id": "la-item_type_detail-gold",
+            "text": "Holo金币"
+        }
+    },
+    {
+        "id": "la-item_type_detail-live_auto_play",
+        "data": {
+            "id": "la-item_type_detail-live_auto_play",
+            "text": "演出"
+        }
+    },
+    {
+        "id": "la-item_type_detail-live_reward_up_stamina_recover",
+        "data": {
+            "id": "la-item_type_detail-live_reward_up_stamina_recover",
+            "text": "演出"
+        }
+    },
+    {
+        "id": "la-item_type_detail-mini_game_bet_coin",
+        "data": {
+            "id": "la-item_type_detail-mini_game_bet_coin",
+            "text": "迷你游戏"
+        }
+    },
+    {
+        "id": "la-item_type_detail-mini_game_reward_up_stamina_recover",
+        "data": {
+            "id": "la-item_type_detail-mini_game_reward_up_stamina_recover",
+            "text": "迷你游戏"
+        }
+    },
+    {
+        "id": "la-item_type_detail-music_release",
+        "data": {
+            "id": "la-item_type_detail-music_release",
+            "text": "乐曲"
+        }
+    },
+    {
+        "id": "la-item_type_detail-other",
+        "data": {
+            "id": "la-item_type_detail-other",
+            "text": "其他"
+        }
+    },
+    {
+        "id": "la-item_type_detail-park_character_quest",
+        "data": {
+            "id": "la-item_type_detail-park_character_quest",
+            "text": "Holo成员任务"
+        }
+    },
+    {
+        "id": "la-item_type_detail-quest_delivery",
+        "data": {
+            "id": "la-item_type_detail-quest_delivery",
+            "text": "任务"
+        }
+    },
+    {
+        "id": "la-item_type_detail-selectable_reward_box",
+        "data": {
+            "id": "la-item_type_detail-selectable_reward_box",
+            "text": "自选盒"
+        }
+    },
+    {
+        "id": "la-item_type_detail-skill_tree",
+        "data": {
+            "id": "la-item_type_detail-skill_tree",
+            "text": "Holo成员面板"
+        }
+    }
+]

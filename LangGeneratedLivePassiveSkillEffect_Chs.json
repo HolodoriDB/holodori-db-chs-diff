@@ -1,0 +1,1108 @@
+[
+    {
+        "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-300-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-300-live_skill_effect_target-all.1-description",
+            "text": "全体成员中所有参数提升30%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-100-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-100-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色表现力提升10%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-100-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-100-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色表现力提升10%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-140-live_skill_effect_target-attribute-attribute_1-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-140-live_skill_effect_target-attribute-attribute_1-3.1-description",
+            "text": "3名[attribute=cute]可爱类型[/attribute]角色表现力提升14%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-140-live_skill_effect_target-attribute-attribute_2-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-140-live_skill_effect_target-attribute-attribute_2-3.1-description",
+            "text": "3名[attribute=pure]纯洁类型[/attribute]角色表现力提升14%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-140-live_skill_effect_target-attribute-attribute_3-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-140-live_skill_effect_target-attribute-attribute_3-3.1-description",
+            "text": "3名[attribute=happy]快乐类型[/attribute]角色表现力提升14%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-70-live_skill_effect_target-attribute-attribute_1-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-70-live_skill_effect_target-attribute-attribute_1-3.1-description",
+            "text": "3名[attribute=cute]可爱类型[/attribute]角色表现力提升7%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-70-live_skill_effect_target-attribute-attribute_2-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-70-live_skill_effect_target-attribute-attribute_2-3.1-description",
+            "text": "3名[attribute=pure]纯洁类型[/attribute]角色表现力提升7%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-70-live_skill_effect_target-attribute-attribute_3-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-70-live_skill_effect_target-attribute-attribute_3-3.1-description",
+            "text": "3名[attribute=happy]快乐类型[/attribute]角色表现力提升7%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-100-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-100-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色品位提升10%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-100-live_skill_effect_target-attribute-attribute_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-100-live_skill_effect_target-attribute-attribute_3-2.1-description",
+            "text": "2名[attribute=happy]快乐类型[/attribute]角色品位提升10%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-140-live_skill_effect_target-attribute-attribute_1-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-140-live_skill_effect_target-attribute-attribute_1-3.1-description",
+            "text": "3名[attribute=cute]可爱类型[/attribute]角色品位提升14%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-140-live_skill_effect_target-attribute-attribute_2-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-140-live_skill_effect_target-attribute-attribute_2-3.1-description",
+            "text": "3名[attribute=pure]纯洁类型[/attribute]角色品位提升14%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-140-live_skill_effect_target-attribute-attribute_3-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-140-live_skill_effect_target-attribute-attribute_3-3.1-description",
+            "text": "3名[attribute=happy]快乐类型[/attribute]角色品位提升14%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-70-live_skill_effect_target-attribute-attribute_1-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-70-live_skill_effect_target-attribute-attribute_1-3.1-description",
+            "text": "3名[attribute=cute]可爱类型[/attribute]角色品位提升7%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-70-live_skill_effect_target-attribute-attribute_2-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-70-live_skill_effect_target-attribute-attribute_2-3.1-description",
+            "text": "3名[attribute=pure]纯洁类型[/attribute]角色品位提升7%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-70-live_skill_effect_target-attribute-attribute_3-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-70-live_skill_effect_target-attribute-attribute_3-3.1-description",
+            "text": "3名[attribute=happy]快乐类型[/attribute]角色品位提升7%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-100-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-100-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色技巧提升10%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-100-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-100-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色技巧提升10%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-100-live_skill_effect_target-attribute-attribute_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-100-live_skill_effect_target-attribute-attribute_3-2.1-description",
+            "text": "2名[attribute=happy]快乐类型[/attribute]角色技巧提升10%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-140-live_skill_effect_target-attribute-attribute_1-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-140-live_skill_effect_target-attribute-attribute_1-3.1-description",
+            "text": "3名[attribute=cute]可爱类型[/attribute]角色技巧提升14%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-140-live_skill_effect_target-attribute-attribute_2-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-140-live_skill_effect_target-attribute-attribute_2-3.1-description",
+            "text": "3名[attribute=pure]纯洁类型[/attribute]角色技巧提升14%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-140-live_skill_effect_target-attribute-attribute_3-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-140-live_skill_effect_target-attribute-attribute_3-3.1-description",
+            "text": "3名[attribute=happy]快乐类型[/attribute]角色技巧提升14%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-70-live_skill_effect_target-attribute-attribute_1-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-70-live_skill_effect_target-attribute-attribute_1-3.1-description",
+            "text": "3名[attribute=cute]可爱类型[/attribute]角色技巧提升7%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-70-live_skill_effect_target-attribute-attribute_2-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-70-live_skill_effect_target-attribute-attribute_2-3.1-description",
+            "text": "3名[attribute=pure]纯洁类型[/attribute]角色技巧提升7%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-70-live_skill_effect_target-attribute-attribute_3-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-70-live_skill_effect_target-attribute-attribute_3-3.1-description",
+            "text": "3名[attribute=happy]快乐类型[/attribute]角色技巧提升7%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-200-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-200-live_skill_effect_target-all.1-description",
+            "text": "全体成员中所有参数提升20%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-live_active_skill_effect_up_permil_up-250-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-live_active_skill_effect_up_permil_up-250-live_skill_effect_target-all.1-description",
+            "text": "全体成员中得分辅助效果25%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-110-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-110-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色得分辅助效果11%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-110-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-110-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色得分辅助效果11%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-110-live_skill_effect_target-attribute-attribute_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-110-live_skill_effect_target-attribute-attribute_3-2.1-description",
+            "text": "2名[attribute=happy]快乐类型[/attribute]角色得分辅助效果11%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-230-live_skill_effect_target-character_grouping-grp-gamers-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-230-live_skill_effect_target-character_grouping-grp-gamers-2.1-description",
+            "text": "令2名GAMERS的表现力提升23%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-230-live_skill_effect_target-character_grouping-grp-holox-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-230-live_skill_effect_target-character_grouping-grp-holox-2.1-description",
+            "text": "令2名holoX的表现力提升23%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gamers-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gamers-2.1-description",
+            "text": "令2名GAMERS的表现力提升34%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gen_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gen_1-2.1-description",
+            "text": "令2名1期生的表现力提升34%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-character_grouping-grp-holox-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-character_grouping-grp-holox-2.1-description",
+            "text": "令2名holoX的表现力提升34%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-450-live_skill_effect_target-character_grouping-grp-gen_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-450-live_skill_effect_target-character_grouping-grp-gen_1-2.1-description",
+            "text": "令2名1期生的表现力提升45%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-100-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-100-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色品位提升10%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-230-live_skill_effect_target-character_grouping-grp-advent-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-230-live_skill_effect_target-character_grouping-grp-advent-2.1-description",
+            "text": "令2名Advent的品位提升23%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-230-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-230-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-2.1-description",
+            "text": "令2名ID3期生的品位提升23%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-340-live_skill_effect_target-character_grouping-grp-advent-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-340-live_skill_effect_target-character_grouping-grp-advent-2.1-description",
+            "text": "令2名Advent的品位提升34%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-340-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-340-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-2.1-description",
+            "text": "令2名ID3期生的品位提升34%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-230-live_skill_effect_target-character_grouping-grp-gen_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-230-live_skill_effect_target-character_grouping-grp-gen_3-2.1-description",
+            "text": "令2名3期生的技巧提升23%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-230-live_skill_effect_target-character_grouping-grp-gen_5-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-230-live_skill_effect_target-character_grouping-grp-gen_5-2.1-description",
+            "text": "令2名5期生的技巧提升23%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gen_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gen_3-2.1-description",
+            "text": "令2名3期生的技巧提升34%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gen_5-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gen_5-2.1-description",
+            "text": "令2名5期生的技巧提升34%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-120-live_skill_effect_target-character_grouping-grp-gen_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-120-live_skill_effect_target-character_grouping-grp-gen_3-2.1-description",
+            "text": "令2名3期生的得分辅助效果12%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-120-live_skill_effect_target-character_grouping-grp-myth-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-120-live_skill_effect_target-character_grouping-grp-myth-2.1-description",
+            "text": "令2名Myth的得分辅助效果12%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-40-live_skill_effect_target-attribute-attribute_1-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-40-live_skill_effect_target-attribute-attribute_1-3.1-description",
+            "text": "3名[attribute=cute]可爱类型[/attribute]角色得分辅助效果4%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-40-live_skill_effect_target-attribute-attribute_2-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-40-live_skill_effect_target-attribute-attribute_2-3.1-description",
+            "text": "3名[attribute=pure]纯洁类型[/attribute]角色得分辅助效果4%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-40-live_skill_effect_target-attribute-attribute_3-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-40-live_skill_effect_target-attribute-attribute_3-3.1-description",
+            "text": "3名[attribute=happy]快乐类型[/attribute]角色得分辅助效果4%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-60-live_skill_effect_target-attribute-attribute_1-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-60-live_skill_effect_target-attribute-attribute_1-3.1-description",
+            "text": "3名[attribute=cute]可爱类型[/attribute]角色得分辅助效果6%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-60-live_skill_effect_target-attribute-attribute_2-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-60-live_skill_effect_target-attribute-attribute_2-3.1-description",
+            "text": "3名[attribute=pure]纯洁类型[/attribute]角色得分辅助效果6%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-60-live_skill_effect_target-attribute-attribute_3-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-60-live_skill_effect_target-attribute-attribute_3-3.1-description",
+            "text": "3名[attribute=happy]快乐类型[/attribute]角色得分辅助效果6%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-60-live_skill_effect_target-character_grouping-grp-advent-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-60-live_skill_effect_target-character_grouping-grp-advent-2.1-description",
+            "text": "令2名Advent的得分辅助效果6%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-60-live_skill_effect_target-character_grouping-grp-gen_4-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-60-live_skill_effect_target-character_grouping-grp-gen_4-2.1-description",
+            "text": "令2名4期生的得分辅助效果6%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-60-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-60-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2.1-description",
+            "text": "令2名ID1期生的得分辅助效果6%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-80-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-80-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色得分辅助效果8%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-80-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-80-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色得分辅助效果8%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-80-live_skill_effect_target-attribute-attribute_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-80-live_skill_effect_target-attribute-attribute_3-2.1-description",
+            "text": "2名[attribute=happy]快乐类型[/attribute]角色得分辅助效果8%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-90-live_skill_effect_target-character_grouping-grp-advent-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-90-live_skill_effect_target-character_grouping-grp-advent-2.1-description",
+            "text": "令2名Advent的得分辅助效果9%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-90-live_skill_effect_target-character_grouping-grp-gen_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-90-live_skill_effect_target-character_grouping-grp-gen_3-2.1-description",
+            "text": "令2名3期生的得分辅助效果9%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-90-live_skill_effect_target-character_grouping-grp-gen_4-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-90-live_skill_effect_target-character_grouping-grp-gen_4-2.1-description",
+            "text": "令2名4期生的得分辅助效果9%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-90-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-90-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2.1-description",
+            "text": "令2名ID1期生的得分辅助效果9%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-90-live_skill_effect_target-character_grouping-grp-myth-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-90-live_skill_effect_target-character_grouping-grp-myth-2.1-description",
+            "text": "令2名Myth的得分辅助效果9%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-live_active_skill_effect_up_permil_up-600-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-live_active_skill_effect_up_permil_up-600-live_skill_effect_target-all.1-description",
+            "text": "全体成员中得分辅助效果60%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-120-live_skill_effect_target-character_grouping-grp-gamers-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-120-live_skill_effect_target-character_grouping-grp-gamers-2.1-description",
+            "text": "令2名GAMERS的得分辅助效果12%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-90-live_skill_effect_target-character_grouping-grp-gamers-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-90-live_skill_effect_target-character_grouping-grp-gamers-2.1-description",
+            "text": "令2名GAMERS的得分辅助效果9%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-150-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-150-live_skill_effect_target-all.1-description",
+            "text": "全体成员中所有参数提升15%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-350-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-350-live_skill_effect_target-all.1-description",
+            "text": "全体成员中所有参数提升35%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-400-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-400-live_skill_effect_target-all.1-description",
+            "text": "全体成员中所有参数提升40%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-450-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-450-live_skill_effect_target-all.1-description",
+            "text": "全体成员中所有参数提升45%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-500-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-500-live_skill_effect_target-all.1-description",
+            "text": "全体成员中所有参数提升50%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-live_active_skill_effect_up_permil_up-500-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-live_active_skill_effect_up_permil_up-500-live_skill_effect_target-all.1-description",
+            "text": "全体成员中得分辅助效果50%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-performance_up_permil_up-1000-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-performance_up_permil_up-1000-live_skill_effect_target-all.1-description",
+            "text": "全体成员中表现力提升100%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-performance_up_permil_up-1200-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-performance_up_permil_up-1200-live_skill_effect_target-all.1-description",
+            "text": "全体成员中表现力提升120%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-performance_up_permil_up-1300-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-performance_up_permil_up-1300-live_skill_effect_target-all.1-description",
+            "text": "全体成员中表现力提升130%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-sense_up_permil_up-1000-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-sense_up_permil_up-1000-live_skill_effect_target-all.1-description",
+            "text": "全体成员中品位提升100%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-sense_up_permil_up-1200-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-sense_up_permil_up-1200-live_skill_effect_target-all.1-description",
+            "text": "全体成员中品位提升120%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-sense_up_permil_up-1300-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-sense_up_permil_up-1300-live_skill_effect_target-all.1-description",
+            "text": "全体成员中品位提升130%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-technique_up_permil_up-1000-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-technique_up_permil_up-1000-live_skill_effect_target-all.1-description",
+            "text": "全体成员中技巧提升100%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-technique_up_permil_up-1200-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-technique_up_permil_up-1200-live_skill_effect_target-all.1-description",
+            "text": "全体成员中技巧提升120%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-technique_up_permil_up-1300-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-technique_up_permil_up-1300-live_skill_effect_target-all.1-description",
+            "text": "全体成员中技巧提升130%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-160-live_skill_effect_target-self.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-160-live_skill_effect_target-self.1-description",
+            "text": "自身的所有参数提升16%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-170-live_skill_effect_target-self.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-170-live_skill_effect_target-self.1-description",
+            "text": "自身的所有参数提升17%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-240-live_skill_effect_target-self.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-240-live_skill_effect_target-self.1-description",
+            "text": "自身的所有参数提升24%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-250-live_skill_effect_target-self.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-250-live_skill_effect_target-self.1-description",
+            "text": "自身的所有参数提升25%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-320-live_skill_effect_target-self.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-320-live_skill_effect_target-self.1-description",
+            "text": "自身的所有参数提升32%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-330-live_skill_effect_target-self.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-330-live_skill_effect_target-self.1-description",
+            "text": "自身的所有参数提升33%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-80-live_skill_effect_target-self.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-80-live_skill_effect_target-self.1-description",
+            "text": "自身的所有参数提升8%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-200-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-200-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色表现力提升20%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-200-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-200-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色表现力提升20%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-200-live_skill_effect_target-attribute-attribute_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-200-live_skill_effect_target-attribute-attribute_3-2.1-description",
+            "text": "2名[attribute=happy]快乐类型[/attribute]角色表现力提升20%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-210-live_skill_effect_target-attribute-attribute_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-210-live_skill_effect_target-attribute-attribute_3-2.1-description",
+            "text": "2名[attribute=happy]快乐类型[/attribute]角色表现力提升21%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-230-live_skill_effect_target-character_grouping-grp-gen_0-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-230-live_skill_effect_target-character_grouping-grp-gen_0-2.1-description",
+            "text": "令2名0期生的表现力提升23%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-300-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-300-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色表现力提升30%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-300-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-300-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色表现力提升30%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-300-live_skill_effect_target-attribute-attribute_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-300-live_skill_effect_target-attribute-attribute_3-2.1-description",
+            "text": "2名[attribute=happy]快乐类型[/attribute]角色表现力提升30%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-attribute-attribute_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-attribute-attribute_3-2.1-description",
+            "text": "2名[attribute=happy]快乐类型[/attribute]角色表现力提升32%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-character_grouping-grp-advent-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-character_grouping-grp-advent-2.1-description",
+            "text": "令2名Advent的表现力提升32%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-character_grouping-grp-gen_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-character_grouping-grp-gen_1-2.1-description",
+            "text": "令2名1期生的表现力提升32%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-character_grouping-grp-gen_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-character_grouping-grp-gen_3-2.1-description",
+            "text": "令2名3期生的表现力提升32%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gen_0-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gen_0-2.1-description",
+            "text": "令2名0期生的表现力提升34%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gen_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gen_2-2.1-description",
+            "text": "令2名2期生的表现力提升34%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-character_grouping-grp-regloss-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-character_grouping-grp-regloss-2.1-description",
+            "text": "令2名ReGLOSS的表现力提升34%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-410-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-410-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色表现力提升41%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-410-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-410-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色表现力提升41%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-attribute-attribute_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-attribute-attribute_3-2.1-description",
+            "text": "2名[attribute=happy]快乐类型[/attribute]角色表现力提升43%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-character_grouping-grp-advent-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-character_grouping-grp-advent-2.1-description",
+            "text": "令2名Advent的表现力提升43%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gen_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gen_1-2.1-description",
+            "text": "令2名1期生的表现力提升43%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gen_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gen_3-2.1-description",
+            "text": "令2名3期生的表现力提升43%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-450-live_skill_effect_target-character_grouping-grp-gen_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-450-live_skill_effect_target-character_grouping-grp-gen_2-2.1-description",
+            "text": "令2名2期生的表现力提升45%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-450-live_skill_effect_target-character_grouping-grp-regloss-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-450-live_skill_effect_target-character_grouping-grp-regloss-2.1-description",
+            "text": "令2名ReGLOSS的表现力提升45%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-200-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-200-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色品位提升20%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-200-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-200-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色品位提升20%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-200-live_skill_effect_target-attribute-attribute_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-200-live_skill_effect_target-attribute-attribute_3-2.1-description",
+            "text": "2名[attribute=happy]快乐类型[/attribute]角色品位提升20%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-210-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-210-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色品位提升21%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-210-live_skill_effect_target-attribute-attribute_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-210-live_skill_effect_target-attribute-attribute_3-2.1-description",
+            "text": "2名[attribute=happy]快乐类型[/attribute]角色品位提升21%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-230-live_skill_effect_target-character_grouping-grp-indonesia-gen_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-230-live_skill_effect_target-character_grouping-grp-indonesia-gen_2-2.1-description",
+            "text": "令2名ID2期生的品位提升23%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-230-live_skill_effect_target-character_grouping-grp-myth-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-230-live_skill_effect_target-character_grouping-grp-myth-2.1-description",
+            "text": "令2名Myth的品位提升23%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-300-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-300-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色品位提升30%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-300-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-300-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色品位提升30%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-300-live_skill_effect_target-attribute-attribute_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-300-live_skill_effect_target-attribute-attribute_3-2.1-description",
+            "text": "2名[attribute=happy]快乐类型[/attribute]角色品位提升30%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色品位提升32%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色品位提升32%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-attribute-attribute_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-attribute-attribute_3-2.1-description",
+            "text": "2名[attribute=happy]快乐类型[/attribute]角色品位提升32%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-character_grouping-grp-gen_0-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-character_grouping-grp-gen_0-2.1-description",
+            "text": "令2名0期生的品位提升32%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-character_grouping-grp-gen_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-character_grouping-grp-gen_1-2.1-description",
+            "text": "令2名1期生的品位提升32%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-character_grouping-grp-regloss-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-character_grouping-grp-regloss-2.1-description",
+            "text": "令2名ReGLOSS的品位提升32%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gen_4-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gen_4-2.1-description",
+            "text": "令2名4期生的品位提升34%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-340-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-340-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2.1-description",
+            "text": "令2名ID1期生的品位提升34%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-340-live_skill_effect_target-character_grouping-grp-indonesia-gen_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-340-live_skill_effect_target-character_grouping-grp-indonesia-gen_2-2.1-description",
+            "text": "令2名ID2期生的品位提升34%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-340-live_skill_effect_target-character_grouping-grp-myth-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-340-live_skill_effect_target-character_grouping-grp-myth-2.1-description",
+            "text": "令2名Myth的品位提升34%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-410-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-410-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色品位提升41%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-430-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-430-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色品位提升43%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gen_0-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gen_0-2.1-description",
+            "text": "令2名0期生的品位提升43%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gen_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gen_1-2.1-description",
+            "text": "令2名1期生的品位提升43%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-430-live_skill_effect_target-character_grouping-grp-regloss-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-430-live_skill_effect_target-character_grouping-grp-regloss-2.1-description",
+            "text": "令2名ReGLOSS的品位提升43%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-450-live_skill_effect_target-character_grouping-grp-gen_4-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-450-live_skill_effect_target-character_grouping-grp-gen_4-2.1-description",
+            "text": "令2名4期生的品位提升45%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-450-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-450-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2.1-description",
+            "text": "令2名ID1期生的品位提升45%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-200-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-200-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色技巧提升20%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-200-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-200-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色技巧提升20%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-200-live_skill_effect_target-attribute-attribute_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-200-live_skill_effect_target-attribute-attribute_3-2.1-description",
+            "text": "2名[attribute=happy]快乐类型[/attribute]角色技巧提升20%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-210-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-210-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色技巧提升21%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-210-live_skill_effect_target-character_grouping-grp-promise-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-210-live_skill_effect_target-character_grouping-grp-promise-2.1-description",
+            "text": "令2名Promise的技巧提升21%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-230-live_skill_effect_target-character_grouping-grp-regloss-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-230-live_skill_effect_target-character_grouping-grp-regloss-2.1-description",
+            "text": "令2名ReGLOSS的技巧提升23%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-300-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-300-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色技巧提升30%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-300-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-300-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色技巧提升30%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-300-live_skill_effect_target-attribute-attribute_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-300-live_skill_effect_target-attribute-attribute_3-2.1-description",
+            "text": "2名[attribute=happy]快乐类型[/attribute]角色技巧提升30%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-320-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-320-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色技巧提升32%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-320-live_skill_effect_target-character_grouping-grp-gen_4-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-320-live_skill_effect_target-character_grouping-grp-gen_4-2.1-description",
+            "text": "令2名4期生的技巧提升32%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-320-live_skill_effect_target-character_grouping-grp-promise-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-320-live_skill_effect_target-character_grouping-grp-promise-2.1-description",
+            "text": "令2名Promise的技巧提升32%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-340-live_skill_effect_target-character_grouping-grp-regloss-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-340-live_skill_effect_target-character_grouping-grp-regloss-2.1-description",
+            "text": "令2名ReGLOSS的技巧提升34%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-410-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-410-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色技巧提升41%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-410-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-410-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色技巧提升41%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-410-live_skill_effect_target-attribute-attribute_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-410-live_skill_effect_target-attribute-attribute_3-2.1-description",
+            "text": "2名[attribute=happy]快乐类型[/attribute]角色技巧提升41%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gen_4-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gen_4-2.1-description",
+            "text": "令2名4期生的技巧提升43%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-430-live_skill_effect_target-character_grouping-grp-promise-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-430-live_skill_effect_target-character_grouping-grp-promise-2.1-description",
+            "text": "令2名Promise的技巧提升43%"
+        }
+    }
+]

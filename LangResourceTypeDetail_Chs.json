@@ -1,0 +1,345 @@
+[
+    {
+        "id": "la-resource_type_detail-appealtext",
+        "data": {
+            "id": "la-resource_type_detail-appealtext",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-card-description",
+        "data": {
+            "id": "la-resource_type_detail-card-description",
+            "text": "可以编入演出阵容的成员。"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-card-name",
+        "data": {
+            "id": "la-resource_type_detail-card-name",
+            "text": "成员"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-character-description",
+        "data": {
+            "id": "la-resource_type_detail-character-description",
+            "text": "可以操作的holo成员。"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-character-name",
+        "data": {
+            "id": "la-resource_type_detail-character-name",
+            "text": "holo成员"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-costume-description",
+        "data": {
+            "id": "la-resource_type_detail-costume-description",
+            "text": "可供holo成员穿着的服装。"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-costume-name",
+        "data": {
+            "id": "la-resource_type_detail-costume-name",
+            "text": "演出服装"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-custom_palette_decoration-description",
+        "data": {
+            "id": "la-resource_type_detail-custom_palette_decoration-description",
+            "text": "可以在定制个人资料卡里设置的装饰素材。"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-custom_palette_decoration-name",
+        "data": {
+            "id": "la-resource_type_detail-custom_palette_decoration-name",
+            "text": "自定义组件"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-emblem-description",
+        "data": {
+            "id": "la-resource_type_detail-emblem-description",
+            "text": "可以展示在个人资料里的称号。"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-emblem-name",
+        "data": {
+            "id": "la-resource_type_detail-emblem-name",
+            "text": "称号"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-fan_mark-description",
+        "data": {
+            "id": "la-resource_type_detail-fan_mark-description",
+            "text": "加入会员后即可使用的粉丝徽记。"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-fan_mark-name",
+        "data": {
+            "id": "la-resource_type_detail-fan_mark-name",
+            "text": "粉丝徽记"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-gacha_point-description",
+        "data": {
+            "id": "la-resource_type_detail-gacha_point-description",
+            "text": "可通过扭蛋获得的点数。"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-gacha_point-name",
+        "data": {
+            "id": "la-resource_type_detail-gacha_point-name",
+            "text": "扭蛋Pt"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-item-description",
+        "data": {
+            "id": "la-resource_type_detail-item-description",
+            "text": "各式各样的道具。"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-item-name",
+        "data": {
+            "id": "la-resource_type_detail-item-name",
+            "text": "道具"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-live_skin-description",
+        "data": {
+            "id": "la-resource_type_detail-live_skin-description",
+            "text": "演出皮肤，可用于更改演出外观。"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-live_skin-name",
+        "data": {
+            "id": "la-resource_type_detail-live_skin-name",
+            "text": "演出外观"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-mission_pass_point-description",
+        "data": {
+            "id": "la-resource_type_detail-mission_pass_point-description",
+            "text": "用于推进任务通行证完成度的Pt。"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-mission_pass_point-name",
+        "data": {
+            "id": "la-resource_type_detail-mission_pass_point-name",
+            "text": "任务通行证Pt"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-music-description",
+        "data": {
+            "id": "la-resource_type_detail-music-description",
+            "text": "可以在演出中游玩的乐曲。"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-music-name",
+        "data": {
+            "id": "la-resource_type_detail-music-name",
+            "text": "乐曲"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-park_accessory-description",
+        "data": {
+            "id": "la-resource_type_detail-park_accessory-description",
+            "text": "供holo成员在乐园中手持的道具。"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-park_accessory-name",
+        "data": {
+            "id": "la-resource_type_detail-park_accessory-name",
+            "text": "Holo成员道具"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-park_emotion-description",
+        "data": {
+            "id": "la-resource_type_detail-park_emotion-description",
+            "text": "可用于乐园内部或迷你游戏的表情。"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-park_emotion-name",
+        "data": {
+            "id": "la-resource_type_detail-park_emotion-name",
+            "text": "乐园表情"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-player_exp-description",
+        "data": {
+            "id": "la-resource_type_detail-player_exp-description",
+            "text": "提升玩家等级所必需的道具。"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-player_exp-name",
+        "data": {
+            "id": "la-resource_type_detail-player_exp-name",
+            "text": "梦幻Exp"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-poster-description",
+        "data": {
+            "id": "la-resource_type_detail-poster-description",
+            "text": "可以设置在乐园回忆展台的回忆卡。"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-poster-name",
+        "data": {
+            "id": "la-resource_type_detail-poster-name",
+            "text": "回忆卡"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-premium_mission_pass-description",
+        "data": {
+            "id": "la-resource_type_detail-premium_mission_pass-description",
+            "text": "可以在商店中购买的任务通行证。"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-premium_mission_pass-name",
+        "data": {
+            "id": "la-resource_type_detail-premium_mission_pass-name",
+            "text": "高级任务通行证"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-sd_costume-description",
+        "data": {
+            "id": "la-resource_type_detail-sd_costume-description",
+            "text": "可在乐园内部或迷你游戏中穿着的衣服。"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-sd_costume-name",
+        "data": {
+            "id": "la-resource_type_detail-sd_costume-name",
+            "text": "乐园服装"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-sd_costume_hair_accessory-description",
+        "data": {
+            "id": "la-resource_type_detail-sd_costume_hair_accessory-description",
+            "text": "可在乐园内部或迷你游戏中佩戴的头饰。"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-sd_costume_hair_accessory-name",
+        "data": {
+            "id": "la-resource_type_detail-sd_costume_hair_accessory-name",
+            "text": "头饰"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-set-description",
+        "data": {
+            "id": "la-resource_type_detail-set-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-set-name",
+        "data": {
+            "id": "la-resource_type_detail-set-name",
+            "text": "套装"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-skill_tree_point-description",
+        "data": {
+            "id": "la-resource_type_detail-skill_tree_point-description",
+            "text": "可用于解锁Holo成员面板"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-skill_tree_point-name",
+        "data": {
+            "id": "la-resource_type_detail-skill_tree_point-name",
+            "text": "Holo成员面板Pt"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-stamp-description",
+        "data": {
+            "id": "la-resource_type_detail-stamp-description",
+            "text": "可以在多人游戏等期间使用的贴图。"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-stamp-name",
+        "data": {
+            "id": "la-resource_type_detail-stamp-name",
+            "text": "贴图"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-stone_paid_only-description",
+        "data": {
+            "id": "la-resource_type_detail-stone_paid_only-description",
+            "text": "可用于抽取扭蛋或购买道具。"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-stone_paid_only-name",
+        "data": {
+            "id": "la-resource_type_detail-stone_paid_only-name",
+            "text": "蓝色钻石"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-stone_total-description",
+        "data": {
+            "id": "la-resource_type_detail-stone_total-description",
+            "text": "可用于抽取扭蛋或购买道具。"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-stone_total-name",
+        "data": {
+            "id": "la-resource_type_detail-stone_total-name",
+            "text": "红色钻石"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-wallpaper-description",
+        "data": {
+            "id": "la-resource_type_detail-wallpaper-description",
+            "text": "可用于电玩巨蛋城的闪亮大头贴。"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-wallpaper-name",
+        "data": {
+            "id": "la-resource_type_detail-wallpaper-name",
+            "text": "背景壁纸"
+        }
+    }
+]

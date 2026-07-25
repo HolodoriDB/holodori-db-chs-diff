@@ -1,0 +1,72 @@
+[
+    {
+        "id": "la-effect-filter-category-all-parameter-up",
+        "data": {
+            "id": "la-effect-filter-category-all-parameter-up",
+            "text": "所有参数数值UP"
+        }
+    },
+    {
+        "id": "la-effect-filter-category-judgement-enhance",
+        "data": {
+            "id": "la-effect-filter-category-judgement-enhance",
+            "text": "判定强化"
+        }
+    },
+    {
+        "id": "la-effect-filter-category-life-recovery",
+        "data": {
+            "id": "la-effect-filter-category-life-recovery",
+            "text": "恢复生命值"
+        }
+    },
+    {
+        "id": "la-effect-filter-category-performance-up",
+        "data": {
+            "id": "la-effect-filter-category-performance-up",
+            "text": "表现力UP"
+        }
+    },
+    {
+        "id": "la-effect-filter-category-score-up",
+        "data": {
+            "id": "la-effect-filter-category-score-up",
+            "text": "分数UP"
+        }
+    },
+    {
+        "id": "la-effect-filter-category-score-up-effect-up",
+        "data": {
+            "id": "la-effect-filter-category-score-up-effect-up",
+            "text": "得分辅助"
+        }
+    },
+    {
+        "id": "la-effect-filter-category-sense-up",
+        "data": {
+            "id": "la-effect-filter-category-sense-up",
+            "text": "品位UP"
+        }
+    },
+    {
+        "id": "la-effect-filter-category-skill-activation-probability-up",
+        "data": {
+            "id": "la-effect-filter-category-skill-activation-probability-up",
+            "text": "技能发动概率UP"
+        }
+    },
+    {
+        "id": "la-effect-filter-category-skill-effect-up",
+        "data": {
+            "id": "la-effect-filter-category-skill-effect-up",
+            "text": "得分辅助"
+        }
+    },
+    {
+        "id": "la-effect-filter-category-technique-up",
+        "data": {
+            "id": "la-effect-filter-category-technique-up",
+            "text": "技巧UP"
+        }
+    }
+]

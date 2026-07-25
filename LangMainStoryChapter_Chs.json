@@ -1,0 +1,30 @@
+[
+    {
+        "id": "la-main_story_chapter_area-a01",
+        "data": {
+            "id": "la-main_story_chapter_area-a01",
+            "text": "第一章"
+        }
+    },
+    {
+        "id": "la-main_story_chapter_area-a02",
+        "data": {
+            "id": "la-main_story_chapter_area-a02",
+            "text": "第二章"
+        }
+    },
+    {
+        "id": "la-main_story_chapter_sub_title_area-a01",
+        "data": {
+            "id": "la-main_story_chapter_sub_title_area-a01",
+            "text": "第一章 Circle of Dreams"
+        }
+    },
+    {
+        "id": "la-main_story_chapter_sub_title_area-a02",
+        "data": {
+            "id": "la-main_story_chapter_sub_title_area-a02",
+            "text": "第二章 Into the Mega Fun"
+        }
+    }
+]

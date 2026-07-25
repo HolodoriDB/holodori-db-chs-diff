@@ -1,0 +1,380 @@
+[
+    {
+        "id": "la-character_story-chr-00001-001",
+        "data": {
+            "id": "la-character_story-chr-00001-001",
+            "text": "虚拟偶像之路"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00002-001",
+        "data": {
+            "id": "la-character_story-chr-00002-001",
+            "text": "天然悠哉的高性能？机器人"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00004-001",
+        "data": {
+            "id": "la-character_story-chr-00004-001",
+            "text": "调皮的治愈系半精灵"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00005-001",
+        "data": {
+            "id": "la-character_story-chr-00005-001",
+            "text": "怦怦心动☆心心厨房"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00006-001",
+        "data": {
+            "id": "la-character_story-chr-00006-001",
+            "text": "强强好狐～！"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00007-001",
+        "data": {
+            "id": "la-character_story-chr-00007-001",
+            "text": "清纯又有小心机的超级偶像☆"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00010-001",
+        "data": {
+            "id": "la-character_story-chr-00010-001",
+            "text": "羞涩又可爱余的悠闲鬼女"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00011-001",
+        "data": {
+            "id": "la-character_story-chr-00011-001",
+            "text": "随叫随到恶魔的小小野餐"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00012-001",
+        "data": {
+            "id": "la-character_story-chr-00012-001",
+            "text": "活力四射的太阳少女！"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00013-001",
+        "data": {
+            "id": "la-character_story-chr-00013-001",
+            "text": "寻找新的景色"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00014-001",
+        "data": {
+            "id": "la-character_story-chr-00014-001",
+            "text": "爱照顾人的兽耳的包容力♪"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00015-001",
+        "data": {
+            "id": "la-character_story-chr-00015-001",
+            "text": "精英＆菁樱"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00016-001",
+        "data": {
+            "id": "la-character_story-chr-00016-001",
+            "text": "爱意满分♡迷人猫咪的幸福拥抱"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00017-001",
+        "data": {
+            "id": "la-character_story-chr-00017-001",
+            "text": "自由小狗的舞蹈课程☆"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00018-001",
+        "data": {
+            "id": "la-character_story-chr-00018-001",
+            "text": "天真无邪的歌姬"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00019-001",
+        "data": {
+            "id": "la-character_story-chr-00019-001",
+            "text": "得意兔子的混乱一天"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00021-001",
+        "data": {
+            "id": "la-character_story-chr-00021-001",
+            "text": "擅长照顾人的半精灵"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00022-001",
+        "data": {
+            "id": "la-character_story-chr-00022-001",
+            "text": "给大家送去治愈肌肉♪"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00023-001",
+        "data": {
+            "id": "la-character_story-chr-00023-001",
+            "text": "喜欢喜欢♡ 魅惑的妩媚船长"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00026-001",
+        "data": {
+            "id": "la-character_story-chr-00026-001",
+            "text": "悠悠闲闲的应该没有错吧～？"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00027-001",
+        "data": {
+            "id": "la-character_story-chr-00027-001",
+            "text": "这就是恶魔的行为！炸裂·TMT"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00028-001",
+        "data": {
+            "id": "la-character_story-chr-00028-001",
+            "text": "擅长撒娇的软绵绵小公主"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00030-001",
+        "data": {
+            "id": "la-character_story-chr-00030-001",
+            "text": "爱撒娇的吐槽役大小姐"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00031-001",
+        "data": {
+            "id": "la-character_story-chr-00031-001",
+            "text": "大家心灵的能量饮料！"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00032-001",
+        "data": {
+            "id": "la-character_story-chr-00032-001",
+            "text": "总是很可靠的♪LaLion"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00034-001",
+        "data": {
+            "id": "la-character_story-chr-00034-001",
+            "text": "全身心投入的表演者！！"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00035-001",
+        "data": {
+            "id": "la-character_story-chr-00035-001",
+            "text": "任性小屁孩☆吾辈可是总帅！"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00036-001",
+        "data": {
+            "id": "la-character_story-chr-00036-001",
+            "text": "靠谱干部的盛情招待"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00037-001",
+        "data": {
+            "id": "la-character_story-chr-00037-001",
+            "text": "条理清晰？holoX的大脑～！"
+        }
+    },
+    {
+        "id": "la-character_story-chr-00039-001",
+        "data": {
+            "id": "la-character_story-chr-00039-001",
+            "text": "强强武士？慌慌张张的保镖"
+        }
+    },
+    {
+        "id": "la-character_story-chr-03001-001",
+        "data": {
+            "id": "la-character_story-chr-03001-001",
+            "text": "MALAS! 恶作剧松鼠登场"
+        }
+    },
+    {
+        "id": "la-character_story-chr-03002-001",
+        "data": {
+            "id": "la-character_story-chr-03002-001",
+            "text": "羞涩又奔放的月之女神"
+        }
+    },
+    {
+        "id": "la-character_story-chr-03003-001",
+        "data": {
+            "id": "la-character_story-chr-03003-001",
+            "text": "可爱的外星人"
+        }
+    },
+    {
+        "id": "la-character_story-chr-03004-001",
+        "data": {
+            "id": "la-character_story-chr-03004-001",
+            "text": "情绪高涨的僵尸大冒险"
+        }
+    },
+    {
+        "id": "la-character_story-chr-03005-001",
+        "data": {
+            "id": "la-character_story-chr-03005-001",
+            "text": "沉着冷静头脑精明的古代武器"
+        }
+    },
+    {
+        "id": "la-character_story-chr-03006-001",
+        "data": {
+            "id": "la-character_story-chr-03006-001",
+            "text": "孔雀大小姐愉快又优雅的一天"
+        }
+    },
+    {
+        "id": "la-character_story-chr-03007-001",
+        "data": {
+            "id": "la-character_story-chr-03007-001",
+            "text": "可爱女孩，嘴巴坏坏"
+        }
+    },
+    {
+        "id": "la-character_story-chr-03008-001",
+        "data": {
+            "id": "la-character_story-chr-03008-001",
+            "text": "强壮帅气的铁匠的一天"
+        }
+    },
+    {
+        "id": "la-character_story-chr-03009-001",
+        "data": {
+            "id": "la-character_story-chr-03009-001",
+            "text": "Shine Your Day!"
+        }
+    },
+    {
+        "id": "la-character_story-chr-04001-001",
+        "data": {
+            "id": "la-character_story-chr-04001-001",
+            "text": "调皮又温柔的死神"
+        }
+    },
+    {
+        "id": "la-character_story-chr-04002-001",
+        "data": {
+            "id": "la-character_story-chr-04002-001",
+            "text": "今天也要精神百倍，Kikkeriki!"
+        }
+    },
+    {
+        "id": "la-character_story-chr-04003-001",
+        "data": {
+            "id": "la-character_story-chr-04003-001",
+            "text": "羞涩女孩的奋斗"
+        }
+    },
+    {
+        "id": "la-character_story-chr-04007-001",
+        "data": {
+            "id": "la-character_story-chr-04007-001",
+            "text": "HiRyS!　淘气的拿非利"
+        }
+    },
+    {
+        "id": "la-character_story-chr-04010-001",
+        "data": {
+            "id": "la-character_story-chr-04010-001",
+            "text": "不是笑星！完美无瑕的时间典狱长"
+        }
+    },
+    {
+        "id": "la-character_story-chr-04012-001",
+        "data": {
+            "id": "la-character_story-chr-04012-001",
+            "text": "可爱满分的混沌旅途☆"
+        }
+    },
+    {
+        "id": "la-character_story-chr-04013-001",
+        "data": {
+            "id": "la-character_story-chr-04013-001",
+            "text": "愉快收藏家的奇特失物"
+        }
+    },
+    {
+        "id": "la-character_story-chr-04014-001",
+        "data": {
+            "id": "la-character_story-chr-04014-001",
+            "text": "调皮宝石的闪亮微笑"
+        }
+    },
+    {
+        "id": "la-character_story-chr-04015-001",
+        "data": {
+            "id": "la-character_story-chr-04015-001",
+            "text": "充满爱意♪性感的音之恶魔"
+        }
+    },
+    {
+        "id": "la-character_story-chr-04016-001",
+        "data": {
+            "id": "la-character_story-chr-04016-001",
+            "text": "包容力满分♪软软小狗"
+        }
+    },
+    {
+        "id": "la-character_story-chr-04017-001",
+        "data": {
+            "id": "la-character_story-chr-04017-001",
+            "text": "可爱又讨喜♪茸茸小狗"
+        }
+    },
+    {
+        "id": "la-character_story-chr-06002-001",
+        "data": {
+            "id": "la-character_story-chr-06002-001",
+            "text": "淘气又可爱的未来音乐家"
+        }
+    },
+    {
+        "id": "la-character_story-chr-06003-001",
+        "data": {
+            "id": "la-character_story-chr-06003-001",
+            "text": "Genius！女社长的极限饭☆"
+        }
+    },
+    {
+        "id": "la-character_story-chr-06004-001",
+        "data": {
+            "id": "la-character_story-chr-06004-001",
+            "text": "不走寻常路却又脚踏实地的艺术女孩"
+        }
+    },
+    {
+        "id": "la-character_story-chr-06005-001",
+        "data": {
+            "id": "la-character_story-chr-06005-001",
+            "text": "参上！ReGLOSS的番长"
+        }
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "id": "la-chr_history-achievement-10",
+        "data": {
+            "id": "la-chr_history-achievement-10",
+            "text": "达成{1}项成就"
+        }
+    },
+    {
+        "id": "la-chr_history-birthday-0",
+        "data": {
+            "id": "la-chr_history-birthday-0",
+            "text": "{0}生日"
+        }
+    },
+    {
+        "id": "la-chr_history-character_get_duration_months-1",
+        "data": {
+            "id": "la-chr_history-character_get_duration_months-1",
+            "text": "相遇后已经过{0}个月"
+        }
+    },
+    {
+        "id": "la-chr_history-character_get_duration_months-6",
+        "data": {
+            "id": "la-chr_history-character_get_duration_months-6",
+            "text": "相遇后已经过{0}个月"
+        }
+    },
+    {
+        "id": "la-chr_history-character_get_duration_years-1",
+        "data": {
+            "id": "la-chr_history-character_get_duration_years-1",
+            "text": "相遇后已经过{0}年"
+        }
+    },
+    {
+        "id": "la-chr_history-character_level-1",
+        "data": {
+            "id": "la-chr_history-character_level-1",
+            "text": "达成Holo成员Rank{0}！"
+        }
+    },
+    {
+        "id": "la-chr_history-live_play_count-100",
+        "data": {
+            "id": "la-chr_history-live_play_count-100",
+            "text": "演出累计游玩次数达成{1}次"
+        }
+    },
+    {
+        "id": "la-chr_history-membership_duration_months-1",
+        "data": {
+            "id": "la-chr_history-membership_duration_months-1",
+            "text": "加入会员满{0}个月"
+        }
+    },
+    {
+        "id": "la-chr_history-mini_game_play_count-100",
+        "data": {
+            "id": "la-chr_history-mini_game_play_count-100",
+            "text": "迷你游戏累计游玩次数达成{1}次"
+        }
+    },
+    {
+        "id": "la-chr_history-park_costume_get-0",
+        "data": {
+            "id": "la-chr_history-park_costume_get-0",
+            "text": "获得演出服装{0}"
+        }
+    },
+    {
+        "id": "la-chr_history-score_rank",
+        "data": {
+            "id": "la-chr_history-score_rank",
+            "text": "小队总分达成Rank{1}"
+        }
+    },
+    {
+        "id": "la-chr_history-sd_costume_get-0",
+        "data": {
+            "id": "la-chr_history-sd_costume_get-0",
+            "text": "获得乐园服装{0}"
+        }
+    },
+    {
+        "id": "la-chr_history-ssr_card_get-0",
+        "data": {
+            "id": "la-chr_history-ssr_card_get-0",
+            "text": "获得成员 {0}"
+        }
+    }
+]

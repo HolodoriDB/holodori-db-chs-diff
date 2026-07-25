@@ -1,0 +1,569 @@
+[
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00001.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00001.1-description",
+            "text": "歌手中包含时乃空时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00002.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00002.1-description",
+            "text": "歌手中包含萝卜子时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00004.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00004.1-description",
+            "text": "歌手中包含亚绮·罗森塔尔时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00005.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00005.1-description",
+            "text": "歌手中包含赤井心时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00006.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00006.1-description",
+            "text": "歌手中包含白上吹雪时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00007.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00007.1-description",
+            "text": "歌手中包含夏色祭时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00009.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00009.1-description",
+            "text": "歌手中包含紫咲诗音时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00010.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00010.1-description",
+            "text": "歌手中包含百鬼绫目时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00011.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00011.1-description",
+            "text": "歌手中包含癒月巧可时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00012.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00012.1-description",
+            "text": "歌手中包含大空昴时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00013.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00013.1-description",
+            "text": "歌手中包含AZKi时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00014.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00014.1-description",
+            "text": "歌手中包含大神澪时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00015.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00015.1-description",
+            "text": "歌手中包含樱巫女时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00016.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00016.1-description",
+            "text": "歌手中包含猫又小粥时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00017.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00017.1-description",
+            "text": "歌手中包含戌神沁音时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00018.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00018.1-description",
+            "text": "歌手中包含星街彗星时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00019.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00019.1-description",
+            "text": "歌手中包含兔田佩克拉时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00021.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00021.1-description",
+            "text": "歌手中包含不知火芙蕾雅时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00022.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00022.1-description",
+            "text": "歌手中包含白银诺艾尔时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00023.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00023.1-description",
+            "text": "歌手中包含宝钟玛琳时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00024.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00024.1-description",
+            "text": "歌手中包含天音彼方时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00026.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00026.1-description",
+            "text": "歌手中包含角卷绵芽时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00027.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00027.1-description",
+            "text": "歌手中包含常暗永远时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00028.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00028.1-description",
+            "text": "歌手中包含姬森璐娜时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00030.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00030.1-description",
+            "text": "歌手中包含雪花菈米时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00031.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00031.1-description",
+            "text": "歌手中包含桃铃音音时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00032.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00032.1-description",
+            "text": "歌手中包含狮白牡丹时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00034.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00034.1-description",
+            "text": "歌手中包含尾丸波尔卡时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00035.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00035.1-description",
+            "text": "歌手中包含拉普拉斯·暗黑时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00036.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00036.1-description",
+            "text": "歌手中包含鹰岭琉依时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00037.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00037.1-description",
+            "text": "歌手中包含博衣小夜璃时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00038.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00038.1-description",
+            "text": "歌手中包含沙花叉克萝伊时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00039.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00039.1-description",
+            "text": "歌手中包含风真伊吕波时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03001.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03001.1-description",
+            "text": "歌手中包含Ayunda Risu时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03002.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03002.1-description",
+            "text": "歌手中包含Moona Hoshinova时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03003.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03003.1-description",
+            "text": "歌手中包含Airani Iofifteen时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03004.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03004.1-description",
+            "text": "歌手中包含Kureiji Ollie时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03005.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03005.1-description",
+            "text": "歌手中包含Anya Melfissa时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03006.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03006.1-description",
+            "text": "歌手中包含Pavolia Reine时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03007.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03007.1-description",
+            "text": "歌手中包含Vestia Zeta时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03008.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03008.1-description",
+            "text": "歌手中包含Kaela Kovalskia时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03009.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03009.1-description",
+            "text": "歌手中包含Kobo Kanaeru时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04001.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04001.1-description",
+            "text": "歌手中包含Mori Calliope时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04002.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04002.1-description",
+            "text": "歌手中包含Takanashi Kiara时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04003.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04003.1-description",
+            "text": "歌手中包含Ninomae Ina'nis时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04004.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04004.1-description",
+            "text": "歌手中包含Gawr Gura时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04007.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04007.1-description",
+            "text": "歌手中包含IRyS时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04009.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04009.1-description",
+            "text": "歌手中包含Ceres Fauna时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04010.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04010.1-description",
+            "text": "歌手中包含Ouro Kronii时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04011.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04011.1-description",
+            "text": "歌手中包含Nanashi Mumei时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04012.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04012.1-description",
+            "text": "歌手中包含Hakos Baelz时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04013.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04013.1-description",
+            "text": "歌手中包含Shiori Novella时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04014.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04014.1-description",
+            "text": "歌手中包含Koseki Bijou时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04015.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04015.1-description",
+            "text": "歌手中包含Nerissa Ravencroft时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04016.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04016.1-description",
+            "text": "歌手中包含Fuwawa Abyssgard时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04017.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04017.1-description",
+            "text": "歌手中包含Mococo Abyssgard时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-06001.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-06001.1-description",
+            "text": "歌手中包含火威青时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-06002.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-06002.1-description",
+            "text": "歌手中包含音乃濑奏时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-06003.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-06003.1-description",
+            "text": "歌手中包含一条莉莉华时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-06004.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-06004.1-description",
+            "text": "歌手中包含儒乌风亭螺钿时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-06005.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-06005.1-description",
+            "text": "歌手中包含轰一时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-advent.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-advent.1-description",
+            "text": "歌手中包含Advent时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-gamers.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-gamers.1-description",
+            "text": "歌手中包含GAMERS时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_0.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_0.1-description",
+            "text": "歌手中包含0期生时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_1.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_1.1-description",
+            "text": "歌手中包含1期生时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_2.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_2.1-description",
+            "text": "歌手中包含2期生时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_3.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_3.1-description",
+            "text": "歌手中包含3期生时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_4.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_4.1-description",
+            "text": "歌手中包含4期生时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_5.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_5.1-description",
+            "text": "歌手中包含5期生时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-holox.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-holox.1-description",
+            "text": "歌手中包含holoX时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-indonesia-gen_1.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-indonesia-gen_1.1-description",
+            "text": "歌手中包含ID1期生时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-indonesia-gen_2.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-indonesia-gen_2.1-description",
+            "text": "歌手中包含ID2期生时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-indonesia-gen_3.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-indonesia-gen_3.1-description",
+            "text": "歌手中包含ID3期生时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-indonesia.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-indonesia.1-description",
+            "text": "歌手中包含hololive ID时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-myth.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-myth.1-description",
+            "text": "歌手中包含Myth时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-promise.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-promise.1-description",
+            "text": "歌手中包含Promise时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-regloss.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-regloss.1-description",
+            "text": "歌手中包含ReGLOSS时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_skill_tree_character.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_skill_tree_character.1-description",
+            "text": "歌手中包含[character]时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all.1-description",
+            "text": "游玩全体乐曲时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group.1-description",
+            "text": "游玩歌手中包含[character]的小队乐曲时"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo.1-description",
+            "text": "游玩歌手为[character]的个人乐曲时"
+        }
+    }
+]

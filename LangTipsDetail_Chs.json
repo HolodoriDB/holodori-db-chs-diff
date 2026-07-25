@@ -1,0 +1,1780 @@
+[
+    {
+        "id": "la-tips-achievement-description-1",
+        "data": {
+            "id": "la-tips-achievement-description-1",
+            "text": "达成各种不同条件的成就后，即可获得奖励！\n\n奖励包括<color=#ff3bc8>Holo成员经验值、称号和红色钻石</color>等等！"
+        }
+    },
+    {
+        "id": "la-tips-card-upgrade-potential-description-1",
+        "data": {
+            "id": "la-tips-card-upgrade-potential-description-1",
+            "text": "让成员进行特训，就能<color=#ff3bc8>提升成员的等级上限</color>！\n\n特训所需的道具，可以通过演出或Holowork等途径获得！"
+        }
+    },
+    {
+        "id": "la-tips-character-quest-description-1",
+        "data": {
+            "id": "la-tips-character-quest-description-1",
+            "text": "只要在梦幻乐园内跟“今天能邂逅的Holo成员”对话，就能开始Holo成员任务了！\n\n每天会<color=#ff3bc8>随机选出2位可邂逅的Holo成员</color>！"
+        }
+    },
+    {
+        "id": "la-tips-character-quest-description-2",
+        "data": {
+            "id": "la-tips-character-quest-description-2",
+            "text": "可以使用<color=#ff3bc8>邀请函增加可邂逅的成员人数</color>！邀请函可通过主线任务等途径获得！\n\n还可以游玩你最初选择的Holo成员的成员任务哦！"
+        }
+    },
+    {
+        "id": "la-tips-character-quest-description-3",
+        "data": {
+            "id": "la-tips-character-quest-description-3",
+            "text": "完成Holo成员任务，就能<color=#ff3bc8>解锁对应的Holo成员和乐曲！</color>\n\n<color=#ff3bc8>以后就可以在梦幻乐园操作解锁的成员了！</color>"
+        }
+    },
+    {
+        "id": "la-tips-character-set-description-1",
+        "data": {
+            "id": "la-tips-character-set-description-1",
+            "text": "你可以随时更换想操作的holo成员！\n\n不过，对象仅限<color=#ff3bc8>通过Holo成员任务解锁的成员们</color>！"
+        }
+    },
+    {
+        "id": "la-tips-character-set-description-2",
+        "data": {
+            "id": "la-tips-character-set-description-2",
+            "text": "所有的holo成员都可以<color=#ff3bc8>更换服装、穿戴饰品</color>！\n\n服装可以通过扭蛋，饰品可以通过任务通行证等方式获得！"
+        }
+    },
+    {
+        "id": "la-tips-circuit-description-1",
+        "data": {
+            "id": "la-tips-circuit-description-1",
+            "text": "终极向前冲<color=#ff3bc8>可以随时在游戏区游玩</color>！"
+        }
+    },
+    {
+        "id": "la-tips-circuit-description-2",
+        "data": {
+            "id": "la-tips-circuit-description-2",
+            "text": "排行榜会记录<color=#ff3bc8>最佳用时</color>！\n\n注意：如果最佳用时相同，则提交成绩较早的玩家排名更靠前。"
+        }
+    },
+    {
+        "id": "la-tips-circuit-quest-description-1",
+        "data": {
+            "id": "la-tips-circuit-quest-description-1",
+            "text": "终极向前冲是<color=#ff3bc8>最多16人参与竞速的障碍赛跑</color>！\n努力躲避所有障碍，第一个到达终点吧！ "
+        }
+    },
+    {
+        "id": "la-tips-circuit-quest-description-2",
+        "data": {
+            "id": "la-tips-circuit-quest-description-2",
+            "text": "最终会<color=#ff3bc8>根据比赛排名发放奖励</color>！ \n\n努力拿到好名次，赢得奖励吧！"
+        }
+    },
+    {
+        "id": "la-tips-circuit-quest-description-3",
+        "data": {
+            "id": "la-tips-circuit-quest-description-3",
+            "text": "▼操作方法\nJump：<color=#ff3bc8>点击一下，holo成员就会跳起</color>\n\nDash：<color=#ff3bc8>点击一下，holo成员会维持冲刺状态一段时间</color>\n\n※一旦使用冲刺，在下次计量槽满之前将无法再次使用。"
+        }
+    },
+    {
+        "id": "la-tips-combo-card-game-description-1",
+        "data": {
+            "id": "la-tips-combo-card-game-description-1",
+            "text": "扑克屋！<color=#ff3bc8>可以随时在赌场区游玩</color>！"
+        }
+    },
+    {
+        "id": "la-tips-combo-card-game-description-2",
+        "data": {
+            "id": "la-tips-combo-card-game-description-2",
+            "text": "排行榜会记录<color=#ff3bc8>合计代币获得率</color>哦！\n\n系统会统计至今为止你在每场游戏中获得/失去的电玩巨蛋城代币总数，作为你的代币获得率！\n\n注：获得率会按照【每场游戏结束时持有的代币个数 - 1000】来计算。\n下注导致的代币数额波动，不会影响统计结果。\n另外，同分的情况下，提交成绩较早的玩家排名更靠前。"
+        }
+    },
+    {
+        "id": "la-tips-combo-card-game-quest-description-1",
+        "data": {
+            "id": "la-tips-combo-card-game-quest-description-1",
+            "text": "扑克屋！是4个人玩的卡牌游戏！\n\n每回合从牌堆抽牌，<color=#ff3bc8>用手里的牌凑出牌型</color>吧！\n\n游戏结束时<color=#ff3bc8>持有最多代币的玩家获胜</color>！"
+        }
+    },
+    {
+        "id": "la-tips-combo-card-game-quest-description-2",
+        "data": {
+            "id": "la-tips-combo-card-game-quest-description-2",
+            "text": "<color=#ff3bc8>收集3张同一成员，或者集齐某一团体，</color>牌型就会成立！\n\n牌型完成后，按下<color=#ff3bc8>“扑克屋！”按钮，从其他玩家手里赢取代币</color>吧！\n\n如果成立的牌型颜色全部相同还能加分，得到更多代币哦！"
+        }
+    },
+    {
+        "id": "la-tips-combo-card-game-quest-description-3",
+        "data": {
+            "id": "la-tips-combo-card-game-quest-description-3",
+            "text": "按下“扑克屋！”之后，还能再从牌堆抽取跟你凑到的牌型张数相同的牌哦！\n\n<color=#ff3bc8>如果补充手牌后又凑到了牌型，可以连续按下“扑克屋！”</color>呢！\n\n如果没有凑到牌型，就从手牌里挑选1张打到场上，结束自己的回合吧！"
+        }
+    },
+    {
+        "id": "la-tips-combo-card-game-quest-description-4",
+        "data": {
+            "id": "la-tips-combo-card-game-quest-description-4",
+            "text": "<color=#ff3bc8>其他玩家打到场上的牌，也可以拿来“扑克屋！”</color>哦！\n\n但假如多个人同时喊“扑克将！”，也只有凑到的牌型分数最高的人能拿到代币！\n\n如果同时有多个人凑到了得分最高的牌型，<color=#ff3bc8>那么按照顺时针顺序，由座位离被“扑克将！”玩家最近的玩家优先得分</color>！"
+        }
+    },
+    {
+        "id": "la-tips-combo-card-game-quest-description-5",
+        "data": {
+            "id": "la-tips-combo-card-game-quest-description-5",
+            "text": "<color=#ff3bc8>牌堆被抽完，或者谁的代币归零的时候，游戏就结束了</color>！\n\n最终会按照结束时每人持有的代币数量来排名！\n\n系统会根据排名和持有的代币个数来发放奖励！"
+        }
+    },
+    {
+        "id": "la-tips-cooking-puzzle-description-1",
+        "data": {
+            "id": "la-tips-cooking-puzzle-description-1",
+            "text": "拼配厨房<color=#ff3bc8>可以随时在满腹之旅游玩</color>！"
+        }
+    },
+    {
+        "id": "la-tips-cooking-puzzle-description-2",
+        "data": {
+            "id": "la-tips-cooking-puzzle-description-2",
+            "text": "拼配厨房一共分为<color=#ff3bc8>3种游戏模式</color>！\n\n▼模式\n・EASY：完成指定数量的菜品通关\n・NORMAL：完成指定数量的菜品通关\n・SCORE ATTACK：挑战刷新最佳得分记录\n\n※点击各个模式按钮，可以查看NORMAL和SCORE ATTACK的解锁条件。"
+        }
+    },
+    {
+        "id": "la-tips-cooking-puzzle-description-3",
+        "data": {
+            "id": "la-tips-cooking-puzzle-description-3",
+            "text": "在得分挑战模式下，<color=#ff3bc8>需要按照要求不断完成指定餐品，争取拿到最佳得分吧</color>！\n\n除非食材从托盘中溢出，或者时间用尽，游戏才会结束！\n\n如果能连续完成指定餐品，<color=#ff3bc8>还能得到额外的分数</color>！"
+        }
+    },
+    {
+        "id": "la-tips-cooking-puzzle-description-4",
+        "data": {
+            "id": "la-tips-cooking-puzzle-description-4",
+            "text": "排行榜会记录在<color=#ff3bc8>得分挑战</color>中获得的最佳得分！\n\n注意：如果分数相同，则提交成绩较早的玩家排名更靠前。"
+        }
+    },
+    {
+        "id": "la-tips-cooking-puzzle-quest-description-1",
+        "data": {
+            "id": "la-tips-cooking-puzzle-quest-description-1",
+            "text": "在规定的时间内<color=#ff3bc8>集齐要求的材料，完成料理</color>！\n\n点击材料会转移到托盘，<color=#ff3bc8>收集3个同种材料就能推进烹饪进度</color>！\n\n<color=#ff3bc8>如果材料溢出托盘，游戏就结束了</color>，要小心哦！"
+        }
+    },
+    {
+        "id": "la-tips-cooking-puzzle-quest-description-2",
+        "data": {
+            "id": "la-tips-cooking-puzzle-quest-description-2",
+            "text": "最终会<color=#ff3bc8>根据完成的餐品数量发放奖励</color>！\n\n尽可能多多制作餐品，赢得奖励吧！"
+        }
+    },
+    {
+        "id": "la-tips-cooking-puzzle-quest-description-3",
+        "data": {
+            "id": "la-tips-cooking-puzzle-quest-description-3",
+            "text": "▼操作方法\n颠筐：<color=#ff3bc8>点击一下，材料的配置就会重新排布</color>。\n\n※使用后，在下次计量槽满之前都无法再用。"
+        }
+    },
+    {
+        "id": "la-tips-creative-chart-description-1",
+        "data": {
+            "id": "la-tips-creative-chart-description-1",
+            "text": "可以<color=#ff3bc8>公开自己制作的谱面，或者游玩全世界的玩家制作的谱面</color>哦！"
+        }
+    },
+    {
+        "id": "la-tips-creative-chart-description-2",
+        "data": {
+            "id": "la-tips-creative-chart-description-2",
+            "text": "谱面可以自己从零开始创作，<color=#ff3bc8>也可以引用官方谱面，或者在征得同意后参考其他玩家的谱面</color>来制作哦！"
+        }
+    },
+    {
+        "id": "la-tips-creative-chart-description-3",
+        "data": {
+            "id": "la-tips-creative-chart-description-3",
+            "text": "选择需要的音符，自由配置在想要的位置吧！\n\n<color=#ff3bc8>配置后也可以移动位置，或者更改音符的宽度</color>！"
+        }
+    },
+    {
+        "id": "la-tips-creative-chart-description-4",
+        "data": {
+            "id": "la-tips-creative-chart-description-4",
+            "text": "点击右方箭头图标，选择配置好的音符，并选择对应的选项，<color=#ff3bc8>就可以进行翻转或其他操作</color>！\n\n再次点击箭头图标，还可以<color=#ff3bc8>扩大选择范围</color>哦！\n\n想删除音符时，点击橡皮擦图标，<color=#ff3bc8>再选择对应音符就可以删除了</color>！"
+        }
+    },
+    {
+        "id": "la-tips-creative-chart-description-5",
+        "data": {
+            "id": "la-tips-creative-chart-description-5",
+            "text": "<color=#ff3bc8>长按编辑器界面</color>就能打开菜单，进行各种设置哦！"
+        }
+    },
+    {
+        "id": "la-tips-creative-chart-description-6",
+        "data": {
+            "id": "la-tips-creative-chart-description-6",
+            "text": "长音符在配置完成之后，可以变更为直线或曲线！\n\n<color=#ff3bc8>长音符的起点和终点之间可以配置中间音符，而且共有3种可供选择</color>！"
+        }
+    },
+    {
+        "id": "la-tips-creative-chart-description-7",
+        "data": {
+            "id": "la-tips-creative-chart-description-7",
+            "text": "像长音符一样，<color=#ff3bc8>仅用于装点、无须点击的装饰音符</color>也可以配置在乐谱上！\n\n可以选择任意颜色进行配置哦！"
+        }
+    },
+    {
+        "id": "la-tips-creative-chart-description-8",
+        "data": {
+            "id": "la-tips-creative-chart-description-8",
+            "text": "<color=#ff3bc8>点击编辑器界面左下方的齿轮，就可以更改整个界面的设置</color>了！\n\n其他的编辑器功能可以在右上角的“玩法”里查看！"
+        }
+    },
+    {
+        "id": "la-tips-exchange-area01-description-1",
+        "data": {
+            "id": "la-tips-exchange-area01-description-1",
+            "text": "在音波菈牡商店可以用Holo金币兑换各种各样的商品，或者出售自己持有的物品！\n\n<color=#ff3bc8>兑换商品有数量限制和时间限制</color>，所以需要的东西就尽早来换吧！"
+        }
+    },
+    {
+        "id": "la-tips-exchange-area02-training-item-description-1",
+        "data": {
+            "id": "la-tips-exchange-area02-training-item-description-1",
+            "text": "材料转换所可以<color=#ff3bc8>把持有的道具转换为其他的道具</color>！"
+        }
+    },
+    {
+        "id": "la-tips-exchange-coin-area02-description-1",
+        "data": {
+            "id": "la-tips-exchange-coin-area02-description-1",
+            "text": "在电玩巨蛋城代币兑换所，可以用<color=#ff3bc8>电玩巨蛋城代币兑换各种各样的商品</color>！\n\n多多收集代币，来换想要的东西吧！"
+        }
+    },
+    {
+        "id": "la-tips-exchange-coin-area02-description-2",
+        "data": {
+            "id": "la-tips-exchange-coin-area02-description-2",
+            "text": "<color=#ff3bc8>迷你游戏能量也能转换成电玩巨蛋城代币</color>哦！\n\n缺代币的时候就来这里换吧！"
+        }
+    },
+    {
+        "id": "la-tips-game-event_portal-description-1",
+        "data": {
+            "id": "la-tips-game-event_portal-description-1",
+            "text": "活动传送门可以看到目前正在举办的活动！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-achievement_top-description-1",
+        "data": {
+            "id": "la-tips-game_screen-achievement_top-description-1",
+            "text": "达成各种不同条件的成就后，即可获得奖励！\n\n奖励包括<color=#ff3bc8>Holo成员经验值、称号和红色钻石</color>等等！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-card_catalog-description-1",
+        "data": {
+            "id": "la-tips-game_screen-card_catalog-description-1",
+            "text": "成员升级之后，<color=#ff3bc8>各项参数也会随之提升</color>哦！\n\n升级所需的课程Pt可以通过Holowork，或者音波菈牡商店等途径获取！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-card_catalog-description-2",
+        "data": {
+            "id": "la-tips-game_screen-card_catalog-description-2",
+            "text": "让成员进行特训，就能<color=#ff3bc8>提升成员的等级上限</color>！\n\n特训所需的道具，可以通过演出或Holowork获得！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-card_catalog-description-3",
+        "data": {
+            "id": "la-tips-game_screen-card_catalog-description-3",
+            "text": "绽放可以提升成员的<color=#ff3bc8>技能和连结效果等等</color>！\n\n每位成员<color=#ff3bc8>最多可以绽放5次</color>！\n\n重复获得同一成员，就能获得绽放所需的Pt了！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-character_top-description-1",
+        "data": {
+            "id": "la-tips-game_screen-character_top-description-1",
+            "text": "在holo成员一览中，可以查看成员的解锁状况！\n\n<color=#ff3bc8>完成Holo成员任务，解锁新成员</color>吧！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-circuit-description-1",
+        "data": {
+            "id": "la-tips-game_screen-circuit-description-1",
+            "text": "终极向前冲是<color=#ff3bc8>最多16人参与竞速的障碍赛跑</color>！\n努力躲避所有障碍，第一个到达终点吧！ "
+        }
+    },
+    {
+        "id": "la-tips-game_screen-circuit-description-2",
+        "data": {
+            "id": "la-tips-game_screen-circuit-description-2",
+            "text": "最终会<color=#ff3bc8>根据比赛排名发放奖励</color>！ \n\n努力拿到好名次，赢得奖励吧！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-circuit-description-3",
+        "data": {
+            "id": "la-tips-game_screen-circuit-description-3",
+            "text": "▼操作方法\nJump：<color=#ff3bc8>点击一下，holo成员就会跳起</color>\n\nDash：<color=#ff3bc8>点击一下，holo成员会维持冲刺状态一段时间</color>\n\n※一旦使用冲刺，在下次计量槽满之前将无法再次使用。"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-circuit-description-4",
+        "data": {
+            "id": "la-tips-game_screen-circuit-description-4",
+            "text": "排行榜会记录<color=#ff3bc8>最佳用时</color>！\n\n注意：如果最佳用时相同，则提交成绩较早的玩家排名更靠前。"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-combo-card-game-description-1",
+        "data": {
+            "id": "la-tips-game_screen-combo-card-game-description-1",
+            "text": "扑克屋！是4个人玩的卡牌游戏！\n\n每回合从牌堆抽牌，<color=#ff3bc8>用手里的牌凑出牌型</color>吧！\n\n游戏结束时<color=#ff3bc8>持有最多代币的玩家获胜</color>！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-combo-card-game-description-2",
+        "data": {
+            "id": "la-tips-game_screen-combo-card-game-description-2",
+            "text": "<color=#ff3bc8>收集3张同一成员，或者集齐某一团体，</color>牌型就会成立！\n\n牌型完成后，按下<color=#ff3bc8>“扑克屋！”按钮，从其他玩家手里赢取代币</color>吧！\n\n如果成立的牌型颜色全部相同还能加分，得到更多代币哦！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-combo-card-game-description-3",
+        "data": {
+            "id": "la-tips-game_screen-combo-card-game-description-3",
+            "text": "按下“扑克屋！”之后，还能再从牌堆抽取跟你凑到的牌型张数相同的牌哦！\n\n<color=#ff3bc8>如果补充手牌后又凑到了牌型，可以连续按下“扑克屋！”</color>呢！\n\n如果没有凑到牌型，就从手牌里挑选1张打到场上，结束自己的回合吧！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-combo-card-game-description-4",
+        "data": {
+            "id": "la-tips-game_screen-combo-card-game-description-4",
+            "text": "<color=#ff3bc8>其他玩家打到场上的牌，也可以拿来“扑克屋！”</color>哦！\n\n但假如多个人同时喊“扑克将！”，也只有凑到的牌型分数最高的人能拿到代币！\n\n如果同时有多个人凑到了得分最高的牌型，<color=#ff3bc8>那么按照顺时针顺序，由座位离被“扑克将”玩家最近的玩家优先得分</color>！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-combo-card-game-description-5",
+        "data": {
+            "id": "la-tips-game_screen-combo-card-game-description-5",
+            "text": "<color=#ff3bc8>牌堆被抽完，或者谁的代币归零的时候，游戏就结束了</color>！\n\n最终会按照结束时每人持有的代币数量来排名！\n\n系统会根据排名和持有的代币个数来发放奖励！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-combo-card-game-description-6",
+        "data": {
+            "id": "la-tips-game_screen-combo-card-game-description-6",
+            "text": "排行榜会记录<color=#ff3bc8>合计代币获得率</color>哦！\n\n系统会统计至今为止你在每场游戏中获得/失去的电玩巨蛋城代币总数，作为你的代币获得率！\n\n注：获得率会按照【每场游戏结束时持有的代币个数 - 1000】来计算。\n下注导致的代币数额波动，不会影响统计结果。\n另外，同分的情况下，提交成绩较早的玩家排名更靠前。"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-cooking-puzzle-description-1",
+        "data": {
+            "id": "la-tips-game_screen-cooking-puzzle-description-1",
+            "text": "在规定的时间内<color=#ff3bc8>集齐要求的材料，完成料理</color>！\n\n点击材料会转移到托盘，<color=#ff3bc8>收集3个同种材料就能推进烹饪进度</color>！\n\n<color=#ff3bc8>如果材料溢出托盘，游戏就结束了</color>，要小心哦！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-cooking-puzzle-description-2",
+        "data": {
+            "id": "la-tips-game_screen-cooking-puzzle-description-2",
+            "text": "最终会<color=#ff3bc8>根据完成的餐品数量发放奖励</color>！\n\n尽可能多多制作餐品，赢得奖励吧！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-cooking-puzzle-description-3",
+        "data": {
+            "id": "la-tips-game_screen-cooking-puzzle-description-3",
+            "text": "▼操作方法\n洗牌：<color=#ff3bc8>点击一下，材料的配置就会重新洗牌</color>。\n\n※用过一次后，在下次计量槽满之前都无法再用。"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-cooking-puzzle-description-4",
+        "data": {
+            "id": "la-tips-game_screen-cooking-puzzle-description-4",
+            "text": "拼配厨房<color=#ff3bc8>一共有3种游戏模式</color>！\n\n▼模式\n・EASY：完成指定数量的菜品通关\n・NORMAL：完成指定数量的菜品通关\n・SCORE ATTACK：挑战刷新最佳得分记录\n\n点击各个模式按钮，可以查看NORMAL和SCORE ATTACK的解锁条件哦！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-cooking-puzzle-description-5",
+        "data": {
+            "id": "la-tips-game_screen-cooking-puzzle-description-5",
+            "text": "在得分挑战模式下，<color=#ff3bc8>需要按照要求不断完成指定餐品，争取拿到最佳得分吧</color>！\n\n除非食材从托盘中溢出，或者时间用尽，游戏才会结束！\n\n如果能连续完成指定餐品，<color=#ff3bc8>还能得到额外的分数</color>！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-cooking-puzzle-description-6",
+        "data": {
+            "id": "la-tips-game_screen-cooking-puzzle-description-6",
+            "text": "排行榜会记录在<color=#ff3bc8>得分挑战</color>中获得的最佳得分！\n\n※如果分数相同，则提交成绩较早的玩家排名更靠前。"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-creative-chart-1",
+        "data": {
+            "id": "la-tips-game_screen-creative-chart-1",
+            "text": "可以<color=#ff3bc8>公开自己制作的谱面，或者游玩全世界的玩家制作的谱面</color>哦！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-creative-chart-2",
+        "data": {
+            "id": "la-tips-game_screen-creative-chart-2",
+            "text": "谱面可以自己从零开始创作，<color=#ff3bc8>也可以引用官方谱面，或者在征得同意后参考其他玩家的谱面</color>来制作哦！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-creative-chart-3",
+        "data": {
+            "id": "la-tips-game_screen-creative-chart-3",
+            "text": "选择需要的音符，自由配置在想要的位置吧！\n\n<color=#ff3bc8>配置后也可以移动位置，或者更改音符的宽度</color>！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-creative-chart-4",
+        "data": {
+            "id": "la-tips-game_screen-creative-chart-4",
+            "text": "点击右方箭头图标，选择配置好的音符，并选择对应的选项，<color=#ff3bc8>就可以进行翻转或其他操作</color>！\n\n再次点击箭头图标，还可以<color=#ff3bc8>扩大选择范围</color>哦！\n\n想删除音符时，点击橡皮擦图标，<color=#ff3bc8>再选择对应音符就可以删除了</color>！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-creative-chart-5",
+        "data": {
+            "id": "la-tips-game_screen-creative-chart-5",
+            "text": "<color=#ff3bc8>长按编辑器界面</color>就能打开菜单，进行各种设置哦！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-creative-chart-6",
+        "data": {
+            "id": "la-tips-game_screen-creative-chart-6",
+            "text": "长音符在配置完成之后，可以变更为直线或曲线！\n\n<color=#ff3bc8>长音符的起点和终点之间可以配置中间音符，而且共有3种可供选择</color>！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-creative-chart-7",
+        "data": {
+            "id": "la-tips-game_screen-creative-chart-7",
+            "text": "像长音符一样，<color=#ff3bc8>仅用于装点、无须点击的装饰音符</color>也可以配置在乐谱上！\n\n可以选择任意颜色进行配置哦！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-creative-chart-8",
+        "data": {
+            "id": "la-tips-game_screen-creative-chart-8",
+            "text": "<color=#ff3bc8>点击齿轮图标，就可以更改整个编辑器界面的设置</color>了！\n\n其他的编辑器功能可以在右上角的“玩法”里查看！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-friend_top-description-1",
+        "data": {
+            "id": "la-tips-game_screen-friend_top-description-1",
+            "text": "好友可以通过下列方法添加！\n\n▼如何添加好友\n・向其他玩家发送好友申请，等待对方同意\n・同意其他玩家发来的好友申请\n\n<color=#ff3bc8>进入其他玩家的个人资料页面，即可向该玩家发送好友申请；在“添加好友”页面可以同意好友申请</color>！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-friend_top-description-2",
+        "data": {
+            "id": "la-tips-game_screen-friend_top-description-2",
+            "text": "成为好友后，可以<color=#ff3bc8>邀请好友到多人房间一起玩，或者在好友列表里查看对方的个人资料</color>！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-high_score_rating-description-1",
+        "data": {
+            "id": "la-tips-game_screen-high_score_rating-description-1",
+            "text": "Holo成员评定值会基于<color=#ff3bc8>将该乐曲的演唱者设置为领队游玩时，获得的最高得分</color>计算得出！\n\n用于评分的乐曲中，排名前三的乐曲的总评分，就会被记录为各个成员的评定值了！\n\n此外，在Holo成员评定值中，排名称号会根据每周的排名结果进行更新！\n\n※排名称号将根据统计时的排名进行发放，若在下次统计时已不在排名称号的适用名次范围内，该称号将会被移除。"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-jump-rope-multi-description-1",
+        "data": {
+            "id": "la-tips-game_screen-jump-rope-multi-description-1",
+            "text": "<color=#ff3bc8>看准大绳甩来的时机起跳吧！别被绳子打中了哦</color>！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-jump-rope-multi-description-2",
+        "data": {
+            "id": "la-tips-game_screen-jump-rope-multi-description-2",
+            "text": "跳的次数多了，<color=#ff3bc8>大绳的速度和甩法会产生变化</color>，一定要当心！\n\n多多关注正在甩绳的那位holo成员吧！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-jump-rope-multi-description-3",
+        "data": {
+            "id": "la-tips-game_screen-jump-rope-multi-description-3",
+            "text": "最终会<color=#ff3bc8>根据跳过的次数发放奖励</color>！\n\n尽可能多跳几次，赢得奖励吧！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-jump-rope-multi-description-4",
+        "data": {
+            "id": "la-tips-game_screen-jump-rope-multi-description-4",
+            "text": "▼操作方法\nJump：<color=#ff3bc8>点击一下，holo成员就会跳起</color>\n\n※按下跳跃又很快松开的话，可以使出快速跳。"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-jump-rope-multi-description-5",
+        "data": {
+            "id": "la-tips-game_screen-jump-rope-multi-description-5",
+            "text": "多人游戏最多可以5人合作，持续跳绳！\n\n如果有谁被绳子打到，<color=#ff3bc8>只要攒满能量就能回归</color>了！\n\n其他人成功跳绳，就可以慢慢积攒能量！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-jump-rope-multi-description-6",
+        "data": {
+            "id": "la-tips-game_screen-jump-rope-multi-description-6",
+            "text": "排行榜会记录在<color=#ff3bc8>得分挑战中获得的最佳得分，或者在多人游戏里自己跳过的最高次数</color>！\n\n※如果分数相同，则提交成绩较早的玩家排名更靠前。"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-jump-rope-top-description-1",
+        "data": {
+            "id": "la-tips-game_screen-jump-rope-top-description-1",
+            "text": "<color=#ff3bc8>看准大绳甩来的时机起跳吧！别被绳子打中了哦</color>！\n\n<color=#ff3bc8>一局有3点生命值！</color>一旦归零，游戏就会结束，一定要小心！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-jump-rope-top-description-2",
+        "data": {
+            "id": "la-tips-game_screen-jump-rope-top-description-2",
+            "text": "跳的次数多了，<color=#ff3bc8>大绳的速度和甩法会产生变化</color>，一定要当心！\n\n多多关注正在甩绳的那位holo成员吧！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-jump-rope-top-description-3",
+        "data": {
+            "id": "la-tips-game_screen-jump-rope-top-description-3",
+            "text": "最终会<color=#ff3bc8>根据跳过的次数发放奖励</color>！\n\n尽可能多跳几次，赢得奖励吧！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-jump-rope-top-description-4",
+        "data": {
+            "id": "la-tips-game_screen-jump-rope-top-description-4",
+            "text": "▼操作方法\nJump：<color=#ff3bc8>点击一下，holo成员就会跳起</color>\n\n※按下跳跃又很快松开的话，可以使出快速跳。"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-jump-rope-top-description-5",
+        "data": {
+            "id": "la-tips-game_screen-jump-rope-top-description-5",
+            "text": "单人模式一共分为<color=#ff3bc8>3种游戏模式</color>！\n\n▼模式\n・EASY：比其他成员跳得更久者获胜\n・NORMAL：比其他成员跳得更久者获胜\n・SCORE ATTACK：挑战刷新最佳得分记录\n\n点击各个模式按钮，可以查看NORMAL和SCORE ATTACK的解锁条件哦！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-jump-rope-top-description-6",
+        "data": {
+            "id": "la-tips-game_screen-jump-rope-top-description-6",
+            "text": "排行榜会记录在<color=#ff3bc8>得分挑战中获得的最佳得分，或者在多人游戏里自己跳过的最高次数</color>！\n\n※如果分数相同，则提交成绩较早的玩家排名更靠前。"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-live_deck_edit-description-1",
+        "data": {
+            "id": "la-tips-game_screen-live_deck_edit-description-1",
+            "text": "小队包含<color=#ff3bc8>1名领队和5名队员</color>！\n\n小队总分由领队的技能，或队员的参数和技能等决定！\n\n每个角色作为领队时，最多可以带领10个小队！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-membership_top-description-1",
+        "data": {
+            "id": "la-tips-game_screen-membership_top-description-1",
+            "text": "加入各个holo成员的会员，可以领取各种各样的特典！\n\n<color=#ff3bc8>每位holo成员都有对应的会员奖章</color>，还能兑换各个成员的特典商品！\n\n<color=#ff3bc8>用会员奖章兑换的特典，在解除会员之后也可以使用</color>哦！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-mission_pass_top-description-1",
+        "data": {
+            "id": "la-tips-game_screen-mission_pass_top-description-1",
+            "text": "提升任务通行证等级，<color=#ff3bc8>就能获得各种各样的奖励！</color>\n\n任务通行证分为免费方案和加入后即可解锁的高级方案两种！\n\n<color=#ff3bc8>解锁高级方案后，还能再次领取已经达成的各级别的奖励</color>哦！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-mission_pass_top-description-2",
+        "data": {
+            "id": "la-tips-game_screen-mission_pass_top-description-2",
+            "text": "<color=#ff3bc8>完成任务，收集任务Pt吧！</color>\n集齐一定数量就可以提升等级！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-mission_pass_top-description-3",
+        "data": {
+            "id": "la-tips-game_screen-mission_pass_top-description-3",
+            "text": "请注意，任务通行证一旦过期，<color=#ff3bc8>“任务通行证Pt”和等级就会被重置</color>！\n\n过期时如果达成了要求却没领取奖励，奖励会被发放到礼物箱哦！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-multi_mini_game_top-description-1",
+        "data": {
+            "id": "la-tips-game_screen-multi_mini_game_top-description-1",
+            "text": "多人迷你游戏有<color=#ff3bc8>任何人都可以参加的自由模式</color>！\n\n想跟朋友玩的话，就善加利用“创建房间”功能，把房间ID发给朋友吧！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-multi_mini_game_top-description-2",
+        "data": {
+            "id": "la-tips-game_screen-multi_mini_game_top-description-2",
+            "text": "想知道各个迷你游戏的玩法，<color=#ff3bc8>可以在迷你游戏选择界面点击“？”来查看</color>！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-multi_rhythm_game_lobby-description-1",
+        "data": {
+            "id": "la-tips-game_screen-multi_rhythm_game_lobby-description-1",
+            "text": "多人演出模式<color=#ff3bc8>最多可以5个人一起玩</color>！\n\n游玩的乐曲会<color=#ff3bc8>从玩家们各自选择的乐曲中随机抽取</color>！\n\n难度也可以由每位玩家分别选择！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-multi_rhythm_game_lobby-description-2",
+        "data": {
+            "id": "la-tips-game_screen-multi_rhythm_game_lobby-description-2",
+            "text": "多人演出模式中，会出现<color=#ff3bc8>提高得分的Fever阶段</color>！\n\nFever阶段需要参加的所有玩家<color=#ff3bc8>一同积攒Fever能量</color>来发动！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-multi_rhythm_game_lobby-description-3",
+        "data": {
+            "id": "la-tips-game_screen-multi_rhythm_game_lobby-description-3",
+            "text": "多人演出模式的得分评级，会由<color=#ff3bc8>全体参加者的总分来决定</color>！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-multi_rhythm_game_top-description-1",
+        "data": {
+            "id": "la-tips-game_screen-multi_rhythm_game_top-description-1",
+            "text": "多人演出模式分为<color=#ff3bc8>任何人都能参加的自由模式</color>，以及<color=#ff3bc8>小队总分超过特定数值才能参加的进阶模式</color>2种！\n\n想跟朋友一起玩的话，就善加利用“创建房间”功能，把房间ID发给朋友吧！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-multi_rhythm_game_top-description-2",
+        "data": {
+            "id": "la-tips-game_screen-multi_rhythm_game_top-description-2",
+            "text": "多人演出模式<color=#ff3bc8>最多可以5个人一起玩</color>！\n\n游玩的乐曲会<color=#ff3bc8>从玩家们各自选择的乐曲中随机抽取</color>！\n\n难度也可以由每位玩家分别选择！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-multi_rhythm_game_top-description-3",
+        "data": {
+            "id": "la-tips-game_screen-multi_rhythm_game_top-description-3",
+            "text": "多人演出模式中，会出现<color=#ff3bc8>提高得分的Fever阶段</color>！\n\nFever阶段需要参加的所有玩家<color=#ff3bc8>一同积攒Fever能量</color>来发动！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-multi_rhythm_game_top-description-4",
+        "data": {
+            "id": "la-tips-game_screen-multi_rhythm_game_top-description-4",
+            "text": "多人演出模式的得分评级，会由<color=#ff3bc8>全体参加者的总分来决定</color>！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-music_shop_selection-description-1",
+        "data": {
+            "id": "la-tips-game_screen-music_shop_selection-description-1",
+            "text": "在乐曲商店里可以用音乐光碟来解锁新乐曲！\n\n<color=#ff3bc8>购买过后就在演出中游玩哦！</color>"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park_change_playable-description-1",
+        "data": {
+            "id": "la-tips-game_screen-park_change_playable-description-1",
+            "text": "你可以随时更换想操作的Holo成员！\n\n不过，对象仅限<color=#ff3bc8>通过Holo成员任务解锁的成员们</color>！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park_change_playable-description-2",
+        "data": {
+            "id": "la-tips-game_screen-park_change_playable-description-2",
+            "text": "所有的holo成员都可以<color=#ff3bc8>更换服装、穿戴饰品</color>！\n\n服装可以通过扭蛋，饰品可以通过任务通行证等方式获得！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park_high_low_top-description-1",
+        "data": {
+            "id": "la-tips-game_screen-park_high_low_top-description-1",
+            "text": "猜高低是<color=#ff3bc8>押注赢取电玩巨蛋城代币的卡牌游戏</color>！\n\n用手中的5张牌凑扑克牌型，只要牌型成立，就能挑战猜高低加倍机会！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park_high_low_top-description-2",
+        "data": {
+            "id": "la-tips-game_screen-park_high_low_top-description-2",
+            "text": "在加倍机会中，要猜测下一张抽出的牌比前一张牌的数字是大是小！\n\n<color=#ff3bc8>只要猜对了，获得的代币数量就能翻倍</color>！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park_high_low_top-description-3",
+        "data": {
+            "id": "la-tips-game_screen-park_high_low_top-description-3",
+            "text": "<color=#ff3bc8>如果挑战加倍机会失败，之前赢得的代币就会归零，</color>所以要慎重决定哦！\n\n抽出的牌跟前一张数字相同的话，会重新进行抽牌！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park_high_low_top-description-4",
+        "data": {
+            "id": "la-tips-game_screen-park_high_low_top-description-4",
+            "text": "玩猜高低时，<color=#ff3bc8>单局获得的代币和每日获得的代币都是有上限的</color>！\n\n▼猜高低的代币获得上限\n・单局代币获得量上限：<color=#ff3bc8>10000枚</color>\n※单局代币获得量超过10000枚时，游戏会立刻结束。\n※超过10000枚的代币也可以正常获得。\n\n・单日代币获得量上限：<color=#ff3bc8>20000枚</color>\n※单日代币获得量超过20000枚时，当天将无法再游玩猜高低。次日可恢复游玩。\n※超过20000枚的代币也可以正常获得。"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park_poster_booth-description-1",
+        "data": {
+            "id": "la-tips-game_screen-park_poster_booth-description-1",
+            "text": "<color=#ff3bc8>获得的成员和回忆卡可以在回忆展台中展示</color>！\n\n快摆上心仪的成员和回忆卡，装点梦幻乐园吧！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park_poster_booth-description-2",
+        "data": {
+            "id": "la-tips-game_screen-park_poster_booth-description-2",
+            "text": "<color=#ff3bc8>多多搜集回忆卡，可以提升小队参数</color>哦！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park_quest_info-description-1",
+        "data": {
+            "id": "la-tips-game_screen-park_quest_info-description-1",
+            "text": "完成主线任务，就能推进<color=#ff3bc8>主线剧情</color>！\n\n不知道接下来该做什么时就去完成主线任务吧！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park_quest_info-description-2",
+        "data": {
+            "id": "la-tips-game_screen-park_quest_info-description-2",
+            "text": "只要在梦幻乐园内跟“今天能邂逅的holo成员”对话，就能开始Holo成员任务了！\n\n每天会<color=#ff3bc8>随机选出2位可邂逅的holo成员</color>！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park_quest_info-description-3",
+        "data": {
+            "id": "la-tips-game_screen-park_quest_info-description-3",
+            "text": "可以使用<color=#ff3bc8>邀请函增加可邂逅的成员人数</color>！邀请函可通过主线任务等途径获得！\n\n还可以游玩你最初选择的holo成员的成员任务哦！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park_quest_info-description-4",
+        "data": {
+            "id": "la-tips-game_screen-park_quest_info-description-4",
+            "text": "完成Holo成员任务，就能<color=#ff3bc8>解锁对应的holo成员和乐曲！</color>\n\n<color=#ff3bc8>以后就可以在梦幻乐园操作解锁的成员了！</color>"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park_quest_info-description-5",
+        "data": {
+            "id": "la-tips-game_screen-park_quest_info-description-5",
+            "text": "区域任务，是指<color=#ff3bc8>通关主线任务，或满足一定条件后</color>出现的任务！\n\n完成任务可以得到各种各样的奖励！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park_quest_info-description-6",
+        "data": {
+            "id": "la-tips-game_screen-park_quest_info-description-6",
+            "text": "每日任务，是指<color=#ff3bc8>每天都会刷新的任务</color>！\n日期一变就会重置，就可以再次挑战啦！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-score_ranking-description-1",
+        "data": {
+            "id": "la-tips-game_screen-score_ranking-description-1",
+            "text": "得分排行榜会显示每首乐曲单人模式的高分名次！\n\n<color=#ff3bc8>无论难度如何，这首乐曲所获得的最高分数，就会被作为最高得分</color>记录下来！\n如果出现同分的玩家，则提交成绩较早的玩家会排在上方！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-shop_top-description-1",
+        "data": {
+            "id": "la-tips-game_screen-shop_top-description-1",
+            "text": "在商店可以购买蓝色钻石和道具等等！\n\n还有订阅后就能享受各种特典的订阅商品，例如会员资格和Holo通行证！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-shop_top-description-2",
+        "data": {
+            "id": "la-tips-game_screen-shop_top-description-2",
+            "text": "在Holo贴纸兑换中，可以使用Holo贴纸来兑换各种商品！\n\n▼Holo贴纸的获得方法和张数\n・扭蛋Pt过期时：1Pt=1张\n\n・获得已达成最终绽放的★3成员：1张\n\n・获得已达成最终绽放的★4成员：20张\n注：获得累计绽放Pt足以达成最终绽放的★3、★4成员时，也适用上述情况。"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-shop_top-description-3",
+        "data": {
+            "id": "la-tips-game_screen-shop_top-description-3",
+            "text": "在特殊Holo贴纸兑换中，可以使用特殊Holo贴纸来兑换各种商品！\n\n▼特殊Holo贴纸的获得方法和张数\n・获得还未绽放至最终阶段的★5成员：30张\n\n・获得已达成最终绽放的★5成员：130张\n注：获得累计绽放Pt足以达成最终绽放的★5成员时，也适用上述情况。"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-skill_tree-description-1",
+        "data": {
+            "id": "la-tips-game_screen-skill_tree-description-1",
+            "text": "每个Holo成员都有自己的成员面板。<color=#ff3bc8>解锁面板上的格子，就能获得在演出及迷你游戏中生效的效果</color>！\n\n▼格子的种类\n・领队格（红色格子）：设定为演出小队领队后发动的效果\n\n・成员格（蓝色格子）：设定为演出小队成员后发动的效果\n\n・辅助格（黄色/绿色格子）：未编入演出小队也会发动的效果\n\n・连结格：配置成员，就能发动该成员的连结效果"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-skill_tree-description-2",
+        "data": {
+            "id": "la-tips-game_screen-skill_tree-description-2",
+            "text": "解锁格子所需的<color=#ff3bc8>各种方块，可以通过兑换所或Holowork等途径获得</color>！\n\n<color=#ff3bc8>提升Holo成员Rank，就能获得Holo成员Pt</color>！\n\n提升Rank所需的经验值，可以通过达成各个成员的成就来获得！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-story_archive_top-description-1",
+        "data": {
+            "id": "la-tips-game_screen-story_archive_top-description-1",
+            "text": "在HOLO影城可以回顾之前看过的故事，还能查看PV等特别映像！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-user_profile_top-description-1",
+        "data": {
+            "id": "la-tips-game_screen-user_profile_top-description-1",
+            "text": "个人资料会展示各种各样的玩家信息！\n\n<color=#ff3bc8>你可以自由编辑玩家名称，一句话介绍，定制卡片和称号</color>！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-user_profile_top-description-2",
+        "data": {
+            "id": "la-tips-game_screen-user_profile_top-description-2",
+            "text": "你可以<color=#ff3bc8>自由组合喜欢的基底和组件</color>，来创作自己的定制卡片！\n\n每人最多可以保存20张定制个人资料卡哦（包括默认卡片）！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-user_profile_top-description-3",
+        "data": {
+            "id": "la-tips-game_screen-user_profile_top-description-3",
+            "text": "<color=#ff3bc8>完成任务和成就，就能提升梦幻Rank！</color>\n\n提升梦幻Rank可以获得各种各样的奖励！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-work_top-description-1",
+        "data": {
+            "id": "la-tips-game_screen-work_top-description-1",
+            "text": "只要编组相应的成员队伍，就能开始Holowork！\n\n<color=#ff3bc8>经过一定时间后，工作结束！就能领取到奖励</color>啦！\n\n左上角的刷新时间变为0时，活动内容就会刷新！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-work_top-description-2",
+        "data": {
+            "id": "la-tips-game_screen-work_top-description-2",
+            "text": "<color=#ff3bc8>小队成员的综合实力越强，工作结束时的评价就会越高</color>哦！\n评价越高，能获得的奖励也就越豪华！\n\n每种holowork都有相应状态绝佳的成员，能够提升参与时的各项参数！"
+        }
+    },
+    {
+        "id": "la-tips-hint-account_migration-description-1",
+        "data": {
+            "id": "la-tips-hint-account_migration-description-1",
+            "text": "关联账号后，您可以在多个设备上共享数据、畅玩游戏。\n如果待共享的设备上已存在游戏存档，也可以通过覆盖现有数据的方式进行共享。\n\n※请注意：若在执行覆盖前未进行账号关联，则旧有的存档将无法恢复。"
+        }
+    },
+    {
+        "id": "la-tips-hint-card_detail_level_limit_break-description-1",
+        "data": {
+            "id": "la-tips-hint-card_detail_level_limit_break-description-1",
+            "text": "让成员进行特训，就能提升成员的等级上限。\n\n特训所需的道具可以通过演出，或者Holowork等途径获得哦！"
+        }
+    },
+    {
+        "id": "la-tips-hint-card_detail_level_up-description-1",
+        "data": {
+            "id": "la-tips-hint-card_detail_level_up-description-1",
+            "text": "消耗课程Pt，可以让成员升级。\n成员在升级后，各项参数也会随之提升。\n\n升级所需的课程Pt可以通过Holowork，或者音波菈牡商店等途径获取。"
+        }
+    },
+    {
+        "id": "la-tips-hint-card_detail_live_skill-description-1",
+        "data": {
+            "id": "la-tips-hint-card_detail_live_skill-description-1",
+            "text": "每位成员都拥有以下三种技能：\n\n▼成员技能\n特殊技能：威力强大的技能，在演出中只会发动一次（发动顺序取决于成员编入小队的顺序）\n主动技能：在演出中以一定概率周期性发动的技能\n被动技能：满足特定条件时，始终生效的技能\n\n可以通过提升成员的绽放阶段，来增强技能效果。"
+        }
+    },
+    {
+        "id": "la-tips-hint-card_detail_skill_tree_connect_effect-description-1",
+        "data": {
+            "id": "la-tips-hint-card_detail_skill_tree_connect_effect-description-1",
+            "text": "将成员<color=#ff3bc8>配置在Holo成员面板上的连结格子中，解锁效果范围内的格子</color>，就能发动连结效果！"
+        }
+    },
+    {
+        "id": "la-tips-hint-character_level_exp-description-1",
+        "data": {
+            "id": "la-tips-hint-character_level_exp-description-1",
+            "text": "攒够Holo成员经验值，就能提升成员Rank！\n\n<color=#ff3bc8>Rank提升后，可以获得成员面板Pt作为奖励</color>！\n\n完成目标成员的成就，即可获得Holo成员经验值！"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_card_leveling-description-1",
+        "data": {
+            "id": "la-tips-hint-live_card_leveling-description-1",
+            "text": "<color=#ff3bc8>提升队伍中成员的等级</color>，提升小队总分吧！"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_deck_evaluation_value_not_reached-description-1",
+        "data": {
+            "id": "la-tips-hint-live_deck_evaluation_value_not_reached-description-1",
+            "text": "<color=#ff3bc8>小队总分越高，越容易达成通关要求的分数条件！</color>\n\n通关标准按照\"×＜△＜〇＜★\"的顺序排列，越接近★代表越容易通关！\n\n<color=#ff3bc8>预计通关难度为“×”时是无法挑战演出的</color>，这种时候就先努力强化小队吧！"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_deck_evaluation_value_not_reached-description-2",
+        "data": {
+            "id": "la-tips-hint-live_deck_evaluation_value_not_reached-description-2",
+            "text": "解锁领队角色的Holo成员面板，提升小队总分吧！\n\n推荐先解锁<color=#ff3bc8>红色的领队格</color>哦！"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_deck_evaluation_value_not_reached-description-3",
+        "data": {
+            "id": "la-tips-hint-live_deck_evaluation_value_not_reached-description-3",
+            "text": "<color=#ff3bc8>提升队伍中成员的等级</color>，提升小队总分吧！"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_leader_skill_not_activated-description-1",
+        "data": {
+            "id": "la-tips-hint-live_leader_skill_not_activated-description-1",
+            "text": "有些服装技能需要满足特定的条件才能发动！\n\n<color=#ff3bc8>检查一下服装技能，看看有没有满足发动条件吧</color>！"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_live_deck_evaluation-description-1",
+        "data": {
+            "id": "la-tips-hint-live_live_deck_evaluation-description-1",
+            "text": "小队总分是在演出中得分的参考指标。\n小队总分越高，在演出中能获得的分数就越高。\n\n小队总分是“综合实力”应用“得分加成”后得出的数值。\n\n▼综合实力\n・成员参数：小队成员的参数总和\n・服装技能：提升参数类的服装技能效果量\n・Holo成员面板效果：提升参数类的Holo成员面板效果量\n・被动技能：提升参数类的被动技能效果量\n・回忆卡效果：根据持有的回忆卡数量获得的加成效果量\n・成员强化加成：通过强化成员获得的加成效果量\n\n▼得分加成\n・服装技能：得分加成类的服装技能效果\n・主动技能：主动技能的效果\n・Holo成员面板效果：得分加成类的Holo成员面板效果\n・被动技能：得分加成类的被动技能效果\n・特殊技能：特殊技能的效果\n\n※未生效的效果不会显示出来。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_multi_live_cooperation_auto_play_allow-description-1",
+        "data": {
+            "id": "la-tips-hint-live_multi_live_cooperation_auto_play_allow-description-1",
+            "text": "勾选相关复选框，匹配对象将包括允许自动游戏的玩家。\n如果取消勾选，匹配对象将仅限于不允许自动游戏的玩家。\n\n该设置一经变更，将在包括私人房间在内的所有模式及匹配中生效。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_brightness_setting-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_brightness_setting-description-1",
+            "text": "设置轨道和背景的亮度。\n\n数值越大，亮度越高。但亮度过高可能会让您难以辨认音符。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_active_skill_display-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_active_skill_display-description-1",
+            "text": "选择开启/关闭主动技能发动期间的显示效果。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_background_display_illustration_setting-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_background_display_illustration_setting-description-1",
+            "text": "将演出的背景选择设为“插图”时，此处可以选择要显示的成员插图。\n\n▼随机\n随机显示当前小队中的成员。\n\n▼C位固定\n显示当前小队中左起第3位（Center）的成员。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_background_mode_setting-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_background_mode_setting-description-1",
+            "text": "可以设置没有MV的乐曲的默认演出背景。\n\n演出时显示的背景，可以在演出开始前的编辑小队界面进行选择。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_combo_continuation_display-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_combo_continuation_display-description-1",
+            "text": "根据当前的连击状态，设置连击数字的背景。\n\n▼AP(ALL PERFECT)\n＆FC(FULL COMBO)\n・AP状态持续时，连击数字的背景显示为七彩色。\n・AP中断，但FC持续时，连击数字的背景显示为红色。\n・连击中断时，不显示背景。\n\n▼仅AP\n・AP状态持续时，连击数字的背景显示为七彩色。\n・AP状态中断时，不显示背景。\n\n▼OFF\n・在所有连击状态下，都不显示连击数字的背景。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_fast_slow_display-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_fast_slow_display-description-1",
+            "text": "点击音符时如果过快或过慢，可设置画面上是否显示“SLOW(慢)”或“FAST(快)”的字样。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_fever_effect_setting-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_fever_effect_setting-description-1",
+            "text": "设置多人游戏时FEVER特效的强度。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_fps_sync-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_fps_sync-description-1",
+            "text": "设置设备的刷新率，以匹配游戏的帧率。\n\n部分设备可能会自动调整画面的显示错乱。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_key_beam-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_key_beam-description-1",
+            "text": "设置点击轨道时，轨道是否发光。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_leader_skill_display-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_leader_skill_display-description-1",
+            "text": "选择开启/关闭领队的Holo成员技能发动期间的显示效果。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_measure_line_display-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_measure_line_display-description-1",
+            "text": "开启/关闭乐曲的小节线。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_rhythm_support-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_rhythm_support-description-1",
+            "text": "为不符合八分音符节奏的音符设置不同的颜色。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_screen_fps_setting-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_screen_fps_setting-description-1",
+            "text": "选择演出时的帧率。\n帧率越高画面越流畅，但部分设备的显示效果可能不及预期。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_screen_lock-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_screen_lock-description-1",
+            "text": "关闭倾斜设备时的自动转屏。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_simultaneous_press_line-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_simultaneous_press_line-description-1",
+            "text": "开启/关闭同时出现的音符之间的连线。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_skill_effect_above_judgement_text-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_skill_effect_above_judgement_text-description-1",
+            "text": "开启/关闭在PERFECT等判定字样上方显示的技能加分效果。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_slideshow_switch_time-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_slideshow_switch_time-description-1",
+            "text": "设置演出背景为“幻灯片”时图像切换的时间。\n\n数值越大，图像切换速度越慢；数值越小，图像切换速度越快。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_special_skill_background_display-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_special_skill_background_display-description-1",
+            "text": "开启/关闭SP技能发动期间的背景特效。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_special_skill_effect_display-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_special_skill_effect_display-description-1",
+            "text": "开启/关闭SP技能发动期间的技能显示效果。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_special_skill_illustration_display-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_special_skill_illustration_display-description-1",
+            "text": "选择在SP技能发动期间，是否显示发动技能的成员插图或领队Live2D形象。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_tap_effect-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_tap_effect-description-1",
+            "text": "更改点击音符时显示的特效数量。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_tap_vibration-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_tap_vibration-description-1",
+            "text": "设置点击时设备震动的强度。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_key_config_lane-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_key_config_lane-description-1",
+            "text": "为演出中使用的各轨道分配键位。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_key_config_other-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_key_config_other-description-1",
+            "text": "为演出中使用的各按键分配键位。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_lane_bottom_cut-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_lane_bottom_cut-description-1",
+            "text": "截断轨道下半部分，可以调整音符消失的位置。\n\n音符的显示时间，是指从音符出现到抵达判定线的时间（毫秒）。\n\n如果已经截断轨道上方，则“显示时间”为从上方截断位置到抵达判定线的时间；\n如果截断轨道下方时选择了高于判定线的位置，则“显示时间”为从上方截断位置到抵达下方截断位置的时间。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_lane_setting-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_lane_setting-description-1",
+            "text": "调整点击音符判定线的高度。\n\n数值越大，判定线的位置就越高。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_lane_top_cut-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_lane_top_cut-description-1",
+            "text": "截断轨道上半部分，可以调整音符出现并开始落下的位置。\n\n音符的显示时间，是指从音符出现到抵达判定线的时间（毫秒）。\n\n如果已经截断轨道上方，则“显示时间”为从上方截断位置到抵达判定线的时间；\n如果截断轨道下方时选择了高于判定线的位置，则“显示时间”为从上方截断位置到抵达下方截断位置的时间。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_mirror_chart-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_mirror_chart-description-1",
+            "text": "可以让落下的音符水平翻转。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_music_mv_setting-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_music_mv_setting-description-1",
+            "text": "设置是否将MV数据保存在您的设备中。\n\n即便开启，为节省存储空间，系统会自动删除一定时间内没有播放过的MV。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_music_timing_adjustment-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_music_timing_adjustment-description-1",
+            "text": "调整乐曲和音符落下的时机。\n\n若常常出现FAST，则需要调大该数值；常常出现SLOW，则需要调小该数值。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_note_speed-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_note_speed-description-1",
+            "text": "设置音符落下的速度。\n\n点击左右按键，能以0.1或0.5的刻度进行调整。\n点击数值部分，还能对小数点后第2位进行进一步微调。\n\n音符的显示时间，是指音符显示在画面内的时间（毫秒）。\n更改音符的速度，或截断轨道的上半/下半部分，该数值也会随之变动。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_combo-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_combo-description-1",
+            "text": "将连击字样更换成holo成员主题的外观。\n\n在各成员的会员内部兑换所中兑换过后，即可使用对应成员的外观。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_header-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_header-description-1",
+            "text": "将界面顶部更换成holo成员主题的外观。\n\n在各成员的会员内部兑换所中兑换过后，即可使用对应成员的外观。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_judgement_text-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_judgement_text-description-1",
+            "text": "将判定字样更换成holo成员主题的外观。\n\n在各成员的会员内部兑换所中兑换过后，即可使用对应成员的外观。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_lane-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_lane-description-1",
+            "text": "将轨道更换成holo成员主题的外观。\n\n在各成员的会员内部兑换所中兑换过后，即可使用对应成员的外观。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_normal_background_customize-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_normal_background_customize-description-1",
+            "text": "设置选择“普通背景”时使用的背景。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_note-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_note-description-1",
+            "text": "更改音符外观。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_tap_effect_type-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_tap_effect_type-description-1",
+            "text": "更改点击特效的外观。\n\n设置特效类型和特效主题。\n特效主题也可以选择holo成员的主题。\n\n在各成员的会员内部兑换所中兑换过后，即可使用对应成员的外观。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_sound_effect-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_sound_effect-description-1",
+            "text": "调整效果音量。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_sound_music-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_sound_music-description-1",
+            "text": "调整乐曲音量。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_sound_skill_se-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_sound_skill_se-description-1",
+            "text": "开启/关闭技能音效。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_sound_skill_voice-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_sound_skill_voice-description-1",
+            "text": "开启/关闭各种技能语音。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_sound_tap-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_sound_tap-description-1",
+            "text": "更改点击音符时播放的声音。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_sound_voice_sound-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_sound_voice_sound-description-1",
+            "text": "调整语音音量。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_timing_adjustment-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_timing_adjustment-description-1",
+            "text": "调整音符的判定时机。\n\n若常常出现FAST，则需要调大该数值；常常出现SLOW，则需要调小该数值。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_reward_up_stamina-description-1",
+        "data": {
+            "id": "la-tips-hint-live_reward_up_stamina-description-1",
+            "text": "在演出开始前，可以设置是否消耗“演出能量”。\n消耗的演出能量越多，在演出完成时获得的奖励和成员经验值就会越多。\n※只有在完成演出时才会扣除演出能量。如果中途退出则不会消耗。\n\n演出能量每45分钟恢复1点，最多可以恢复10点。\n另外，使用演出充能饮料或钻石也可以恢复演出能量。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_skill_tree_released-description-1",
+        "data": {
+            "id": "la-tips-hint-live_skill_tree_released-description-1",
+            "text": "解锁领队角色的Holo成员面板，提升小队总分吧！\n\n推荐先解锁<color=#ff3bc8>红色的领队格</color>哦！"
+        }
+    },
+    {
+        "id": "la-tips-hint-mini_game_reward_up_stamina-description-1",
+        "data": {
+            "id": "la-tips-hint-mini_game_reward_up_stamina-description-1",
+            "text": "部分迷你游戏在游戏开始前，可以设定“迷你游戏能量”。\n投入的能量越多，结算时能获得的奖励就越多。\n※结算时才会消耗迷你游戏能量。\n\n迷你游戏能量每7分钟恢复1点，上限100点。\n另外，迷你游戏充能果冻也可以转换为迷你游戏能量。\n将迷你游戏充能果冻转换为能量时，最多可以转换999点。\n※如果转换后的总能量超过999点，则无法进行转换。"
+        }
+    },
+    {
+        "id": "la-tips-hnt-card_list_live_deck_power_permiriad_up_by_level_up-description-1",
+        "data": {
+            "id": "la-tips-hnt-card_list_live_deck_power_permiriad_up_by_level_up-description-1",
+            "text": "<color=#ff3bc8>成员等级超过20时，能提升小队总分的“成员强化加成”就会生效</color>！\n\n多多提升成员等级，强化小队实力吧！"
+        }
+    },
+    {
+        "id": "la-tips-instant_tips-present-facerock-2-description-1",
+        "data": {
+            "id": "la-tips-instant_tips-present-facerock-2-description-1",
+            "text": "可以在<color=#ff3bc8>颜岩山收取来自0期生的礼物，1天1次</color>哦！"
+        }
+    },
+    {
+        "id": "la-tips-instant_tips-present-prison-2-description-1",
+        "data": {
+            "id": "la-tips-instant_tips-present-prison-2-description-1",
+            "text": "可以在<color=#ff3bc8>The Cell再临门口收取来自Advent的礼物，1天1次</color>哦！"
+        }
+    },
+    {
+        "id": "la-tips-instant_tips-random_reward-livehouse-2-description-1",
+        "data": {
+            "id": "la-tips-instant_tips-random_reward-livehouse-2-description-1",
+            "text": "ReGLOSS让隐秘宝藏的种类增多了！\n\n<color=#ff3bc8>宝物每天都会藏在随机地点</color>，去试着寻宝吧！"
+        }
+    },
+    {
+        "id": "la-tips-jump-rope-description-1",
+        "data": {
+            "id": "la-tips-jump-rope-description-1",
+            "text": "跳跳大绳<color=#ff3bc8>可以随时在嬉闹操场游玩</color>！"
+        }
+    },
+    {
+        "id": "la-tips-jump-rope-description-2",
+        "data": {
+            "id": "la-tips-jump-rope-description-2",
+            "text": "跳跳大绳一共分为<color=#ff3bc8>3种游戏模式</color>！\n\n▼模式\n・EASY：比其他成员跳得更久者获胜\n・NORMAL：比其他成员跳得更久者获胜\n・SCORE ATTACK：挑战刷新最佳得分记录\n\n※点击各个模式按钮，即可查看NORMAL和SCORE ATTACK的解锁条件。"
+        }
+    },
+    {
+        "id": "la-tips-jump-rope-description-3",
+        "data": {
+            "id": "la-tips-jump-rope-description-3",
+            "text": "排行榜会记录在<color=#ff3bc8>得分挑战中获得的最佳得分</color>！\n\n注意：如果分数相同，则提交成绩较早的玩家排名更靠前。"
+        }
+    },
+    {
+        "id": "la-tips-jump-rope-quest-description-1",
+        "data": {
+            "id": "la-tips-jump-rope-quest-description-1",
+            "text": "<color=#ff3bc8>看准大绳甩来的时机起跳吧！别被绳子打中了哦</color>！\n\n<color=#ff3bc8>一局有3点生命值！</color>一旦归零，游戏就会结束，一定要小心！"
+        }
+    },
+    {
+        "id": "la-tips-jump-rope-quest-description-2",
+        "data": {
+            "id": "la-tips-jump-rope-quest-description-2",
+            "text": "跳的次数多了，<color=#ff3bc8>大绳的速度和甩法会产生变化</color>，一定要当心！\n\n多多关注正在甩绳的那位holo成员吧！"
+        }
+    },
+    {
+        "id": "la-tips-jump-rope-quest-description-3",
+        "data": {
+            "id": "la-tips-jump-rope-quest-description-3",
+            "text": "最终会<color=#ff3bc8>根据跳过的次数发放奖励</color>！\n\n尽可能多跳几次，赢得奖励吧！"
+        }
+    },
+    {
+        "id": "la-tips-jump-rope-quest-description-4",
+        "data": {
+            "id": "la-tips-jump-rope-quest-description-4",
+            "text": "▼操作方法\nJump：<color=#ff3bc8>点击一下，holo成员就会跳起</color>\n\n※按下跳跃又很快松开的话，可以使出快速跳。"
+        }
+    },
+    {
+        "id": "la-tips-live-description-1",
+        "data": {
+            "id": "la-tips-live-description-1",
+            "text": "小队包含<color=#ff3bc8>1名领队和5名队员</color>！\n\n小队总分由领队的服装技能，或队员的参数和技能等决定！"
+        }
+    },
+    {
+        "id": "la-tips-lottery-area02-scratch-description-1",
+        "data": {
+            "id": "la-tips-lottery-area02-scratch-description-1",
+            "text": "恰玛红心大转盘会提供能刮出各种奖品的刮奖券！\n\n<color=#ff3bc8>刮奖券1天最多可以刮1次哦！</color>"
+        }
+    },
+    {
+        "id": "la-tips-mission-pass-description-1",
+        "data": {
+            "id": "la-tips-mission-pass-description-1",
+            "text": "提升任务通行证等级，就能<color=#ff3bc8>获得各种各样的奖励</color>！"
+        }
+    },
+    {
+        "id": "la-tips-mission-pass-description-2",
+        "data": {
+            "id": "la-tips-mission-pass-description-2",
+            "text": "<color=#ff3bc8>完成任务，收集任务Pt吧！</color>\n集齐一定数量就可以提升等级！"
+        }
+    },
+    {
+        "id": "la-tips-mission-pass-description-3",
+        "data": {
+            "id": "la-tips-mission-pass-description-3",
+            "text": "请注意，任务通行证一旦过期，<color=#ff3bc8>“任务通行证Pt”和等级就会被重置</color>！\n\n过期时如果达成了要求却没领取奖励，奖励会被发放到礼物箱哦！"
+        }
+    },
+    {
+        "id": "la-tips-multi-game-description-1",
+        "data": {
+            "id": "la-tips-multi-game-description-1",
+            "text": "去幸运网络参加多人游戏吧！\n\n<color=#ff3bc8>你可以与其他玩家共同演出，或者一起玩迷你游戏！</color>"
+        }
+    },
+    {
+        "id": "la-tips-multi-game-description-2",
+        "data": {
+            "id": "la-tips-multi-game-description-2",
+            "text": "多人演出模式分为<color=#ff3bc8>任何人都能参加的自由模式</color>，以及<color=#ff3bc8>小队总分超过特定数值才能参加的进阶模式</color>2种！\n\n想跟朋友一起玩的话，就善加利用“创建房间”功能，把房间ID发给朋友吧！"
+        }
+    },
+    {
+        "id": "la-tips-multi-game-description-3",
+        "data": {
+            "id": "la-tips-multi-game-description-3",
+            "text": "多人演出模式<color=#ff3bc8>最多可以5个人一起玩</color>！\n\n游玩的乐曲会<color=#ff3bc8>从玩家们各自选择的乐曲中随机抽取</color>！\n\n难度也可以由每位玩家分别选择！"
+        }
+    },
+    {
+        "id": "la-tips-multi-game-description-4",
+        "data": {
+            "id": "la-tips-multi-game-description-4",
+            "text": "多人演出模式中，会出现<color=#ff3bc8>提高得分的Fever阶段</color>！\n\nFever阶段需要参加的所有玩家<color=#ff3bc8>一同积攒Fever能量</color>来发动！"
+        }
+    },
+    {
+        "id": "la-tips-multi-game-description-5",
+        "data": {
+            "id": "la-tips-multi-game-description-5",
+            "text": "多人演出模式的得分评级，会由<color=#ff3bc8>全体参加者的总分来决定</color>！"
+        }
+    },
+    {
+        "id": "la-tips-multi-game-description-6",
+        "data": {
+            "id": "la-tips-multi-game-description-6",
+            "text": "多人迷你游戏有<color=#ff3bc8>任何人都可以参加的自由模式</color>！\n\n想跟朋友玩的话，就善加利用“创建房间”功能吧！"
+        }
+    },
+    {
+        "id": "la-tips-multi-game-description-7",
+        "data": {
+            "id": "la-tips-multi-game-description-7",
+            "text": "想知道各个迷你游戏的玩法，<color=#ff3bc8>可以在迷你游戏选择界面点击“？”来查看</color>！"
+        }
+    },
+    {
+        "id": "la-tips-multi-live-description-1",
+        "data": {
+            "id": "la-tips-multi-live-description-1",
+            "text": "多人演出模式分为<color=#ff3bc8>任何人都能参加的自由模式</color>，以及<color=#ff3bc8>小队总分超过特定数值才能参加的进阶模式</color>2种！\n\n想跟朋友一起玩的话，就善加利用“创建房间”功能，把房间ID发给朋友吧！"
+        }
+    },
+    {
+        "id": "la-tips-multi-live-description-2",
+        "data": {
+            "id": "la-tips-multi-live-description-2",
+            "text": "多人演出模式<color=#ff3bc8>最多可以5个人一起玩</color>！\n\n游玩的乐曲会<color=#ff3bc8>从玩家们各自选择的乐曲中随机抽取</color>！\n\n难度也可以由每位玩家分别选择！"
+        }
+    },
+    {
+        "id": "la-tips-multi-live-description-3",
+        "data": {
+            "id": "la-tips-multi-live-description-3",
+            "text": "多人演出模式中，会出现<color=#ff3bc8>提高得分的Fever阶段</color>！\n\nFever阶段需要参加的所有玩家<color=#ff3bc8>一同积攒Fever能量</color>来发动！"
+        }
+    },
+    {
+        "id": "la-tips-multi-live-description-4",
+        "data": {
+            "id": "la-tips-multi-live-description-4",
+            "text": "多人演出模式的得分评级，会由<color=#ff3bc8>全体参加者的总分来决定</color>！"
+        }
+    },
+    {
+        "id": "la-tips-multi-mini_game-description-1",
+        "data": {
+            "id": "la-tips-multi-mini_game-description-1",
+            "text": "多人迷你游戏有<color=#ff3bc8>任何人都可以参加的自由模式</color>！\n\n想跟朋友玩的话，就善加利用“创建房间”功能吧！"
+        }
+    },
+    {
+        "id": "la-tips-multi-mini_game-description-2",
+        "data": {
+            "id": "la-tips-multi-mini_game-description-2",
+            "text": "想知道各个迷你游戏的玩法，<color=#ff3bc8>可以在迷你游戏选择界面点击“？”来查看</color>！"
+        }
+    },
+    {
+        "id": "la-tips-music_highest_score_ranking-description-1",
+        "data": {
+            "id": "la-tips-music_highest_score_ranking-description-1",
+            "text": "得分排行榜会显示每首乐曲单人模式的高分名次！\n\n<color=#ff3bc8>无论难度如何，这首乐曲所获得的最高分数，就会被作为最高得分</color>记录下来！\n如果出现同分的玩家，则提交成绩较早的玩家会排在上方！"
+        }
+    },
+    {
+        "id": "la-tips-music_highest_score_ranking-description-2",
+        "data": {
+            "id": "la-tips-music_highest_score_ranking-description-2",
+            "text": "Holo成员评定值会基于<color=#ff3bc8>将该乐曲的演唱者设置为领队游玩时，获得的最高得分</color>计算得出！\n\n用于评分的乐曲中，排名前三的乐曲的总评分，就会被记录为各个成员的评定值了！\n\n此外，在Holo成员评定值中，排名称号会根据每周的排名结果进行更新！\n\n※排名称号将根据统计时的排名进行发放，若在下次统计时已不在排名称号的适用名次范围内，该称号将会被移除。"
+        }
+    },
+    {
+        "id": "la-tips-operation-description-1",
+        "data": {
+            "id": "la-tips-operation-description-1",
+            "text": "▼操作方法\n・移动：<color=#ff3bc8>点击移动holo成员</color>\n\n・跳跃：<color=#ff3bc8>点击一下，holo成员就会跳起</color>"
+        }
+    },
+    {
+        "id": "la-tips-operation-description-2-pc",
+        "data": {
+            "id": "la-tips-operation-description-2-pc",
+            "text": "▼操作方法\n・移动：<color=#ff3bc8>按WASD键移动holo成员</color>\n\n・显示鼠标指针：<color=#ff3bc8>按Alt显示鼠标指针</color>\n※可以通过鼠标指针选择各项菜单。"
+        }
+    },
+    {
+        "id": "la-tips-park-character-shop-area01-balloon-description-1",
+        "data": {
+            "id": "la-tips-park-character-shop-area01-balloon-description-1",
+            "text": "在乐萌机动小车15可以用Holo奖章兑换气球！\n\n<color=#ff3bc8>从随机出现的3种气球里</color>选择你喜欢的成员的那款吧！"
+        }
+    },
+    {
+        "id": "la-tips-park-character-shop-area01-balloon-description-2",
+        "data": {
+            "id": "la-tips-park-character-shop-area01-balloon-description-2",
+            "text": "获得的气球可以<color=#ff3bc8>打开手持物品菜单，让Holo成员拿在手里</color>！\n\n点击左下角的表情图标，就能开启手持物品菜单了！\n\n还会<color=#ff3bc8>附赠配套的表情</color>，拿到手就用用看吧！"
+        }
+    },
+    {
+        "id": "la-tips-park-character-shop-area01-candy-description-1",
+        "data": {
+            "id": "la-tips-park-character-shop-area01-candy-description-1",
+            "text": "在h3ro餐车，可以用Holo奖章兑换糖果！\n\n<color=#ff3bc8>从随机出现的3种糖果里</color>选择你喜欢的成员的那款吧！"
+        }
+    },
+    {
+        "id": "la-tips-park-character-shop-area01-candy-description-2",
+        "data": {
+            "id": "la-tips-park-character-shop-area01-candy-description-2",
+            "text": "获得的糖果可以<color=#ff3bc8>打开手持物品菜单，让Holo成员拿在手里</color>！\n\n点击左下角的表情图标，就能开启手持物品菜单了！\n\n还会<color=#ff3bc8>附赠配套的表情</color>，拿到手就用用看吧！"
+        }
+    },
+    {
+        "id": "la-tips-park-character-shop-area01-pen-light-description-1",
+        "data": {
+            "id": "la-tips-park-character-shop-area01-pen-light-description-1",
+            "text": "在HOLORO小店，可以用Holo奖章兑换应援棒！\n\n<color=#ff3bc8>从随机出现的3种应援棒里</color>选择你喜欢的成员的那款吧！"
+        }
+    },
+    {
+        "id": "la-tips-park-character-shop-area01-pen-light-description-2",
+        "data": {
+            "id": "la-tips-park-character-shop-area01-pen-light-description-2",
+            "text": "获得的应援棒可以<color=#ff3bc8>打开手持物品菜单，让Holo成员拿在手里</color>！\n\n点击左下角的表情图标，就能开启手持物品菜单了！\n\n还会<color=#ff3bc8>附赠配套的表情</color>，拿到手就用用看吧！"
+        }
+    },
+    {
+        "id": "la-tips-park-character-shop-area02-hair-accessory-description-1",
+        "data": {
+            "id": "la-tips-park-character-shop-area02-hair-accessory-description-1",
+            "text": "用Holo奖章可以在装饰品商店购买发饰！\n\n获得的发饰会从<color=#ff3bc8>你还没有的发饰种类中随机抽取</color>！"
+        }
+    },
+    {
+        "id": "la-tips-park-character-shop-area02-hair-accessory-description-2",
+        "data": {
+            "id": "la-tips-park-character-shop-area02-hair-accessory-description-2",
+            "text": "获得的兔耳朵礼帽可以让对应的holo成员戴上哦！"
+        }
+    },
+    {
+        "id": "la-tips-park-high-low-area02-description-1",
+        "data": {
+            "id": "la-tips-park-high-low-area02-description-1",
+            "text": "强欲之牌是<color=#ff3bc8>押注赢取电玩巨蛋城代币（下称代币）的卡牌游戏</color>！\n\n用手中的5张牌凑扑克牌型，只要牌型成立，就能挑战猜高低加倍机会！"
+        }
+    },
+    {
+        "id": "la-tips-park-high-low-area02-description-2",
+        "data": {
+            "id": "la-tips-park-high-low-area02-description-2",
+            "text": "在加倍机会中，要猜测下一张抽出的牌比前一张牌的数字是大是小！\n\n<color=#ff3bc8>只要猜对了，获得的代币数量就能翻倍</color>！"
+        }
+    },
+    {
+        "id": "la-tips-park-high-low-area02-description-3",
+        "data": {
+            "id": "la-tips-park-high-low-area02-description-3",
+            "text": "<color=#ff3bc8>如果挑战加倍机会失败，之前赢得的代币就会归零，</color>所以要慎重决定哦！\n\n抽出的牌跟前一张数字相同的话，会重新进行抽牌！"
+        }
+    },
+    {
+        "id": "la-tips-park-high-low-area02-description-4",
+        "data": {
+            "id": "la-tips-park-high-low-area02-description-4",
+            "text": "玩猜高低时，<color=#ff3bc8>单局获得的代币和每日获得的代币都是有上限的</color>！\n\n▼猜高低的代币获得上限\n・单局代币获得量上限：<color=#ff3bc8>10000枚</color>\n※单局代币获得量超过10000枚时，游戏会立刻结束。\n※超过10000枚的代币也可以正常获得。\n\n・单日代币获得量上限：<color=#ff3bc8>20000枚</color>\n※单日代币获得量超过20000枚时，当天将无法再游玩猜高低。次日可恢复游玩。\n※超过20000枚的代币也可以正常获得。"
+        }
+    },
+    {
+        "id": "la-tips-park-lottery-area02-gachapon-description-1",
+        "data": {
+            "id": "la-tips-park-lottery-area02-gachapon-description-1",
+            "text": "在扭蛋明猩中，可以花费电玩巨蛋城代币得到各种各样的道具！\n\n<color=#ff3bc8>每天最多可以抽3次！</color>"
+        }
+    },
+    {
+        "id": "la-tips-park-print-booth-area02-description-1",
+        "data": {
+            "id": "la-tips-park-print-booth-area02-description-1",
+            "text": "在闪亮大头贴中可以独自拍照，也可以跟其他holo成员一起拍照！\n\n<color=#ff3bc8>拍下的照片可以作为图片文件保存</color>！"
+        }
+    },
+    {
+        "id": "la-tips-park-print-booth-area02-description-2",
+        "data": {
+            "id": "la-tips-park-print-booth-area02-description-2",
+            "text": "拍下照片后，可以<color=#ff3bc8>随意变更背景，也可以在上面贴图</color>哦！"
+        }
+    },
+    {
+        "id": "la-tips-park-select-area02-description-1",
+        "data": {
+            "id": "la-tips-park-select-area02-description-1",
+            "text": "电玩巨蛋城的游玩区域门口有一柄操纵杆哦！\n\n掰动操纵杆，可以在<color=#ff3bc8>游戏区和赌场区之间切换</color>！"
+        }
+    },
+    {
+        "id": "la-tips-park-time-period-description-1",
+        "data": {
+            "id": "la-tips-park-time-period-description-1",
+            "text": "游戏内的时段分为<color=#ff3bc8>“早晨”“傍晚”“晚上”</color>，进行演出或游玩迷你游戏，时间就会流逝！\n\n在<color=#ff3bc8>承诺之塔可以自由更改游戏内的时段</color>！"
+        }
+    },
+    {
+        "id": "la-tips-park-time-period-description-2",
+        "data": {
+            "id": "la-tips-park-time-period-description-2",
+            "text": "<color=#ff3bc8>有些任务只会在特定时段出现</color>哦！\n\n尝试更改时段，触发新的任务吧！"
+        }
+    },
+    {
+        "id": "la-tips-poster-description-1",
+        "data": {
+            "id": "la-tips-poster-description-1",
+            "text": "<color=#ff3bc8>获得的成员和回忆卡可以在回忆展台中展示</color>！\n\n快摆上心仪的成员和回忆卡，装点梦幻乐园吧！"
+        }
+    },
+    {
+        "id": "la-tips-poster-description-2",
+        "data": {
+            "id": "la-tips-poster-description-2",
+            "text": "<color=#ff3bc8>多多搜集回忆卡，可以提升小队参数</color>哦！"
+        }
+    },
+    {
+        "id": "la-tips-present-description-1",
+        "data": {
+            "id": "la-tips-present-description-1",
+            "text": "可以在<color=#ff3bc8>holo之家收取来自holo成员的礼物，1天1次</color>！\n\n赠送礼物的holo成员每天都会变更哦！"
+        }
+    },
+    {
+        "id": "la-tips-quest-daily-description-1",
+        "data": {
+            "id": "la-tips-quest-daily-description-1",
+            "text": "每日任务，是指<color=#ff3bc8>每天都会刷新的任务</color>！\n日期一变就会重置，就可以再次挑战啦！"
+        }
+    },
+    {
+        "id": "la-tips-random_symbol-description-1",
+        "data": {
+            "id": "la-tips-random_symbol-description-1",
+            "text": "holoX好像在梦幻乐园的各种地方藏了宝物哦！\n\n<color=#ff3bc8>宝物每天都会藏在各种各样的地方</color>，去试着找出来吧！"
+        }
+    },
+    {
+        "id": "la-tips-retracable-gacha-description-1",
+        "data": {
+            "id": "la-tips-retracable-gacha-description-1",
+            "text": "自由重抽扭蛋<color=#ff3bc8>可以重抽任意的次数！</color>\n\n一定会获得不重复的<color=#ff3bc8>1位★5、1位★4、3位★3</color>，共计5名成员！\n\n※第一次出现的★5成员，是您最开始选择的Holo成员。<color=#ff3bc8>如果重新进行抽取，那么其他★5成员也会成为抽取对象</color>。"
+        }
+    },
+    {
+        "id": "la-tips-rhythm-game-description-1",
+        "data": {
+            "id": "la-tips-rhythm-game-description-1",
+            "text": "看到蓝色音符时，要<color=#ff3bc8>观察它与判定线重合的时机点击屏幕</color>！\n\n点击的位置稍有偏差也不要紧，重点关注节奏吧！"
+        }
+    },
+    {
+        "id": "la-tips-rhythm-game-description-1-pc",
+        "data": {
+            "id": "la-tips-rhythm-game-description-1-pc",
+            "text": "可以为各个轨道设置对应按键！\n\n<color=#ff3bc8>看到音符流过，就按下对应的按键吧！</color>\n\n※可以在演出选项中设置按键分配。"
+        }
+    },
+    {
+        "id": "la-tips-rhythm-game-description-2",
+        "data": {
+            "id": "la-tips-rhythm-game-description-2",
+            "text": "看到粉色音符时，<color=#ff3bc8>要看准时机滑动它！</color>\n\n不论<color=#ff3bc8>往哪个方向滑动都没有问题！</color>\n\n如果连续出现粉色音符，那么不要放开手指，持续摩擦屏幕也是OK的！"
+        }
+    },
+    {
+        "id": "la-tips-rhythm-game-description-2-pc",
+        "data": {
+            "id": "la-tips-rhythm-game-description-2-pc",
+            "text": "粉色的滑轨音符，要看准时机滑动！\n\n<color=#ff3bc8>※Steam版只需按下对应按键，即可触发判定。</color>"
+        }
+    },
+    {
+        "id": "la-tips-rhythm-game-description-3",
+        "data": {
+            "id": "la-tips-rhythm-game-description-3",
+            "text": "看到绿色音符就<color=#ff3bc8>按住不放吧！</color>\n\n如果音符左右摆动，手指的动作也跟上就好！\n因为没有尾部判定，一直按着也是OK的！"
+        }
+    },
+    {
+        "id": "la-tips-rhythm-game-description-4",
+        "data": {
+            "id": "la-tips-rhythm-game-description-4",
+            "text": "黄色的重音音符，<color=#ff3bc8>更容易出现PERFECT判定，而且点击音效也会略有不同</color>哦！"
+        }
+    },
+    {
+        "id": "la-tips-rhythm-game-description-5",
+        "data": {
+            "id": "la-tips-rhythm-game-description-5",
+            "text": "如果在演出选项中开启“节奏辅助”功能，<color=#ff3bc8>小节当中的反拍等普通音符会变为灰色</color>，更容易看出节奏偏移哦！"
+        }
+    },
+    {
+        "id": "la-tips-skill-tree-description-1",
+        "data": {
+            "id": "la-tips-skill-tree-description-1",
+            "text": "每个Holo成员都有自己的成员面板。<color=#ff3bc8>解锁面板上的格子，就能获得在演出及迷你游戏中生效的效果</color>！\n\n▼格子的种类\n・领队格（红色格子）：设定为演出小队领队后发动的效果\n\n・成员格（蓝色格子）：设定为演出小队成员后发动的效果\n\n・辅助格（黄色/绿色格子）：未编入演出小队也会发动的效果\n\n・连结格：配置成员，就能发动该成员的连结效果"
+        }
+    },
+    {
+        "id": "la-tips-skill-tree-description-2",
+        "data": {
+            "id": "la-tips-skill-tree-description-2",
+            "text": "解锁格子所需的<color=#ff3bc8>各种方块，可以通过兑换所或Holowork等途径获得</color>！\n\n<color=#ff3bc8>提升Holo成员Rank，就能获得Holo成员Pt</color>！\n\n提升Rank所需的经验值，可以通过达成各个成员的成就来获得！"
+        }
+    },
+    {
+        "id": "la-tips-story-description-1",
+        "data": {
+            "id": "la-tips-story-description-1",
+            "text": "在HOLO影城可以回顾之前看过的故事，还能查看PV等特别映像！"
+        }
+    },
+    {
+        "id": "la-tips-work-description-1",
+        "data": {
+            "id": "la-tips-work-description-1",
+            "text": "只要编组相应的成员队伍，就能开始Holowork！\n\n<color=#ff3bc8>经过一定时间后，工作结束！就能领取到奖励</color>啦！\n\n左上角的刷新时间变为0时，活动内容就会刷新！"
+        }
+    },
+    {
+        "id": "la-tips-work-description-2",
+        "data": {
+            "id": "la-tips-work-description-2",
+            "text": "<color=#ff3bc8>小队成员的综合实力越强，工作结束时的评价就会越高</color>哦！\n评价越高，能获得的奖励也就越豪华！\n\n每种holowork都有相应状态绝佳的成员，能够提升参与时的各项参数！"
+        }
+    }
+]

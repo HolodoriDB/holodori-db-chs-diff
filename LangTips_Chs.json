@@ -1,0 +1,912 @@
+[
+    {
+        "id": "la-tips-achievement-title",
+        "data": {
+            "id": "la-tips-achievement-title",
+            "text": "成就"
+        }
+    },
+    {
+        "id": "la-tips-card-upgrade-potential-title",
+        "data": {
+            "id": "la-tips-card-upgrade-potential-title",
+            "text": "成员特训"
+        }
+    },
+    {
+        "id": "la-tips-character-quest-title",
+        "data": {
+            "id": "la-tips-character-quest-title",
+            "text": "Holo成员任务"
+        }
+    },
+    {
+        "id": "la-tips-character-set-title",
+        "data": {
+            "id": "la-tips-character-set-title",
+            "text": "变更操作成员"
+        }
+    },
+    {
+        "id": "la-tips-circuit-title",
+        "data": {
+            "id": "la-tips-circuit-title",
+            "text": "终极向前冲"
+        }
+    },
+    {
+        "id": "la-tips-combo-card-game-title",
+        "data": {
+            "id": "la-tips-combo-card-game-title",
+            "text": "扑克屋！"
+        }
+    },
+    {
+        "id": "la-tips-cooking-puzzle-title",
+        "data": {
+            "id": "la-tips-cooking-puzzle-title",
+            "text": "拼配厨房"
+        }
+    },
+    {
+        "id": "la-tips-creative-chart",
+        "data": {
+            "id": "la-tips-creative-chart",
+            "text": "自制谱面"
+        }
+    },
+    {
+        "id": "la-tips-exchange-area01-title",
+        "data": {
+            "id": "la-tips-exchange-area01-title",
+            "text": "音波菈牡商店"
+        }
+    },
+    {
+        "id": "la-tips-exchange-area02-training-item-title",
+        "data": {
+            "id": "la-tips-exchange-area02-training-item-title",
+            "text": "材料转换所"
+        }
+    },
+    {
+        "id": "la-tips-exchange-coin-area02-title",
+        "data": {
+            "id": "la-tips-exchange-coin-area02-title",
+            "text": "电玩巨蛋城代币兑换所"
+        }
+    },
+    {
+        "id": "la-tips-game-event_portal-title",
+        "data": {
+            "id": "la-tips-game-event_portal-title",
+            "text": "活动传送门"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-achievement_top-title",
+        "data": {
+            "id": "la-tips-game_screen-achievement_top-title",
+            "text": "成就"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-card_catalog-title",
+        "data": {
+            "id": "la-tips-game_screen-card_catalog-title",
+            "text": "成员"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-character_top-title",
+        "data": {
+            "id": "la-tips-game_screen-character_top-title",
+            "text": "holo成员"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-circuit-title",
+        "data": {
+            "id": "la-tips-game_screen-circuit-title",
+            "text": "终极向前冲"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-combo-card-game-title",
+        "data": {
+            "id": "la-tips-game_screen-combo-card-game-title",
+            "text": "扑克屋！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-cooking-puzzle-title",
+        "data": {
+            "id": "la-tips-game_screen-cooking-puzzle-title",
+            "text": "拼配厨房"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-creative-chart-title",
+        "data": {
+            "id": "la-tips-game_screen-creative-chart-title",
+            "text": "自制谱面"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-friend_top-title",
+        "data": {
+            "id": "la-tips-game_screen-friend_top-title",
+            "text": "好友"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-high_score_rating-title",
+        "data": {
+            "id": "la-tips-game_screen-high_score_rating-title",
+            "text": "Holo成员评定值"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-jump-rope-multi-title",
+        "data": {
+            "id": "la-tips-game_screen-jump-rope-multi-title",
+            "text": "跳跳大绳"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-jump-rope-top-title",
+        "data": {
+            "id": "la-tips-game_screen-jump-rope-top-title",
+            "text": "跳跳大绳"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-live_deck_edit-title",
+        "data": {
+            "id": "la-tips-game_screen-live_deck_edit-title",
+            "text": "编辑小队"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-membership_top-title",
+        "data": {
+            "id": "la-tips-game_screen-membership_top-title",
+            "text": "会员"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-mission_pass_top-title",
+        "data": {
+            "id": "la-tips-game_screen-mission_pass_top-title",
+            "text": "任务通行证"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-multi_mini_game_top-title",
+        "data": {
+            "id": "la-tips-game_screen-multi_mini_game_top-title",
+            "text": "多人迷你游戏"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-multi_rhythm_game_lobby-title",
+        "data": {
+            "id": "la-tips-game_screen-multi_rhythm_game_lobby-title",
+            "text": "共同演出"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-multi_rhythm_game_top-title",
+        "data": {
+            "id": "la-tips-game_screen-multi_rhythm_game_top-title",
+            "text": "共同演出"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-music_shop_selection-title",
+        "data": {
+            "id": "la-tips-game_screen-music_shop_selection-title",
+            "text": "乐曲商店"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park_change_playable-title",
+        "data": {
+            "id": "la-tips-game_screen-park_change_playable-title",
+            "text": "变更holo成员"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park_high_low_top-title",
+        "data": {
+            "id": "la-tips-game_screen-park_high_low_top-title",
+            "text": "猜高低"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park_poster_booth-title",
+        "data": {
+            "id": "la-tips-game_screen-park_poster_booth-title",
+            "text": "回忆卡"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park_quest_info-title",
+        "data": {
+            "id": "la-tips-game_screen-park_quest_info-title",
+            "text": "任务"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-score_ranking-title",
+        "data": {
+            "id": "la-tips-game_screen-score_ranking-title",
+            "text": "得分排行榜"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-shop_top-title",
+        "data": {
+            "id": "la-tips-game_screen-shop_top-title",
+            "text": "商店"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-skill_tree-title",
+        "data": {
+            "id": "la-tips-game_screen-skill_tree-title",
+            "text": "Holo成员面板"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-story_archive_top-title",
+        "data": {
+            "id": "la-tips-game_screen-story_archive_top-title",
+            "text": "影城"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-user_profile_top-title",
+        "data": {
+            "id": "la-tips-game_screen-user_profile_top-title",
+            "text": "个人资料"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-work_top-title",
+        "data": {
+            "id": "la-tips-game_screen-work_top-title",
+            "text": "Holowork"
+        }
+    },
+    {
+        "id": "la-tips-hint-account_migration-title",
+        "data": {
+            "id": "la-tips-hint-account_migration-title",
+            "text": "账号关联"
+        }
+    },
+    {
+        "id": "la-tips-hint-card_detail_level_limit_break-title",
+        "data": {
+            "id": "la-tips-hint-card_detail_level_limit_break-title",
+            "text": "特训"
+        }
+    },
+    {
+        "id": "la-tips-hint-card_detail_level_up-title",
+        "data": {
+            "id": "la-tips-hint-card_detail_level_up-title",
+            "text": "升级"
+        }
+    },
+    {
+        "id": "la-tips-hint-card_detail_live_skill-title",
+        "data": {
+            "id": "la-tips-hint-card_detail_live_skill-title",
+            "text": "技能"
+        }
+    },
+    {
+        "id": "la-tips-hint-card_detail_skill_tree_connect_effect-title",
+        "data": {
+            "id": "la-tips-hint-card_detail_skill_tree_connect_effect-title",
+            "text": "连结效果"
+        }
+    },
+    {
+        "id": "la-tips-hint-character_level_exp-title",
+        "data": {
+            "id": "la-tips-hint-character_level_exp-title",
+            "text": "Holo成员Rank"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_card_leveling-title",
+        "data": {
+            "id": "la-tips-hint-live_card_leveling-title",
+            "text": "来培养成员吧！"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_deck_evaluation_value_not_reached-title",
+        "data": {
+            "id": "la-tips-hint-live_deck_evaluation_value_not_reached-title",
+            "text": "提升小队总分吧！"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_leader_skill_not_activated-title",
+        "data": {
+            "id": "la-tips-hint-live_leader_skill_not_activated-title",
+            "text": "发动服装技能吧！"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_live_deck_evaluation-title",
+        "data": {
+            "id": "la-tips-hint-live_live_deck_evaluation-title",
+            "text": "小队总分"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_multi_live_cooperation_auto_play_allow-title",
+        "data": {
+            "id": "la-tips-hint-live_multi_live_cooperation_auto_play_allow-title",
+            "text": "允许自动游戏"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_brightness_setting-title",
+        "data": {
+            "id": "la-tips-hint-live_option_brightness_setting-title",
+            "text": "亮度设置"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_active_skill_display-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_active_skill_display-title",
+            "text": "显示主动技能"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_background_display_illustration_setting-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_background_display_illustration_setting-title",
+            "text": "设置显示插图"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_background_mode_setting-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_background_mode_setting-title",
+            "text": "背景模式设置"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_combo_continuation_display-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_combo_continuation_display-title",
+            "text": "持续显示连击"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_fast_slow_display-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_fast_slow_display-title",
+            "text": "SLOW·FAST显示"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_fever_effect_setting-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_fever_effect_setting-title",
+            "text": "FEVER特效"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_fps_sync-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_fps_sync-title",
+            "text": "FPS同步"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_key_beam-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_key_beam-title",
+            "text": "按键光效"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_leader_skill_display-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_leader_skill_display-title",
+            "text": "领队的Holo成员技能"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_measure_line_display-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_measure_line_display-title",
+            "text": "显示小节线"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_rhythm_support-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_rhythm_support-title",
+            "text": "节奏辅助"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_screen_fps_setting-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_screen_fps_setting-title",
+            "text": "流畅度"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_screen_lock-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_screen_lock-title",
+            "text": "画面固定"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_simultaneous_press_line-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_simultaneous_press_line-title",
+            "text": "同时按键辅助线"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_skill_effect_above_judgement_text-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_skill_effect_above_judgement_text-title",
+            "text": "判定文字上的技能效果"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_slideshow_switch_time-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_slideshow_switch_time-title",
+            "text": "幻灯片切换时间"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_special_skill_background_display-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_special_skill_background_display-title",
+            "text": "显示SP技能背景"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_special_skill_effect_display-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_special_skill_effect_display-title",
+            "text": "显示SP技能效果"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_special_skill_illustration_display-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_special_skill_illustration_display-title",
+            "text": "SP技能插图 & Live2D"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_tap_effect-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_tap_effect-title",
+            "text": "点击特效"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_tap_vibration-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_tap_vibration-title",
+            "text": "点击时震动"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_key_config_lane-title",
+        "data": {
+            "id": "la-tips-hint-live_option_key_config_lane-title",
+            "text": "设置（轨道）"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_key_config_other-title",
+        "data": {
+            "id": "la-tips-hint-live_option_key_config_other-title",
+            "text": "设置（其他）"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_lane_bottom_cut-title",
+        "data": {
+            "id": "la-tips-hint-live_option_lane_bottom_cut-title",
+            "text": "截断轨道下方"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_lane_setting-title",
+        "data": {
+            "id": "la-tips-hint-live_option_lane_setting-title",
+            "text": "判定线位置"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_lane_top_cut-title",
+        "data": {
+            "id": "la-tips-hint-live_option_lane_top_cut-title",
+            "text": "截断轨道上方"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_mirror_chart-title",
+        "data": {
+            "id": "la-tips-hint-live_option_mirror_chart-title",
+            "text": "镜像谱面"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_music_mv_setting-title",
+        "data": {
+            "id": "la-tips-hint-live_option_music_mv_setting-title",
+            "text": "MV设置（保存数据）"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_music_timing_adjustment-title",
+        "data": {
+            "id": "la-tips-hint-live_option_music_timing_adjustment-title",
+            "text": "乐曲时机调整"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_note_speed-title",
+        "data": {
+            "id": "la-tips-hint-live_option_note_speed-title",
+            "text": "音符速度"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_combo-title",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_combo-title",
+            "text": "连击字样"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_header-title",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_header-title",
+            "text": "顶部UI"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_judgement_text-title",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_judgement_text-title",
+            "text": "判定字样"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_lane-title",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_lane-title",
+            "text": "轨道"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_normal_background_customize-title",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_normal_background_customize-title",
+            "text": "普通背景自定义"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_note-title",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_note-title",
+            "text": "音符外观"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_tap_effect_type-title",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_tap_effect_type-title",
+            "text": "点击特效外观"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_sound_effect-title",
+        "data": {
+            "id": "la-tips-hint-live_option_sound_effect-title",
+            "text": "效果音量"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_sound_music-title",
+        "data": {
+            "id": "la-tips-hint-live_option_sound_music-title",
+            "text": "乐曲"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_sound_skill_se-title",
+        "data": {
+            "id": "la-tips-hint-live_option_sound_skill_se-title",
+            "text": "技能音效"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_sound_skill_voice-title",
+        "data": {
+            "id": "la-tips-hint-live_option_sound_skill_voice-title",
+            "text": "技能语音"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_sound_tap-title",
+        "data": {
+            "id": "la-tips-hint-live_option_sound_tap-title",
+            "text": "点击音效"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_sound_voice_sound-title",
+        "data": {
+            "id": "la-tips-hint-live_option_sound_voice_sound-title",
+            "text": "语音音量"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_timing_adjustment-title",
+        "data": {
+            "id": "la-tips-hint-live_option_timing_adjustment-title",
+            "text": "调整判定时机"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_reward_up_stamina-title",
+        "data": {
+            "id": "la-tips-hint-live_reward_up_stamina-title",
+            "text": "演出能量"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_skill_tree_released-title",
+        "data": {
+            "id": "la-tips-hint-live_skill_tree_released-title",
+            "text": "解锁Holo成员面板吧！"
+        }
+    },
+    {
+        "id": "la-tips-hint-mini_game_reward_up_stamina-title",
+        "data": {
+            "id": "la-tips-hint-mini_game_reward_up_stamina-title",
+            "text": "迷你游戏能量"
+        }
+    },
+    {
+        "id": "la-tips-hnt-card_list_live_deck_power_permiriad_up_by_level_up-title",
+        "data": {
+            "id": "la-tips-hnt-card_list_live_deck_power_permiriad_up_by_level_up-title",
+            "text": "成员强化加成"
+        }
+    },
+    {
+        "id": "la-tips-instant_tips-present-facerock-2-title",
+        "data": {
+            "id": "la-tips-instant_tips-present-facerock-2-title",
+            "text": "来自0期生的礼物"
+        }
+    },
+    {
+        "id": "la-tips-instant_tips-present-prison-2-title",
+        "data": {
+            "id": "la-tips-instant_tips-present-prison-2-title",
+            "text": "来自Advent的礼物"
+        }
+    },
+    {
+        "id": "la-tips-instant_tips-random_reward-livehouse-2-title",
+        "data": {
+            "id": "la-tips-instant_tips-random_reward-livehouse-2-title",
+            "text": "holo成员的隐秘宝藏 进阶版"
+        }
+    },
+    {
+        "id": "la-tips-jump-rope-title",
+        "data": {
+            "id": "la-tips-jump-rope-title",
+            "text": "跳跳大绳"
+        }
+    },
+    {
+        "id": "la-tips-live-title",
+        "data": {
+            "id": "la-tips-live-title",
+            "text": "小队"
+        }
+    },
+    {
+        "id": "la-tips-lottery-area02-scratch-title",
+        "data": {
+            "id": "la-tips-lottery-area02-scratch-title",
+            "text": "恰玛红心大转盘"
+        }
+    },
+    {
+        "id": "la-tips-mission-pass-title",
+        "data": {
+            "id": "la-tips-mission-pass-title",
+            "text": "任务通行证"
+        }
+    },
+    {
+        "id": "la-tips-multi-game-title",
+        "data": {
+            "id": "la-tips-multi-game-title",
+            "text": "多人游戏"
+        }
+    },
+    {
+        "id": "la-tips-multi-live-title",
+        "data": {
+            "id": "la-tips-multi-live-title",
+            "text": "共同演出"
+        }
+    },
+    {
+        "id": "la-tips-multi-mini_game-title",
+        "data": {
+            "id": "la-tips-multi-mini_game-title",
+            "text": "多人迷你游戏"
+        }
+    },
+    {
+        "id": "la-tips-music_highest_score_ranking",
+        "data": {
+            "id": "la-tips-music_highest_score_ranking",
+            "text": "得分排行榜&Holo成员评定值"
+        }
+    },
+    {
+        "id": "la-tips-operation-title",
+        "data": {
+            "id": "la-tips-operation-title",
+            "text": "操作方法"
+        }
+    },
+    {
+        "id": "la-tips-park-character-shop-area01-balloon-title",
+        "data": {
+            "id": "la-tips-park-character-shop-area01-balloon-title",
+            "text": "气球商店"
+        }
+    },
+    {
+        "id": "la-tips-park-character-shop-area01-candy-title",
+        "data": {
+            "id": "la-tips-park-character-shop-area01-candy-title",
+            "text": "糖果商店"
+        }
+    },
+    {
+        "id": "la-tips-park-character-shop-area01-pen-light-title",
+        "data": {
+            "id": "la-tips-park-character-shop-area01-pen-light-title",
+            "text": "应援棒商店"
+        }
+    },
+    {
+        "id": "la-tips-park-character-shop-area02-hair-accessory-title",
+        "data": {
+            "id": "la-tips-park-character-shop-area02-hair-accessory-title",
+            "text": "礼帽商店"
+        }
+    },
+    {
+        "id": "la-tips-park-high-low-area02-title",
+        "data": {
+            "id": "la-tips-park-high-low-area02-title",
+            "text": "强欲之牌"
+        }
+    },
+    {
+        "id": "la-tips-park-lottery-area02-gachapon-title",
+        "data": {
+            "id": "la-tips-park-lottery-area02-gachapon-title",
+            "text": "扭蛋明猩"
+        }
+    },
+    {
+        "id": "la-tips-park-print-booth-area02-title",
+        "data": {
+            "id": "la-tips-park-print-booth-area02-title",
+            "text": "闪亮大头贴"
+        }
+    },
+    {
+        "id": "la-tips-park-select-area02-title",
+        "data": {
+            "id": "la-tips-park-select-area02-title",
+            "text": "切换操纵杆"
+        }
+    },
+    {
+        "id": "la-tips-park-time-period-title",
+        "data": {
+            "id": "la-tips-park-time-period-title",
+            "text": "更改时间"
+        }
+    },
+    {
+        "id": "la-tips-poster-title",
+        "data": {
+            "id": "la-tips-poster-title",
+            "text": "回忆卡"
+        }
+    },
+    {
+        "id": "la-tips-present-title",
+        "data": {
+            "id": "la-tips-present-title",
+            "text": "来自holo成员的礼物"
+        }
+    },
+    {
+        "id": "la-tips-quest-daily-title",
+        "data": {
+            "id": "la-tips-quest-daily-title",
+            "text": "每日任务"
+        }
+    },
+    {
+        "id": "la-tips-random_symbol-title",
+        "data": {
+            "id": "la-tips-random_symbol-title",
+            "text": "holo成员的隐秘宝藏"
+        }
+    },
+    {
+        "id": "la-tips-retracable-gacha-title",
+        "data": {
+            "id": "la-tips-retracable-gacha-title",
+            "text": "自由重抽扭蛋"
+        }
+    },
+    {
+        "id": "la-tips-rhythm-game-title",
+        "data": {
+            "id": "la-tips-rhythm-game-title",
+            "text": "演出"
+        }
+    },
+    {
+        "id": "la-tips-skill-tree-title",
+        "data": {
+            "id": "la-tips-skill-tree-title",
+            "text": "Holo成员面板"
+        }
+    },
+    {
+        "id": "la-tips-story-title",
+        "data": {
+            "id": "la-tips-story-title",
+            "text": "影城"
+        }
+    },
+    {
+        "id": "la-tips-work-title",
+        "data": {
+            "id": "la-tips-work-title",
+            "text": "Holowork"
+        }
+    }
+]

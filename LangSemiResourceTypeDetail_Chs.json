@@ -1,0 +1,44 @@
+[
+    {
+        "id": "la-semi_resource_type_detail-card_potential_upgrade_point-description",
+        "data": {
+            "id": "la-semi_resource_type_detail-card_potential_upgrade_point-description",
+            "text": "让成员绽放出新才能所需要的Pt。"
+        }
+    },
+    {
+        "id": "la-semi_resource_type_detail-card_potential_upgrade_point-name",
+        "data": {
+            "id": "la-semi_resource_type_detail-card_potential_upgrade_point-name",
+            "text": "成员绽放Pt"
+        }
+    },
+    {
+        "id": "la-semi_resource_type_detail-live_reward_up_stamina-description",
+        "data": {
+            "id": "la-semi_resource_type_detail-live_reward_up_stamina-description",
+            "text": "可以增加演出时奖励的道具。"
+        }
+    },
+    {
+        "id": "la-semi_resource_type_detail-live_reward_up_stamina-name",
+        "data": {
+            "id": "la-semi_resource_type_detail-live_reward_up_stamina-name",
+            "text": "演出能量"
+        }
+    },
+    {
+        "id": "la-semi_resource_type_detail-mini_game_reward_up_stamina-description",
+        "data": {
+            "id": "la-semi_resource_type_detail-mini_game_reward_up_stamina-description",
+            "text": "可以增加迷你游戏奖励的道具。"
+        }
+    },
+    {
+        "id": "la-semi_resource_type_detail-mini_game_reward_up_stamina-name",
+        "data": {
+            "id": "la-semi_resource_type_detail-mini_game_reward_up_stamina-name",
+            "text": "迷你游戏能量"
+        }
+    }
+]

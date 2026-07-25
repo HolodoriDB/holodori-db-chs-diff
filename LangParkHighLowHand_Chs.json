@@ -1,0 +1,72 @@
+[
+    {
+        "id": "la-park_high_low_hand-001-five_card",
+        "data": {
+            "id": "la-park_high_low_hand-001-five_card",
+            "text": "五条"
+        }
+    },
+    {
+        "id": "la-park_high_low_hand-001-flush",
+        "data": {
+            "id": "la-park_high_low_hand-001-flush",
+            "text": "同花"
+        }
+    },
+    {
+        "id": "la-park_high_low_hand-001-four_card",
+        "data": {
+            "id": "la-park_high_low_hand-001-four_card",
+            "text": "四条"
+        }
+    },
+    {
+        "id": "la-park_high_low_hand-001-full_house",
+        "data": {
+            "id": "la-park_high_low_hand-001-full_house",
+            "text": "葫芦"
+        }
+    },
+    {
+        "id": "la-park_high_low_hand-001-one_pair",
+        "data": {
+            "id": "la-park_high_low_hand-001-one_pair",
+            "text": "一对"
+        }
+    },
+    {
+        "id": "la-park_high_low_hand-001-royal_straight_flush",
+        "data": {
+            "id": "la-park_high_low_hand-001-royal_straight_flush",
+            "text": "皇家同花顺"
+        }
+    },
+    {
+        "id": "la-park_high_low_hand-001-straight",
+        "data": {
+            "id": "la-park_high_low_hand-001-straight",
+            "text": "顺子"
+        }
+    },
+    {
+        "id": "la-park_high_low_hand-001-straight_flush",
+        "data": {
+            "id": "la-park_high_low_hand-001-straight_flush",
+            "text": "同花顺"
+        }
+    },
+    {
+        "id": "la-park_high_low_hand-001-three_card",
+        "data": {
+            "id": "la-park_high_low_hand-001-three_card",
+            "text": "三条"
+        }
+    },
+    {
+        "id": "la-park_high_low_hand-001-two_pair",
+        "data": {
+            "id": "la-park_high_low_hand-001-two_pair",
+            "text": "两对"
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": "la-combo_card_game-game_playing_display_clear_condition_lang-default",
+        "data": {
+            "id": "la-combo_card_game-game_playing_display_clear_condition_lang-default",
+            "text": "以高分为目标吧！"
+        }
+    },
+    {
+        "id": "la-combo_card_game-game_playing_display_clear_condition_lang-play",
+        "data": {
+            "id": "la-combo_card_game-game_playing_display_clear_condition_lang-play",
+            "text": "玩到最后吧！"
+        }
+    },
+    {
+        "id": "la-combo_card_game-game_playing_display_clear_condition_lang-rank",
+        "data": {
+            "id": "la-combo_card_game-game_playing_display_clear_condition_lang-rank",
+            "text": "以挤进前<size=56>{0}</size>名为目标！"
+        }
+    },
+    {
+        "id": "la-combo_card_game-game_start_display_clear_condition_lang-default",
+        "data": {
+            "id": "la-combo_card_game-game_start_display_clear_condition_lang-default",
+            "text": "收集牌型，获得高分！"
+        }
+    },
+    {
+        "id": "la-combo_card_game-game_start_display_clear_condition_lang-play",
+        "data": {
+            "id": "la-combo_card_game-game_start_display_clear_condition_lang-play",
+            "text": "玩到最后吧！"
+        }
+    },
+    {
+        "id": "la-combo_card_game-game_start_display_clear_condition_lang-rank",
+        "data": {
+            "id": "la-combo_card_game-game_start_display_clear_condition_lang-rank",
+            "text": "以挤进前{0}名为目标！"
+        }
+    }
+]

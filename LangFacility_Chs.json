@@ -1,0 +1,751 @@
+[
+    {
+        "id": "la-facility-a01-athletic-description",
+        "data": {
+            "id": "la-facility-a01-athletic-description",
+            "text": "3期生建造的运动设施。\n在这里可以活动身体。"
+        }
+    },
+    {
+        "id": "la-facility-a01-athletic-name",
+        "data": {
+            "id": "la-facility-a01-athletic-name",
+            "text": "嬉闹操场"
+        }
+    },
+    {
+        "id": "la-facility-a01-balloonstore-description",
+        "data": {
+            "id": "la-facility-a01-balloonstore-description",
+            "text": "ID1期生的售货小车。\n提供五颜六色的气球。"
+        }
+    },
+    {
+        "id": "la-facility-a01-balloonstore-name",
+        "data": {
+            "id": "la-facility-a01-balloonstore-name",
+            "text": "乐萌机动小车15"
+        }
+    },
+    {
+        "id": "la-facility-a01-candystore-description",
+        "data": {
+            "id": "la-facility-a01-candystore-description",
+            "text": "ID3期生的售货小车。\n能买到好吃的糖果。"
+        }
+    },
+    {
+        "id": "la-facility-a01-candystore-name",
+        "data": {
+            "id": "la-facility-a01-candystore-name",
+            "text": "h3ro餐车"
+        }
+    },
+    {
+        "id": "la-facility-a01-clocktower-description",
+        "data": {
+            "id": "la-facility-a01-clocktower-description",
+            "text": "Promise建造的钟塔。\n常用作大家的碰头地点。"
+        }
+    },
+    {
+        "id": "la-facility-a01-clocktower-name",
+        "data": {
+            "id": "la-facility-a01-clocktower-name",
+            "text": "承诺之塔"
+        }
+    },
+    {
+        "id": "la-facility-a01-entrance-description",
+        "data": {
+            "id": "la-facility-a01-entrance-description",
+            "text": "梦幻乐园的入口。\n与港口相连。"
+        }
+    },
+    {
+        "id": "la-facility-a01-entrance-name",
+        "data": {
+            "id": "la-facility-a01-entrance-name",
+            "text": "乐园入口"
+        }
+    },
+    {
+        "id": "la-facility-a01-exchangebooth-description",
+        "data": {
+            "id": "la-facility-a01-exchangebooth-description",
+            "text": "5期生的周边商店。\n可以买到各种各样的商品。"
+        }
+    },
+    {
+        "id": "la-facility-a01-exchangebooth-name",
+        "data": {
+            "id": "la-facility-a01-exchangebooth-name",
+            "text": "音波菈牡商店"
+        }
+    },
+    {
+        "id": "la-facility-a01-facerock-description",
+        "data": {
+            "id": "la-facility-a01-facerock-description",
+            "text": "雕刻着0期生面孔的岩山。\n每天都在守望整座乐园。"
+        }
+    },
+    {
+        "id": "la-facility-a01-facerock-name",
+        "data": {
+            "id": "la-facility-a01-facerock-name",
+            "text": "颜岩山"
+        }
+    },
+    {
+        "id": "la-facility-a01-ferriswheel-description",
+        "data": {
+            "id": "la-facility-a01-ferriswheel-description",
+            "text": "4期生建造的摩天轮。\n可以坐在轿厢里欣赏乐园美景。"
+        }
+    },
+    {
+        "id": "la-facility-a01-ferriswheel-name",
+        "data": {
+            "id": "la-facility-a01-ferriswheel-name",
+            "text": "KISEKI之轮"
+        }
+    },
+    {
+        "id": "la-facility-a01-ferriswheelinside-description",
+        "data": {
+            "id": "la-facility-a01-ferriswheelinside-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-facility-a01-ferriswheelinside-name",
+        "data": {
+            "id": "la-facility-a01-ferriswheelinside-name",
+            "text": "KISEKI之轮 屋内"
+        }
+    },
+    {
+        "id": "la-facility-a01-gate2-description",
+        "data": {
+            "id": "la-facility-a01-gate2-description",
+            "text": "通往电玩巨蛋城的大门。"
+        }
+    },
+    {
+        "id": "la-facility-a01-gate2-name",
+        "data": {
+            "id": "la-facility-a01-gate2-name",
+            "text": "电玩巨蛋城大门"
+        }
+    },
+    {
+        "id": "la-facility-a01-gate3-description",
+        "data": {
+            "id": "la-facility-a01-gate3-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-facility-a01-gate3-name",
+        "data": {
+            "id": "la-facility-a01-gate3-name",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-facility-a01-gate4-description",
+        "data": {
+            "id": "la-facility-a01-gate4-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-facility-a01-gate4-name",
+        "data": {
+            "id": "la-facility-a01-gate4-name",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-facility-a01-gate5-description",
+        "data": {
+            "id": "la-facility-a01-gate5-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-facility-a01-gate5-name",
+        "data": {
+            "id": "la-facility-a01-gate5-name",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-facility-a01-gate6-description",
+        "data": {
+            "id": "la-facility-a01-gate6-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-facility-a01-gate6-name",
+        "data": {
+            "id": "la-facility-a01-gate6-name",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-facility-a01-gate7-description",
+        "data": {
+            "id": "la-facility-a01-gate7-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-facility-a01-gate7-name",
+        "data": {
+            "id": "la-facility-a01-gate7-name",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-facility-a01-house-achievement-name",
+        "data": {
+            "id": "la-facility-a01-house-achievement-name",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-facility-a01-house-description",
+        "data": {
+            "id": "la-facility-a01-house-description",
+            "text": "供holo成员居住的房子。\n大家都过得十分随性。"
+        }
+    },
+    {
+        "id": "la-facility-a01-house-name",
+        "data": {
+            "id": "la-facility-a01-house-name",
+            "text": "holo之家"
+        }
+    },
+    {
+        "id": "la-facility-a01-livehouse-description",
+        "data": {
+            "id": "la-facility-a01-livehouse-description",
+            "text": "重现了ReGLOSS过去\n聚集地风貌的LiveHouse。"
+        }
+    },
+    {
+        "id": "la-facility-a01-livehouse-name",
+        "data": {
+            "id": "la-facility-a01-livehouse-name",
+            "text": "超VeryBad"
+        }
+    },
+    {
+        "id": "la-facility-a01-livestage-description",
+        "data": {
+            "id": "la-facility-a01-livestage-description",
+            "text": "用于演出和练习的舞台。\n装饰得像一座城堡。"
+        }
+    },
+    {
+        "id": "la-facility-a01-livestage-name",
+        "data": {
+            "id": "la-facility-a01-livestage-name",
+            "text": "演出舞台"
+        }
+    },
+    {
+        "id": "la-facility-a01-memoryboard-description",
+        "data": {
+            "id": "la-facility-a01-memoryboard-description",
+            "text": "供大家自由使用的公告板。\n可以贴上喜欢的插画。"
+        }
+    },
+    {
+        "id": "la-facility-a01-memoryboard-name",
+        "data": {
+            "id": "la-facility-a01-memoryboard-name",
+            "text": "回忆展台"
+        }
+    },
+    {
+        "id": "la-facility-a01-multiplay-description",
+        "data": {
+            "id": "la-facility-a01-multiplay-description",
+            "text": "Myth的虚拟设施。\n可以与全世界的人产生联系。"
+        }
+    },
+    {
+        "id": "la-facility-a01-multiplay-name",
+        "data": {
+            "id": "la-facility-a01-multiplay-name",
+            "text": "幸运网络"
+        }
+    },
+    {
+        "id": "la-facility-a01-penlightstore-description",
+        "data": {
+            "id": "la-facility-a01-penlightstore-description",
+            "text": "ID2期生的杂货铺。\n出售品类齐全的应援棒。"
+        }
+    },
+    {
+        "id": "la-facility-a01-penlightstore-name",
+        "data": {
+            "id": "la-facility-a01-penlightstore-name",
+            "text": "HOLORO小店"
+        }
+    },
+    {
+        "id": "la-facility-a01-prison-description",
+        "data": {
+            "id": "la-facility-a01-prison-description",
+            "text": "Advent制作的展馆。\n重现了她们逃脱的监狱。"
+        }
+    },
+    {
+        "id": "la-facility-a01-prison-name",
+        "data": {
+            "id": "la-facility-a01-prison-name",
+            "text": "The Cell再临"
+        }
+    },
+    {
+        "id": "la-facility-a01-restaurant-description",
+        "data": {
+            "id": "la-facility-a01-restaurant-description",
+            "text": "1期生经营的餐厅。\n能吃到很多holo成员主题餐品。"
+        }
+    },
+    {
+        "id": "la-facility-a01-restaurant-name",
+        "data": {
+            "id": "la-facility-a01-restaurant-name",
+            "text": "满腹之旅"
+        }
+    },
+    {
+        "id": "la-facility-a01-secretbase-description",
+        "data": {
+            "id": "la-facility-a01-secretbase-description",
+            "text": "holoX的新基地。\n她们常常在这里召开秘密会议。"
+        }
+    },
+    {
+        "id": "la-facility-a01-secretbase-name",
+        "data": {
+            "id": "la-facility-a01-secretbase-name",
+            "text": "holoX基地"
+        }
+    },
+    {
+        "id": "la-facility-a01-signboard1-name",
+        "data": {
+            "id": "la-facility-a01-signboard1-name",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-facility-a01-signboard2-name",
+        "data": {
+            "id": "la-facility-a01-signboard2-name",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-facility-a01-signboard3-name",
+        "data": {
+            "id": "la-facility-a01-signboard3-name",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-facility-a01-square-description",
+        "data": {
+            "id": "la-facility-a01-square-description",
+            "text": "位于乐园中央的广场。\n以大型喷泉作为地标。"
+        }
+    },
+    {
+        "id": "la-facility-a01-square-name",
+        "data": {
+            "id": "la-facility-a01-square-name",
+            "text": "广场"
+        }
+    },
+    {
+        "id": "la-facility-a01-station-description",
+        "data": {
+            "id": "la-facility-a01-station-description",
+            "text": "GAMERS建造的成员专用港口。\n前往岛外时可以使用。"
+        }
+    },
+    {
+        "id": "la-facility-a01-station-name",
+        "data": {
+            "id": "la-facility-a01-station-name",
+            "text": "游戏小站"
+        }
+    },
+    {
+        "id": "la-facility-a01-theater-description",
+        "data": {
+            "id": "la-facility-a01-theater-description",
+            "text": "2期生经营的电影院。\n正在放映holo成员们的回忆。"
+        }
+    },
+    {
+        "id": "la-facility-a01-theater-name",
+        "data": {
+            "id": "la-facility-a01-theater-name",
+            "text": "HOLO影城"
+        }
+    },
+    {
+        "id": "la-facility-a02-bartable-description",
+        "data": {
+            "id": "la-facility-a02-bartable-description",
+            "text": "Nerissa的酒吧。\n用漂亮的饮料干杯吧。"
+        }
+    },
+    {
+        "id": "la-facility-a02-bartable-name",
+        "data": {
+            "id": "la-facility-a02-bartable-name",
+            "text": "渡鸦酒吧"
+        }
+    },
+    {
+        "id": "la-facility-a02-blackjack-description",
+        "data": {
+            "id": "la-facility-a02-blackjack-description",
+            "text": "Moona的牌桌。\n这架火箭究竟要飞往何方？"
+        }
+    },
+    {
+        "id": "la-facility-a02-blackjack-name",
+        "data": {
+            "id": "la-facility-a02-blackjack-name",
+            "text": "逐月王牌"
+        }
+    },
+    {
+        "id": "la-facility-a02-clocklever-description",
+        "data": {
+            "id": "la-facility-a02-clocklever-description",
+            "text": "非常显眼的大操纵杆。\n可以切换两个区域。"
+        }
+    },
+    {
+        "id": "la-facility-a02-clocklever-name",
+        "data": {
+            "id": "la-facility-a02-clocklever-name",
+            "text": "切换操纵杆"
+        }
+    },
+    {
+        "id": "la-facility-a02-coinbooth-description",
+        "data": {
+            "id": "la-facility-a02-coinbooth-description",
+            "text": "电玩巨蛋城的代币兑换所。\n可以用代币兑换道具。"
+        }
+    },
+    {
+        "id": "la-facility-a02-coinbooth-name",
+        "data": {
+            "id": "la-facility-a02-coinbooth-name",
+            "text": "电玩巨蛋城代币兑换所"
+        }
+    },
+    {
+        "id": "la-facility-a02-cranegame-description",
+        "data": {
+            "id": "la-facility-a02-cranegame-description",
+            "text": "萝卜子的娃娃机。\n里面总是塞满了大量奖品。"
+        }
+    },
+    {
+        "id": "la-facility-a02-cranegame-name",
+        "data": {
+            "id": "la-facility-a02-cranegame-name",
+            "text": "夹萝卜机"
+        }
+    },
+    {
+        "id": "la-facility-a02-dancegame-description",
+        "data": {
+            "id": "la-facility-a02-dancegame-description",
+            "text": "Kiara的跳舞机。\n与汉堡们一起热舞到天明吧。"
+        }
+    },
+    {
+        "id": "la-facility-a02-dancegame-name",
+        "data": {
+            "id": "la-facility-a02-dancegame-name",
+            "text": "凤舞革命"
+        }
+    },
+    {
+        "id": "la-facility-a02-dome-name",
+        "data": {
+            "id": "la-facility-a02-dome-name",
+            "text": "天球"
+        }
+    },
+    {
+        "id": "la-facility-a02-entrance-name",
+        "data": {
+            "id": "la-facility-a02-entrance-name",
+            "text": "电玩巨蛋城大厅"
+        }
+    },
+    {
+        "id": "la-facility-a02-entrance-night-name",
+        "data": {
+            "id": "la-facility-a02-entrance-night-name",
+            "text": "电玩巨蛋城大厅"
+        }
+    },
+    {
+        "id": "la-facility-a02-fightinggame-description",
+        "data": {
+            "id": "la-facility-a02-fightinggame-description",
+            "text": "沁音的格斗对战游戏机台。\n热血搏斗的沁音粉让人移不开眼。"
+        }
+    },
+    {
+        "id": "la-facility-a02-fightinggame-name",
+        "data": {
+            "id": "la-facility-a02-fightinggame-name",
+            "text": "正道铁拳对决"
+        }
+    },
+    {
+        "id": "la-facility-a02-highandlow-description",
+        "data": {
+            "id": "la-facility-a02-highandlow-description",
+            "text": "Shiori的牌桌。\n可以在这里玩猜高低。"
+        }
+    },
+    {
+        "id": "la-facility-a02-highandlow-name",
+        "data": {
+            "id": "la-facility-a02-highandlow-name",
+            "text": "强欲之牌"
+        }
+    },
+    {
+        "id": "la-facility-a02-holocircuit-description",
+        "data": {
+            "id": "la-facility-a02-holocircuit-description",
+            "text": "通往终极向前冲的入口。\n大家一起火热竞速吧。"
+        }
+    },
+    {
+        "id": "la-facility-a02-holocircuit-name",
+        "data": {
+            "id": "la-facility-a02-holocircuit-name",
+            "text": "终极向前冲"
+        }
+    },
+    {
+        "id": "la-facility-a02-itemgacha-description",
+        "data": {
+            "id": "la-facility-a02-itemgacha-description",
+            "text": "Kaela的胶囊扭蛋机。\n能获得随机道具。"
+        }
+    },
+    {
+        "id": "la-facility-a02-itemgacha-name",
+        "data": {
+            "id": "la-facility-a02-itemgacha-name",
+            "text": "扭蛋明猩"
+        }
+    },
+    {
+        "id": "la-facility-a02-lightingchange-name",
+        "data": {
+            "id": "la-facility-a02-lightingchange-name",
+            "text": "灯光"
+        }
+    },
+    {
+        "id": "la-facility-a02-materialbooth-description",
+        "data": {
+            "id": "la-facility-a02-materialbooth-description",
+            "text": "材料兑换所。\n可以把碎晶换成水晶。"
+        }
+    },
+    {
+        "id": "la-facility-a02-materialbooth-name",
+        "data": {
+            "id": "la-facility-a02-materialbooth-name",
+            "text": "材料转换所"
+        }
+    },
+    {
+        "id": "la-facility-a02-photobooth-description",
+        "data": {
+            "id": "la-facility-a02-photobooth-description",
+            "text": "游戏区的大头贴机器。\n多拍几张可爱的照片吧。"
+        }
+    },
+    {
+        "id": "la-facility-a02-photobooth-name",
+        "data": {
+            "id": "la-facility-a02-photobooth-name",
+            "text": "闪亮大头贴"
+        }
+    },
+    {
+        "id": "la-facility-a02-pokertable-description",
+        "data": {
+            "id": "la-facility-a02-pokertable-description",
+            "text": "赌场里的大型牌桌。\n用holo成员的牌来凑牌型吧。"
+        }
+    },
+    {
+        "id": "la-facility-a02-pokertable-name",
+        "data": {
+            "id": "la-facility-a02-pokertable-name",
+            "text": "扑克屋！"
+        }
+    },
+    {
+        "id": "la-facility-a02-racebetting-description",
+        "data": {
+            "id": "la-facility-a02-racebetting-description",
+            "text": "佩克拉主办比赛的赛场。\n每只野兔都是认真模式。"
+        }
+    },
+    {
+        "id": "la-facility-a02-racebetting-name",
+        "data": {
+            "id": "la-facility-a02-racebetting-name",
+            "text": "优兔锦标赛"
+        }
+    },
+    {
+        "id": "la-facility-a02-scratchstore-description",
+        "data": {
+            "id": "la-facility-a02-scratchstore-description",
+            "text": "赤井心的刮奖券售卖处。\n1天可以试1次运气。"
+        }
+    },
+    {
+        "id": "la-facility-a02-scratchstore-name",
+        "data": {
+            "id": "la-facility-a02-scratchstore-name",
+            "text": "恰玛红心大转盘"
+        }
+    },
+    {
+        "id": "la-facility-a02-shootinggame-description",
+        "data": {
+            "id": "la-facility-a02-shootinggame-description",
+            "text": "小粥的射击游戏机台。\n保卫地球不受猫星人入侵吧。"
+        }
+    },
+    {
+        "id": "la-facility-a02-shootinggame-name",
+        "data": {
+            "id": "la-facility-a02-shootinggame-name",
+            "text": "饭团危机"
+        }
+    },
+    {
+        "id": "la-facility-a02-signboard1-name",
+        "data": {
+            "id": "la-facility-a02-signboard1-name",
+            "text": "游戏区显示屏前"
+        }
+    },
+    {
+        "id": "la-facility-a02-signboard2-name",
+        "data": {
+            "id": "la-facility-a02-signboard2-name",
+            "text": "游戏区显示屏前"
+        }
+    },
+    {
+        "id": "la-facility-a02-signboard3-name",
+        "data": {
+            "id": "la-facility-a02-signboard3-name",
+            "text": "赌场区显示屏前"
+        }
+    },
+    {
+        "id": "la-facility-a02-signboard4-name",
+        "data": {
+            "id": "la-facility-a02-signboard4-name",
+            "text": "赌场区显示屏前"
+        }
+    },
+    {
+        "id": "la-facility-a02-slotgame-description",
+        "data": {
+            "id": "la-facility-a02-slotgame-description",
+            "text": "赌场区的老虎机。\n近来上瘾成员频发。"
+        }
+    },
+    {
+        "id": "la-facility-a02-slotgame-name",
+        "data": {
+            "id": "la-facility-a02-slotgame-name",
+            "text": "炫彩好运来"
+        }
+    },
+    {
+        "id": "la-facility-a02-station-description",
+        "data": {
+            "id": "la-facility-a02-station-description",
+            "text": "大家一起制作的飞车。\n可以乘坐它前往岛外。"
+        }
+    },
+    {
+        "id": "la-facility-a02-station-name",
+        "data": {
+            "id": "la-facility-a02-station-name",
+            "text": "勤工飞车"
+        }
+    },
+    {
+        "id": "la-facility-facility-a02-facilitylighting-name",
+        "data": {
+            "id": "la-facility-facility-a02-facilitylighting-name",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-facility-gimmick-fixed_symbol-name",
+        "data": {
+            "id": "la-facility-gimmick-fixed_symbol-name",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-facility-gimmick-random_symbol-name",
+        "data": {
+            "id": "la-facility-gimmick-random_symbol-name",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-facility-gimmick-spot-name",
+        "data": {
+            "id": "la-facility-gimmick-spot-name",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-facility-gimmick-treasure-name",
+        "data": {
+            "id": "la-facility-gimmick-treasure-name",
+            "text": "-"
+        }
+    }
+]

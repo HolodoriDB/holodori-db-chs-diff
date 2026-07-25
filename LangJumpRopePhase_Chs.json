@@ -1,0 +1,44 @@
+[
+    {
+        "id": "la-jump_rope_phase-phase1",
+        "data": {
+            "id": "la-jump_rope_phase-phase1",
+            "text": "犯蠢级"
+        }
+    },
+    {
+        "id": "la-jump_rope_phase-phase2",
+        "data": {
+            "id": "la-jump_rope_phase-phase2",
+            "text": "普人级"
+        }
+    },
+    {
+        "id": "la-jump_rope_phase-phase3",
+        "data": {
+            "id": "la-jump_rope_phase-phase3",
+            "text": "强者级"
+        }
+    },
+    {
+        "id": "la-jump_rope_phase-phase4",
+        "data": {
+            "id": "la-jump_rope_phase-phase4",
+            "text": "超强者级"
+        }
+    },
+    {
+        "id": "la-jump_rope_phase-phase5",
+        "data": {
+            "id": "la-jump_rope_phase-phase5",
+            "text": "大神级"
+        }
+    },
+    {
+        "id": "la-jump_rope_phase-phase6",
+        "data": {
+            "id": "la-jump_rope_phase-phase6",
+            "text": "大神级"
+        }
+    }
+]

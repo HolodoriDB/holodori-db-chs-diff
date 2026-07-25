@@ -1,0 +1,478 @@
+[
+    {
+        "id": "la-cooking_recipe_001-level_1-description",
+        "data": {
+            "id": "la-cooking_recipe_001-level_1-description",
+            "text": "由亚绮罗森构思的绝品可丽饼。面皮的清甜和蛋黄酱金枪鱼的咸味一拍即合，吃完就上瘾的holo成员持续增加中。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_001-level_1-name",
+        "data": {
+            "id": "la-cooking_recipe_001-level_1-name",
+            "text": "蛋黄酱金枪鱼可丽饼"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_001-level_2-description",
+        "data": {
+            "id": "la-cooking_recipe_001-level_2-description",
+            "text": "由亚绮罗森构思的绝品可丽饼。面皮的清甜和蛋黄酱金枪鱼的咸味一拍即合，吃完就上瘾的holo成员持续增加中。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_001-level_2-name",
+        "data": {
+            "id": "la-cooking_recipe_001-level_2-name",
+            "text": "蛋黄酱金枪鱼可丽饼"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_001-level_3-description",
+        "data": {
+            "id": "la-cooking_recipe_001-level_3-description",
+            "text": "由亚绮罗森构思的绝品可丽饼。面皮的清甜和蛋黄酱金枪鱼的咸味一拍即合，吃完就上瘾的holo成员持续增加中。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_001-level_3-name",
+        "data": {
+            "id": "la-cooking_recipe_001-level_3-name",
+            "text": "蛋黄酱金枪鱼可丽饼"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_002-level_1-description",
+        "data": {
+            "id": "la-cooking_recipe_002-level_1-description",
+            "text": "哈恰玛创造出的奇异拉面。风味接近虾肉的狼蛛裹着浓郁的汤汁，卖相和味道都十分震撼。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_002-level_1-name",
+        "data": {
+            "id": "la-cooking_recipe_002-level_1-name",
+            "text": "狼蛛拉面"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_002-level_2-description",
+        "data": {
+            "id": "la-cooking_recipe_002-level_2-description",
+            "text": "哈恰玛创造出的奇异拉面。风味接近虾肉的狼蛛裹着浓郁的汤汁，卖相和味道都十分震撼。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_002-level_2-name",
+        "data": {
+            "id": "la-cooking_recipe_002-level_2-name",
+            "text": "狼蛛拉面"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_002-level_3-description",
+        "data": {
+            "id": "la-cooking_recipe_002-level_3-description",
+            "text": "哈恰玛创造出的奇异拉面。风味接近虾肉的狼蛛裹着浓郁的汤汁，卖相和味道都十分震撼。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_002-level_3-name",
+        "data": {
+            "id": "la-cooking_recipe_002-level_3-name",
+            "text": "狼蛛拉面"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_003-level_1-description",
+        "data": {
+            "id": "la-cooking_recipe_003-level_1-description",
+            "text": "最爱吃辣的狐狸盖章认可的超绝HOT咖喱饭。吹雪好像还想把它做得更辣点，但是被其他人拦住了。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_003-level_1-name",
+        "data": {
+            "id": "la-cooking_recipe_003-level_1-name",
+            "text": "爆辣咖喱"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_003-level_2-area-a01-11-1-2-stage5-description",
+        "data": {
+            "id": "la-cooking_recipe_003-level_2-area-a01-11-1-2-stage5-description",
+            "text": "最爱吃辣的狐狸盖章认可的超绝HOT咖喱饭。吹雪好像还想把它做得更辣点，但是被其他人拦住了。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_003-level_2-area-a01-11-1-2-stage5-name",
+        "data": {
+            "id": "la-cooking_recipe_003-level_2-area-a01-11-1-2-stage5-name",
+            "text": "爆辣咖喱"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_003-level_2-description",
+        "data": {
+            "id": "la-cooking_recipe_003-level_2-description",
+            "text": "最爱吃辣的狐狸盖章认可的超绝HOT咖喱饭。吹雪好像还想把它做得更辣点，但是被其他人拦住了。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_003-level_2-name",
+        "data": {
+            "id": "la-cooking_recipe_003-level_2-name",
+            "text": "爆辣咖喱"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_003-level_3-description",
+        "data": {
+            "id": "la-cooking_recipe_003-level_3-description",
+            "text": "最爱吃辣的狐狸盖章认可的超绝HOT咖喱饭。吹雪好像还想把它做得更辣点，但是被其他人拦住了。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_003-level_3-name",
+        "data": {
+            "id": "la-cooking_recipe_003-level_3-name",
+            "text": "爆辣咖喱"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_004-level_1-description",
+        "data": {
+            "id": "la-cooking_recipe_004-level_1-description",
+            "text": "以炸虾狮为设计原型的餐品，夏色祭强烈推荐。可爱的卖相和扎实的分量能让食客心灵和胃口都无比满足。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_004-level_1-name",
+        "data": {
+            "id": "la-cooking_recipe_004-level_1-name",
+            "text": "炸虾狮盖饭"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_004-level_2-description",
+        "data": {
+            "id": "la-cooking_recipe_004-level_2-description",
+            "text": "以炸虾狮为设计原型的餐品，夏色祭强烈推荐。可爱的卖相和扎实的分量能让食客心灵和胃口都无比满足。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_004-level_2-name",
+        "data": {
+            "id": "la-cooking_recipe_004-level_2-name",
+            "text": "炸虾狮盖饭"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_004-level_3-description",
+        "data": {
+            "id": "la-cooking_recipe_004-level_3-description",
+            "text": "以炸虾狮为设计原型的餐品，夏色祭强烈推荐。可爱的卖相和扎实的分量能让食客心灵和胃口都无比满足。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_004-level_3-name",
+        "data": {
+            "id": "la-cooking_recipe_004-level_3-name",
+            "text": "炸虾狮盖饭"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_005-level_1-description",
+        "data": {
+            "id": "la-cooking_recipe_005-level_1-description",
+            "text": "一口下去，肉汁和爱意都会瞬间充满口腔的汉堡排。好吃到创作食谱的巧可本人都自夸“我是天才吧？！”的程度。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_005-level_1-name",
+        "data": {
+            "id": "la-cooking_recipe_005-level_1-name",
+            "text": "小小巧可汉堡排♡"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_005-level_2-description",
+        "data": {
+            "id": "la-cooking_recipe_005-level_2-description",
+            "text": "一口下去，肉汁和爱意都会瞬间充满口腔的汉堡排。好吃到创作食谱的巧可本人都自夸“我是天才吧？！”的程度。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_005-level_2-name",
+        "data": {
+            "id": "la-cooking_recipe_005-level_2-name",
+            "text": "小小巧可汉堡排♡"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_005-level_3-description",
+        "data": {
+            "id": "la-cooking_recipe_005-level_3-description",
+            "text": "一口下去，肉汁和爱意都会瞬间充满口腔的汉堡排。好吃到创作食谱的巧可本人都自夸“我是天才吧？！”的程度。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_005-level_3-name",
+        "data": {
+            "id": "la-cooking_recipe_005-level_3-name",
+            "text": "小小巧可汉堡排♡"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_006-level_1-description",
+        "data": {
+            "id": "la-cooking_recipe_006-level_1-description",
+            "text": "琉依平时常做的土豆沙拉。至今已经不知夺走了多少holo成员的心。只要吃过一次，就绝对会再吃无数次。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_006-level_1-name",
+        "data": {
+            "id": "la-cooking_recipe_006-level_1-name",
+            "text": "琉依姐特制土豆沙拉"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_006-level_2-description",
+        "data": {
+            "id": "la-cooking_recipe_006-level_2-description",
+            "text": "琉依平时常做的土豆沙拉。至今已经不知夺走了多少holo成员的心。只要吃过一次，就绝对会再吃无数次。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_006-level_2-name",
+        "data": {
+            "id": "la-cooking_recipe_006-level_2-name",
+            "text": "琉依姐特制土豆沙拉"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_006-level_3-area-a01-20-1-4-stage6-description",
+        "data": {
+            "id": "la-cooking_recipe_006-level_3-area-a01-20-1-4-stage6-description",
+            "text": "琉依平时常做的土豆沙拉。至今已经不知夺走了多少holo成员的心。只要吃过一次，就绝对会再吃无数次。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_006-level_3-area-a01-20-1-4-stage6-name",
+        "data": {
+            "id": "la-cooking_recipe_006-level_3-area-a01-20-1-4-stage6-name",
+            "text": "琉依姐特制土豆沙拉"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_006-level_3-description",
+        "data": {
+            "id": "la-cooking_recipe_006-level_3-description",
+            "text": "琉依平时常做的土豆沙拉。至今已经不知夺走了多少holo成员的心。只要吃过一次，就绝对会再吃无数次。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_006-level_3-name",
+        "data": {
+            "id": "la-cooking_recipe_006-level_3-name",
+            "text": "琉依姐特制土豆沙拉"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_007-level_1-description",
+        "data": {
+            "id": "la-cooking_recipe_007-level_1-description",
+            "text": "由尝遍全国拉面的牡丹煮出来的终极一碗。从食材到汤底，每一个细节都由她的讲究凝结而成。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_007-level_1-name",
+        "data": {
+            "id": "la-cooking_recipe_007-level_1-name",
+            "text": "狮白系拉面"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_007-level_2-description",
+        "data": {
+            "id": "la-cooking_recipe_007-level_2-description",
+            "text": "由尝遍全国拉面的牡丹煮出来的终极一碗。从食材到汤底，每一个细节都由她的讲究凝结而成。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_007-level_2-name",
+        "data": {
+            "id": "la-cooking_recipe_007-level_2-name",
+            "text": "狮白系拉面"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_007-level_3-description",
+        "data": {
+            "id": "la-cooking_recipe_007-level_3-description",
+            "text": "由尝遍全国拉面的牡丹煮出来的终极一碗。从食材到汤底，每一个细节都由她的讲究凝结而成。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_007-level_3-name",
+        "data": {
+            "id": "la-cooking_recipe_007-level_3-name",
+            "text": "狮白系拉面"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_008-level_1-description",
+        "data": {
+            "id": "la-cooking_recipe_008-level_1-description",
+            "text": "米饭＋小香肠＋梅干的搭配，就是所谓的简约之美。由莉莉华强烈推荐，看到会脱口而出“就是想吃这样的啊”。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_008-level_1-name",
+        "data": {
+            "id": "la-cooking_recipe_008-level_1-name",
+            "text": "极限饭"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_008-level_2-area-a01-11-1-2-stage4-description",
+        "data": {
+            "id": "la-cooking_recipe_008-level_2-area-a01-11-1-2-stage4-description",
+            "text": "米饭＋小香肠＋梅干的搭配，就是所谓的简约之美。由莉莉华强烈推荐，看到会脱口而出“就是想吃这样的啊”。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_008-level_2-area-a01-11-1-2-stage4-name",
+        "data": {
+            "id": "la-cooking_recipe_008-level_2-area-a01-11-1-2-stage4-name",
+            "text": "极限饭"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_008-level_2-description",
+        "data": {
+            "id": "la-cooking_recipe_008-level_2-description",
+            "text": "米饭＋小香肠＋梅干的搭配，就是所谓的简约之美。由莉莉华强烈推荐，看到会脱口而出“就是想吃这样的啊”。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_008-level_2-name",
+        "data": {
+            "id": "la-cooking_recipe_008-level_2-name",
+            "text": "极限饭"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_008-level_3-description",
+        "data": {
+            "id": "la-cooking_recipe_008-level_3-description",
+            "text": "米饭＋小香肠＋梅干的搭配，就是所谓的简约之美。由莉莉华强烈推荐，看到会脱口而出“就是想吃这样的啊”。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_008-level_3-name",
+        "data": {
+            "id": "la-cooking_recipe_008-level_3-name",
+            "text": "极限饭"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_009-level_1-description",
+        "data": {
+            "id": "la-cooking_recipe_009-level_1-description",
+            "text": "Kronii深爱的温泉蛋乌冬面。筋道弹牙的面条裹上浓郁的温泉蛋液，吸溜吸溜……能体会到SO GOOD的瞬间。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_009-level_1-name",
+        "data": {
+            "id": "la-cooking_recipe_009-level_1-name",
+            "text": "温泉蛋乌冬面"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_009-level_2-area-a01-20-1-4-stage5-description",
+        "data": {
+            "id": "la-cooking_recipe_009-level_2-area-a01-20-1-4-stage5-description",
+            "text": "Kronii深爱的温泉蛋乌冬面。筋道弹牙的面条裹上浓郁的温泉蛋液，吸溜吸溜……能体会到SO GOOD的瞬间。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_009-level_2-area-a01-20-1-4-stage5-name",
+        "data": {
+            "id": "la-cooking_recipe_009-level_2-area-a01-20-1-4-stage5-name",
+            "text": "温泉蛋乌冬面"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_009-level_2-description",
+        "data": {
+            "id": "la-cooking_recipe_009-level_2-description",
+            "text": "Kronii深爱的温泉蛋乌冬面。筋道弹牙的面条裹上浓郁的温泉蛋液，吸溜吸溜……能体会到SO GOOD的瞬间。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_009-level_2-name",
+        "data": {
+            "id": "la-cooking_recipe_009-level_2-name",
+            "text": "温泉蛋乌冬面"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_009-level_3-description",
+        "data": {
+            "id": "la-cooking_recipe_009-level_3-description",
+            "text": "Kronii深爱的温泉蛋乌冬面。筋道弹牙的面条裹上浓郁的温泉蛋液，吸溜吸溜……能体会到SO GOOD的瞬间。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_009-level_3-name",
+        "data": {
+            "id": "la-cooking_recipe_009-level_3-name",
+            "text": "温泉蛋乌冬面"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_010-level_1-description",
+        "data": {
+            "id": "la-cooking_recipe_010-level_1-description",
+            "text": "Reine使出浑身解数研究的牛奶泡麦片，盛放在手形的盘子里。麦片和牛奶以至高无上的完美比例混合在一起。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_010-level_1-name",
+        "data": {
+            "id": "la-cooking_recipe_010-level_1-name",
+            "text": "牛奶泡麦片"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_010-level_2-description",
+        "data": {
+            "id": "la-cooking_recipe_010-level_2-description",
+            "text": "Reine使出浑身解数研究的牛奶泡麦片，盛放在手形的盘子里。麦片和牛奶以至高无上的完美比例混合在一起。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_010-level_2-name",
+        "data": {
+            "id": "la-cooking_recipe_010-level_2-name",
+            "text": "牛奶泡麦片"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_010-level_3-description",
+        "data": {
+            "id": "la-cooking_recipe_010-level_3-description",
+            "text": "Reine使出浑身解数研究的牛奶泡麦片，盛放在手形的盘子里。麦片和牛奶以至高无上的完美比例混合在一起。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_010-level_3-name",
+        "data": {
+            "id": "la-cooking_recipe_010-level_3-name",
+            "text": "牛奶泡麦片"
+        }
+    }
+]

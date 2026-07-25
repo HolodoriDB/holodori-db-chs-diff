@@ -1,0 +1,37 @@
+[
+    {
+        "id": "la-skill_tree_effect-name-all",
+        "data": {
+            "id": "la-skill_tree_effect-name-all",
+            "text": "全体效果"
+        }
+    },
+    {
+        "id": "la-skill_tree_effect-name-card",
+        "data": {
+            "id": "la-skill_tree_effect-name-card",
+            "text": "成员效果"
+        }
+    },
+    {
+        "id": "la-skill_tree_effect-name-leader",
+        "data": {
+            "id": "la-skill_tree_effect-name-leader",
+            "text": "领队效果"
+        }
+    },
+    {
+        "id": "la-skill_tree_effect-name-music_bonus",
+        "data": {
+            "id": "la-skill_tree_effect-name-music_bonus",
+            "text": "乐曲加成"
+        }
+    },
+    {
+        "id": "la-skill_tree_effect-name-park",
+        "data": {
+            "id": "la-skill_tree_effect-name-park",
+            "text": "乐园效果"
+        }
+    }
+]

@@ -1,0 +1,842 @@
+[
+    {
+        "id": "la-generated-skill_tree_effect-performance_up-10-skill_tree_effect_target-all-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-performance_up-10-skill_tree_effect_target-all-always-description",
+            "text": "全体成员的表现力提升[value]"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-performance_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-performance_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "全体成员的表现力提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_deck_leader_active_skill_addition-0-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-judgement_enhance-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_deck_leader_active_skill_addition-0-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-judgement_enhance-description",
+            "text": "习得Holo成员技能\n每 20 秒以低概率在 7 秒内GOOD以上变为PERFECT "
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_deck_leader_active_skill_addition-0-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-life_recovery-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_deck_leader_active_skill_addition-0-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-life_recovery-description",
+            "text": "习得Holo成员技能\n每 20 秒以中等概率生命值恢复100点 "
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_deck_leader_active_skill_level_up-2-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-judgement_enhance-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_deck_leader_active_skill_level_up-2-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-judgement_enhance-description",
+            "text": "强化Holo成员技能\n每 20 秒以中等概率在 10 秒内GOOD以上变为PERFECT "
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-gen_4-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-gen_4-always-description",
+            "text": "4期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-gen_4-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-gen_4-always-description",
+            "text": "4期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-80-skill_tree_effect_target-skill_tree_character-work-item-item-skill_tree_card-1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-80-skill_tree_effect_target-skill_tree_character-work-item-item-skill_tree_card-1-description",
+            "text": "将[character]编入Holowork成员时发动。\nHolowork奖励中的方块获得量提升[value/10]%。"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up-5-skill_tree_effect_target-all-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up-5-skill_tree_effect_target-all-always-description",
+            "text": "全体成员的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up-50-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up-50-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "全体成员的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "[character]的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-advent-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-advent-always-description",
+            "text": "Advent的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-performance_up-100-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-performance_up-100-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "[character]的表现力提升[value]"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-sense_up-100-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-sense_up-100-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "[character]的品位提升[value]"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-technique_up-100-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-technique_up-100-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "[character]的技巧提升[value]"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_permil_up-10-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_permil_up-10-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "全体成员的所有参数提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "全体成员的所有参数提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-performance_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-performance_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "全体成员的表现力提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-performance_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-performance_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "[character]的表现力提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-sense_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-sense_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "全体成员的品位提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-sense_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-sense_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "全体成员的品位提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-sense_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-sense_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "[character]的品位提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-technique_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-technique_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "全体成员的技巧提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-technique_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-technique_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "全体成员的技巧提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-technique_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-technique_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "[character]的技巧提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "全体成员的得分辅助效果[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-fuwamoko-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-fuwamoko-description",
+            "text": "游玩仅由FUWAMOCO演唱的乐曲时，享有[value/10]%得分加成"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all-always-all-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all-always-all-description",
+            "text": "游玩全体乐曲时享有[value/10]%得分加成"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-description",
+            "text": "游玩歌手为[character]的个人乐曲时享有[value/10]%得分加成"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-circuit-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-circuit-description",
+            "text": "终极向前冲的获得奖励量提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_5-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_5-always-description",
+            "text": "5期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-holox-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-holox-always-description",
+            "text": "holoX的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-regloss-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-regloss-always-description",
+            "text": "ReGLOSS的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-advent-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-advent-always-description",
+            "text": "Advent的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+            "text": "GAMERS的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up-70-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up-70-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "全体成员的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+            "text": "GAMERS的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_0-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_0-always-description",
+            "text": "0期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+            "text": "1期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_3-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_3-always-description",
+            "text": "3期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_0-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_0-always-description",
+            "text": "0期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+            "text": "1期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_2-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_2-always-description",
+            "text": "2期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_3-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_3-always-description",
+            "text": "3期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_4-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_4-always-description",
+            "text": "4期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_5-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_5-always-description",
+            "text": "5期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-holox-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-holox-always-description",
+            "text": "holoX的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always-description",
+            "text": "ID1期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always-description",
+            "text": "ID2期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always-description",
+            "text": "ID3期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-myth-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-myth-always-description",
+            "text": "Myth的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-promise-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-promise-always-description",
+            "text": "Promise的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-regloss-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-regloss-always-description",
+            "text": "ReGLOSS的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-200-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-200-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+            "text": "1期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-gen_2-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-gen_2-always-description",
+            "text": "2期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always-description",
+            "text": "ID1期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always-description",
+            "text": "ID2期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always-description",
+            "text": "ID3期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-myth-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-myth-always-description",
+            "text": "Myth的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-promise-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-promise-always-description",
+            "text": "Promise的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-300-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-300-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+            "text": "GAMERS的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-advent-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-advent-always-description",
+            "text": "Advent的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+            "text": "GAMERS的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_0-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_0-always-description",
+            "text": "0期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+            "text": "1期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_3-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_3-always-description",
+            "text": "3期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_5-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_5-always-description",
+            "text": "5期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-holox-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-holox-always-description",
+            "text": "holoX的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-regloss-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-regloss-always-description",
+            "text": "ReGLOSS的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-gen_2-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-gen_2-always-description",
+            "text": "2期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always-description",
+            "text": "ID1期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always-description",
+            "text": "ID2期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always-description",
+            "text": "ID3期生的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-myth-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-myth-always-description",
+            "text": "Myth的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-promise-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-promise-always-description",
+            "text": "Promise的所有参数提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-life_up-50-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-life_up-50-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "生命值提升[value]点"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-20-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-20-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "[character]的主动技能发动概率提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-30-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-30-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "[character]的主动技能发动概率提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-60-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-60-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "[character]的主动技能发动概率提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_active_skill_cool_time_shorten_permil_up-40-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_active_skill_cool_time_shorten_permil_up-40-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "[character]的主动技能发动频率提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+            "text": "歌手中包含[character]时全体成员的得分辅助效果[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-20-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-20-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "全体成员的得分辅助效果[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "全体成员的得分辅助效果[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-200-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-200-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "演出的成员Exp获得量提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-5-skill_tree_effect_target-all-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-5-skill_tree_effect_target-all-always-description",
+            "text": "演出的成员Exp获得量提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-50-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-50-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "演出的成员Exp获得量提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_reward_quantity_up_permil_up-200-skill_tree_effect_target-all-set_live_leader-item-item-gold-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_reward_quantity_up_permil_up-200-skill_tree_effect_target-all-set_live_leader-item-item-gold-description",
+            "text": "演出的Holo金币获得量提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-item-item-gold-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-item-item-gold-description",
+            "text": "演出的Holo金币获得量提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_reward_quantity_up_permil_up-50-skill_tree_effect_target-all-set_live_leader-item-item-gold-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_reward_quantity_up_permil_up-50-skill_tree_effect_target-all-set_live_leader-item-item-gold-description",
+            "text": "演出的Holo金币获得量提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-1-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all-always-all-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-1-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all-always-all-description",
+            "text": "游玩全体乐曲时享有[value/10]%得分加成"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-10-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group-always-group-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-10-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group-always-group-description",
+            "text": "游玩歌手中包含[character]的小队乐曲时享有[value/10]%得分加成"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group-always-group-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group-always-group-description",
+            "text": "游玩歌手中包含[character]的小队乐曲时享有[value/10]%得分加成"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-description",
+            "text": "游玩歌手为[character]的个人乐曲时享有[value/10]%得分加成"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-combo_card_game-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-combo_card_game-description",
+            "text": "扑克屋！的获得奖励量提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-cooking_puzzle-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-cooking_puzzle-description",
+            "text": "拼配厨房的获得奖励量提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-jump_rope-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-jump_rope-description",
+            "text": "跳跳大绳的获得奖励量提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-performance_up-100-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-performance_up-100-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "全体成员的表现力提升[value]"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-performance_up-150-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-performance_up-150-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "全体成员的表现力提升[value]"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-performance_up-150-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-performance_up-150-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "[character]的表现力提升[value]"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-performance_up-5-skill_tree_effect_target-all-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-performance_up-5-skill_tree_effect_target-all-always-description",
+            "text": "全体成员的表现力提升[value]"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-performance_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-performance_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+            "text": "歌手中包含[character]时全体成员的表现力提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-sense_up-10-skill_tree_effect_target-all-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-sense_up-10-skill_tree_effect_target-all-always-description",
+            "text": "全体成员的品位提升[value]"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-sense_up-100-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-sense_up-100-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "全体成员的品位提升[value]"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-sense_up-150-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-sense_up-150-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "全体成员的品位提升[value]"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-sense_up-150-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-sense_up-150-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "[character]的品位提升[value]"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-sense_up-5-skill_tree_effect_target-all-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-sense_up-5-skill_tree_effect_target-all-always-description",
+            "text": "全体成员的品位提升[value]"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-sense_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-sense_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+            "text": "歌手中包含[character]时全体成员的品位提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-fuwamoko-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-fuwamoko-description",
+            "text": "游玩仅由FUWAMOCO演唱的乐曲时，享有[value/10]%得分加成"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-technique_up-10-skill_tree_effect_target-all-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-technique_up-10-skill_tree_effect_target-all-always-description",
+            "text": "全体成员的技巧提升[value]"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-technique_up-100-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-technique_up-100-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "全体成员的技巧提升[value]"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-technique_up-150-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-technique_up-150-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "全体成员的技巧提升[value]"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-technique_up-150-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-technique_up-150-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "[character]的技巧提升[value]"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-technique_up-5-skill_tree_effect_target-all-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-technique_up-5-skill_tree_effect_target-all-always-description",
+            "text": "全体成员的技巧提升[value]"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-technique_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-technique_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+            "text": "歌手中包含[character]时全体成员的技巧提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-30-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-30-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up-description",
+            "text": "将[character]编入holowork成员时发动。\nholowork的课程Pt获得量提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-50-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-50-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up-description",
+            "text": "将[character]编入holowork成员时发动。\nholowork的课程Pt获得量提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-60-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-60-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up-description",
+            "text": "将[character]编入holowork成员时发动。\nholowork的课程Pt获得量提升[value/10]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-40-skill_tree_effect_target-skill_tree_character-work-item-item-skill_tree_card-1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-40-skill_tree_effect_target-skill_tree_character-work-item-item-skill_tree_card-1-description",
+            "text": "将[character]编入Holowork成员时发动。\nHolowork奖励中的方块获得量提升[value/10]%。"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-80-skill_tree_effect_target-skill_tree_character-work-item-item-card_limit_break-attribute_1-1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-80-skill_tree_effect_target-skill_tree_character-work-item-item-card_limit_break-attribute_1-1-description",
+            "text": "将[character]编入Holowork成员时发动。\nHolowork奖励中的特训道具获得量提升[value/10]%。"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-40-skill_tree_effect_target-skill_tree_character-work-item-item-card_limit_break-attribute_1-1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-40-skill_tree_effect_target-skill_tree_character-work-item-item-card_limit_break-attribute_1-1-description",
+            "text": "将[character]编入Holowork成员时发动。\nHolowork奖励中的特训道具获得量提升[value/10]%。"
+        }
+    }
+]

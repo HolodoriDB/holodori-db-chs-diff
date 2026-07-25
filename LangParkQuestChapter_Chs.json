@@ -1,0 +1,415 @@
+[
+    {
+        "id": "la-quest_chapter-area-a01",
+        "data": {
+            "id": "la-quest_chapter-area-a01",
+            "text": "协律花园"
+        }
+    },
+    {
+        "id": "la-quest_chapter-area-a02",
+        "data": {
+            "id": "la-quest_chapter-area-a02",
+            "text": "电玩巨蛋城"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00001",
+        "data": {
+            "id": "la-quest_chapter-chr-00001",
+            "text": "虚拟偶像之路"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00002",
+        "data": {
+            "id": "la-quest_chapter-chr-00002",
+            "text": "天然悠哉的高性能？机器人"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00004",
+        "data": {
+            "id": "la-quest_chapter-chr-00004",
+            "text": "调皮的治愈系半精灵"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00005",
+        "data": {
+            "id": "la-quest_chapter-chr-00005",
+            "text": "怦怦心动☆心心厨房"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00006",
+        "data": {
+            "id": "la-quest_chapter-chr-00006",
+            "text": "强强好狐～！"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00007",
+        "data": {
+            "id": "la-quest_chapter-chr-00007",
+            "text": "清纯又有小心机的超级偶像☆"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00010",
+        "data": {
+            "id": "la-quest_chapter-chr-00010",
+            "text": "羞涩又可爱余的悠闲鬼女"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00011",
+        "data": {
+            "id": "la-quest_chapter-chr-00011",
+            "text": "随叫随到恶魔的小小野餐"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00012",
+        "data": {
+            "id": "la-quest_chapter-chr-00012",
+            "text": "活力四射的太阳少女！"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00013",
+        "data": {
+            "id": "la-quest_chapter-chr-00013",
+            "text": "寻找新的景色"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00014",
+        "data": {
+            "id": "la-quest_chapter-chr-00014",
+            "text": "爱照顾人的兽耳的包容力♪"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00015",
+        "data": {
+            "id": "la-quest_chapter-chr-00015",
+            "text": "精英＆菁樱"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00016",
+        "data": {
+            "id": "la-quest_chapter-chr-00016",
+            "text": "爱意满分♡迷人猫咪的幸福拥抱"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00017",
+        "data": {
+            "id": "la-quest_chapter-chr-00017",
+            "text": "自由小狗的舞蹈课程☆"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00018",
+        "data": {
+            "id": "la-quest_chapter-chr-00018",
+            "text": "天真无邪的歌姬"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00019",
+        "data": {
+            "id": "la-quest_chapter-chr-00019",
+            "text": "得意兔子的混乱一天"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00021",
+        "data": {
+            "id": "la-quest_chapter-chr-00021",
+            "text": "擅长照顾人的半精灵"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00022",
+        "data": {
+            "id": "la-quest_chapter-chr-00022",
+            "text": "给大家送去治愈肌肉♪"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00023",
+        "data": {
+            "id": "la-quest_chapter-chr-00023",
+            "text": "喜欢喜欢♡ 魅惑的妩媚船长"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00026",
+        "data": {
+            "id": "la-quest_chapter-chr-00026",
+            "text": "悠悠闲闲的应该没有错吧～？"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00027",
+        "data": {
+            "id": "la-quest_chapter-chr-00027",
+            "text": "这就是恶魔的行为！炸裂·TMT"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00028",
+        "data": {
+            "id": "la-quest_chapter-chr-00028",
+            "text": "擅长撒娇的软绵绵小公主"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00030",
+        "data": {
+            "id": "la-quest_chapter-chr-00030",
+            "text": "爱撒娇的吐槽役大小姐"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00031",
+        "data": {
+            "id": "la-quest_chapter-chr-00031",
+            "text": "大家心灵的能量饮料！"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00032",
+        "data": {
+            "id": "la-quest_chapter-chr-00032",
+            "text": "总是很可靠的♪LaLion"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00034",
+        "data": {
+            "id": "la-quest_chapter-chr-00034",
+            "text": "全身心投入的表演者！！"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00035",
+        "data": {
+            "id": "la-quest_chapter-chr-00035",
+            "text": "任性小屁孩☆吾辈可是总帅！"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00036",
+        "data": {
+            "id": "la-quest_chapter-chr-00036",
+            "text": "靠谱干部的盛情招待"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00037",
+        "data": {
+            "id": "la-quest_chapter-chr-00037",
+            "text": "条理清晰？holoX的大脑～！"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-00039",
+        "data": {
+            "id": "la-quest_chapter-chr-00039",
+            "text": "强强武士？慌慌张张的保镖"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-03001",
+        "data": {
+            "id": "la-quest_chapter-chr-03001",
+            "text": "MALAS! 恶作剧松鼠登场"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-03002",
+        "data": {
+            "id": "la-quest_chapter-chr-03002",
+            "text": "羞涩又奔放的月之女神"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-03003",
+        "data": {
+            "id": "la-quest_chapter-chr-03003",
+            "text": "可爱的外星人"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-03004",
+        "data": {
+            "id": "la-quest_chapter-chr-03004",
+            "text": "情绪高涨的僵尸大冒险"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-03005",
+        "data": {
+            "id": "la-quest_chapter-chr-03005",
+            "text": "沉着冷静头脑精明的古代武器"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-03006",
+        "data": {
+            "id": "la-quest_chapter-chr-03006",
+            "text": "孔雀大小姐愉快又优雅的一天"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-03007",
+        "data": {
+            "id": "la-quest_chapter-chr-03007",
+            "text": "可爱女孩，嘴巴坏坏"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-03008",
+        "data": {
+            "id": "la-quest_chapter-chr-03008",
+            "text": "强壮帅气的铁匠的一天"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-03009",
+        "data": {
+            "id": "la-quest_chapter-chr-03009",
+            "text": "Shine Your Day!"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-04001",
+        "data": {
+            "id": "la-quest_chapter-chr-04001",
+            "text": "调皮又温柔的死神"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-04002",
+        "data": {
+            "id": "la-quest_chapter-chr-04002",
+            "text": "今天也要精神百倍，Kikkeriki!"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-04003",
+        "data": {
+            "id": "la-quest_chapter-chr-04003",
+            "text": "羞涩女孩的奋斗"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-04007",
+        "data": {
+            "id": "la-quest_chapter-chr-04007",
+            "text": "HiRyS!　淘气的拿非利"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-04010",
+        "data": {
+            "id": "la-quest_chapter-chr-04010",
+            "text": "不是笑星！完美无瑕的时间典狱长"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-04012",
+        "data": {
+            "id": "la-quest_chapter-chr-04012",
+            "text": "可爱满分的混沌旅途☆"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-04013",
+        "data": {
+            "id": "la-quest_chapter-chr-04013",
+            "text": "愉快收藏家的奇特失物"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-04014",
+        "data": {
+            "id": "la-quest_chapter-chr-04014",
+            "text": "调皮宝石的闪亮微笑"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-04015",
+        "data": {
+            "id": "la-quest_chapter-chr-04015",
+            "text": "充满爱意♪性感的音之恶魔"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-04016",
+        "data": {
+            "id": "la-quest_chapter-chr-04016",
+            "text": "包容力满分♪软软小狗"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-04017",
+        "data": {
+            "id": "la-quest_chapter-chr-04017",
+            "text": "可爱又讨喜♪茸茸小狗"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-06002",
+        "data": {
+            "id": "la-quest_chapter-chr-06002",
+            "text": "淘气又可爱的未来音乐家"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-06003",
+        "data": {
+            "id": "la-quest_chapter-chr-06003",
+            "text": "Genius！女社长的极限饭☆"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-06004",
+        "data": {
+            "id": "la-quest_chapter-chr-06004",
+            "text": "不走寻常路却又脚踏实地的艺术女孩"
+        }
+    },
+    {
+        "id": "la-quest_chapter-chr-06005",
+        "data": {
+            "id": "la-quest_chapter-chr-06005",
+            "text": "参上！ReGLOSS的番长"
+        }
+    },
+    {
+        "id": "la-quest_chapter-daily",
+        "data": {
+            "id": "la-quest_chapter-daily",
+            "text": "每日任务"
+        }
+    },
+    {
+        "id": "la-quest_chapter-main-w1-01",
+        "data": {
+            "id": "la-quest_chapter-main-w1-01",
+            "text": "Circle of Dreams"
+        }
+    },
+    {
+        "id": "la-quest_chapter-main-w1-02",
+        "data": {
+            "id": "la-quest_chapter-main-w1-02",
+            "text": "Into the Mega Fun"
+        }
+    }
+]

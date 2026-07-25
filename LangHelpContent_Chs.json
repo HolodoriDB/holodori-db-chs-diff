@@ -1,0 +1,1752 @@
+[
+    {
+        "id": "la-help_category-faq-data-modelchange-1-text",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-1-text",
+            "text": "更换设备前，请务必关联账号。\n关联账号后，您可以在新设备上继承游戏数据，继续游戏。\n\n※关联账号，将会覆盖新设备上原有的游戏数据。\n请注意：一旦执行覆盖，旧有的存档将无法恢复。\n\n关联账号后，两台设备都能使用已购买的蓝色钻石。\n※账号可以跨平台关联。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-1-title",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-1-title",
+            "text": "更换设备时应该怎么办？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-2-text",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-2-text",
+            "text": "请“使用关联ID登录”“Sign in with Apple”或“Sign in with Google”。\n\n【使用关联ID关联时】\n▼在当前设备上的操作步骤\n1.［梦幻乐园］→［菜单］→［其他］→［账号］→选择［设置关联密码］\n2.输入关联密码并选择［OK］\n3.复制生成的关联ID，等候下一步操作\n\n▼在新设备上的操作步骤\n1.［标题］→［菜单］→［账号管理］→选择［使用关联ID登录］\n2.输入关联ID和密码并选择［OK］\n\n\n【使用Apple登录时】\n▼在当前设备上的操作步骤\n1.［梦幻乐园］→［菜单］→［其他］→［账号］→选择［Sign in with Apple］\n2.使用Apple ID登录并关联\n\n▼在新设备上的操作步骤\n1.［标题］→［菜单］→［账号管理］→选择［Sign in with Apple］\n2.使用Apple ID登录\n\n\n【使用Google账号登录时】\n▼在当前设备上的操作步骤\n1.［梦幻乐园］→［菜单］→［其他］→［账号］→选择［Sign in with Google］\n2.使用Google账号登录并关联\n\n▼在新设备上的操作步骤\n1.［标题］→［菜单］→［账号管理］→选择［Sign in with Google］\n2.使用Google账号登录"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-2-title",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-2-title",
+            "text": "iOS设备之间应该怎么关联账号？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-3-text",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-3-text",
+            "text": "请“使用关联ID登录”或“Sign in with Google”。\n\n【使用关联ID关联时】\n▼在当前设备上的操作步骤\n1.［梦幻乐园］→［菜单］→［其他］→［账号］→选择［设置关联密码］\n2.输入关联密码并选择［OK］\n3.复制生成的关联ID，等候下一步操作\n\n▼在新设备上的操作步骤\n1.［标题］→［菜单］→［账号管理］→选择［使用关联ID登录］\n2.输入关联ID和密码并选择［OK］\n\n\n【使用Google账号登录时】\n▼在当前设备上的操作步骤\n1.［梦幻乐园］→［菜单］→［其他］→［账号］→选择［Sign in with Google］\n2.使用Google账号登录并关联\n\n▼在新设备上的操作步骤\n1.［标题］→［菜单］→［账号管理］→选择［Sign in with Google］\n2.使用Google账号登录"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-3-title",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-3-title",
+            "text": "Android设备之间应该怎么关联账号？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-4-text",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-4-text",
+            "text": "请“使用关联ID登录”或“Sign in with Google”。\n\n【使用关联ID关联时】\n■在当前设备上的操作步骤\n1.［梦幻乐园］→［菜单］→［其他］→［账号］→选择［设置关联密码］\n2.输入关联密码并选择［OK］\n3.复制生成的关联ID，等候下一步操作\n\n■在新设备上的操作步骤\n1.［标题］→［菜单］→［账号管理］→选择［使用关联ID登录］\n2.输入关联ID和密码并选择［OK］\n\n\n【使用Google账号登录时】\n■在当前设备上的操作步骤\n1.［梦幻乐园］→［菜单］→［其他］→［账号］→选择［Sign in with Google］\n2.使用Google账号登录并关联\n\n■在新设备上的操作步骤\n1.［标题］→［菜单］→［账号管理］→选择［Sign in with Google］\n2.使用Google账号登录"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-4-title",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-4-title",
+            "text": "iOS设备和Android设备之间应该怎么关联账号？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-5-text",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-5-text",
+            "text": "请“使用关联ID登录”。\n\n▼在当前设备上的操作步骤\n1.［梦幻乐园］→［菜单］→［其他］→［账号］→选择［设置关联密码］\n2.输入关联密码并选择［OK］\n3.复制生成的关联ID，等候下一步操作\n\n▼在新设备上的操作步骤\n1.［标题］→［菜单］→［账号管理］→选择［使用关联ID登录］\n2.输入关联ID和密码并选择［OK］"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-5-title",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-5-title",
+            "text": "手机版（iOS、Android）和Steam版之间应该怎么关联账号？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-6-text",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-6-text",
+            "text": "■如果要解除Apple ID、Google账号的关联\n\n【解除Apple ID关联】\n▼操作步骤\n1.［梦幻乐园］→［菜单］→［其他］→［账号］→选择［Sign in with Apple］\n2.确认当前已关联的账号信息，选择［解除］\n\n\n【使用Google账号登录时】\n▼操作步骤\n1.［梦幻乐园］→［菜单］→［其他］→［账号］→选择［Sign in with Google］\n2.确认当前已关联的账号信息，选择［解除］\n\n\n■如果要解除关联ID和密码\n重新设置关联ID和关联密码，即可重置数据继承相关设置。\n重新设置后，之前的关联设置将失效。\n\n▼操作步骤\n1.［梦幻乐园］→［菜单］→［其他］→［账号］→选择［设置关联密码］\n2.输入关联密码并选择［OK］\n3.复制生成的关联ID，等候下一步操作"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-6-title",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-6-title",
+            "text": "如何解除“账号关联”？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-7-text",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-7-text",
+            "text": "一旦删除应用程序，登录数据就会消失，游玩时无法继承进度。\n\n如果没有关联账号，只能重新开始游戏。\n删除应用程序前，请务必关联账号。\n\n我们建议您关联账号，以免登录数据丢失。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-7-title",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-7-title",
+            "text": "删除（卸载）设备中的应用程序，会产生什么影响？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-8-text",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-8-text",
+            "text": "删除账号后，游戏服务器也会删除账号数据。\n删除账号时，请务必确认以下注意事项。\n\n【注意事项】\n・账号一旦删除，数据便无法复原。\n・账号一旦删除，所有游戏数据都会消失。该账号无法继续游戏。\n・账号一旦删除，尚未使用的蓝色钻石也会消失。\n・即便删除账号，已经订阅的服务还是会自动续订。\n请务必在订阅服务的平台取消购买/续订。\n\n如需删除账号，请依次点击“标题”→“菜单”→“删除账号”。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-8-title",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-8-title",
+            "text": "我想了解“删除账号”的相关内容。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-9-text",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-9-text",
+            "text": "蓝色钻石/红色钻石可以跨平台使用。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-9-title",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-9-title",
+            "text": "跨平台关联账号，会影响蓝色钻石/红色钻石的使用吗？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-game-1-text",
+        "data": {
+            "id": "la-help_category-faq-game-1-text",
+            "text": "迷你游戏在结算时才会消耗迷你游戏能量，因此，如果应用程序在迷你游戏途中闪退，是不会消耗迷你游戏能量的。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-game-1-title",
+        "data": {
+            "id": "la-help_category-faq-game-1-title",
+            "text": "如果应用程序在迷你游戏途中闪退、导致我无法继续迷你游戏，这时会消耗迷你游戏能量吗？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-game-2-text",
+        "data": {
+            "id": "la-help_category-faq-game-2-text",
+            "text": "创建房间，就能跟好友一起游玩迷你游戏。\n\n▼创建房间的步骤\n［梦幻乐园］→［游戏］→［前往多人游戏］→［大家一起玩（与幸运网络内的Holo成员交谈）］→［创建房间］\n\n成功创建房间后，选择想要游玩的迷你游戏，就会显示房间ID。\n房间ID是进入房间的必要凭证，请将ID告知好友。\n※参与迷你游戏的好友也必须已解锁该游戏。如果好友没有解锁该游戏，便无法进入房间。\n\n▼进入房间的步骤\n［梦幻乐园］→［游戏］→［前往多人游戏］→［大家一起玩（与幸运网络内的holo成员交谈）］→［进入房间］"
+        }
+    },
+    {
+        "id": "la-help_category-faq-game-2-title",
+        "data": {
+            "id": "la-help_category-faq-game-2-title",
+            "text": "我能跟好友一起玩迷你游戏吗？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-1-text",
+        "data": {
+            "id": "la-help_category-faq-live-1-text",
+            "text": "自动演出的得分和判定加成都比较低，并且使用了不计入连击得分加成的特殊计分方式，所以最终成绩会比手动游戏时低。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-1-title",
+        "data": {
+            "id": "la-help_category-faq-live-1-title",
+            "text": "自动演出的得分为什么比平时低？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-2-text",
+        "data": {
+            "id": "la-help_category-faq-live-2-text",
+            "text": "部分效果会在削弱、受限状态下发动。\n\n▼削弱的效果\n・仅在PERFECT时发动\n※同样适用于AUTO。\n\n▼受限的效果\n・判定强化：AUTO判定不会变化。\n・恢复生命值：不会恢复生命值。\n\n拥有上述效果的技能，只会发动同时发动的“分数UP”效果。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-2-title",
+        "data": {
+            "id": "la-help_category-faq-live-2-title",
+            "text": "自动演出时，技能会发动吗？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-3-text",
+        "data": {
+            "id": "la-help_category-faq-live-3-text",
+            "text": "小队总分越高，越有助于在演出中获得高分。\n培育领队和成员，就能提升小队总分。\n\n▼如何培育领队Holo成员\n解锁Holo成员面板，就能培育领队holo成员。\n\n■格子的种类\n・领队格（红色格子）：设定为演出小队领队时发动的效果\n・成员格（蓝色格子）：设定为演出小队成员时发动的效果\n・辅助格（黄色/绿色格子）：未编入演出小队也会发动的效果\n・连结格：配置成员，就能发动该成员的连结效果\n\n▼如何培育成员\n・成员升级之后，各项参数也会随之提升。\n\n・让成员进行特训，就能提升成员的等级上限。\n\n・使用绽放Pt让成员绽放，就能获得各种效果。\n※重复获得同一成员，可以获得该成员的绽放Pt。\n※最终可以绽放至第5阶段。\n\n・持有的成员等级超过20时，就会获得加成。这种“成员强化加成”会计入小队总分。\n※“成员强化加成”分数是持有的所有成员加成的总和。\n※成员强化加成的上限为50％。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-3-title",
+        "data": {
+            "id": "la-help_category-faq-live-3-title",
+            "text": "怎么做才能得到高分？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-4-text",
+        "data": {
+            "id": "la-help_category-faq-live-4-text",
+            "text": "启用SLOW・FAST显示功能后，点击音符时如果过快或过慢，画面上会显示“SLOW(慢)”或“FAST(快)”的字样。\n\n结算画面会显示SLOW・FAST的总数。\n\n要开关SLOW・FAST显示，请依次点击［菜单］→［其他］→［演出选项］→［详细设置］→［显示指南］→［SLOW・FAST显示］。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-4-title",
+        "data": {
+            "id": "la-help_category-faq-live-4-title",
+            "text": "有办法知道自己点击时是否偏快或偏慢吗？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-5-text",
+        "data": {
+            "id": "la-help_category-faq-live-5-text",
+            "text": "开启镜像谱面功能，可以让演出中出现的音符、滑动方向等标记水平反转。\n所有演出都可以使用镜像谱面功能。\n\n即便使用镜像谱面游玩，也不会获得特殊加成或奖励。得分跟普通模式一样。\n同时，如果达成ALL PERFECT或FULL COMBO，也会跟普通模式一样保存通关结果。\n\n另外，多人演出中如果开启镜像谱面，其他玩家是不会知道的。\n\n要开关镜像谱面，请依次点击［菜单］→［其他］→［演出选项］→［演出］→［镜像谱面］。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-5-title",
+        "data": {
+            "id": "la-help_category-faq-live-5-title",
+            "text": "镜像谱面是什么？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-1-text",
+        "data": {
+            "id": "la-help_category-faq-others-1-text",
+            "text": "日本版客服使用日语，国际版客服使用英语。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-1-title",
+        "data": {
+            "id": "la-help_category-faq-others-1-title",
+            "text": "客服支持什么语言？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-2-text",
+        "data": {
+            "id": "la-help_category-faq-others-2-text",
+            "text": "为确保您能够顺畅体验本服务，建议您在推荐运行环境下进行游戏。\n我们已公布了最低配置要求，但若您的设备未达到推荐配置，部分功能或特效可能会出现运行不稳定的情况，或导致您无法获得流畅的游戏体验。\n请注意：若您使用的设备不满足推荐配置，可能无法安装应用程序，或在运行过程中出错。\n\n■推荐配置\n▼iOS\n推荐操作系统：iOS 16 及以上\n推荐设备：内存（RAM）6GB 及以上（iPhone 14 及以上）\n\n▼iPadOS\n推荐操作系统：iPadOS 16 及以上\n推荐设备：内存（RAM）6GB 及以上\n\n▼Android\n推荐操作系统：Android 11 及以上\n推荐设备：内存（RAM）6GB 及以上、CPU Snapdragon 8 Gen 1 及以上的设备\n\n▼Steam\n操作系统：Windows®  11 64-bit\n处理器：AMD Ryzen™ 5 3500 / Intel® Core™ i5-9400\n内存：8GB\n显卡：Radeon™  RX 580 Graphics / NVIDIA® GeForce® GTX 1060\n\n【最低配置】\n\n操作系统：iOS 16 及以上\n设备：RAM 4GB 及以上（iPhone 11 及以上）\n\n▼iPadOS\n操作系统：iPadOS 16 及以上\n设备：RAM 4GB 及以上\n\n▼Android\n操作系统：Android 11 及以上\n设备：RAM 4GB 及以上，Snapdragon 855 及以上\n\n▼Steam\n操作系统：Windows®  10 64-bit\n处理器：AMD Ryzen™ 3 1200 / Intel® Core™ i5-4430\n内存：8GB\n显卡：Radeon™  R7 370 Graphics / NVIDIA® GeForce® GTX 950\n\n※最低配置为能够正常启动游戏并游玩基础内容的配置。\n※最低配置无法保证您拥有流畅的游戏体验。\n※以上为截止至2026年7月的推荐配置。伴随今后的更新，推荐配置及最低配置可能会有所变动。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-2-title",
+        "data": {
+            "id": "la-help_category-faq-others-2-title",
+            "text": "我想知道这款游戏的推荐配置。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-3-text",
+        "data": {
+            "id": "la-help_category-faq-others-3-text",
+            "text": "如果无法更新应用程序，请尝试下列操作。\n\n【iOS】\n1.打开App Store，点击页面下方的“Today”。\n2.点击商店页面右上角的个人资料图标。\n3.看到“账号”页面后往下拉。\n4.在“可用更新”或“即将自动更新”中点击“全部更新”，或者在“hololive Dreams”页面点击“更新”。\n※若您已在设备设置中开启自动下载功能，“可用更新”会显示为“即将自动更新”。\n\n【Android】\n▼检查是否已经“启用”下载管理器\n1．打开设备的［设置］菜单。\n2．选择［应用］或［应用管理］。\n3．滑动画面，显示［所有］应用程序。\n4．选择下载管理器。\n如果显示［启用］，说明下载管理器当前处于停用状态。请点击［启用］，开启下载管理器。\n\n▼［清除数据］并［清除缓存］\n请在下载管理器中清除对应数据。\n※该操作并非是在应用程序内［清除缓存］，而是在设备设置中［清除缓存］。\n※请注意：您需要做的是［清除数据］，而不是删除（卸载）应用程序。\n\n▼清除Google Play商店的缓存和数据\n1.在［应用］列表内点击［Google Play商店］。\n2.点击［清除数据］和［清除缓存］。\n※请注意：您需要做的是［清除数据］，而不是删除（卸载）应用程序。\n※请注意：设备不同，菜单的文本也可能不同。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-3-title",
+        "data": {
+            "id": "la-help_category-faq-others-3-title",
+            "text": "应用程序无法更新。应用程序怎么更新？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-4-text",
+        "data": {
+            "id": "la-help_category-faq-others-4-text",
+            "text": "如果您已经关联账号，在安装应用程序后，请按照以下操作继承数据。\n\n【使用关联ID关联时】\n▼操作步骤\n1.［标题］→［菜单］→［账号管理］→选择［使用关联ID登录］\n2.输入关联ID和密码并选择［OK］\n\n\n【使用Apple ID登录时】\n▼操作步骤\n1.［标题］→［菜单］→［账号管理］→选择［Sign in with Apple］\n2.使用Apple ID登录\n\n\n【使用Google登录时】\n▼操作步骤\n1.［标题］→［菜单］→［账号管理］→选择［Sign in with Google］\n2.使用Google账号登录\n\n\n若您未启用数据继承功能，请依次点击［标题］→［菜单］→［咨询］→［数据继承与恢复］向我们咨询。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-4-title",
+        "data": {
+            "id": "la-help_category-faq-others-4-title",
+            "text": "我不小心删掉了应用程序。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-5-text",
+        "data": {
+            "id": "la-help_category-faq-others-5-text",
+            "text": "我们不保证本游戏能够在模拟器上正常启动运行。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-5-title",
+        "data": {
+            "id": "la-help_category-faq-others-5-title",
+            "text": "我可以用模拟器玩游戏吗？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-6-text",
+        "data": {
+            "id": "la-help_category-faq-others-6-text",
+            "text": "蓝色钻石可以通过购买钻石，或者部分有偿商品来获得。\n红色钻石可通过登录奖励、演出及成就的达成奖励来获得。\n\n商店及扭蛋页面右上角，都可以看到当前持有的蓝色钻石/红色钻石数量。\n如果同时持有蓝色钻石和红色钻石，使用时会优先消耗红色钻石。\n※部分扭蛋和商品只支持蓝色钻石支付。\n\n蓝色钻石的持有上限是1000000。\n如购买蓝色钻石时持有数量已达上限，则无法完成购买。\n红色钻石不设持有上限。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-6-title",
+        "data": {
+            "id": "la-help_category-faq-others-6-title",
+            "text": "蓝色钻石/红色钻石是什么？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-7-text",
+        "data": {
+            "id": "la-help_category-faq-others-7-text",
+            "text": "购买蓝色钻石，付费后可能需要稍等片刻才会显示到账。\n与此同时，也有可能重启应用才会显示到账。请尝试重启应用。\n\n如果尝试上述操作后仍未显示到账，请点击“咨询”内的“购买商品”向我们咨询。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-7-title",
+        "data": {
+            "id": "la-help_category-faq-others-7-title",
+            "text": "我买了蓝色钻石，但是没显示到账。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-1-text",
+        "data": {
+            "id": "la-help_category-faq-questions-1-text",
+            "text": "应用程序本身是可以免费下载游玩的。\n不过，若您购卖有偿服务，就会收取相应费用。\n另外，游戏联网时，会产生数据流量费。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-1-title",
+        "data": {
+            "id": "la-help_category-faq-questions-1-title",
+            "text": "这款游戏可以免费游玩吗？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-10-text",
+        "data": {
+            "id": "la-help_category-faq-questions-10-text",
+            "text": "在社媒及视频网站上传有关本游戏的图片或视频时，请遵循以下准则，切勿违反相关规定。\n\n▼著作物使用准则\nhttps://www.hololive-dreams.com/en/stream-guideline"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-10-title",
+        "data": {
+            "id": "la-help_category-faq-questions-10-title",
+            "text": "我可以直播这款游戏或发布游戏实况吗？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-11-text",
+        "data": {
+            "id": "la-help_category-faq-questions-11-text",
+            "text": "部分成就无法在开服初期解锁。\n\n例：“召集五类成员”等。\n※开服初期只有三类成员，因此无法解锁。\n\n请等待今后的版本升级。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-11-title",
+        "data": {
+            "id": "la-help_category-faq-questions-11-title",
+            "text": "部分成就无法解锁。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-12-text",
+        "data": {
+            "id": "la-help_category-faq-questions-12-text",
+            "text": "自动演出、自制谱面演出及私人房间演出，均无法解锁部分成就。\n无法解锁的成就类型如下：\n\n▼自动演出\n・演出成功的次数/乐曲数\n・FULL COMBO/ALL PERFECT的次数/乐曲数\n\n▼自制谱面\n・与演出成功次数及自制谱面无关的成就\n\n▼私人房间\n与演出、迷你游戏的排名和结果相关的成就\n\n例：\n・共同演出的MVP次数\n・在终极向前冲中夺冠的次数\n・在扑克屋！中夺冠的次数\n・在扑克屋！打出同色三条的次数\n・被“扑克屋”的次数"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-12-title",
+        "data": {
+            "id": "la-help_category-faq-questions-12-title",
+            "text": "我明明达成了成就解锁条件，系统却没有反映。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-2-text",
+        "data": {
+            "id": "la-help_category-faq-questions-2-text",
+            "text": "如果希望取消订阅会员和holo通行证，请按照以下步骤操作。\n\n【iOS】\n1. 在设备的［设置］中选择您的用户名。\n2.选择［订阅］。\n3.选择［hololive Dreams］订阅。\n4.选择［取消订阅］即可取消。\n\n【Android】\n1.［Google Play 商店］中选择您的账户图标。\n2.选择［支付与订阅］。\n3.选择［订阅］。\n4.选择［hololive Dreams］\n5.选择［取消订阅］。\n\n▼注意事项\n・如果您不确定取消订阅的操作步骤，请联系您的平台提供商。\n・请注意：即便删除应用程序或游戏数据（账号），您的订阅也不会被取消。\n・如果您想取消会员订阅，请至少在自动续订日期3天（72小时）前取消。\n※未在3天（72小时）前取消，您可能将错过平台的生效时间，无法在预期的时间取消。\n・即使在有效期内取消，您仍然可以享受相应服务直至有效期结束。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-2-title",
+        "data": {
+            "id": "la-help_category-faq-questions-2-title",
+            "text": "我想取消订阅会员和Holo通行证，该怎么操作？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-3-text",
+        "data": {
+            "id": "la-help_category-faq-questions-3-text",
+            "text": "登录奖励将在每天首次登录时，发送到礼物箱。\n登录奖励发放到礼物箱后，可以按照如下步骤领取。\n\n▼领取步骤\n［梦幻乐园］→［菜单］→［礼物］→［收件箱］\n※已领取的礼物将会在礼物领取记录中显示。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-3-title",
+        "data": {
+            "id": "la-help_category-faq-questions-3-title",
+            "text": "我没拿到登录奖励。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-4-text",
+        "data": {
+            "id": "la-help_category-faq-questions-4-text",
+            "text": "持有上限是999999999。\n超过上限的部分会送至礼物箱。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-4-title",
+        "data": {
+            "id": "la-help_category-faq-questions-4-title",
+            "text": "代币和道具有持有上限吗？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-5-text",
+        "data": {
+            "id": "la-help_category-faq-questions-5-text",
+            "text": "礼物领取记录最多可以显示100条。\n超过100条的部分，会按时间先后删除。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-5-title",
+        "data": {
+            "id": "la-help_category-faq-questions-5-title",
+            "text": "我看不到礼物领取记录了。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-6-text",
+        "data": {
+            "id": "la-help_category-faq-questions-6-text",
+            "text": "部分礼物设有领取期限。\n各类礼物的具体领取期限，请在礼物箱查看。\n礼物一旦过期就会消失，请及时领取。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-6-title",
+        "data": {
+            "id": "la-help_category-faq-questions-6-title",
+            "text": "我还没领礼物，礼物就不见了。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-7-text",
+        "data": {
+            "id": "la-help_category-faq-questions-7-text",
+            "text": "屏蔽任意玩家，都会出现以下影响。\n・不会在多人游戏的自由模式中匹配到已屏蔽的玩家。\n・已屏蔽的玩家无法进入您创建的私人房间。\n・您无法进入已屏蔽的玩家创建的私人房间。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-7-title",
+        "data": {
+            "id": "la-help_category-faq-questions-7-title",
+            "text": "屏蔽会有什么影响？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-8-text",
+        "data": {
+            "id": "la-help_category-faq-questions-8-text",
+            "text": "不同操作系统的玩家，也能一起进行多人游戏。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-8-title",
+        "data": {
+            "id": "la-help_category-faq-questions-8-title",
+            "text": "操作系统不同，可以一起进行多人游戏吗？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-9-text",
+        "data": {
+            "id": "la-help_category-faq-questions-9-text",
+            "text": "原则上我们不建议在日本境外游玩，且此类接入不在确保游戏正常运作的范围内。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-9-title",
+        "data": {
+            "id": "la-help_category-faq-questions-9-title",
+            "text": "我不在日本，可以玩日本版吗？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-trouble-1-text",
+        "data": {
+            "id": "la-help_category-faq-trouble-1-text",
+            "text": "目前无法找回关联ID和关联密码，请重新设置关联密码。\n重新设置后，之前的关联设置将失效。\n\n■操作步骤\n1.［梦幻乐园］→［菜单］→［其他］→［账号］→选择［设置关联密码］\n2.输入关联密码并选择［OK］\n3.复制生成的关联ID，等候下一步操作"
+        }
+    },
+    {
+        "id": "la-help_category-faq-trouble-1-title",
+        "data": {
+            "id": "la-help_category-faq-trouble-1-title",
+            "text": "我关联了账号，但是忘记了关联ID和关联密码。有办法找回ID和密码吗？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-trouble-2-text",
+        "data": {
+            "id": "la-help_category-faq-trouble-2-text",
+            "text": "游戏卡顿、载入缓慢、运行不稳定，可能是多种原因导致的。\n\n排查问题的同时，请检查您的设备是否满足推荐配置。\n※不满足推荐配置的玩家无法获取支持服务，请考虑升级设备。\n\n■推荐配置\n▼iOS\n推荐操作系统：iOS 16 及以上\n推荐设备：内存（RAM）6GB 及以上（iPhone 14 及以上）\n\n▼iPadOS\n推荐操作系统：iPadOS 16 及以上\n推荐设备：内存（RAM）6GB 及以上\n\n▼Android\n推荐操作系统：Android 11 及以上\n推荐设备：内存（RAM）6GB 及以上、CPU Snapdragon 8 Gen 1 及以上的设备\n\n▼Steam\n操作系统：Windows®  11 64-bit\n处理器：AMD Ryzen™ 5 3500 / Intel® Core™ i5-9400\n内存：8GB\n显卡：Radeon™  RX 580 Graphics / NVIDIA® GeForce® GTX 1060\n\n※以上为2026年7月时间点的推荐配置。\n※伴随今后的更新，推荐配置可能会有所变动。\n\n若满足推荐配置但仍出现问题，请尝试下列方法。\n\n■建议\n・在信号较强的地方游玩\n・重启应用程序\n・重启设备\n・检查设备存储空间\n※存储空间不足时，请清理存储后重启设备。\n\n若上述方法均不能解决问题，请联系我们并告知具体情况。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-trouble-2-title",
+        "data": {
+            "id": "la-help_category-faq-trouble-2-title",
+            "text": "发生通信错误时，应用程序会卡住（停止/闪退）。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-trouble-3-text",
+        "data": {
+            "id": "la-help_category-faq-trouble-3-text",
+            "text": "但即便抽卡途中应用程序闪退，或者没有正常显示抽卡动画，您也可以正常获得成员。\n\n您可以在相应扭蛋的抽取记录中查看您获得的成员。\n\n■如何查看抽取记录\n1.选择扭蛋\n2.选择先前出现故障的扭蛋\n3.选择抽取记录\n\n※如果重复获得同一成员，会转换为绽放Pt。\n前往相应成员的绽放页面，即可查看当前持有的绽放Pt数量。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-trouble-3-title",
+        "data": {
+            "id": "la-help_category-faq-trouble-3-title",
+            "text": "我抽卡抽到一半，游戏突然闪退了。这时还能正常获得成员吗？"
+        }
+    },
+    {
+        "id": "la-help_category-help-account-alignment-1-text",
+        "data": {
+            "id": "la-help_category-help-account-alignment-1-text",
+            "text": "关联账号后，您可以在多个设备上共享数据、畅玩游戏。\n如果待共享的设备上已存在游戏存档，也可以通过覆盖现有数据的方式进行共享。\n\n※请注意：若在执行覆盖前未进行账号关联，则旧有的存档将无法恢复。"
+        }
+    },
+    {
+        "id": "la-help_category-help-account-alignment-1-title",
+        "data": {
+            "id": "la-help_category-help-account-alignment-1-title",
+            "text": "关于账号关联"
+        }
+    },
+    {
+        "id": "la-help_category-help-achievements-1-text",
+        "data": {
+            "id": "la-help_category-help-achievements-1-text",
+            "text": "解锁成就，即可获得Holo成员经验值、称号、红色钻石等奖励。\n\n不过，自动演出、自制谱面演出及私人房间演出，均无法解锁部分成就。\n无法解锁的成就类型如下：\n\n▼自动演出\n・演出成功的次数/乐曲数\n・FULL COMBO/ALL PERFECT的次数/乐曲数\n\n▼自制谱面\n・与演出成功次数及自制谱面无关的成就\n\n▼私人房间\n与演出、迷你游戏的排名和结果相关的成就\n\n例：\n・共同演出的MVP次数\n・在终极向前冲中夺冠的次数\n・在扑克屋！中夺冠的次数\n・在扑克屋！打出同色三条的次数\n・被“扑克屋”的次数\n\n要查看成就，请依次点击［梦幻乐园］→［成就］。"
+        }
+    },
+    {
+        "id": "la-help_category-help-achievements-1-title",
+        "data": {
+            "id": "la-help_category-help-achievements-1-title",
+            "text": "关于成就"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-1-text",
+        "data": {
+            "id": "la-help_category-help-card-1-text",
+            "text": "您可以在成员一览中查看您拥有的成员。\n\n选中成员，即可查看等级、类型、参数、技能等详细信息。\n参数有“表现力”“技巧”“品位”三种，会影响小队总分。\n类型有“可爱”“纯洁”“快乐”三种，会影响技能效果和发动条件。\n\n另外，★5成员的详情界面可以切换显示签名和留言。\n\n要查看成员一览，请依次点击［梦幻乐园］→［菜单］→［成员］。"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-1-title",
+        "data": {
+            "id": "la-help_category-help-card-1-title",
+            "text": "关于成员"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-2-text",
+        "data": {
+            "id": "la-help_category-help-card-2-text",
+            "text": "每位成员都拥有以下三种技能：\n\n▼成员技能\n・特殊技能：威力强大的技能，在演出中只会发动一次（发动顺序取决于成员编入小队的顺序）\n・主动技能：在演出中以一定概率周期性发动的技能\n・被动技能：满足特定条件时，始终生效的技能\n\n可以通过提升成员的绽放阶段，来增强技能效果。"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-2-title",
+        "data": {
+            "id": "la-help_category-help-card-2-title",
+            "text": "关于技能"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-3-text",
+        "data": {
+            "id": "la-help_category-help-card-3-text",
+            "text": "技能效果主要分为以下几种：\n\n▼技能效果\n・分数UP：生效期间，提升玩家获得的分数。\n・得分辅助：生效期间，提升玩家“分数UP”类技能的加成值。\n・判定强化：生效期间，GOOD、GREAT判定变为PERFECT。\n・恢复生命值：恢复一定数量的生命值。\n・技能发动概率UP：生效期间，提升技能的发动概率。\n・参数提升：提升特定的参数。"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-3-title",
+        "data": {
+            "id": "la-help_category-help-card-3-title",
+            "text": "关于技能效果"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-4-text",
+        "data": {
+            "id": "la-help_category-help-card-4-text",
+            "text": "消耗课程Pt，可以让成员升级。\n成员在升级后，各项参数也会提升。"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-4-title",
+        "data": {
+            "id": "la-help_category-help-card-4-title",
+            "text": "关于升级"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-5-text",
+        "data": {
+            "id": "la-help_category-help-card-5-text",
+            "text": "成员强化加成，是一种会在演出时计入小队总分的加成。\n成员等级超过20时，就会获得加成。等级越高，加成越多。\n持有的所有成员加成的总和，就是成员强化加成。\n※成员强化加成的上限是50％。"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-5-title",
+        "data": {
+            "id": "la-help_category-help-card-5-title",
+            "text": "关于成员强化加成"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-6-text",
+        "data": {
+            "id": "la-help_category-help-card-6-text",
+            "text": "让成员进行特训，就能提升成员的等级上限。\n特训所需的道具，可以通过演出或Holowork等途径获得。"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-6-title",
+        "data": {
+            "id": "la-help_category-help-card-6-title",
+            "text": "关于特训"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-7-text",
+        "data": {
+            "id": "la-help_category-help-card-7-text",
+            "text": "消耗绽放Pt，最多可以让成员绽放至第5阶段。\n每次绽放，都能获得各种效果。\n\n所有成员皆有独立的绽放Pt，用于该成员的绽放。\n重复获得同一成员，可以获得该成员的绽放Pt。\n\n★5成员也可以使用“怒放石”来达成绽放。\n“怒放石”可以在商店中使用特殊Holo贴纸来兑换。"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-7-title",
+        "data": {
+            "id": "la-help_category-help-card-7-title",
+            "text": "关于绽放"
+        }
+    },
+    {
+        "id": "la-help_category-help-character-1-text",
+        "data": {
+            "id": "la-help_category-help-character-1-text",
+            "text": "在holo成员一览中，可以查看各个成员的解锁状况。\n选择已经解锁的成员，就能查看Holo成员Rank、Holo成员面板、服装等各种信息。\n\n要查看holo成员页面，请依次点击［梦幻乐园］→［菜单］→［holo成员］。"
+        }
+    },
+    {
+        "id": "la-help_category-help-character-1-title",
+        "data": {
+            "id": "la-help_category-help-character-1-title",
+            "text": "关于holo成员"
+        }
+    },
+    {
+        "id": "la-help_category-help-character-2-text",
+        "data": {
+            "id": "la-help_category-help-character-2-text",
+            "text": "攒够一定数量的Holo成员经验值，就能提升成员Rank。\n完成目标成员的成就，即可获得Holo成员经验值。\n提升成员Rank，可以获得成员面板Pt和乐园服装等奖励。"
+        }
+    },
+    {
+        "id": "la-help_category-help-character-2-title",
+        "data": {
+            "id": "la-help_category-help-character-2-title",
+            "text": "关于Holo成员Rank"
+        }
+    },
+    {
+        "id": "la-help_category-help-character-3-text",
+        "data": {
+            "id": "la-help_category-help-character-3-text",
+            "text": "每个Holo成员都有自己的成员面板。解锁面板上的格子，就能获得在演出及迷你游戏中生效的效果。\n\n▼格子的种类\n・领队格（红色格子）：设定为演出小队领队时发动的效果\n・成员格（蓝色格子）：设定为演出小队成员时发动的效果\n・辅助格（黄色/绿色格子）：未编入演出小队也会发动的效果\n・连结格：配置成员，就能发动该成员的连结效果\n\n解锁格子所需的材料，可以通过达成holo成员成就，或在兑换所兑换获得。"
+        }
+    },
+    {
+        "id": "la-help_category-help-character-3-title",
+        "data": {
+            "id": "la-help_category-help-character-3-title",
+            "text": "关于Holo成员面板"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-1-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-1-text",
+            "text": "在这里可以基于乐曲来创作喜欢的谱面。\n您既可以自己制作并上传谱面，也可以游玩其他玩家制作的谱面。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-1-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-1-title",
+            "text": "关于自制谱面"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-10-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-10-text",
+            "text": "点击［▶］可以播放正在制作的谱面。\n有三种播放方式可供选择：［滚动进度条］［滚动谱面］［不进行滚动］。\n\n您可以点击［l◀］从头开始播放，点击黄色的旗子标志还能从谱面的指定位置（Cue）开始播放。\n双击编辑器右侧的小节线编号，即可指定播放位置（Cue）。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-10-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-10-title",
+            "text": "关于谱面制作 - 播放设置"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-11-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-11-text",
+            "text": "您可以粘贴官方提供的谱面模板，或您自己创建的模板。\n\n如果是您自己创建的谱面，最多可保存30个作为自定义模板。\n要保存为模板，请使用选择工具选中音符，然后从选项中选择［模板化］。\n\n您还可以通过长按编辑器画面来粘贴各种模板，或删除自定义模板。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-11-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-11-title",
+            "text": "关于谱面制作 - 模板"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-12-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-12-text",
+            "text": "长按编辑器界面，可以设置音符的速度倍率，更改谱面上特定范围的音符速度。\n\n例如让部分音符速度暂时放缓，或暂停谱面以进行模拟展示等等。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-12-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-12-title",
+            "text": "关于谱面制作 - 音符速度倍率"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-13-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-13-text",
+            "text": "点击齿轮图标，可以调整制作谱面时的各种详细设置。\n\n▼乐曲音量\n可调整制作界面上的乐曲播放音量。\n\n▼音符效果音量\n可调整设置音符时的效果音量。\n\n▼音符高度\n可调整制作界面上的音符高度。\n\n▼显示装饰音符边框\n可设置是否在制作界面上显示装饰音符边框。\n\n▼显示谱面参照\n若存在参考谱面，可设置开启/关闭显示引用信息。\n开启后，引用源乐谱将以淡色显示在中央的谱面制作区域。\n\n▼自动保存\n可开启/关闭制作界面上的自动保存功能。\n※请注意：在未放置任何音符等无法保存/公开谱面的情况下，系统不会执行自动保存。\n\n▼背景音乐\n可开启/关闭制作界面的专用背景音乐。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-13-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-13-title",
+            "text": "关于谱面制作 - 其他设置"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-14-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-14-text",
+            "text": "点击［▶ PLAY］可以进行试玩。\n除了可以“手动试玩”外，系统也支持“自动试玩”。\n此外，也可以从乐曲的开头，或是指定Cue的位置开始游玩。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-14-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-14-title",
+            "text": "关于谱面制作 - 试玩"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-15-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-15-text",
+            "text": "谱面制作完成后，可以通过［文件］选单进行保存或公开。\n另外请注意，如果只选择保存，则默认不进行公开。\n公开之前，需要先完成名称、封面图和谱面难度等一系列设置。\n谱面公开后，可能需要等候一段时间才会出现在“最新”及“热门”分类中。\n\n▼标题\n可以为制作好的谱面设定一个标题。\n\n▼难度等级\n设定谱面的难度。\n\n▼封面图\n可以拍摄当前谱面中的段落，设置为谱面的封面图。\n\n▼标签\n可以从［面向新手］［面向高手］［王道］［搞笑］［画画］［征集挑战者］中选择谱面标签，最多可以设置2个。\n\n▼类型\n如果谱面中包含伤害音符，或含有3个以上的同时按键音符，则系统会自动设置谱面类型。\n\n▼游玩公开范围\n可以为制作好的谱面设置游玩公开范围。有［完全公开］［仅限好友］［仅限谱面ID搜索］［不公开］四种可供选择。\n\n▼谱面引用范围\n可以为制作好的谱面设置允许引用的范围。有［完全公开］［仅限好友］［仅限谱面ID搜索］［不公开］四种可供选择。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-15-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-15-title",
+            "text": "关于谱面制作 - 公开方式"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-2-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-2-text",
+            "text": "要游玩其他玩家制作的谱面，可以在“个人演出”的选曲画面中点击心仪乐曲的［CREATE］，或者在演出传送门界面的［▶游玩］中选择自制谱面。\n\n※游玩自制谱面不会消耗演出能量，也不会获得达成奖励、演出成功后的奖励或经验值。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-2-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-2-title",
+            "text": "关于玩法"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-3-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-3-text",
+            "text": "自制谱面一般可以通过以下3种途径创作：\n\n▼参考官方谱面制作\n选择乐曲和谱面难度后，引用官方发布的谱面进行制作。\n\n▼从头开始制作\n选择乐曲，从零开始制作谱面。\n\n▼参考玩家谱面制作\n引用玩家制作的谱面进行制作。\n※这种情况下，只能使用允许引用的谱面。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-3-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-3-title",
+            "text": "关于谱面制作"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-4-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-4-text",
+            "text": "选择想要的音符种类，点击对应位置即可放置。\n\n▼下列情况会显示警告信息：\n・特定类型的音符存在部分重叠；\n・1小节中配置的音符个数在128～256之间；\n・存在3个以上的同时按键音符。\n注：即使显示警告信息，也不会影响谱面的保存和公开。\n\n▼下列情况无法在谱面上配置音符：\n・总连击数超过9999；\n・1小节中的音符超过256个；\n\n▼符合下列情况的谱面无法进行试玩或公开：\n・谱面上未配置任何音符；\n・存在6个以上的同时按键音符；\n・特定类型的音符完全重叠；\n・伤害音符完全覆盖了判定音符或正在进行中的长音符；\n・总连击数超过9999；\n・1小节中配置的音符超过256个。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-4-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-4-title",
+            "text": "关于谱面制作 - 编辑器"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-5-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-5-text",
+            "text": "▼选择工具\n在点选“选择工具”的状态下，点击编辑器上的音符，就会进入选择状态。\n选择音符后，可以在选项中进行各种修改。\n详情请查看［关于谱面制作 - 选项］。\n\n选中音符后，可以点击旁边的箭头来更改音符的宽度。\n也可以同时选择多个音符进行更改。\n\n此外，在使用选择工具时，再次按下选择工具按钮可切换为范围选择模式。\n\n▼擦除工具\n在点选“擦除工具”的状态下点击编辑器上的音符，即可删除不需要的音符。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-5-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-5-title",
+            "text": "关于谱面制作 - 选择工具与擦除工具"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-6-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-6-text",
+            "text": "▼普通音符\n可以在乐谱上配置普通的音符。\n\n▼重音音符\n可以在乐谱上配置容易出现PERFECT判定，且点击音效不同的黄色重音音符。\n\n在选中重音音符的状态下，点击配置好的普通音符，可将该普通音符变为重音音符，再次点击则切换回普通音符。\n同理，选中重音音符后，点击长音符可使其变为重音长音符；反之亦然。\n滑轨音符也可以通过上述操作与重音滑轨音符互相变换。\n\n▼滑轨音符\n可以在乐谱上配置滑轨音符。\n\n在选中滑轨音符的状态下，点击配置好的普通音符，可将该普通音符变为滑轨音符，再次点击则切换回普通音符。\n此操作也可将普通长音符的终点变为滑轨音符，或切换回普通长音符。\n重音音符也可以通过上述操作与重音滑轨音符互相变换。\n\n▼长音符\n可以在乐谱上配置长音符。\n详情请查看［关于谱面制作 - 长音符与中间音符］。\n\n▼中间音符\n在长音符的起点和终点之间，可以配置中间音符。\n详情请查看［关于谱面制作 - 长音符与中间音符］。\n\n▼装饰音符\n可以在乐谱上配置无须点击的装饰音符。\n配置装饰音符的方式与长音符相同。\n另外，您可以自由更改装饰音符的颜色。\n\n▼伤害音符\n可配置伤害音符。触碰到伤害音符，会导致连击中断并扣除生命值。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-6-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-6-title",
+            "text": "关于谱面制作 - 各种音符"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-7-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-7-text",
+            "text": "用选择工具选中长音符后，会显示各类选项。\n可以将长音符的角度更改为［直线］［曲线1］［曲线2］。\n\n另外，用选择工具选中配置于长音符起点和终点之间的中间音符时，可以在选项中更改中间音符的种类。分为以下三种：\n\n▼普通\n“普通”中间音符正常显示，成功点击时除了会计入连击数，还会播放效果音、显示判定特效。\n放在长音符的起点和终点中间，长音符就会经过放置的位置。\n\n▼不可见\n“不可见”中间音符不会显示，也没有连击等成功判定。\n放在长音符的起点和终点中间，长音符就会经过放置的位置。\n“不可见”中间音符不会播放效果音，也不会计入连击数。可以借此为长音符构建出复杂的曲线或造型。\n\n▼忽略型\n“忽略型”中间音符正常显示，成功点击时除了会计入连击数，还会播放效果音、显示判定特效。\n但区别在于，即便放置于长音符的起点和终点中间，长音符也不会经过放置的位置。\n适用于想要放置中间音符，但不想影响长音符的角度和路径的情况。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-7-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-7-title",
+            "text": "关于谱面制作 - 长音符与中间音符"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-8-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-8-text",
+            "text": "使用选择工具选中音符后，可以打开音符的选项菜单。\n通过选项菜单，可以复制、剪切需要的音符。\n此外，也支持将选中的多个音符记录为模板，或进行水平、垂直翻转等操作。\n\n长按编辑器界面，可以粘贴先前复制或剪切的音符。粘贴时可以选择是否进行水平翻转。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-8-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-8-title",
+            "text": "关于谱面制作 - 选项"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-9-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-9-text",
+            "text": "▼预计难度\n系统会根据音符的密度，显示预计难度等级。\n若预计难度超过30级，会统一显示为Lv30+。\n在保存谱面时，制作者也可以自行设置谱面等级作为参考等级。\n\n▼统计信息\n点击预计难度的［i］键，会显示当前谱面的统计信息。\n统计信息会显示正在制作的谱面中已配置的音符总数，以及总连击数。\n另外，进入全屏视图，还可以总览整个谱面音符的配置情况。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-9-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-9-title",
+            "text": "关于谱面制作 - 预计难度与统计信息"
+        }
+    },
+    {
+        "id": "la-help_category-help-exchange-1-text",
+        "data": {
+            "id": "la-help_category-help-exchange-1-text",
+            "text": "在音波菈牡商店可以用Holo金币兑换各种各样的商品，或者出售自己持有的物品。\n其中，部分道具有兑换时间限制。"
+        }
+    },
+    {
+        "id": "la-help_category-help-exchange-1-title",
+        "data": {
+            "id": "la-help_category-help-exchange-1-title",
+            "text": "关于音波菈牡商店"
+        }
+    },
+    {
+        "id": "la-help_category-help-exchange-2-text",
+        "data": {
+            "id": "la-help_category-help-exchange-2-text",
+            "text": "在电玩巨蛋城代币兑换所，可以用代币兑换各种各样的商品。\n也支持将迷你游戏能量兑换成代币。"
+        }
+    },
+    {
+        "id": "la-help_category-help-exchange-2-title",
+        "data": {
+            "id": "la-help_category-help-exchange-2-title",
+            "text": "关于电玩巨蛋城代币兑换所"
+        }
+    },
+    {
+        "id": "la-help_category-help-friend-1-text",
+        "data": {
+            "id": "la-help_category-help-friend-1-text",
+            "text": "成为好友后，可以邀请好友到多人游戏的房间一起玩，或者在好友列表里查看对方的个人资料。\n\n▼如何添加好友\n・向其他玩家发送好友申请，等待对方同意\n・同意其他玩家发来的好友申请\n\n您可以进入其他玩家的个人资料页面，向该玩家发送申请。\n也可以在“添加好友”页面查看他人发来的申请。\n\n注：要查看其他玩家的个人资料，可以在好友页面进行“ID搜索”，输入对方的玩家ID来查看。\n此外，好友上限为100人。一旦达到上限，您将无法发送、同意或接收来自其他玩家的好友申请。"
+        }
+    },
+    {
+        "id": "la-help_category-help-friend-1-title",
+        "data": {
+            "id": "la-help_category-help-friend-1-title",
+            "text": "关于好友"
+        }
+    },
+    {
+        "id": "la-help_category-help-gacha-1-text",
+        "data": {
+            "id": "la-help_category-help-gacha-1-text",
+            "text": "消耗钻石或扭蛋票，就能在扭蛋中获取成员。\n在各个扭蛋的“扭蛋详情”中，可以查看成员的出现概率。\n\n每抽1次扭蛋，就能获得1点相应扭蛋的扭蛋Pt。\n攒够一定数量的扭蛋Pt，就能在相应兑换所兑换特定成员。\n※扭蛋不同，扭蛋Pt和兑换所的内容也会不同。\n\n重复获得已经持有的成员时，会自动转换为绽放Pt。"
+        }
+    },
+    {
+        "id": "la-help_category-help-gacha-1-title",
+        "data": {
+            "id": "la-help_category-help-gacha-1-title",
+            "text": "关于扭蛋"
+        }
+    },
+    {
+        "id": "la-help_category-help-gacha-2-text",
+        "data": {
+            "id": "la-help_category-help-gacha-2-text",
+            "text": "在抽取记录中，可以查看过去抽取过的扭蛋内容。\n系统最多会保存过去30天内的100条抽取记录。"
+        }
+    },
+    {
+        "id": "la-help_category-help-gacha-2-title",
+        "data": {
+            "id": "la-help_category-help-gacha-2-title",
+            "text": "关于抽取记录"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-1-text",
+        "data": {
+            "id": "la-help_category-help-game-1-text",
+            "text": "在梦幻乐园里，有很多可以玩到迷你游戏的设施。\n游玩迷你游戏，可获得能在该区域使用的道具等奖励。\n其中，部分游戏可以和他人共同游玩。\n\n另外，多人迷你游戏支持私密模式。开启私密模式，即可隐藏玩家名和个人资料。\n※私人房间无法使用私密模式。"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-1-title",
+        "data": {
+            "id": "la-help_category-help-game-1-title",
+            "text": "关于迷你游戏"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-2-text",
+        "data": {
+            "id": "la-help_category-help-game-2-text",
+            "text": "部分迷你游戏在游戏开始前，可以设定“迷你游戏能量”。\n投入的能量越多，结算时能获得的奖励就越多。\n※结算时才会消耗迷你游戏能量。\n\n迷你游戏能量每7分钟恢复1点，上限100点。\n另外，迷你游戏充能果冻也可以转换为迷你游戏能量。\n将迷你游戏充能果冻转换为能量时，最多可以转换999点。\n※如果转换后的总能量超过999点，则无法进行转换。"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-2-title",
+        "data": {
+            "id": "la-help_category-help-game-2-title",
+            "text": "关于迷你游戏能量"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-3-text",
+        "data": {
+            "id": "la-help_category-help-game-3-text",
+            "text": "“跳跳大绳”是在不要被甩来的大绳打到的前提下，尽可能多跳绳的迷你游戏。\n多人游戏模式中，最多支持5名玩家合作游玩。\n\n详情请选择跳跳大绳首页的［？］查看详细玩法。"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-3-title",
+        "data": {
+            "id": "la-help_category-help-game-3-title",
+            "text": "关于跳跳大绳"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-4-text",
+        "data": {
+            "id": "la-help_category-help-game-4-text",
+            "text": "“拼配厨房”需要在规定的时间内集齐需要的材料，完成料理。\n该游戏只支持单人游玩。\n\n详情请点击拼配厨房首页的“？”查看详细玩法。"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-4-title",
+        "data": {
+            "id": "la-help_category-help-game-4-title",
+            "text": "关于拼配厨房"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-5-text",
+        "data": {
+            "id": "la-help_category-help-game-5-text",
+            "text": "“终极向前冲”是最多支持16名玩家共同参与的障碍赛跑游戏。\n该游戏只支持多人游玩。\n\n详情请点击终极向前冲首页的“？”查看详细玩法。"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-5-title",
+        "data": {
+            "id": "la-help_category-help-game-5-title",
+            "text": "关于终极向前冲"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-6-text",
+        "data": {
+            "id": "la-help_category-help-game-6-text",
+            "text": "“扑克屋！”是4人游玩的卡牌游戏。\n用手牌凑出得分牌型，根据完成的牌型获得代币奖励。\n\n详情请点击扑克屋！首页的“？”查看详细玩法。"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-6-title",
+        "data": {
+            "id": "la-help_category-help-game-6-title",
+            "text": "关于扑克屋！"
+        }
+    },
+    {
+        "id": "la-help_category-help-item-1-text",
+        "data": {
+            "id": "la-help_category-help-item-1-text",
+            "text": "在“持有物品”中，可以查看当前持有的各种道具数量、用途及获得方式。\n如果是限时道具，则会一并显示该道具的有效期。\n注意：超过有效期限的限时道具会消失。"
+        }
+    },
+    {
+        "id": "la-help_category-help-item-1-title",
+        "data": {
+            "id": "la-help_category-help-item-1-title",
+            "text": "关于持有物品"
+        }
+    },
+    {
+        "id": "la-help_category-help-item-2-text",
+        "data": {
+            "id": "la-help_category-help-item-2-text",
+            "text": "“自选盒”是一个礼物盒子，可以自主选择1个喜欢的道具。\n在“持有物品”中点选自选盒，即可选择道具。"
+        }
+    },
+    {
+        "id": "la-help_category-help-item-2-title",
+        "data": {
+            "id": "la-help_category-help-item-2-title",
+            "text": "关于自选盒"
+        }
+    },
+    {
+        "id": "la-help_category-help-option-1-text",
+        "data": {
+            "id": "la-help_category-help-option-1-text",
+            "text": "在选项页面中，可以进行操作、画面、声效、通知、系统和数据的相关设置。"
+        }
+    },
+    {
+        "id": "la-help_category-help-option-1-title",
+        "data": {
+            "id": "la-help_category-help-option-1-title",
+            "text": "关于选项"
+        }
+    },
+    {
+        "id": "la-help_category-help-option-2-text",
+        "data": {
+            "id": "la-help_category-help-option-2-text",
+            "text": "在演出选项页面中，可以进行演出时的设置，并修改演出外观、声效和其他详细设定。"
+        }
+    },
+    {
+        "id": "la-help_category-help-option-2-title",
+        "data": {
+            "id": "la-help_category-help-option-2-title",
+            "text": "关于演出选项"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-1-text",
+        "data": {
+            "id": "la-help_category-help-park-1-text",
+            "text": "在梦幻乐园中，您可以操纵任意holo成员，游玩演出或迷你游戏，建造设施来发展乐园。\n\n推进故事剧情还能解锁新区域，游玩新区域特有的迷你游戏，或使用相关设施。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-1-title",
+        "data": {
+            "id": "la-help_category-help-park-1-title",
+            "text": "关于梦幻乐园"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-10-text",
+        "data": {
+            "id": "la-help_category-help-park-10-text",
+            "text": "时间段分为“早晨”“傍晚”“晚上”。\n梦幻乐园中设有可以自由更改时间段的设施。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-10-title",
+        "data": {
+            "id": "la-help_category-help-park-10-title",
+            "text": "关于时间"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-11-text",
+        "data": {
+            "id": "la-help_category-help-park-11-text",
+            "text": "您可以更换在梦幻乐园中操作的holo成员的服装和装饰品。\n要更换holo成员的服装，请依次点击［梦幻乐园］→［holo成员图标］→［服装图标］。\n※只能选择已经完成holo成员任务的成员。\n\n服装可以通过抽取扭蛋或加入会员，装饰品可以通过任务通行证等途径获得。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-11-title",
+        "data": {
+            "id": "la-help_category-help-park-11-title",
+            "text": "关于更换乐园服装及装饰品"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-12-text",
+        "data": {
+            "id": "la-help_category-help-park-12-text",
+            "text": "推进剧情，梦幻乐园各处就会出现宝物箱。\n打开宝物箱可以获得各种各样的道具。\n\n可以在地图上查看当前已经出现的宝物箱的数量。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-12-title",
+        "data": {
+            "id": "la-help_category-help-park-12-title",
+            "text": "关于宝物箱"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-13-text",
+        "data": {
+            "id": "la-help_category-help-park-13-text",
+            "text": "推进剧情，梦幻乐园各处就会出现隐秘宝藏。\n拾取隐秘宝藏，可以获得各种各样的道具。\n\n隐秘宝藏每天都会随机出现在各个地点。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-13-title",
+        "data": {
+            "id": "la-help_category-help-park-13-title",
+            "text": "关于隐秘宝藏"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-2-text",
+        "data": {
+            "id": "la-help_category-help-park-2-text",
+            "text": "获得一定数量的梦幻Rank经验值，即可提升梦幻Rank。\n梦幻Rank经验值，可以通过游玩演出与完成任务获得。\n梦幻Rank提升后，可以获得升级奖励。\n\n升级奖励可以点击［菜单］→［个人资料］→［梦幻Rank］→［全部领取］来领取。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-2-title",
+        "data": {
+            "id": "la-help_category-help-park-2-title",
+            "text": "关于梦幻Rank"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-3-text",
+        "data": {
+            "id": "la-help_category-help-park-3-text",
+            "text": "您可以更换在梦幻乐园中操作的holo成员。\n要更换holo成员，请依次点击［梦幻乐园］→［holo成员图标］。\n※只能选择已经完成holo成员任务的成员。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-3-title",
+        "data": {
+            "id": "la-help_category-help-park-3-title",
+            "text": "关于更改holo成员"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-4-text",
+        "data": {
+            "id": "la-help_category-help-park-4-text",
+            "text": "您可以在梦幻乐园内部建造设施。\n消耗指定的素材建造设施后，就能使用该设施的功能了。\n\n部分设施可以进行升级，升级后好处多多。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-4-title",
+        "data": {
+            "id": "la-help_category-help-park-4-title",
+            "text": "关于设施"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-5-text",
+        "data": {
+            "id": "la-help_category-help-park-5-text",
+            "text": "在地图上可以查看梦幻乐园内的设施，以及当前触发了的任务。\n在地图内点击对应图标，选择［移动］就能前往对应场所。\n\n点击［梦幻乐园］→［地图图标］即可打开地图。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-5-title",
+        "data": {
+            "id": "la-help_category-help-park-5-title",
+            "text": "关于地图"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-6-text",
+        "data": {
+            "id": "la-help_category-help-park-6-text",
+            "text": "拍摄模式可以操作相机，在梦幻乐园内自由拍照。\n\n您可以拖拽调整镜头角度、双指触控缩放画面、点击屏幕进行对焦。\n此外还有切换显示/隐藏，以及将视点聚焦至某位holo成员等各式功能。\n\n拍下的照片可以保存在您的设备里。\n※保存到设备时，由于需要访问您的照片图库，将弹出权限确认对话框。\n\n点击［梦幻乐园］→［相机图标］即可启动拍摄模式。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-6-title",
+        "data": {
+            "id": "la-help_category-help-park-6-title",
+            "text": "关于拍摄模式"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-7-text",
+        "data": {
+            "id": "la-help_category-help-park-7-text",
+            "text": "从表情菜单选择表情，holo成员就会做出对应的手势或摆姿势。\n表情可以用于梦幻乐园内拍摄，或在多人游戏时与其他玩家进行交流。\n\n点击［梦幻乐园］→［表情图标］即可开启表情菜单。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-7-title",
+        "data": {
+            "id": "la-help_category-help-park-7-title",
+            "text": "关于表情"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-8-text",
+        "data": {
+            "id": "la-help_category-help-park-8-text",
+            "text": "手持物品是能让操作的holo成员拿在手上的道具。\n每位holo成员都有独特的手持物品，可供对应成员拿在手中。\n手持物品可以用Holo奖章在梦幻乐园内的商店兑换。\n\n点击［梦幻乐园］→［表情图标］→［包包图标］即可开启手持物品菜单。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-8-title",
+        "data": {
+            "id": "la-help_category-help-park-8-title",
+            "text": "关于手持物品"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-9-text",
+        "data": {
+            "id": "la-help_category-help-park-9-text",
+            "text": "从贴图菜单选择贴图，就会显示在holo成员头顶。\n贴图可以在多人游戏时，用于与其他玩家交流。\n另外，持有的贴图还可以配置在定制个人资料卡中。\n\n点击［梦幻乐园］→［表情图标］→［贴图图标］即可开启贴图菜单。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-9-title",
+        "data": {
+            "id": "la-help_category-help-park-9-title",
+            "text": "关于贴图"
+        }
+    },
+    {
+        "id": "la-help_category-help-poster-1-text",
+        "data": {
+            "id": "la-help_category-help-poster-1-text",
+            "text": "持有回忆卡可以提升小队参数。\n持有的回忆卡数量越多，加成值越高。"
+        }
+    },
+    {
+        "id": "la-help_category-help-poster-1-title",
+        "data": {
+            "id": "la-help_category-help-poster-1-title",
+            "text": "关于回忆卡"
+        }
+    },
+    {
+        "id": "la-help_category-help-poster-2-text",
+        "data": {
+            "id": "la-help_category-help-poster-2-text",
+            "text": "“回忆展台”可以查看当前持有的回忆卡。\n最多可以在回忆展台上放置1～4张成员和回忆卡。\n此后，设定好的成员和回忆卡就会出现在展台上。"
+        }
+    },
+    {
+        "id": "la-help_category-help-poster-2-title",
+        "data": {
+            "id": "la-help_category-help-poster-2-title",
+            "text": "关于回忆展台"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-1-text",
+        "data": {
+            "id": "la-help_category-help-profile-1-text",
+            "text": "个人资料中可以查看ID、玩家名、一句话介绍、称号和最佳小队等各种信息。\n在这里，可以自由编辑玩家名称、一句话介绍、定制个人资料卡和称号。"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-1-title",
+        "data": {
+            "id": "la-help_category-help-profile-1-title",
+            "text": "关于个人资料"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-2-text",
+        "data": {
+            "id": "la-help_category-help-profile-2-text",
+            "text": "“定制个人资料卡”会显示在你的个人资料和排行榜，进行多人游戏时也会展示。\n可以用喜欢的成员、回忆卡作为基底，自由配置称号、贴图等组件。\n每人最多可以保存20张定制个人资料卡（包括默认卡片）。"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-2-title",
+        "data": {
+            "id": "la-help_category-help-profile-2-title",
+            "text": "关于定制个人资料卡"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-3-text",
+        "data": {
+            "id": "la-help_category-help-profile-3-text",
+            "text": "在个人资料中，可以选择是否公开基本信息、holo成员、演出和游戏的详情。\n可以在各项信息的下方选择公开或不公开。"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-3-title",
+        "data": {
+            "id": "la-help_category-help-profile-3-title",
+            "text": "关于公开设置"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-4-text",
+        "data": {
+            "id": "la-help_category-help-profile-4-text",
+            "text": "个人资料里提供了5个栏位，用于设置称号。\n称号有着不同的尺寸，不同尺寸占用的栏位也不同。\n\n▼各尺寸占用的栏位\n・小尺寸：占用1栏\n・中尺寸：占用2栏\n・大尺寸：占用3栏"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-4-title",
+        "data": {
+            "id": "la-help_category-help-profile-4-title",
+            "text": "关于称号"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-5-text",
+        "data": {
+            "id": "la-help_category-help-profile-5-text",
+            "text": "进入其他玩家的个人资料，可以选择屏蔽该玩家。\n一旦屏蔽，将产生以下限制：\n\n▼限制内容\n・多人游戏时，不会再匹配到这名玩家\n・无法进入彼此创建的私人房间\n\n您可以在好友页面的黑名单中查看已屏蔽的玩家。\n另外，在黑名单或对方的个人资料中也可以解除屏蔽。\n\n注意：已经成为好友的玩家无法屏蔽。\n黑名单中最多可以容纳100人。"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-5-title",
+        "data": {
+            "id": "la-help_category-help-profile-5-title",
+            "text": "关于黑名单"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-6-text",
+        "data": {
+            "id": "la-help_category-help-profile-6-text",
+            "text": "进入其他玩家的个人资料，可以举报该玩家。\n违规玩家的账号可能会被临时或永久冻结。具体措施视其违规行为的内容和恶劣程度而定。"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-6-title",
+        "data": {
+            "id": "la-help_category-help-profile-6-title",
+            "text": "关于举报功能"
+        }
+    },
+    {
+        "id": "la-help_category-help-quest-1-text",
+        "data": {
+            "id": "la-help_category-help-quest-1-text",
+            "text": "完成任务有诸多好处，例如推进剧情，获得奖励，或解锁新的任务。\n\n点击［梦幻乐园］→［书本图标］，可以查看已经出现的任务。\n点击［任务］→［追踪］，可以切换到要追踪进度的任务。\n\n拿到目标演出分数即可完成的任务，会在演出开始前的编辑小队界面显示预计通关难度。\n预计通关难度依次按“★＞〇＞△＞×”排列，离★越近越简单。\n※预计通关难度为“×”时无法挑战演出。满足所需小队总分条件后才能进行挑战。"
+        }
+    },
+    {
+        "id": "la-help_category-help-quest-1-title",
+        "data": {
+            "id": "la-help_category-help-quest-1-title",
+            "text": "关于任务"
+        }
+    },
+    {
+        "id": "la-help_category-help-quest-2-text",
+        "data": {
+            "id": "la-help_category-help-quest-2-text",
+            "text": "指游戏的主要剧情。\n完成任务除了可以推进剧情、获得奖励，有时还会解锁新的功能。"
+        }
+    },
+    {
+        "id": "la-help_category-help-quest-2-title",
+        "data": {
+            "id": "la-help_category-help-quest-2-title",
+            "text": "关于主线任务"
+        }
+    },
+    {
+        "id": "la-help_category-help-quest-3-text",
+        "data": {
+            "id": "la-help_category-help-quest-3-text",
+            "text": "指各个区域产生的任务。\n完成任务可以推进剧情、获得奖励。"
+        }
+    },
+    {
+        "id": "la-help_category-help-quest-3-title",
+        "data": {
+            "id": "la-help_category-help-quest-3-title",
+            "text": "关于区域任务"
+        }
+    },
+    {
+        "id": "la-help_category-help-quest-4-text",
+        "data": {
+            "id": "la-help_category-help-quest-4-text",
+            "text": "每位Holo成员都有专属的Holo成员任务。\n查看今天的“可邂逅Holo成员”，找到成员本人对话即可开始任务。\n\n每天可邂逅的成员都会更换。\n如果使用“Holo成员邀请函”，可以邂逅指定的Holo成员。\n完成Holo成员任务后，就会解锁该名成员以及相关乐曲。\n解锁的成员可以在“切换成员”中选择。\n\n注意：日期变更时，未完成的Holo成员任务将被重置（使用邀请函邀请的成员除外）。"
+        }
+    },
+    {
+        "id": "la-help_category-help-quest-4-title",
+        "data": {
+            "id": "la-help_category-help-quest-4-title",
+            "text": "关于Holo成员任务"
+        }
+    },
+    {
+        "id": "la-help_category-help-quest-5-text",
+        "data": {
+            "id": "la-help_category-help-quest-5-text",
+            "text": "每日任务每天都会刷新。\n完成任务，就能获得奖励。\n日期变更，任务就会重置，可以再次挑战。"
+        }
+    },
+    {
+        "id": "la-help_category-help-quest-5-title",
+        "data": {
+            "id": "la-help_category-help-quest-5-title",
+            "text": "关于每日任务"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-1-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-1-text",
+            "text": "在“演出”中可以游玩节奏游戏。\n完成演出，可以获得奖励和成员经验值。\n\n演出的难度分为“EASY”“NORMAL”“HARD”“EXPERT”四个等级。\n另外，每首乐曲都有乐曲等级，等级高的乐曲难度也较高。\n\n演出时，有单人游玩的“单人模式”和最多5人同乐的“多人模式”可供选择。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-1-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-1-title",
+            "text": "关于演出"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-10-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-10-text",
+            "text": "在演出开始前，可以设置是否消耗“演出能量”。\n消耗的演出能量越多，在演出完成时获得的奖励和成员经验值就会越多。\n※只有在完成演出时才会扣除演出能量。如果中途退出则不会消耗。\n\n演出能量每45分钟恢复1点，最多可以恢复10点。\n另外，演出充能饮料和钻石也可以转换为演出能量。\n将演出充能饮料或钻石转换为演出能量时，最多可以转换99点。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-10-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-10-title",
+            "text": "关于演出能量"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-11-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-11-text",
+            "text": "在多人演出中，可以与其他玩家协作，最多5人一起游玩。\n多人演出里有如下选项：\n\n▼多人演出选项\n・自由模式：任何人都可以参加，随机进行匹配\n・进阶模式：小队总分需达到限值以上，匹配时优先选择小队总分相近的玩家\n・创建房间：创建一个房间，仅供收到邀请或知道房间ID的玩家参加\n\n多人演出的乐曲会从各玩家选择的乐曲中随机挑选。\n\n另外，多人演出支持私密模式，启用该模式即可隐藏玩家名和个人资料。\n※私人房间不支持私密模式。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-11-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-11-title",
+            "text": "关于多人演出"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-12-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-12-text",
+            "text": "在自动演出模式中，可以消耗自动票券，自动完成演出。\n演出开始前，在编辑小队界面开启“AUTO”，即可使用自动票券。\n\n自动演出中只会出现专用的“AUTO”判定，连击不会有得分加成。\n另外，结算界面也不会显示判定等数据。\n\n※部分成就无法在自动演出中解锁。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-12-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-12-title",
+            "text": "关于自动演出"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-2-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-2-text",
+            "text": "小队包含1名领队和5名队员。\n每个holo成员最多可以加入10个小队。\n\n小队总分是在演出中得分的参考指标。\n小队总分越高，在演出中能获得的分数就越多。\n小队总分的数值由领队的服装技能、成员的参数和技能来决定。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-2-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-2-title",
+            "text": "关于小队"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-3-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-3-text",
+            "text": "“音符”指的是在演出时沿着轨道出现的图标。\n当音符流过轨道，与判定线恰好重叠时，根据音符的种类执行对应操作，就会产生判定。\n\n判定的种类分为PERFECT、GREAT、GOOD、BAD、MISS，会影响乐曲的得分和连击。\nGREAT以上的点击判定不会导致断连，但GOOD、BAD、MISS会中止连击统计。\n如果得到BAD或MISS判定，还会扣除生命值。\n\n另外，音符主要分为以下种类：\n\n▼蓝色普通音符\n与判定线重合的瞬间点击\n\n▼粉色滑轨音符\n音符落下时滑动\n请注意：连续出现滑轨音符时，可以将手指放在屏幕上持续滑动。\n\n▼绿色长音符\n沿音符轨迹长按滑动\n请注意：长音符到达终点时，即使没有及时放开手指也不影响判定。\n请注意：即便中途短暂放开手指，长音符仍可继续，因此在需要滑动的谱面中，可以中途切换手指。\n\n▼黄色重音音符\n容易出现PERFECT判定，点击时会发出特殊的声音\n\n▼灰色音符\n如果在演出选项中开启“节奏辅助”功能，当进行到反拍等段落时，普通音符会变为灰色，更容易看出节奏偏移。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-3-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-3-title",
+            "text": "关于音符和判定"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-4-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-4-text",
+            "text": "“生命值”是继续演出的必要数值。\n\nBAD、MISS判定会扣除生命值，生命值为0时，演出就会结束。\n演出一旦结束，可以选择“放弃”“重试”和“续关”。\n\n▼放弃\n结束演出。\n无法获得本次演出的奖励。\n\n▼重试\n从头开始重新挑战演出。\n\n▼续关\n恢复全部生命值，继续先前的演出。\n需要消耗20颗钻石。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-4-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-4-title",
+            "text": "关于生命值"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-5-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-5-text",
+            "text": "“分数”指的是根据音符判定情况，可以获得的点数。\n音符判定得到越好的评价，或连击数越多，就越能得到高分。\n系统会根据您获得的总分来判定得分评级。得分评级越高，演出完成时获得的奖励就越丰厚。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-5-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-5-title",
+            "text": "关于分数和得分评级"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-6-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-6-text",
+            "text": "“得分排行榜”会显示每首乐曲单人模式的高分名次。\n最高得分会记录这首乐曲所有难度下的最高分。\n注意：如果出现同分的玩家，则提交成绩较早的玩家排名更靠前。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-6-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-6-title",
+            "text": "关于得分排行榜"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-7-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-7-text",
+            "text": "“Holo成员评定值”基于最高得分计算得出。\n只有在每首乐曲指定的holo成员担任领队时，该乐曲的评定值才会被保存。\n每位Holo成员被评定的乐曲中，得分最高的三首相加，作为该成员的最终评定值。\n\n※steam版不包含Holo成员评定值系统。\n\n此外，在Holo成员评定值中，排名称号会根据每周的排名结果进行更新！\n※排名称号将根据统计时的排名进行发放，若在下次统计时已不在排名称号的适用名次范围内，该称号将会被移除。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-7-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-7-title",
+            "text": "关于Holo成员评定值"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-8-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-8-text",
+            "text": "每首乐曲都设有得分评级、最大连击数、全连达成难度、通关次数等各种挑战，达成即可获得达成奖励。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-8-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-8-title",
+            "text": "关于达成奖励"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-9-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-9-text",
+            "text": "在乐曲商店可以用\"音乐光碟\"来解锁新乐曲。\n购买过后就可以在演出中游玩。\n\n可以在主线任务等处获得音乐光碟。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-9-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-9-title",
+            "text": "关于乐曲商店"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-1-text",
+        "data": {
+            "id": "la-help_category-help-shop-1-text",
+            "text": "在商店里可以购买蓝色钻石和礼包，还可以订阅Holo通行证、会员资格及高级任务通行证。\n\n此外，还有可以兑换道具的“Holo贴纸兑换”和“特殊Holo贴纸兑换”。"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-1-title",
+        "data": {
+            "id": "la-help_category-help-shop-1-title",
+            "text": "关于商店"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-2-text",
+        "data": {
+            "id": "la-help_category-help-shop-2-text",
+            "text": "“Holo通行证”是支付月费换取各种特典的订阅服务。\n\n▼有效期内的特典\n・奖励加成：演出及迷你游戏的通关奖励翻倍。\n・提升能量上限：演出及迷你游戏能量上限翻倍。\n\n▼加入/续订特典\n・购买时、续订时都会获得360颗蓝色钻石。\n\n▼注意事项\n・Holo通行证的有效期为自加入日/续订日起1个月。\n・正在订阅的Holo通行证有效期满后，会自动进行续订。\n・Steam版无法进行加入操作，但在iOS・Android版中获取的Holo通行证会在Steam版中生效。\n・关于解除Holo通行证订阅的方法，请进入［梦幻乐园］→［菜单］→［商店］→［Holo通行证］页面，选择“＋”来查看［详情］。"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-2-title",
+        "data": {
+            "id": "la-help_category-help-shop-2-title",
+            "text": "关于Holo通行证"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-3-text",
+        "data": {
+            "id": "la-help_category-help-shop-3-text",
+            "text": "“会员资格”是支付月费换取各种特典的订阅服务。\n每位holo成员都有独立的会员社群，提供的特典内容也各不相同。\n\n▼有效期内的特典\n・加入特典贴图\n・加入特典称号\n・官方粉丝徽记\n※以上内容每位holo成员各不相同。\n※在超出会员有效期后就无法使用。\n\n▼加入/续订特典\n▽首次加入\n・该成员的会员奖章×6（其中3枚为首次加入特典）\n\n▽第2次及往后加入\n・该成员的会员奖章×3\n\n▽续订时\n・该成员的会员奖章×3\n\n※将于加入时、续订后登录游戏时发放到账户中。\n※会员奖章可以兑换会员内部道具。\n※通过该途径获得的道具，在解除会员订阅后也能继续使用。\n※在解锁对应的holo成员后，即可使用其会员特典表情及乐园服装。\n\n▼注意事项\n・会员资格的有效期为自加入日/续订日起1个月。\n・正在订阅的会员有效期满后，会自动进行续订。\n・Steam版无法进行加入操作，但在iOS・Android版中获取的会员特典会在Steam版中生效。\n・关于解除会员订阅的方法，请进入［梦幻乐园］→［菜单］→［商店］→［会员］页面，选择“＋”来查看［详情］。"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-3-title",
+        "data": {
+            "id": "la-help_category-help-shop-3-title",
+            "text": "关于会员"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-4-text",
+        "data": {
+            "id": "la-help_category-help-shop-4-text",
+            "text": "提升“任务通行证”等级，就能获得各种各样的奖励。\n完成任务，收集任务Pt，就能提升任务通行证等级。\n\n任务通行证分为免费方案和加入后即可解锁的高级方案两种。\n解锁高级方案后，还能再次领取已经达成的各级别的奖励。\n任务通行证是限期服务，有效期过后便视为当前季度结束。\n过期后，还未领取的奖励将送至礼物箱。 \n注意：当前的任务Pt、任务等级、高级方案无法延续到下一季度。"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-4-title",
+        "data": {
+            "id": "la-help_category-help-shop-4-title",
+            "text": "关于任务通行证"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-5-text",
+        "data": {
+            "id": "la-help_category-help-shop-5-text",
+            "text": "在“Holo贴纸兑换”中，可以使用Holo贴纸来兑换各种商品。\n\nHolo贴纸可通过以下途径获得：\n\n▼Holo贴纸的获得方法和张数\n・过期的扭蛋Pt：1Pt=1张\n・获得已达成最终绽放的★3成员：1张\n・获得已达成最终绽放的★4成员：20张\n注：如果获得的★3、★4成员未达成最终绽放，但已积累足够的绽放Pt，也适用上述情况。"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-5-title",
+        "data": {
+            "id": "la-help_category-help-shop-5-title",
+            "text": "关于Holo贴纸兑换"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-6-text",
+        "data": {
+            "id": "la-help_category-help-shop-6-text",
+            "text": "在“特殊Holo贴纸兑换”中，可以使用特殊Holo贴纸来兑换各种商品。\n\n特殊Holo贴纸可通过以下途径获得：\n\n▼特殊Holo贴纸的获得方法和张数\n・获得★5成员：30张\n・获得已绽放至最终阶段的★5成员：100张\n注1：如果获得时该★5成员已达最终绽放阶段，则可以一次性获得130张贴纸。\n注2：如果获得的★5成员未达最终绽放阶段，但已积累足够的绽放Pt，也适用上述情况。"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-6-title",
+        "data": {
+            "id": "la-help_category-help-shop-6-title",
+            "text": "关于特殊Holo贴纸兑换"
+        }
+    },
+    {
+        "id": "la-help_category-help-work-1-text",
+        "data": {
+            "id": "la-help_category-help-work-1-text",
+            "text": "在Holowork中可以派出成员进行活动来换取奖励。\n队伍中成员的综合能力越高，完成时就越容易获得高评价。\n各活动规定的时间结束后，可以领取奖励。\n奖励内容由完成时的评价等级决定。\n每种活动都有对应“状态绝佳的成员”，符合条件的成员在参加这类活动时，参数会有所提升。\n\n当刷新时间归零，Holowork的活动内容就会刷新。\n如果刷新时有成员正在活动，则会在活动结束时刷新。\n前往Holowork首页即可查看刷新时间。"
+        }
+    },
+    {
+        "id": "la-help_category-help-work-1-title",
+        "data": {
+            "id": "la-help_category-help-work-1-title",
+            "text": "Holowork"
+        }
+    }
+]

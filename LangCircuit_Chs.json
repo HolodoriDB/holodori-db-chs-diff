@@ -1,0 +1,44 @@
+[
+    {
+        "id": "la-circuit-game_playing_display_clear_condition_lang-default",
+        "data": {
+            "id": "la-circuit-game_playing_display_clear_condition_lang-default",
+            "text": "进入前<size=56>{0}</size>名即可晋级LAP2!"
+        }
+    },
+    {
+        "id": "la-circuit-game_playing_display_clear_condition_lang-play",
+        "data": {
+            "id": "la-circuit-game_playing_display_clear_condition_lang-play",
+            "text": "玩到最后吧！"
+        }
+    },
+    {
+        "id": "la-circuit-game_playing_display_clear_condition_lang-rank",
+        "data": {
+            "id": "la-circuit-game_playing_display_clear_condition_lang-rank",
+            "text": "以挤进前<size=56>{0}</size>名为目标！"
+        }
+    },
+    {
+        "id": "la-circuit-game_start_display_clear_condition_lang-default",
+        "data": {
+            "id": "la-circuit-game_start_display_clear_condition_lang-default",
+            "text": "前{0}名可晋级Lap2!"
+        }
+    },
+    {
+        "id": "la-circuit-game_start_display_clear_condition_lang-play",
+        "data": {
+            "id": "la-circuit-game_start_display_clear_condition_lang-play",
+            "text": "玩到最后吧！"
+        }
+    },
+    {
+        "id": "la-circuit-game_start_display_clear_condition_lang-rank",
+        "data": {
+            "id": "la-circuit-game_start_display_clear_condition_lang-rank",
+            "text": "以挤进前{0}名为目标！"
+        }
+    }
+]

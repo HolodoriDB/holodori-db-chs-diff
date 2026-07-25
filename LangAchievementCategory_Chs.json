@@ -1,0 +1,44 @@
+[
+    {
+        "id": "la-achievement_category-card_training",
+        "data": {
+            "id": "la-achievement_category-card_training",
+            "text": "养成"
+        }
+    },
+    {
+        "id": "la-achievement_category-character",
+        "data": {
+            "id": "la-achievement_category-character",
+            "text": "Holo成员"
+        }
+    },
+    {
+        "id": "la-achievement_category-live",
+        "data": {
+            "id": "la-achievement_category-live",
+            "text": "演出"
+        }
+    },
+    {
+        "id": "la-achievement_category-mini_game",
+        "data": {
+            "id": "la-achievement_category-mini_game",
+            "text": "游戏"
+        }
+    },
+    {
+        "id": "la-achievement_category-other",
+        "data": {
+            "id": "la-achievement_category-other",
+            "text": "其他"
+        }
+    },
+    {
+        "id": "la-achievement_category-park",
+        "data": {
+            "id": "la-achievement_category-park",
+            "text": "乐园"
+        }
+    }
+]

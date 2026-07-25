@@ -1,0 +1,16 @@
+[
+    {
+        "id": "la-world-a-description",
+        "data": {
+            "id": "la-world-a-description",
+            "text": "hololive的主题乐园"
+        }
+    },
+    {
+        "id": "la-world-a-name",
+        "data": {
+            "id": "la-world-a-name",
+            "text": "hololive梦幻乐园"
+        }
+    }
+]

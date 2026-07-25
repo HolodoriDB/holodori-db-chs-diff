@@ -1,0 +1,226 @@
+[
+    {
+        "id": "la-appeal_text-function_appeal-a01_exchangebooth-level_up-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-a01_exchangebooth-level_up-description",
+            "text": "商店道具种类增加。"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-a01_exchangebooth-level_up-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-a01_exchangebooth-level_up-name",
+            "text": "强化音波菈牡商店"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-a01_station-level_up-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-a01_station-level_up-description",
+            "text": "更容易抽中高Rank的活动委托。"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-a01_station-level_up-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-a01_station-level_up-name",
+            "text": "强化游戏小站"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-a02_coinbooth-added_lineup-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-a02_coinbooth-added_lineup-description",
+            "text": "电玩巨蛋城代币兑换所的道具种类增加。"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-a02_coinbooth-added_lineup-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-a02_coinbooth-added_lineup-name",
+            "text": "兑换所列表更新"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-a02_station-level_up-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-a02_station-level_up-description",
+            "text": "更容易抽中高Rank的活动委托。"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-a02_station-level_up-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-a02_station-level_up-name",
+            "text": "强化勤工飞车"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-bet_coin_rate_up-circuit-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-bet_coin_rate_up-circuit-description",
+            "text": "提升终极向前冲的最大押注额。"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-bet_coin_rate_up-circuit-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-bet_coin_rate_up-circuit-name",
+            "text": "终极向前冲押注额UP"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-bet_coin_rate_up-circuit_and_combo_card_game-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-bet_coin_rate_up-circuit_and_combo_card_game-description",
+            "text": "提升终极向前冲和扑克屋！的最大押注额。"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-bet_coin_rate_up-circuit_and_combo_card_game-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-bet_coin_rate_up-circuit_and_combo_card_game-name",
+            "text": "终极向前冲&扑克屋押注额UP"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-random_symbol-level_up-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-random_symbol-level_up-description",
+            "text": "会掉落各种隐秘宝藏。"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-random_symbol-level_up-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-random_symbol-level_up-name",
+            "text": "强化隐秘宝藏内容"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-friend-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-friend-description",
+            "text": "解锁好友系统。"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-friend-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-friend-name",
+            "text": "解锁好友"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-limit_break-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-limit_break-description",
+            "text": "解锁成员特训系统。"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-limit_break-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-limit_break-name",
+            "text": "解锁特训系统"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-mission_pass-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-mission_pass-description",
+            "text": "解锁任务通行证系统。"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-mission_pass-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-mission_pass-name",
+            "text": "解锁任务通行证"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-present_advent-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-present_advent-description",
+            "text": "会偶尔收到来自Advent的礼物。"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-present_advent-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-present_advent-name",
+            "text": "解锁礼物（Advent）"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-present_gen_0-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-present_gen_0-description",
+            "text": "会偶尔收到来自0期生的礼物。"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-present_gen_0-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-present_gen_0-name",
+            "text": "解锁礼物（0期生）"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-random_symbol-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-random_symbol-description",
+            "text": "解锁隐秘宝藏系统。"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-random_symbol-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-random_symbol-name",
+            "text": "解锁隐秘宝藏"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-score_attack_cook-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-score_attack_cook-description",
+            "text": "解锁SCORE ATTACK MODE（拼配厨房）。"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-score_attack_cook-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-score_attack_cook-name",
+            "text": "解锁拼配厨房难度"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-score_attack_rope-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-score_attack_rope-description",
+            "text": "解锁SCORE ATTACK MODE（跳跳大绳）。"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-score_attack_rope-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-score_attack_rope-name",
+            "text": "解锁跳跳大绳难度"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-skill_tree_and_achievement-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-skill_tree_and_achievement-description",
+            "text": "解锁Holo成员面板系统和成就系统。"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-skill_tree_and_achievement-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-skill_tree_and_achievement-name",
+            "text": "解锁Holo成员面板&成就"
+        }
+    }
+]

@@ -1,0 +1,1542 @@
+[
+    {
+        "id": "la-item-card-potential-upgrade-cmn-description",
+        "data": {
+            "id": "la-item-card-potential-upgrade-cmn-description",
+            "text": "用于★5成员绽放的道具。"
+        }
+    },
+    {
+        "id": "la-item-card-potential-upgrade-cmn-name",
+        "data": {
+            "id": "la-item-card-potential-upgrade-cmn-name",
+            "text": "怒放石"
+        }
+    },
+    {
+        "id": "la-item-card_level_up-description",
+        "data": {
+            "id": "la-item-card_level_up-description",
+            "text": "用于成员升级的道具。"
+        }
+    },
+    {
+        "id": "la-item-card_level_up-name",
+        "data": {
+            "id": "la-item-card_level_up-name",
+            "text": "课程Pt"
+        }
+    },
+    {
+        "id": "la-item-card_limit_break-attribute_1-1-description",
+        "data": {
+            "id": "la-item-card_limit_break-attribute_1-1-description",
+            "text": "用于成员特训的道具。"
+        }
+    },
+    {
+        "id": "la-item-card_limit_break-attribute_1-1-name",
+        "data": {
+            "id": "la-item-card_limit_break-attribute_1-1-name",
+            "text": "可爱碎晶"
+        }
+    },
+    {
+        "id": "la-item-card_limit_break-attribute_1-2-description",
+        "data": {
+            "id": "la-item-card_limit_break-attribute_1-2-description",
+            "text": "用于成员特训的道具。"
+        }
+    },
+    {
+        "id": "la-item-card_limit_break-attribute_1-2-name",
+        "data": {
+            "id": "la-item-card_limit_break-attribute_1-2-name",
+            "text": "可爱水晶"
+        }
+    },
+    {
+        "id": "la-item-card_limit_break-attribute_2-1-description",
+        "data": {
+            "id": "la-item-card_limit_break-attribute_2-1-description",
+            "text": "用于成员特训的道具。"
+        }
+    },
+    {
+        "id": "la-item-card_limit_break-attribute_2-1-name",
+        "data": {
+            "id": "la-item-card_limit_break-attribute_2-1-name",
+            "text": "纯洁碎晶"
+        }
+    },
+    {
+        "id": "la-item-card_limit_break-attribute_2-2-description",
+        "data": {
+            "id": "la-item-card_limit_break-attribute_2-2-description",
+            "text": "用于成员特训的道具。"
+        }
+    },
+    {
+        "id": "la-item-card_limit_break-attribute_2-2-name",
+        "data": {
+            "id": "la-item-card_limit_break-attribute_2-2-name",
+            "text": "纯洁水晶"
+        }
+    },
+    {
+        "id": "la-item-card_limit_break-attribute_3-1-description",
+        "data": {
+            "id": "la-item-card_limit_break-attribute_3-1-description",
+            "text": "用于成员特训的道具。"
+        }
+    },
+    {
+        "id": "la-item-card_limit_break-attribute_3-1-name",
+        "data": {
+            "id": "la-item-card_limit_break-attribute_3-1-name",
+            "text": "快乐碎晶"
+        }
+    },
+    {
+        "id": "la-item-card_limit_break-attribute_3-2-description",
+        "data": {
+            "id": "la-item-card_limit_break-attribute_3-2-description",
+            "text": "用于成员特训的道具。"
+        }
+    },
+    {
+        "id": "la-item-card_limit_break-attribute_3-2-name",
+        "data": {
+            "id": "la-item-card_limit_break-attribute_3-2-name",
+            "text": "快乐水晶"
+        }
+    },
+    {
+        "id": "la-item-card_limit_break-cmn-sr-description",
+        "data": {
+            "id": "la-item-card_limit_break-cmn-sr-description",
+            "text": "用于成员特训的道具。"
+        }
+    },
+    {
+        "id": "la-item-card_limit_break-cmn-sr-name",
+        "data": {
+            "id": "la-item-card_limit_break-cmn-sr-name",
+            "text": "Holo宝盒"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00001-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00001-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00001-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00001-name",
+            "text": "会员奖章（空）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00002-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00002-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00002-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00002-name",
+            "text": "会员奖章（萝卜子）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00004-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00004-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00004-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00004-name",
+            "text": "会员奖章（亚绮）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00005-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00005-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00005-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00005-name",
+            "text": "会员奖章（心）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00006-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00006-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00006-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00006-name",
+            "text": "会员奖章（吹雪）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00007-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00007-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00007-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00007-name",
+            "text": "会员奖章（祭）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00010-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00010-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00010-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00010-name",
+            "text": "会员奖章（绫目）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00011-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00011-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00011-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00011-name",
+            "text": "会员奖章（巧可）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00012-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00012-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00012-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00012-name",
+            "text": "会员奖章（昴）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00013-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00013-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00013-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00013-name",
+            "text": "会员奖章（AZKi）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00014-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00014-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00014-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00014-name",
+            "text": "会员奖章（澪）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00015-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00015-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00015-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00015-name",
+            "text": "会员奖章（巫女）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00016-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00016-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00016-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00016-name",
+            "text": "会员奖章（小粥）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00017-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00017-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00017-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00017-name",
+            "text": "会员奖章（沁音）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00018-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00018-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00018-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00018-name",
+            "text": "会员奖章（彗星）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00019-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00019-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00019-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00019-name",
+            "text": "会员奖章（佩克拉）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00021-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00021-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00021-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00021-name",
+            "text": "会员奖章（芙蕾雅）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00022-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00022-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00022-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00022-name",
+            "text": "会员奖章（诺艾尔）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00023-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00023-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00023-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00023-name",
+            "text": "会员奖章（玛琳）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00026-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00026-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00026-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00026-name",
+            "text": "会员奖章（绵芽）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00027-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00027-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00027-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00027-name",
+            "text": "会员奖章（永远）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00028-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00028-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00028-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00028-name",
+            "text": "会员奖章（璐娜）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00030-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00030-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00030-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00030-name",
+            "text": "会员奖章（菈米）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00031-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00031-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00031-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00031-name",
+            "text": "会员奖章（音音）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00032-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00032-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00032-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00032-name",
+            "text": "会员奖章（牡丹）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00034-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00034-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00034-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00034-name",
+            "text": "会员奖章（波尔卡）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00035-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00035-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00035-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00035-name",
+            "text": "会员奖章（拉普拉斯）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00036-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00036-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00036-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00036-name",
+            "text": "会员奖章（琉依）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00037-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00037-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00037-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00037-name",
+            "text": "会员奖章（小夜璃）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00039-description",
+        "data": {
+            "id": "la-item-character_coin-chr-00039-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-00039-name",
+        "data": {
+            "id": "la-item-character_coin-chr-00039-name",
+            "text": "会员奖章（伊吕波）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-03001-description",
+        "data": {
+            "id": "la-item-character_coin-chr-03001-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-03001-name",
+        "data": {
+            "id": "la-item-character_coin-chr-03001-name",
+            "text": "会员奖章（Risu）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-03002-description",
+        "data": {
+            "id": "la-item-character_coin-chr-03002-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-03002-name",
+        "data": {
+            "id": "la-item-character_coin-chr-03002-name",
+            "text": "会员奖章（Moona）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-03003-description",
+        "data": {
+            "id": "la-item-character_coin-chr-03003-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-03003-name",
+        "data": {
+            "id": "la-item-character_coin-chr-03003-name",
+            "text": "会员奖章（Iofi）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-03004-description",
+        "data": {
+            "id": "la-item-character_coin-chr-03004-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-03004-name",
+        "data": {
+            "id": "la-item-character_coin-chr-03004-name",
+            "text": "会员奖章（Ollie）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-03005-description",
+        "data": {
+            "id": "la-item-character_coin-chr-03005-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-03005-name",
+        "data": {
+            "id": "la-item-character_coin-chr-03005-name",
+            "text": "会员奖章（Anya）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-03006-description",
+        "data": {
+            "id": "la-item-character_coin-chr-03006-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-03006-name",
+        "data": {
+            "id": "la-item-character_coin-chr-03006-name",
+            "text": "会员奖章（Reine）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-03007-description",
+        "data": {
+            "id": "la-item-character_coin-chr-03007-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-03007-name",
+        "data": {
+            "id": "la-item-character_coin-chr-03007-name",
+            "text": "会员奖章（Zeta）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-03008-description",
+        "data": {
+            "id": "la-item-character_coin-chr-03008-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-03008-name",
+        "data": {
+            "id": "la-item-character_coin-chr-03008-name",
+            "text": "会员奖章（Kaela）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-03009-description",
+        "data": {
+            "id": "la-item-character_coin-chr-03009-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-03009-name",
+        "data": {
+            "id": "la-item-character_coin-chr-03009-name",
+            "text": "会员奖章（Kobo）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-04001-description",
+        "data": {
+            "id": "la-item-character_coin-chr-04001-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-04001-name",
+        "data": {
+            "id": "la-item-character_coin-chr-04001-name",
+            "text": "会员奖章（Calliope）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-04002-description",
+        "data": {
+            "id": "la-item-character_coin-chr-04002-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-04002-name",
+        "data": {
+            "id": "la-item-character_coin-chr-04002-name",
+            "text": "会员奖章（Kiara）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-04003-description",
+        "data": {
+            "id": "la-item-character_coin-chr-04003-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-04003-name",
+        "data": {
+            "id": "la-item-character_coin-chr-04003-name",
+            "text": "会员奖章（Ina'nis）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-04007-description",
+        "data": {
+            "id": "la-item-character_coin-chr-04007-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-04007-name",
+        "data": {
+            "id": "la-item-character_coin-chr-04007-name",
+            "text": "会员奖章（IRyS）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-04010-description",
+        "data": {
+            "id": "la-item-character_coin-chr-04010-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-04010-name",
+        "data": {
+            "id": "la-item-character_coin-chr-04010-name",
+            "text": "会员奖章（Kronii）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-04012-description",
+        "data": {
+            "id": "la-item-character_coin-chr-04012-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-04012-name",
+        "data": {
+            "id": "la-item-character_coin-chr-04012-name",
+            "text": "会员奖章（Baelz）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-04013-description",
+        "data": {
+            "id": "la-item-character_coin-chr-04013-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-04013-name",
+        "data": {
+            "id": "la-item-character_coin-chr-04013-name",
+            "text": "会员奖章（Shiori）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-04014-description",
+        "data": {
+            "id": "la-item-character_coin-chr-04014-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-04014-name",
+        "data": {
+            "id": "la-item-character_coin-chr-04014-name",
+            "text": "会员奖章（Bijou）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-04015-description",
+        "data": {
+            "id": "la-item-character_coin-chr-04015-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-04015-name",
+        "data": {
+            "id": "la-item-character_coin-chr-04015-name",
+            "text": "会员奖章（Nerissa）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-06002-description",
+        "data": {
+            "id": "la-item-character_coin-chr-06002-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-06002-name",
+        "data": {
+            "id": "la-item-character_coin-chr-06002-name",
+            "text": "会员奖章（奏）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-06003-description",
+        "data": {
+            "id": "la-item-character_coin-chr-06003-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-06003-name",
+        "data": {
+            "id": "la-item-character_coin-chr-06003-name",
+            "text": "会员奖章（莉莉华）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-06004-description",
+        "data": {
+            "id": "la-item-character_coin-chr-06004-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-06004-name",
+        "data": {
+            "id": "la-item-character_coin-chr-06004-name",
+            "text": "会员奖章（螺钿）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-06005-description",
+        "data": {
+            "id": "la-item-character_coin-chr-06005-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-06005-name",
+        "data": {
+            "id": "la-item-character_coin-chr-06005-name",
+            "text": "会员奖章（轰一）"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-80001-description",
+        "data": {
+            "id": "la-item-character_coin-chr-80001-description",
+            "text": "可在会员商店兑换道具的奖章。"
+        }
+    },
+    {
+        "id": "la-item-character_coin-chr-80001-name",
+        "data": {
+            "id": "la-item-character_coin-chr-80001-name",
+            "text": "会员奖章（FUWAMOCO）"
+        }
+    },
+    {
+        "id": "la-item-exchange-holomedal-description",
+        "data": {
+            "id": "la-item-exchange-holomedal-description",
+            "text": "可以在乐园内部的商店中兑换道具。"
+        }
+    },
+    {
+        "id": "la-item-exchange-holomedal-name",
+        "data": {
+            "id": "la-item-exchange-holomedal-name",
+            "text": "Holo奖章"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a01-000-cmn-description",
+        "data": {
+            "id": "la-item-facility-area_a01-000-cmn-description",
+            "text": "用于设施建筑及强化等方面的道具。"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a01-000-cmn-name",
+        "data": {
+            "id": "la-item-facility-area_a01-000-cmn-name",
+            "text": "木材"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a01-001-1-description",
+        "data": {
+            "id": "la-item-facility-area_a01-001-1-description",
+            "text": "用于设施建筑及强化等方面的道具。"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a01-001-1-name",
+        "data": {
+            "id": "la-item-facility-area_a01-001-1-name",
+            "text": "钉子"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a01-001-2-description",
+        "data": {
+            "id": "la-item-facility-area_a01-001-2-description",
+            "text": "用于设施建筑及强化等方面的道具。"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a01-001-2-name",
+        "data": {
+            "id": "la-item-facility-area_a01-001-2-name",
+            "text": "油漆"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a01-002-1-description",
+        "data": {
+            "id": "la-item-facility-area_a01-002-1-description",
+            "text": "用于设施建筑及强化等方面的道具。"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a01-002-1-name",
+        "data": {
+            "id": "la-item-facility-area_a01-002-1-name",
+            "text": "石材"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a01-002-2-description",
+        "data": {
+            "id": "la-item-facility-area_a01-002-2-description",
+            "text": "用于设施建筑及强化等方面的道具。"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a01-002-2-name",
+        "data": {
+            "id": "la-item-facility-area_a01-002-2-name",
+            "text": "玻璃"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a02-000-cmn-description",
+        "data": {
+            "id": "la-item-facility-area_a02-000-cmn-description",
+            "text": "用于修理电玩巨蛋城机台的道具。"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a02-000-cmn-name",
+        "data": {
+            "id": "la-item-facility-area_a02-000-cmn-name",
+            "text": "修理素材"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a02-001-1-description",
+        "data": {
+            "id": "la-item-facility-area_a02-001-1-description",
+            "text": "用于设施建筑及强化等方面的道具。"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a02-001-1-name",
+        "data": {
+            "id": "la-item-facility-area_a02-001-1-name",
+            "text": "螺栓"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a02-002-1-description",
+        "data": {
+            "id": "la-item-facility-area_a02-002-1-description",
+            "text": "用于设施建筑及强化等方面的道具。"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a02-002-1-name",
+        "data": {
+            "id": "la-item-facility-area_a02-002-1-name",
+            "text": "IC芯片"
+        }
+    },
+    {
+        "id": "la-item-gacha-cmn_sticker-01-description",
+        "data": {
+            "id": "la-item-gacha-cmn_sticker-01-description",
+            "text": "可以在Holo贴纸兑换所兑换道具的贴纸。"
+        }
+    },
+    {
+        "id": "la-item-gacha-cmn_sticker-01-name",
+        "data": {
+            "id": "la-item-gacha-cmn_sticker-01-name",
+            "text": "Holo贴纸"
+        }
+    },
+    {
+        "id": "la-item-gacha-sp_sticker-01-description",
+        "data": {
+            "id": "la-item-gacha-sp_sticker-01-description",
+            "text": "可以在特殊Holo贴纸兑换所兑换道具的贴纸。"
+        }
+    },
+    {
+        "id": "la-item-gacha-sp_sticker-01-name",
+        "data": {
+            "id": "la-item-gacha-sp_sticker-01-name",
+            "text": "特殊Holo贴纸"
+        }
+    },
+    {
+        "id": "la-item-gacha_ticket-cmn-01-description",
+        "data": {
+            "id": "la-item-gacha_ticket-cmn-01-description",
+            "text": "用于抽取“holodori扭蛋”的票券。"
+        }
+    },
+    {
+        "id": "la-item-gacha_ticket-cmn-01-name",
+        "data": {
+            "id": "la-item-gacha_ticket-cmn-01-name",
+            "text": "holodori扭蛋票"
+        }
+    },
+    {
+        "id": "la-item-gacha_ticket-r4-01-description",
+        "data": {
+            "id": "la-item-gacha_ticket-r4-01-description",
+            "text": "用于抽取“必得★4以上成员扭蛋”的票券。"
+        }
+    },
+    {
+        "id": "la-item-gacha_ticket-r4-01-name",
+        "data": {
+            "id": "la-item-gacha_ticket-r4-01-name",
+            "text": "必得★4以上扭蛋票"
+        }
+    },
+    {
+        "id": "la-item-gacha_ticket-r5-01-description",
+        "data": {
+            "id": "la-item-gacha_ticket-r5-01-description",
+            "text": "能够连续抽取10次“必得★5成员扭蛋”的票券，一定会抽到1位★5成员。"
+        }
+    },
+    {
+        "id": "la-item-gacha_ticket-r5-01-name",
+        "data": {
+            "id": "la-item-gacha_ticket-r5-01-name",
+            "text": "必得★5扭蛋票"
+        }
+    },
+    {
+        "id": "la-item-gold-description",
+        "data": {
+            "id": "la-item-gold-description",
+            "text": "具有多种用途的道具。"
+        }
+    },
+    {
+        "id": "la-item-gold-name",
+        "data": {
+            "id": "la-item-gold-name",
+            "text": "Holo金币"
+        }
+    },
+    {
+        "id": "la-item-live_auto_play-description",
+        "data": {
+            "id": "la-item-live_auto_play-description",
+            "text": "可以自动游玩演出的道具。"
+        }
+    },
+    {
+        "id": "la-item-live_auto_play-name",
+        "data": {
+            "id": "la-item-live_auto_play-name",
+            "text": "自动票券"
+        }
+    },
+    {
+        "id": "la-item-live_reward_up_stamina_recover-description",
+        "data": {
+            "id": "la-item-live_reward_up_stamina_recover-description",
+            "text": "可以转换为演出能量的道具。"
+        }
+    },
+    {
+        "id": "la-item-live_reward_up_stamina_recover-name",
+        "data": {
+            "id": "la-item-live_reward_up_stamina_recover-name",
+            "text": "演出充能饮料"
+        }
+    },
+    {
+        "id": "la-item-mini_game_bet_coin-description",
+        "data": {
+            "id": "la-item-mini_game_bet_coin-description",
+            "text": "可用于电玩巨蛋城的迷你游戏及兑换所的道具。"
+        }
+    },
+    {
+        "id": "la-item-mini_game_bet_coin-name",
+        "data": {
+            "id": "la-item-mini_game_bet_coin-name",
+            "text": "电玩巨蛋城代币"
+        }
+    },
+    {
+        "id": "la-item-mini_game_reward_up_stamina_recover-description",
+        "data": {
+            "id": "la-item-mini_game_reward_up_stamina_recover-description",
+            "text": "可以转换为迷你游戏能量的道具。"
+        }
+    },
+    {
+        "id": "la-item-mini_game_reward_up_stamina_recover-name",
+        "data": {
+            "id": "la-item-mini_game_reward_up_stamina_recover-name",
+            "text": "迷你游戏充能果冻"
+        }
+    },
+    {
+        "id": "la-item-music_release-description",
+        "data": {
+            "id": "la-item-music_release-description",
+            "text": "用于兑换歌曲的道具。"
+        }
+    },
+    {
+        "id": "la-item-music_release-name",
+        "data": {
+            "id": "la-item-music_release-name",
+            "text": "音乐光碟"
+        }
+    },
+    {
+        "id": "la-item-park_character_quest-description",
+        "data": {
+            "id": "la-item-park_character_quest-description",
+            "text": "用于选择holo成员并触发holo成员任务的道具。"
+        }
+    },
+    {
+        "id": "la-item-park_character_quest-name",
+        "data": {
+            "id": "la-item-park_character_quest-name",
+            "text": "holo成员邀请函"
+        }
+    },
+    {
+        "id": "la-item-quest-area-a01-17-1-2-description",
+        "data": {
+            "id": "la-item-quest-area-a01-17-1-2-description",
+            "text": "Advent成员用于打扫The Cell再临的工具。把它交给Advent的成员，开始打扫吧。"
+        }
+    },
+    {
+        "id": "la-item-quest-area-a01-17-1-2-name",
+        "data": {
+            "id": "la-item-quest-area-a01-17-1-2-name",
+            "text": "打扫工具"
+        }
+    },
+    {
+        "id": "la-item-quest-main-w1-01-02-1-4-description",
+        "data": {
+            "id": "la-item-quest-main-w1-01-02-1-4-description",
+            "text": "装着holo成员物品的纸箱，装有私人物品等等的杂物。送去给需要的人吧。"
+        }
+    },
+    {
+        "id": "la-item-quest-main-w1-01-02-1-4-name",
+        "data": {
+            "id": "la-item-quest-main-w1-01-02-1-4-name",
+            "text": "holo成员的物品"
+        }
+    },
+    {
+        "id": "la-item-quest-main-w1-01-05-1-4-description",
+        "data": {
+            "id": "la-item-quest-main-w1-01-05-1-4-description",
+            "text": "装着holo成员物品的纸箱，里面除了私人物品还有演出所需的道具。送去给需要的人吧。"
+        }
+    },
+    {
+        "id": "la-item-quest-main-w1-01-05-1-4-name",
+        "data": {
+            "id": "la-item-quest-main-w1-01-05-1-4-name",
+            "text": "holo成员的物品"
+        }
+    },
+    {
+        "id": "la-item-quest-main-w1-01-08-1-4-description",
+        "data": {
+            "id": "la-item-quest-main-w1-01-08-1-4-description",
+            "text": "装着holo成员物品的纸箱，装有3期生和GAMERS的东西。送去给需要的人吧。"
+        }
+    },
+    {
+        "id": "la-item-quest-main-w1-01-08-1-4-name",
+        "data": {
+            "id": "la-item-quest-main-w1-01-08-1-4-name",
+            "text": "holo成员的物品"
+        }
+    },
+    {
+        "id": "la-item-quest-main-w1-01-11-1-4-description",
+        "data": {
+            "id": "la-item-quest-main-w1-01-11-1-4-description",
+            "text": "满腹之旅提供的饮料，看上去超级好喝。趁库存用完之前快送去满腹之旅吧。"
+        }
+    },
+    {
+        "id": "la-item-quest-main-w1-01-11-1-4-name",
+        "data": {
+            "id": "la-item-quest-main-w1-01-11-1-4-name",
+            "text": "美味饮料"
+        }
+    },
+    {
+        "id": "la-item-quest-main-w1-01-11-1-5-description",
+        "data": {
+            "id": "la-item-quest-main-w1-01-11-1-5-description",
+            "text": "满腹之旅提供的食材，看着就让人流口水。趁库存用完之前快送去满腹之旅吧。"
+        }
+    },
+    {
+        "id": "la-item-quest-main-w1-01-11-1-5-name",
+        "data": {
+            "id": "la-item-quest-main-w1-01-11-1-5-name",
+            "text": "诱人食材"
+        }
+    },
+    {
+        "id": "la-item-quest-main-w1-01-12-1-3-description",
+        "data": {
+            "id": "la-item-quest-main-w1-01-12-1-3-description",
+            "text": "音波菈牡特制的便当，简朴但充满了奇思妙想。今天天气很好，带上它出门野餐吧。"
+        }
+    },
+    {
+        "id": "la-item-quest-main-w1-01-12-1-3-name",
+        "data": {
+            "id": "la-item-quest-main-w1-01-12-1-3-name",
+            "text": "音波菈牡啊呜大口便当"
+        }
+    },
+    {
+        "id": "la-item-quest-main-w1-01-12-1-4-description",
+        "data": {
+            "id": "la-item-quest-main-w1-01-12-1-4-description",
+            "text": "在h3ro餐车买到的零食礼包。今天天气很好，带上它出门野餐吧。"
+        }
+    },
+    {
+        "id": "la-item-quest-main-w1-01-12-1-4-name",
+        "data": {
+            "id": "la-item-quest-main-w1-01-12-1-4-name",
+            "text": "零食礼包"
+        }
+    },
+    {
+        "id": "la-item-quest-main-w1-01-13-1-4-description",
+        "data": {
+            "id": "la-item-quest-main-w1-01-13-1-4-description",
+            "text": "每座乐园设施都需要的消耗品。每样都并不急需，可一旦没有了就会令人头痛。帮忙送去对应的各个设施吧。"
+        }
+    },
+    {
+        "id": "la-item-quest-main-w1-01-13-1-4-name",
+        "data": {
+            "id": "la-item-quest-main-w1-01-13-1-4-name",
+            "text": "设施消耗品"
+        }
+    },
+    {
+        "id": "la-item-quest-main-w1-01-15-1-1-description",
+        "data": {
+            "id": "la-item-quest-main-w1-01-15-1-1-description",
+            "text": "乐萌机动小车15售卖的彩色气球。送去给holo成员们，听听大家的评价吧。"
+        }
+    },
+    {
+        "id": "la-item-quest-main-w1-01-15-1-1-name",
+        "data": {
+            "id": "la-item-quest-main-w1-01-15-1-1-name",
+            "text": "五颜六色的气球"
+        }
+    },
+    {
+        "id": "la-item-quest-main-w1-01-18-1-3-description",
+        "data": {
+            "id": "la-item-quest-main-w1-01-18-1-3-description",
+            "text": "超VeryBad梦幻乐园分站办完工派对要用到的装饰气球。带回去给派对增色添彩吧。"
+        }
+    },
+    {
+        "id": "la-item-quest-main-w1-01-18-1-3-name",
+        "data": {
+            "id": "la-item-quest-main-w1-01-18-1-3-name",
+            "text": "派对用气球"
+        }
+    },
+    {
+        "id": "la-item-quest-main-w1-01-18-1-4-description",
+        "data": {
+            "id": "la-item-quest-main-w1-01-18-1-4-description",
+            "text": "超VeryBad梦幻乐园分站办完工派对要用到的装饰。有各种各样的形状。带回去装饰起来吧。"
+        }
+    },
+    {
+        "id": "la-item-quest-main-w1-01-18-1-4-name",
+        "data": {
+            "id": "la-item-quest-main-w1-01-18-1-4-name",
+            "text": "派对用装饰"
+        }
+    },
+    {
+        "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-10-description",
+        "data": {
+            "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-10-description",
+            "text": "可以兑换10个心仪碎晶的道具。"
+        }
+    },
+    {
+        "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-10-name",
+        "data": {
+            "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-10-name",
+            "text": "碎晶盒S"
+        }
+    },
+    {
+        "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-100-description",
+        "data": {
+            "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-100-description",
+            "text": "可以兑换100个心仪碎晶的道具。"
+        }
+    },
+    {
+        "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-100-name",
+        "data": {
+            "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-100-name",
+            "text": "碎晶盒M"
+        }
+    },
+    {
+        "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-300-description",
+        "data": {
+            "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-300-description",
+            "text": "可以兑换300个心仪碎晶的道具。"
+        }
+    },
+    {
+        "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-300-name",
+        "data": {
+            "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-300-name",
+            "text": "碎晶盒L"
+        }
+    },
+    {
+        "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-10-description",
+        "data": {
+            "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-10-description",
+            "text": "可以兑换10个心仪水晶的道具。"
+        }
+    },
+    {
+        "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-10-name",
+        "data": {
+            "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-10-name",
+            "text": "水晶盒S"
+        }
+    },
+    {
+        "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-100-description",
+        "data": {
+            "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-100-description",
+            "text": "可以兑换100个心仪水晶的道具。"
+        }
+    },
+    {
+        "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-100-name",
+        "data": {
+            "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-100-name",
+            "text": "水晶盒M"
+        }
+    },
+    {
+        "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-300-description",
+        "data": {
+            "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-300-description",
+            "text": "可以兑换300个心仪水晶的道具。"
+        }
+    },
+    {
+        "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-300-name",
+        "data": {
+            "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-300-name",
+            "text": "水晶盒L"
+        }
+    },
+    {
+        "id": "la-item-selectable_reward_membership_medal",
+        "data": {
+            "id": "la-item-selectable_reward_membership_medal",
+            "text": "上架纪念赠礼"
+        }
+    },
+    {
+        "id": "la-item-selectable_reward_membership_medal-description",
+        "data": {
+            "id": "la-item-selectable_reward_membership_medal-description",
+            "text": "可以选择并获得心仪会员奖章的盒子。"
+        }
+    },
+    {
+        "id": "la-item-skill_tree_allmember-1-description",
+        "data": {
+            "id": "la-item-skill_tree_allmember-1-description",
+            "text": "用于解锁Holo成员面板格子的道具。"
+        }
+    },
+    {
+        "id": "la-item-skill_tree_allmember-1-name",
+        "data": {
+            "id": "la-item-skill_tree_allmember-1-name",
+            "text": "绿色方块"
+        }
+    },
+    {
+        "id": "la-item-skill_tree_allmember-2-description",
+        "data": {
+            "id": "la-item-skill_tree_allmember-2-description",
+            "text": "用于解锁Holo成员面板格子的道具。"
+        }
+    },
+    {
+        "id": "la-item-skill_tree_allmember-2-name",
+        "data": {
+            "id": "la-item-skill_tree_allmember-2-name",
+            "text": "绿色核心方块"
+        }
+    },
+    {
+        "id": "la-item-skill_tree_card-1-description",
+        "data": {
+            "id": "la-item-skill_tree_card-1-description",
+            "text": "用于解锁Holo成员面板格子的道具。"
+        }
+    },
+    {
+        "id": "la-item-skill_tree_card-1-name",
+        "data": {
+            "id": "la-item-skill_tree_card-1-name",
+            "text": "蓝色方块"
+        }
+    },
+    {
+        "id": "la-item-skill_tree_card-2-description",
+        "data": {
+            "id": "la-item-skill_tree_card-2-description",
+            "text": "用于解锁Holo成员面板格子的道具。"
+        }
+    },
+    {
+        "id": "la-item-skill_tree_card-2-name",
+        "data": {
+            "id": "la-item-skill_tree_card-2-name",
+            "text": "蓝色核心方块"
+        }
+    },
+    {
+        "id": "la-item-skill_tree_content-1-description",
+        "data": {
+            "id": "la-item-skill_tree_content-1-description",
+            "text": "用于解锁Holo成员面板格子的道具。"
+        }
+    },
+    {
+        "id": "la-item-skill_tree_content-1-name",
+        "data": {
+            "id": "la-item-skill_tree_content-1-name",
+            "text": "黄色方块"
+        }
+    },
+    {
+        "id": "la-item-skill_tree_content-2-description",
+        "data": {
+            "id": "la-item-skill_tree_content-2-description",
+            "text": "用于解锁Holo成员面板格子的道具。"
+        }
+    },
+    {
+        "id": "la-item-skill_tree_content-2-name",
+        "data": {
+            "id": "la-item-skill_tree_content-2-name",
+            "text": "黄色核心方块"
+        }
+    },
+    {
+        "id": "la-item-skill_tree_leader-1-description",
+        "data": {
+            "id": "la-item-skill_tree_leader-1-description",
+            "text": "用于解锁Holo成员面板格子的道具。"
+        }
+    },
+    {
+        "id": "la-item-skill_tree_leader-1-name",
+        "data": {
+            "id": "la-item-skill_tree_leader-1-name",
+            "text": "红色方块"
+        }
+    },
+    {
+        "id": "la-item-skill_tree_leader-2-description",
+        "data": {
+            "id": "la-item-skill_tree_leader-2-description",
+            "text": "用于解锁Holo成员面板格子的道具。"
+        }
+    },
+    {
+        "id": "la-item-skill_tree_leader-2-name",
+        "data": {
+            "id": "la-item-skill_tree_leader-2-name",
+            "text": "红色核心方块"
+        }
+    }
+]

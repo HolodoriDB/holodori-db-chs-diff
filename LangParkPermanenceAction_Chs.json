@@ -1,0 +1,23 @@
+[
+    {
+        "id": "la-perm-a02-coinbooth-description-1",
+        "data": {
+            "id": "la-perm-a02-coinbooth-description-1",
+            "text": "兑换道具"
+        }
+    },
+    {
+        "id": "la-perm-a02-coinbooth-description-2",
+        "data": {
+            "id": "la-perm-a02-coinbooth-description-2",
+            "text": "迷你游戏能量转换"
+        }
+    },
+    {
+        "id": "la-perm-a02-coinbooth-description-3",
+        "data": {
+            "id": "la-perm-a02-coinbooth-description-3",
+            "text": "道别"
+        }
+    }
+]

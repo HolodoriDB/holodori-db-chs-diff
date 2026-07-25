@@ -1,0 +1,555 @@
+[
+    {
+        "id": "la-generated-skill_tree_effect_target-all-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-all-description",
+            "text": "全体成员"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00001-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00001-description",
+            "text": "时乃空"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00002-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00002-description",
+            "text": "萝卜子"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00004-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00004-description",
+            "text": "亚绮·罗森塔尔"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00005-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00005-description",
+            "text": "赤井心"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00006-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00006-description",
+            "text": "白上吹雪"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00007-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00007-description",
+            "text": "夏色祭"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00009-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00009-description",
+            "text": "紫咲诗音"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00010-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00010-description",
+            "text": "百鬼绫目"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00011-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00011-description",
+            "text": "癒月巧可"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00012-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00012-description",
+            "text": "大空昴"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00013-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00013-description",
+            "text": "AZKi"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00014-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00014-description",
+            "text": "大神澪"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00015-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00015-description",
+            "text": "樱巫女"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00016-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00016-description",
+            "text": "猫又小粥"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00017-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00017-description",
+            "text": "戌神沁音"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00018-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00018-description",
+            "text": "星街彗星"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00019-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00019-description",
+            "text": "兔田佩克拉"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00021-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00021-description",
+            "text": "不知火芙蕾雅"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00022-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00022-description",
+            "text": "白银诺艾尔"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00023-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00023-description",
+            "text": "宝钟玛琳"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00024-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00024-description",
+            "text": "天音彼方"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00026-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00026-description",
+            "text": "角卷绵芽"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00027-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00027-description",
+            "text": "常暗永远"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00028-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00028-description",
+            "text": "姬森璐娜"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00030-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00030-description",
+            "text": "雪花菈米"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00031-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00031-description",
+            "text": "桃铃音音"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00032-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00032-description",
+            "text": "狮白牡丹"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00034-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00034-description",
+            "text": "尾丸波尔卡"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00035-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00035-description",
+            "text": "拉普拉斯·暗黑"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00036-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00036-description",
+            "text": "鹰岭琉依"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00037-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00037-description",
+            "text": "博衣小夜璃"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00038-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00038-description",
+            "text": "沙花叉克萝伊"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-00039-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-00039-description",
+            "text": "风真伊吕波"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-03001-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-03001-description",
+            "text": "Ayunda Risu"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-03002-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-03002-description",
+            "text": "Moona Hoshinova"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-03003-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-03003-description",
+            "text": "Airani Iofifteen"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-03004-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-03004-description",
+            "text": "Kureiji Ollie"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-03005-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-03005-description",
+            "text": "Anya Melfissa"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-03006-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-03006-description",
+            "text": "Pavolia Reine"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-03007-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-03007-description",
+            "text": "Vestia Zeta"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-03008-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-03008-description",
+            "text": "Kaela Kovalskia"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-03009-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-03009-description",
+            "text": "Kobo Kanaeru"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-04001-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-04001-description",
+            "text": "Mori Calliope"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-04002-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-04002-description",
+            "text": "Takanashi Kiara"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-04003-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-04003-description",
+            "text": "Ninomae Ina'nis"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-04004-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-04004-description",
+            "text": "Gawr Gura"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-04007-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-04007-description",
+            "text": "IRyS"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-04009-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-04009-description",
+            "text": "Ceres Fauna"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-04010-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-04010-description",
+            "text": "Ouro Kronii"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-04011-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-04011-description",
+            "text": "Nanashi Mumei"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-04012-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-04012-description",
+            "text": "Hakos Baelz"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-04013-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-04013-description",
+            "text": "Shiori Novella"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-04014-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-04014-description",
+            "text": "Koseki Bijou"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-04015-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-04015-description",
+            "text": "Nerissa Ravencroft"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-04016-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-04016-description",
+            "text": "Fuwawa Abyssgard"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-04017-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-04017-description",
+            "text": "Mococo Abyssgard"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-06001-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-06001-description",
+            "text": "火威青"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-06002-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-06002-description",
+            "text": "音乃濑奏"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-06003-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-06003-description",
+            "text": "一条莉莉华"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-06004-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-06004-description",
+            "text": "儒乌风亭螺钿"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character-chr-06005-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character-chr-06005-description",
+            "text": "轰一"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character_grouping-grp-advent-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character_grouping-grp-advent-description",
+            "text": "Advent"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character_grouping-grp-gamers-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character_grouping-grp-gamers-description",
+            "text": "GAMERS"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character_grouping-grp-gen_0-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character_grouping-grp-gen_0-description",
+            "text": "0期生"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character_grouping-grp-gen_1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character_grouping-grp-gen_1-description",
+            "text": "1期生"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character_grouping-grp-gen_2-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character_grouping-grp-gen_2-description",
+            "text": "2期生"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character_grouping-grp-gen_3-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character_grouping-grp-gen_3-description",
+            "text": "3期生"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character_grouping-grp-gen_4-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character_grouping-grp-gen_4-description",
+            "text": "4期生"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character_grouping-grp-gen_5-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character_grouping-grp-gen_5-description",
+            "text": "5期生"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character_grouping-grp-holox-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character_grouping-grp-holox-description",
+            "text": "holoX"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character_grouping-grp-indonesia-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character_grouping-grp-indonesia-description",
+            "text": "hololive ID"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-description",
+            "text": "ID1期生"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-description",
+            "text": "ID2期生"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-description",
+            "text": "ID3期生"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character_grouping-grp-myth-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character_grouping-grp-myth-description",
+            "text": "Myth"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character_grouping-grp-promise-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character_grouping-grp-promise-description",
+            "text": "Promise"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-character_grouping-grp-regloss-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-character_grouping-grp-regloss-description",
+            "text": "ReGLOSS"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect_target-skill_tree_character-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect_target-skill_tree_character-description",
+            "text": "[character]"
+        }
+    }
+]

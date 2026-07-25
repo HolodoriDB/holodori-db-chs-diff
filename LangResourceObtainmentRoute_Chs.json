@@ -1,0 +1,184 @@
+[
+    {
+        "id": "la-facility-a01-exchangebooth-name",
+        "data": {
+            "id": "la-facility-a01-exchangebooth-name",
+            "text": "音波菈牡商店"
+        }
+    },
+    {
+        "id": "la-facility-a01-station-name",
+        "data": {
+            "id": "la-facility-a01-station-name",
+            "text": "游戏小站"
+        }
+    },
+    {
+        "id": "la-facility-a02-coinbooth-name",
+        "data": {
+            "id": "la-facility-a02-coinbooth-name",
+            "text": "电玩巨蛋城代币兑换所"
+        }
+    },
+    {
+        "id": "la-facility-a02-holocircuit-name",
+        "data": {
+            "id": "la-facility-a02-holocircuit-name",
+            "text": "终极向前冲"
+        }
+    },
+    {
+        "id": "la-facility-a02-pokertable-name",
+        "data": {
+            "id": "la-facility-a02-pokertable-name",
+            "text": "扑克屋！"
+        }
+    },
+    {
+        "id": "la-facility-a02-station-name",
+        "data": {
+            "id": "la-facility-a02-station-name",
+            "text": "勤工飞车"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-achievement",
+        "data": {
+            "id": "la-resource_obtainment_route-achievement",
+            "text": "成就"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-area_quest",
+        "data": {
+            "id": "la-resource_obtainment_route-area_quest",
+            "text": "区域任务"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-character_level",
+        "data": {
+            "id": "la-resource_obtainment_route-character_level",
+            "text": "Holo成员Rank"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-character_quest",
+        "data": {
+            "id": "la-resource_obtainment_route-character_quest",
+            "text": "Holo成员任务"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-cooking",
+        "data": {
+            "id": "la-resource_obtainment_route-cooking",
+            "text": "满腹之旅\n（拼配厨房）"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-event",
+        "data": {
+            "id": "la-resource_obtainment_route-event",
+            "text": "活动"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-gacha",
+        "data": {
+            "id": "la-resource_obtainment_route-gacha",
+            "text": "扭蛋"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-hidden_treasure",
+        "data": {
+            "id": "la-resource_obtainment_route-hidden_treasure",
+            "text": "隐秘宝藏"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-live",
+        "data": {
+            "id": "la-resource_obtainment_route-live",
+            "text": "演出"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-main_quest",
+        "data": {
+            "id": "la-resource_obtainment_route-main_quest",
+            "text": "主线任务"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-membership",
+        "data": {
+            "id": "la-resource_obtainment_route-membership",
+            "text": "会员"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-mission",
+        "data": {
+            "id": "la-resource_obtainment_route-mission",
+            "text": "任务"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-music_shop",
+        "data": {
+            "id": "la-resource_obtainment_route-music_shop",
+            "text": "乐曲商店"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-none",
+        "data": {
+            "id": "la-resource_obtainment_route-none",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-player_level",
+        "data": {
+            "id": "la-resource_obtainment_route-player_level",
+            "text": "梦幻Rank"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-present",
+        "data": {
+            "id": "la-resource_obtainment_route-present",
+            "text": "礼物"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-quest",
+        "data": {
+            "id": "la-resource_obtainment_route-quest",
+            "text": "各种任务"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-rope",
+        "data": {
+            "id": "la-resource_obtainment_route-rope",
+            "text": "嬉闹操场\n（跳跳大绳）"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-shop",
+        "data": {
+            "id": "la-resource_obtainment_route-shop",
+            "text": "商店"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-treasure",
+        "data": {
+            "id": "la-resource_obtainment_route-treasure",
+            "text": "宝藏"
+        }
+    }
+]

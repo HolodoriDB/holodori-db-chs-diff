@@ -1,0 +1,212 @@
+[
+    {
+        "id": "la-cooking_foodstuff_001_1",
+        "data": {
+            "id": "la-cooking_foodstuff_001_1",
+            "text": "生鸡蛋"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_001_2",
+        "data": {
+            "id": "la-cooking_foodstuff_001_2",
+            "text": "低筋面粉"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_001_3",
+        "data": {
+            "id": "la-cooking_foodstuff_001_3",
+            "text": "金枪鱼"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_002_1",
+        "data": {
+            "id": "la-cooking_foodstuff_002_1",
+            "text": "狼蛛"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_002_2",
+        "data": {
+            "id": "la-cooking_foodstuff_002_2",
+            "text": "鱼糕"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_002_3",
+        "data": {
+            "id": "la-cooking_foodstuff_002_3",
+            "text": "中华面"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_003_1",
+        "data": {
+            "id": "la-cooking_foodstuff_003_1",
+            "text": "米"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_003_2",
+        "data": {
+            "id": "la-cooking_foodstuff_003_2",
+            "text": "咖喱块"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_003_3",
+        "data": {
+            "id": "la-cooking_foodstuff_003_3",
+            "text": "辣椒"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_004_1",
+        "data": {
+            "id": "la-cooking_foodstuff_004_1",
+            "text": "炸虾狮"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_004_2",
+        "data": {
+            "id": "la-cooking_foodstuff_004_2",
+            "text": "饭"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_004_3",
+        "data": {
+            "id": "la-cooking_foodstuff_004_3",
+            "text": "酱汁"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_005_1",
+        "data": {
+            "id": "la-cooking_foodstuff_005_1",
+            "text": "肉"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_005_2",
+        "data": {
+            "id": "la-cooking_foodstuff_005_2",
+            "text": "洋葱"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_005_3",
+        "data": {
+            "id": "la-cooking_foodstuff_005_3",
+            "text": "面包粉"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_006_1",
+        "data": {
+            "id": "la-cooking_foodstuff_006_1",
+            "text": "土豆"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_006_2",
+        "data": {
+            "id": "la-cooking_foodstuff_006_2",
+            "text": "黄瓜"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_006_3",
+        "data": {
+            "id": "la-cooking_foodstuff_006_3",
+            "text": "火腿"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_007_1",
+        "data": {
+            "id": "la-cooking_foodstuff_007_1",
+            "text": "面条"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_007_2",
+        "data": {
+            "id": "la-cooking_foodstuff_007_2",
+            "text": "YAGOO豆芽"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_007_3",
+        "data": {
+            "id": "la-cooking_foodstuff_007_3",
+            "text": "SSRB海苔"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_008_1",
+        "data": {
+            "id": "la-cooking_foodstuff_008_1",
+            "text": "小香肠"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_008_2",
+        "data": {
+            "id": "la-cooking_foodstuff_008_2",
+            "text": "梅干"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_008_3",
+        "data": {
+            "id": "la-cooking_foodstuff_008_3",
+            "text": "速热米饭"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_009_1",
+        "data": {
+            "id": "la-cooking_foodstuff_009_1",
+            "text": "乌冬面"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_009_2",
+        "data": {
+            "id": "la-cooking_foodstuff_009_2",
+            "text": "温泉蛋"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_009_3",
+        "data": {
+            "id": "la-cooking_foodstuff_009_3",
+            "text": "大葱"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_010_1",
+        "data": {
+            "id": "la-cooking_foodstuff_010_1",
+            "text": "谷物麦片"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_010_2",
+        "data": {
+            "id": "la-cooking_foodstuff_010_2",
+            "text": "牛奶"
+        }
+    },
+    {
+        "id": "la-cooking_foodstuff_010_3",
+        "data": {
+            "id": "la-cooking_foodstuff_010_3",
+            "text": "盘子"
+        }
+    }
+]

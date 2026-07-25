@@ -1,0 +1,366 @@
+[
+    {
+        "id": "la-generated-live_active_skill_effect-score_up_permil_up-1000.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill_effect-score_up_permil_up-1000.1-description",
+            "text": "得分提升100%"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill_effect-score_up_permil_up-1050.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill_effect-score_up_permil_up-1050.1-description",
+            "text": "得分提升105%"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill_effect-score_up_permil_up-1100.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill_effect-score_up_permil_up-1100.1-description",
+            "text": "得分提升110%"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill_effect-score_up_permil_up-1150.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill_effect-score_up_permil_up-1150.1-description",
+            "text": "得分提升115%"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill_effect-score_up_permil_up-1200.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill_effect-score_up_permil_up-1200.1-description",
+            "text": "得分提升120%"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill_effect-score_up_permil_up-250.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill_effect-score_up_permil_up-250.1-description",
+            "text": "得分提升25%"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill_effect-score_up_permil_up-300.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill_effect-score_up_permil_up-300.1-description",
+            "text": "得分提升30%"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill_effect-score_up_permil_up-350.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill_effect-score_up_permil_up-350.1-description",
+            "text": "得分提升35%"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill_effect-score_up_permil_up-400.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill_effect-score_up_permil_up-400.1-description",
+            "text": "得分提升40%"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill_effect-score_up_permil_up-450.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill_effect-score_up_permil_up-450.1-description",
+            "text": "得分提升45%"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill_effect-score_up_permil_up-500.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill_effect-score_up_permil_up-500.1-description",
+            "text": "得分提升50%"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill_effect-score_up_permil_up-550.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill_effect-score_up_permil_up-550.1-description",
+            "text": "得分提升55%"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill_effect-score_up_permil_up-600.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill_effect-score_up_permil_up-600.1-description",
+            "text": "得分提升60%"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill_effect-score_up_permil_up-650.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill_effect-score_up_permil_up-650.1-description",
+            "text": "得分提升65%"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill_effect-score_up_permil_up-700.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill_effect-score_up_permil_up-700.1-description",
+            "text": "得分提升70%"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill_effect-score_up_permil_up-750.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill_effect-score_up_permil_up-750.1-description",
+            "text": "得分提升75%"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill_effect-score_up_permil_up-800.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill_effect-score_up_permil_up-800.1-description",
+            "text": "得分提升80%"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill_effect-score_up_permil_up-850.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill_effect-score_up_permil_up-850.1-description",
+            "text": "得分提升85%"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill_effect-score_up_permil_up-900.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill_effect-score_up_permil_up-900.1-description",
+            "text": "得分提升90%"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill_effect-score_up_permil_up-950.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill_effect-score_up_permil_up-950.1-description",
+            "text": "得分提升95%"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_tree_effect-judgement_enhance-0.1-description",
+        "data": {
+            "id": "la-generated-live_skill_tree_effect-judgement_enhance-0.1-description",
+            "text": "GOOD以上变为PERFECT"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_tree_effect-life_recovery-100.1-description",
+        "data": {
+            "id": "la-generated-live_skill_tree_effect-life_recovery-100.1-description",
+            "text": "生命值恢复100点"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-judgement_enhance-0.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-judgement_enhance-0.1-description",
+            "text": "GOOD以上变为PERFECT"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-life_recovery-300.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-life_recovery-300.1-description",
+            "text": "生命值恢复300点"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-life_recovery-400.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-life_recovery-400.1-description",
+            "text": "生命值恢复400点"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1000.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1000.1-description",
+            "text": "得分辅助效果100%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1100.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1100.1-description",
+            "text": "得分辅助效果110%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1150.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1150.1-description",
+            "text": "得分辅助效果115%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1200.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1200.1-description",
+            "text": "得分辅助效果120%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1400.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1400.1-description",
+            "text": "得分辅助效果140%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-600.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-600.1-description",
+            "text": "得分辅助效果60%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-700.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-700.1-description",
+            "text": "得分辅助效果70%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-750.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-750.1-description",
+            "text": "得分辅助效果75%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-800.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-800.1-description",
+            "text": "得分辅助效果80%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-850.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-850.1-description",
+            "text": "得分辅助效果85%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-950.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-950.1-description",
+            "text": "得分辅助效果95%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1250.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1250.1-description",
+            "text": "得分辅助效果125%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1350.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1350.1-description",
+            "text": "得分辅助效果135%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1450.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1450.1-description",
+            "text": "得分辅助效果145%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1600.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1600.1-description",
+            "text": "得分辅助效果160%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-400.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-400.1-description",
+            "text": "得分辅助效果40%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-450.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-450.1-description",
+            "text": "得分辅助效果45%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-550.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-550.1-description",
+            "text": "得分辅助效果55%"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill_effect-score_up_permil_up-1250.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill_effect-score_up_permil_up-1250.1-description",
+            "text": "得分提升125%"
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill_effect-score_up_permil_up-1300.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill_effect-score_up_permil_up-1300.1-description",
+            "text": "得分提升130%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-500.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-500.1-description",
+            "text": "得分辅助效果50%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-550.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-550.1-description",
+            "text": "技能发动概率提升55%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-350.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-350.1-description",
+            "text": "技能发动概率提升35%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-400.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-400.1-description",
+            "text": "技能发动概率提升40%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-450.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-450.1-description",
+            "text": "技能发动概率提升45%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-500.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-500.1-description",
+            "text": "技能发动概率提升50%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1300.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1300.1-description",
+            "text": "得分辅助效果130%"
+        }
+    }
+]

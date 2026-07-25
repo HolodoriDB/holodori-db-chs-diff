@@ -1,0 +1,1507 @@
+[
+    {
+        "id": "la-generated-live_skill_trigger-combo_gte-100.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-combo_gte-100.1-description",
+            "text": "达成100连击以上"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-combo_gte-40.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-combo_gte-40.1-description",
+            "text": "达成40连击以上"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_1-2.1-description",
+            "text": "队伍中有至少2名[attribute=cute]可爱类型[/attribute]的角色时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_1-3.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_1-3.1-description",
+            "text": "队伍中有至少3名[attribute=cute]可爱类型[/attribute]的角色时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_1-4.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_1-4.1-description",
+            "text": "队伍中有至少4名[attribute=cute]可爱类型[/attribute]的角色时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_1-5.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_1-5.1-description",
+            "text": "队伍中有至少5名[attribute=cute]可爱类型[/attribute]的角色时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_2-2.1-description",
+            "text": "队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_2-3.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_2-3.1-description",
+            "text": "队伍中有至少3名[attribute=pure]纯洁类型[/attribute]的角色时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_2-4.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_2-4.1-description",
+            "text": "队伍中有至少4名[attribute=pure]纯洁类型[/attribute]的角色时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_2-5.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_2-5.1-description",
+            "text": "队伍中有至少5名[attribute=pure]纯洁类型[/attribute]的角色时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_3-2.1-description",
+            "text": "队伍中有至少2名[attribute=happy]快乐类型[/attribute]的角色时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_3-3.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_3-3.1-description",
+            "text": "队伍中有至少3名[attribute=happy]快乐类型[/attribute]的角色时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_3-4.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_3-4.1-description",
+            "text": "队伍中有至少4名[attribute=happy]快乐类型[/attribute]的角色时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_3-5.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_3-5.1-description",
+            "text": "队伍中有至少5名[attribute=happy]快乐类型[/attribute]的角色时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-1.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-1.1-description",
+            "text": "队伍中有至少1名Advent时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-2.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-2.1-description",
+            "text": "队伍中有至少2名Advent时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-3.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-3.1-description",
+            "text": "队伍中有至少3名Advent时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-4.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-4.1-description",
+            "text": "队伍中有至少4名Advent时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-5.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-5.1-description",
+            "text": "队伍中有至少5名Advent时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gamers-1.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gamers-1.1-description",
+            "text": "队伍中有至少1名GAMERS时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gamers-2.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gamers-2.1-description",
+            "text": "队伍中有至少2名GAMERS时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gamers-3.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gamers-3.1-description",
+            "text": "队伍中有至少3名GAMERS时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gamers-4.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gamers-4.1-description",
+            "text": "队伍中有至少4名GAMERS时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-1.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-1.1-description",
+            "text": "队伍中有至少1名0期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-2.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-2.1-description",
+            "text": "队伍中有至少2名0期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-3.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-3.1-description",
+            "text": "队伍中有至少3名0期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-4.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-4.1-description",
+            "text": "队伍中有至少4名0期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-5.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-5.1-description",
+            "text": "队伍中有至少5名0期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_1-1.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_1-1.1-description",
+            "text": "队伍中有至少1名1期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_1-2.1-description",
+            "text": "队伍中有至少2名1期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_1-3.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_1-3.1-description",
+            "text": "队伍中有至少3名1期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_1-4.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_1-4.1-description",
+            "text": "队伍中有至少4名1期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_2-1.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_2-1.1-description",
+            "text": "队伍中有至少1名2期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_2-2.1-description",
+            "text": "队伍中有至少2名2期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_2-3.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_2-3.1-description",
+            "text": "队伍中有至少3名2期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_2-4.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_2-4.1-description",
+            "text": "队伍中有至少4名2期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_3-1.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_3-1.1-description",
+            "text": "队伍中有至少1名3期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_3-2.1-description",
+            "text": "队伍中有至少2名3期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_3-3.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_3-3.1-description",
+            "text": "队伍中有至少3名3期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_3-4.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_3-4.1-description",
+            "text": "队伍中有至少4名3期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_4-1.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_4-1.1-description",
+            "text": "队伍中有至少1名4期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_4-2.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_4-2.1-description",
+            "text": "队伍中有至少2名4期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_4-3.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_4-3.1-description",
+            "text": "队伍中有至少3名4期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_4-4.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_4-4.1-description",
+            "text": "队伍中有至少4名4期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_5-1.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_5-1.1-description",
+            "text": "队伍中有至少1名5期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_5-2.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_5-2.1-description",
+            "text": "队伍中有至少2名5期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_5-3.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_5-3.1-description",
+            "text": "队伍中有至少3名5期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_5-4.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_5-4.1-description",
+            "text": "队伍中有至少4名5期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-holox-1.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-holox-1.1-description",
+            "text": "队伍中有至少1名holoX时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-holox-2.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-holox-2.1-description",
+            "text": "队伍中有至少2名holoX时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-holox-3.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-holox-3.1-description",
+            "text": "队伍中有至少3名holoX时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-holox-4.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-holox-4.1-description",
+            "text": "队伍中有至少4名holoX时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-1.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-1.1-description",
+            "text": "队伍中有至少1名hololive ID时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-2.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-2.1-description",
+            "text": "队伍中有至少2名hololive ID时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-3.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-3.1-description",
+            "text": "队伍中有至少3名hololive ID时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-4.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-4.1-description",
+            "text": "队伍中有至少4名hololive ID时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-5.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-5.1-description",
+            "text": "队伍中有至少5名hololive ID时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-1.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-1.1-description",
+            "text": "队伍中有至少1名ID1期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-2.1-description",
+            "text": "队伍中有至少2名ID1期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-3.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-3.1-description",
+            "text": "队伍中有至少3名ID1期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_2-1.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_2-1.1-description",
+            "text": "队伍中有至少1名ID2期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_2-2.1-description",
+            "text": "队伍中有至少2名ID2期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_2-3.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_2-3.1-description",
+            "text": "队伍中有至少3名ID2期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_3-1.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_3-1.1-description",
+            "text": "队伍中有至少1名ID3期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_3-2.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_3-2.1-description",
+            "text": "队伍中有至少2名ID3期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_3-3.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_3-3.1-description",
+            "text": "队伍中有至少3名ID3期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-myth-1.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-myth-1.1-description",
+            "text": "队伍中有至少1名Myth时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-myth-2.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-myth-2.1-description",
+            "text": "队伍中有至少2名Myth时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-myth-3.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-myth-3.1-description",
+            "text": "队伍中有至少3名Myth时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-myth-4.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-myth-4.1-description",
+            "text": "队伍中有至少4名Myth时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-promise-1.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-promise-1.1-description",
+            "text": "队伍中有至少1名Promise时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-promise-2.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-promise-2.1-description",
+            "text": "队伍中有至少2名Promise时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-promise-3.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-promise-3.1-description",
+            "text": "队伍中有至少3名Promise时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-promise-4.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-promise-4.1-description",
+            "text": "队伍中有至少4名Promise时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-1.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-1.1-description",
+            "text": "队伍中有至少1名ReGLOSS时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-2.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-2.1-description",
+            "text": "队伍中有至少2名ReGLOSS时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-3.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-3.1-description",
+            "text": "队伍中有至少3名ReGLOSS时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-4.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-4.1-description",
+            "text": "队伍中有至少4名ReGLOSS时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-5.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-5.1-description",
+            "text": "队伍中有至少5名ReGLOSS时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00001.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00001.1-description",
+            "text": "领队为时乃空时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00002.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00002.1-description",
+            "text": "领队为萝卜子时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00004.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00004.1-description",
+            "text": "领队为亚绮·罗森塔尔时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00005.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00005.1-description",
+            "text": "领队为赤井心时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00006.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00006.1-description",
+            "text": "领队为白上吹雪时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00007.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00007.1-description",
+            "text": "领队为夏色祭时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00010.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00010.1-description",
+            "text": "领队为百鬼绫目时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00011.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00011.1-description",
+            "text": "领队为癒月巧可时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00012.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00012.1-description",
+            "text": "领队为大空昴时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00013.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00013.1-description",
+            "text": "领队为AZKi时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00014.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00014.1-description",
+            "text": "领队为大神澪时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00015.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00015.1-description",
+            "text": "领队为樱巫女时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00016.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00016.1-description",
+            "text": "领队为猫又小粥时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00017.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00017.1-description",
+            "text": "领队为戌神沁音时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00018.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00018.1-description",
+            "text": "领队为星街彗星时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00019.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00019.1-description",
+            "text": "领队为兔田佩克拉时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00021.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00021.1-description",
+            "text": "领队为不知火芙蕾雅时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00022.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00022.1-description",
+            "text": "领队为白银诺艾尔时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00023.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00023.1-description",
+            "text": "领队为宝钟玛琳时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00024.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00024.1-description",
+            "text": "领队为天音彼方时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00026.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00026.1-description",
+            "text": "领队为角卷绵芽时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00027.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00027.1-description",
+            "text": "领队为常暗永远时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00028.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00028.1-description",
+            "text": "领队为姬森璐娜时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00030.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00030.1-description",
+            "text": "领队为雪花菈米时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00031.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00031.1-description",
+            "text": "领队为桃铃音音时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00032.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00032.1-description",
+            "text": "领队为狮白牡丹时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00034.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00034.1-description",
+            "text": "领队为尾丸波尔卡时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00035.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00035.1-description",
+            "text": "领队为拉普拉斯·暗黑时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00036.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00036.1-description",
+            "text": "领队为鹰岭琉依时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00037.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00037.1-description",
+            "text": "领队为博衣小夜璃时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00039.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00039.1-description",
+            "text": "领队为风真伊吕波时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03001.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03001.1-description",
+            "text": "领队为Ayunda Risu时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03002.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03002.1-description",
+            "text": "领队为Moona Hoshinova时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03003.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03003.1-description",
+            "text": "领队为Airani Iofifteen时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03004.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03004.1-description",
+            "text": "领队为Kureiji Ollie时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03005.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03005.1-description",
+            "text": "领队为Anya Melfissa时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03006.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03006.1-description",
+            "text": "领队为Pavolia Reine时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03007.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03007.1-description",
+            "text": "领队为Vestia Zeta时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03008.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03008.1-description",
+            "text": "领队为Kaela Kovalskia时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03009.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03009.1-description",
+            "text": "领队为Kobo Kanaeru时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04001.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04001.1-description",
+            "text": "领队为Mori Calliope时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04002.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04002.1-description",
+            "text": "领队为Takanashi Kiara时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04003.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04003.1-description",
+            "text": "领队为Ninomae Ina'nis时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04007.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04007.1-description",
+            "text": "领队为IRyS时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04010.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04010.1-description",
+            "text": "领队为Ouro Kronii时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04012.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04012.1-description",
+            "text": "领队为Hakos Baelz时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04013.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04013.1-description",
+            "text": "领队为Shiori Novella时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04014.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04014.1-description",
+            "text": "领队为Koseki Bijou时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04015.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04015.1-description",
+            "text": "领队为Nerissa Ravencroft时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04016.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04016.1-description",
+            "text": "领队为Fuwawa Abyssgard时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04017.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04017.1-description",
+            "text": "领队为Mococo Abyssgard时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-06001.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-06001.1-description",
+            "text": "领队为火威青时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-06002.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-06002.1-description",
+            "text": "领队为音乃濑奏时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-06003.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-06003.1-description",
+            "text": "领队为一条莉莉华时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-06004.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-06004.1-description",
+            "text": "领队为儒乌风亭螺钿时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character-chr-06005.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character-chr-06005.1-description",
+            "text": "领队为轰一时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-advent.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-advent.1-description",
+            "text": "领队为Advent时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gamers.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gamers.1-description",
+            "text": "领队为GAMERS时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_0.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_0.1-description",
+            "text": "领队为0期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_1.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_1.1-description",
+            "text": "领队为1期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_2.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_2.1-description",
+            "text": "领队为2期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_3.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_3.1-description",
+            "text": "领队为3期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_4.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_4.1-description",
+            "text": "领队为4期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_5.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_5.1-description",
+            "text": "领队为5期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-holox.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-holox.1-description",
+            "text": "领队为holoX时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-indonesia-gen_1.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-indonesia-gen_1.1-description",
+            "text": "领队为ID1期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-indonesia-gen_2.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-indonesia-gen_2.1-description",
+            "text": "领队为ID2期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-indonesia-gen_3.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-indonesia-gen_3.1-description",
+            "text": "领队为ID3期生时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-indonesia.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-indonesia.1-description",
+            "text": "领队为hololive ID时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-myth.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-myth.1-description",
+            "text": "领队为Myth时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-promise.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-promise.1-description",
+            "text": "领队为Promise时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-regloss.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-regloss.1-description",
+            "text": "领队为ReGLOSS时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-judgement_type_gte-good.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-judgement_type_gte-good.1-description",
+            "text": "判定为GOOD时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-judgement_type_gte-great.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-judgement_type_gte-great.1-description",
+            "text": "判定为GREAT时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-judgement_type_gte-perfect.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-judgement_type_gte-perfect.1-description",
+            "text": "判定为PERFECT时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-life_gte-1000.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-life_gte-1000.1-description",
+            "text": "生命值在1000点以上时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-life_gte-600.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-life_gte-600.1-description",
+            "text": "生命值在600点以上时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-life_lte-500.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-life_lte-500.1-description",
+            "text": "生命值在500点以下时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-life_lte-700.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-life_lte-700.1-description",
+            "text": "生命值在700点以下时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-life_lte-950.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-life_lte-950.1-description",
+            "text": "生命值在950点以下时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00001.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00001.1-description",
+            "text": "歌手中包含时乃空时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00002.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00002.1-description",
+            "text": "歌手中包含萝卜子时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00004.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00004.1-description",
+            "text": "歌手中包含亚绮·罗森塔尔时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00005.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00005.1-description",
+            "text": "歌手中包含赤井心时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00006.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00006.1-description",
+            "text": "歌手中包含白上吹雪时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00007.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00007.1-description",
+            "text": "歌手中包含夏色祭时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00010.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00010.1-description",
+            "text": "歌手中包含百鬼绫目时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00011.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00011.1-description",
+            "text": "歌手中包含癒月巧可时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00012.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00012.1-description",
+            "text": "歌手中包含大空昴时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00013.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00013.1-description",
+            "text": "歌手中包含AZKi时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00014.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00014.1-description",
+            "text": "歌手中包含大神澪时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00015.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00015.1-description",
+            "text": "歌手中包含樱巫女时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00016.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00016.1-description",
+            "text": "歌手中包含猫又小粥时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00017.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00017.1-description",
+            "text": "歌手中包含戌神沁音时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00018.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00018.1-description",
+            "text": "歌手中包含星街彗星时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00019.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00019.1-description",
+            "text": "歌手中包含兔田佩克拉时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00021.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00021.1-description",
+            "text": "歌手中包含不知火芙蕾雅时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00022.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00022.1-description",
+            "text": "歌手中包含白银诺艾尔时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00023.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00023.1-description",
+            "text": "歌手中包含宝钟玛琳时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00024.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00024.1-description",
+            "text": "歌手中包含天音彼方时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00026.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00026.1-description",
+            "text": "歌手中包含角卷绵芽时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00027.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00027.1-description",
+            "text": "歌手中包含常暗永远时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00028.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00028.1-description",
+            "text": "歌手中包含姬森璐娜时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00030.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00030.1-description",
+            "text": "歌手中包含雪花菈米时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00031.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00031.1-description",
+            "text": "歌手中包含桃铃音音时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00032.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00032.1-description",
+            "text": "歌手中包含狮白牡丹时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00034.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00034.1-description",
+            "text": "歌手中包含尾丸波尔卡时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00035.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00035.1-description",
+            "text": "歌手中包含拉普拉斯·暗黑时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00036.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00036.1-description",
+            "text": "歌手中包含鹰岭琉依时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00037.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00037.1-description",
+            "text": "歌手中包含博衣小夜璃时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-00039.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-00039.1-description",
+            "text": "歌手中包含风真伊吕波时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-03001.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-03001.1-description",
+            "text": "歌手中包含Ayunda Risu时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-03002.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-03002.1-description",
+            "text": "歌手中包含Moona Hoshinova时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-03003.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-03003.1-description",
+            "text": "歌手中包含Airani Iofifteen时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-03004.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-03004.1-description",
+            "text": "歌手中包含Kureiji Ollie时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-03005.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-03005.1-description",
+            "text": "歌手中包含Anya Melfissa时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-03006.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-03006.1-description",
+            "text": "歌手中包含Pavolia Reine时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-03007.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-03007.1-description",
+            "text": "歌手中包含Vestia Zeta时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-03008.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-03008.1-description",
+            "text": "歌手中包含Kaela Kovalskia时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-03009.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-03009.1-description",
+            "text": "歌手中包含Kobo Kanaeru时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-04001.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-04001.1-description",
+            "text": "歌手中包含Mori Calliope时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-04002.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-04002.1-description",
+            "text": "歌手中包含Takanashi Kiara时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-04003.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-04003.1-description",
+            "text": "歌手中包含Ninomae Ina'nis时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-04007.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-04007.1-description",
+            "text": "歌手中包含IRyS时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-04010.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-04010.1-description",
+            "text": "歌手中包含Ouro Kronii时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-04012.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-04012.1-description",
+            "text": "歌手中包含Hakos Baelz时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-04013.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-04013.1-description",
+            "text": "歌手中包含Shiori Novella时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-04014.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-04014.1-description",
+            "text": "歌手中包含Koseki Bijou时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-04015.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-04015.1-description",
+            "text": "歌手中包含Nerissa Ravencroft时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-04016.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-04016.1-description",
+            "text": "歌手中包含Fuwawa Abyssgard时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-04017.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-04017.1-description",
+            "text": "歌手中包含Mococo Abyssgard时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-06001.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-06001.1-description",
+            "text": "歌手中包含火威青时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-06002.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-06002.1-description",
+            "text": "歌手中包含音乃濑奏时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-06003.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-06003.1-description",
+            "text": "歌手中包含一条莉莉华时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-06004.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-06004.1-description",
+            "text": "歌手中包含儒乌风亭螺钿时"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_trigger-music_character-chr-06005.1-description",
+        "data": {
+            "id": "la-generated-live_skill_trigger-music_character-chr-06005.1-description",
+            "text": "歌手中包含轰一时"
+        }
+    }
+]

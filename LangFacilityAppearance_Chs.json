@@ -1,0 +1,191 @@
+[
+    {
+        "id": "la-label-facility-a01-athletic",
+        "data": {
+            "id": "la-label-facility-a01-athletic",
+            "text": "迷你游戏"
+        }
+    },
+    {
+        "id": "la-label-facility-a01-balloonstore",
+        "data": {
+            "id": "la-label-facility-a01-balloonstore",
+            "text": "气球商店"
+        }
+    },
+    {
+        "id": "la-label-facility-a01-candystore",
+        "data": {
+            "id": "la-label-facility-a01-candystore",
+            "text": "糖果商店"
+        }
+    },
+    {
+        "id": "la-label-facility-a01-clocktower",
+        "data": {
+            "id": "la-label-facility-a01-clocktower",
+            "text": "更改时间"
+        }
+    },
+    {
+        "id": "la-label-facility-a01-exchangebooth",
+        "data": {
+            "id": "la-label-facility-a01-exchangebooth",
+            "text": "兑换所"
+        }
+    },
+    {
+        "id": "la-label-facility-a01-ferriswheel",
+        "data": {
+            "id": "la-label-facility-a01-ferriswheel",
+            "text": "摩天轮"
+        }
+    },
+    {
+        "id": "la-label-facility-a01-gate2",
+        "data": {
+            "id": "la-label-facility-a01-gate2",
+            "text": "区域移动"
+        }
+    },
+    {
+        "id": "la-label-facility-a01-house",
+        "data": {
+            "id": "la-label-facility-a01-house",
+            "text": "礼物"
+        }
+    },
+    {
+        "id": "la-label-facility-a01-house-achievement",
+        "data": {
+            "id": "la-label-facility-a01-house-achievement",
+            "text": "礼物 / 成就"
+        }
+    },
+    {
+        "id": "la-label-facility-a01-livestage",
+        "data": {
+            "id": "la-label-facility-a01-livestage",
+            "text": "节奏游戏"
+        }
+    },
+    {
+        "id": "la-label-facility-a01-memoryboard",
+        "data": {
+            "id": "la-label-facility-a01-memoryboard",
+            "text": "回忆卡设置"
+        }
+    },
+    {
+        "id": "la-label-facility-a01-multiplay",
+        "data": {
+            "id": "la-label-facility-a01-multiplay",
+            "text": "多人游戏"
+        }
+    },
+    {
+        "id": "la-label-facility-a01-penlightstore",
+        "data": {
+            "id": "la-label-facility-a01-penlightstore",
+            "text": "应援棒商店"
+        }
+    },
+    {
+        "id": "la-label-facility-a01-restaurant",
+        "data": {
+            "id": "la-label-facility-a01-restaurant",
+            "text": "迷你游戏"
+        }
+    },
+    {
+        "id": "la-label-facility-a01-station",
+        "data": {
+            "id": "la-label-facility-a01-station",
+            "text": "Holowork"
+        }
+    },
+    {
+        "id": "la-label-facility-a01-theater",
+        "data": {
+            "id": "la-label-facility-a01-theater",
+            "text": "故事"
+        }
+    },
+    {
+        "id": "la-label-facility-a01-unknown",
+        "data": {
+            "id": "la-label-facility-a01-unknown",
+            "text": "???"
+        }
+    },
+    {
+        "id": "la-label-facility-a02-clocklever",
+        "data": {
+            "id": "la-label-facility-a02-clocklever",
+            "text": "更改游玩区域"
+        }
+    },
+    {
+        "id": "la-label-facility-a02-coinbooth",
+        "data": {
+            "id": "la-label-facility-a02-coinbooth",
+            "text": "兑换所"
+        }
+    },
+    {
+        "id": "la-label-facility-a02-highandlow",
+        "data": {
+            "id": "la-label-facility-a02-highandlow",
+            "text": "猜高低"
+        }
+    },
+    {
+        "id": "la-label-facility-a02-holocircuit",
+        "data": {
+            "id": "la-label-facility-a02-holocircuit",
+            "text": "迷你游戏"
+        }
+    },
+    {
+        "id": "la-label-facility-a02-itemgacha",
+        "data": {
+            "id": "la-label-facility-a02-itemgacha",
+            "text": "道具扭蛋"
+        }
+    },
+    {
+        "id": "la-label-facility-a02-materialbooth",
+        "data": {
+            "id": "la-label-facility-a02-materialbooth",
+            "text": "素材交换 / 装饰品"
+        }
+    },
+    {
+        "id": "la-label-facility-a02-photobooth",
+        "data": {
+            "id": "la-label-facility-a02-photobooth",
+            "text": "拍摄"
+        }
+    },
+    {
+        "id": "la-label-facility-a02-pokertable",
+        "data": {
+            "id": "la-label-facility-a02-pokertable",
+            "text": "迷你游戏"
+        }
+    },
+    {
+        "id": "la-label-facility-a02-scratchstore",
+        "data": {
+            "id": "la-label-facility-a02-scratchstore",
+            "text": "刮奖券"
+        }
+    },
+    {
+        "id": "la-label-facility-a02-station",
+        "data": {
+            "id": "la-label-facility-a02-station",
+            "text": "Holowork"
+        }
+    }
+]

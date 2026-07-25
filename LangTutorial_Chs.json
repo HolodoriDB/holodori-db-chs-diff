@@ -1,0 +1,79 @@
+[
+    {
+        "id": "la-tutorial-card_level_limit_break-01",
+        "data": {
+            "id": "la-tutorial-card_level_limit_break-01",
+            "text": "让成员进行特训，可进一步强化。"
+        }
+    },
+    {
+        "id": "la-tutorial-custom_palette-01",
+        "data": {
+            "id": "la-tutorial-custom_palette-01",
+            "text": "先选择一个基底吧！"
+        }
+    },
+    {
+        "id": "la-tutorial-custom_palette-02",
+        "data": {
+            "id": "la-tutorial-custom_palette-02",
+            "text": "也可以全部交给系统来生成！"
+        }
+    },
+    {
+        "id": "la-tutorial-game_start-07",
+        "data": {
+            "id": "la-tutorial-game_start-07",
+            "text": "跟随指示，推进任务"
+        }
+    },
+    {
+        "id": "la-tutorial-game_start-12-1",
+        "data": {
+            "id": "la-tutorial-game_start-12-1",
+            "text": "打开地图，确认目的地"
+        }
+    },
+    {
+        "id": "la-tutorial-game_start-12-2",
+        "data": {
+            "id": "la-tutorial-game_start-12-2",
+            "text": "前往有标记的地点"
+        }
+    },
+    {
+        "id": "la-tutorial-live-01-1",
+        "data": {
+            "id": "la-tutorial-live-01-1",
+            "text": "在这里可以随时进行演出。"
+        }
+    },
+    {
+        "id": "la-tutorial-live-01-2",
+        "data": {
+            "id": "la-tutorial-live-01-2",
+            "text": "继续推进任务吧"
+        }
+    },
+    {
+        "id": "la-tutorial-park_character_quest-01",
+        "data": {
+            "id": "la-tutorial-park_character_quest-01",
+            "text": "查看新的任务"
+        }
+    },
+    {
+        "id": "la-tutorial-park_character_set-01",
+        "data": {
+            "id": "la-tutorial-park_character_set-01",
+            "text": "试着更换操作的holo成员"
+        }
+    },
+    {
+        "id": "la-tutorial-skill_tree-01-1",
+        "data": {
+            "id": "la-tutorial-skill_tree-01-1",
+            "text": "用Holo成员面板进一步开发成员们的能力"
+        }
+    }
+]

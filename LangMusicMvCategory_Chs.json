@@ -1,0 +1,37 @@
+[
+    {
+        "id": "la-music_mv_category-filter-live",
+        "data": {
+            "id": "la-music_mv_category-filter-live",
+            "text": "附演出影像"
+        }
+    },
+    {
+        "id": "la-music_mv_category-filter-mv",
+        "data": {
+            "id": "la-music_mv_category-filter-mv",
+            "text": "有MV"
+        }
+    },
+    {
+        "id": "la-music_mv_category-live",
+        "data": {
+            "id": "la-music_mv_category-live",
+            "text": "演出影像"
+        }
+    },
+    {
+        "id": "la-music_mv_category-mv",
+        "data": {
+            "id": "la-music_mv_category-mv",
+            "text": "MV"
+        }
+    },
+    {
+        "id": "la-music_mv_category-mv_light",
+        "data": {
+            "id": "la-music_mv_category-mv_light",
+            "text": "幻灯片"
+        }
+    }
+]

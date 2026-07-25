@@ -1,0 +1,149 @@
+[
+    {
+        "id": "la-facility-a01-athletic-description",
+        "data": {
+            "id": "la-facility-a01-athletic-description",
+            "text": "3期生建造的运动设施。\n在这里可以活动身体。"
+        }
+    },
+    {
+        "id": "la-facility-a01-candystore-description",
+        "data": {
+            "id": "la-facility-a01-candystore-description",
+            "text": "ID3期生的售货小车。\n能买到好吃的糖果。"
+        }
+    },
+    {
+        "id": "la-facility-a01-clocktower-description",
+        "data": {
+            "id": "la-facility-a01-clocktower-description",
+            "text": "Promise建造的钟塔。\n常用作大家的碰头地点。"
+        }
+    },
+    {
+        "id": "la-facility-a01-exchangebooth-description",
+        "data": {
+            "id": "la-facility-a01-exchangebooth-description",
+            "text": "5期生的周边商店。\n可以买到各种各样的商品。"
+        }
+    },
+    {
+        "id": "la-facility-a01-exchangebooth-lvup",
+        "data": {
+            "id": "la-facility-a01-exchangebooth-lvup",
+            "text": "商品列表更新"
+        }
+    },
+    {
+        "id": "la-facility-a01-facerock-description",
+        "data": {
+            "id": "la-facility-a01-facerock-description",
+            "text": "雕刻着0期生面孔的岩山。\n每天都在守望整座乐园。"
+        }
+    },
+    {
+        "id": "la-facility-a01-ferriswheel-description",
+        "data": {
+            "id": "la-facility-a01-ferriswheel-description",
+            "text": "4期生建造的摩天轮。\n可以坐在轿厢里欣赏乐园美景。"
+        }
+    },
+    {
+        "id": "la-facility-a01-house-description",
+        "data": {
+            "id": "la-facility-a01-house-description",
+            "text": "供holo成员居住的房子。\n大家都过得十分随性。"
+        }
+    },
+    {
+        "id": "la-facility-a01-memoryboard-description",
+        "data": {
+            "id": "la-facility-a01-memoryboard-description",
+            "text": "供大家自由使用的公告板。\n可以贴上喜欢的插画。"
+        }
+    },
+    {
+        "id": "la-facility-a01-multiplay-description",
+        "data": {
+            "id": "la-facility-a01-multiplay-description",
+            "text": "Myth的虚拟设施。\n可以与全世界的人产生联系。"
+        }
+    },
+    {
+        "id": "la-facility-a01-station-description",
+        "data": {
+            "id": "la-facility-a01-station-description",
+            "text": "GAMERS建造的成员专用港口。\n前往岛外时可以使用。"
+        }
+    },
+    {
+        "id": "la-facility-a01-station-lvup",
+        "data": {
+            "id": "la-facility-a01-station-lvup",
+            "text": "高Rank的Holowork触发率提升"
+        }
+    },
+    {
+        "id": "la-facility-a01-theater-description",
+        "data": {
+            "id": "la-facility-a01-theater-description",
+            "text": "2期生经营的电影院。\n正在放映holo成员们的回忆。"
+        }
+    },
+    {
+        "id": "la-facility-a02-cranegame-description",
+        "data": {
+            "id": "la-facility-a02-cranegame-description",
+            "text": "萝卜子的娃娃机。\n里面总是塞满了大量奖品。"
+        }
+    },
+    {
+        "id": "la-facility-a02-dancegame-description",
+        "data": {
+            "id": "la-facility-a02-dancegame-description",
+            "text": "Kiara的跳舞机。\n与汉堡们一起热舞到天明吧。"
+        }
+    },
+    {
+        "id": "la-facility-a02-fightinggame-description",
+        "data": {
+            "id": "la-facility-a02-fightinggame-description",
+            "text": "沁音的格斗对战游戏机台。\n热血搏斗的沁音粉让人移不开眼。"
+        }
+    },
+    {
+        "id": "la-facility-a02-itemgacha-description",
+        "data": {
+            "id": "la-facility-a02-itemgacha-description",
+            "text": "Kaela的胶囊扭蛋机。\n能获得随机道具。"
+        }
+    },
+    {
+        "id": "la-facility-a02-photobooth-description",
+        "data": {
+            "id": "la-facility-a02-photobooth-description",
+            "text": "游戏区的大头贴机器。\n多拍几张可爱的照片吧。"
+        }
+    },
+    {
+        "id": "la-facility-a02-shootinggame-description",
+        "data": {
+            "id": "la-facility-a02-shootinggame-description",
+            "text": "小粥的射击游戏机台。\n保卫地球不受猫星人入侵吧。"
+        }
+    },
+    {
+        "id": "la-facility-a02-station-description",
+        "data": {
+            "id": "la-facility-a02-station-description",
+            "text": "大家一起制作的飞车。\n可以乘坐它前往岛外。"
+        }
+    },
+    {
+        "id": "la-facility-a02-station-lvup",
+        "data": {
+            "id": "la-facility-a02-station-lvup",
+            "text": "高Rank的Holowork触发率提升"
+        }
+    }
+]

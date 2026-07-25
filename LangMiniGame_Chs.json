@@ -1,0 +1,114 @@
+[
+    {
+        "id": "la-mini_game-circuit-description",
+        "data": {
+            "id": "la-mini_game-circuit-description",
+            "text": "最多16人参与的障碍竞速游戏"
+        }
+    },
+    {
+        "id": "la-mini_game-circuit-name",
+        "data": {
+            "id": "la-mini_game-circuit-name",
+            "text": "终极向前冲"
+        }
+    },
+    {
+        "id": "la-mini_game-circuit-ranking_score_type_lang_id",
+        "data": {
+            "id": "la-mini_game-circuit-ranking_score_type_lang_id",
+            "text": "TIME"
+        }
+    },
+    {
+        "id": "la-mini_game-circuit-ranking_view_description_lang_id",
+        "data": {
+            "id": "la-mini_game-circuit-ranking_view_description_lang_id",
+            "text": "显示最佳用时 前100名"
+        }
+    },
+    {
+        "id": "la-mini_game-combo_card_game-description",
+        "data": {
+            "id": "la-mini_game-combo_card_game-description",
+            "text": "凑齐牌型以挣取代币的卡牌游戏"
+        }
+    },
+    {
+        "id": "la-mini_game-combo_card_game-name",
+        "data": {
+            "id": "la-mini_game-combo_card_game-name",
+            "text": "扑克屋！"
+        }
+    },
+    {
+        "id": "la-mini_game-combo_card_game-ranking_score_type_lang_id",
+        "data": {
+            "id": "la-mini_game-combo_card_game-ranking_score_type_lang_id",
+            "text": "RATING"
+        }
+    },
+    {
+        "id": "la-mini_game-combo_card_game-ranking_view_description_lang_id",
+        "data": {
+            "id": "la-mini_game-combo_card_game-ranking_view_description_lang_id",
+            "text": "显示合计代币获得率 前100名"
+        }
+    },
+    {
+        "id": "la-mini_game-cooking_puzzle-description",
+        "data": {
+            "id": "la-mini_game-cooking_puzzle-description",
+            "text": "收集素材以制作餐品的益智游戏"
+        }
+    },
+    {
+        "id": "la-mini_game-cooking_puzzle-name",
+        "data": {
+            "id": "la-mini_game-cooking_puzzle-name",
+            "text": "拼配厨房"
+        }
+    },
+    {
+        "id": "la-mini_game-cooking_puzzle-ranking_score_type_lang_id",
+        "data": {
+            "id": "la-mini_game-cooking_puzzle-ranking_score_type_lang_id",
+            "text": "SCORE"
+        }
+    },
+    {
+        "id": "la-mini_game-cooking_puzzle-ranking_view_description_lang_id",
+        "data": {
+            "id": "la-mini_game-cooking_puzzle-ranking_view_description_lang_id",
+            "text": "显示最佳得分 前100名"
+        }
+    },
+    {
+        "id": "la-mini_game-jump_rope-description",
+        "data": {
+            "id": "la-mini_game-jump_rope-description",
+            "text": "大家一起跳大绳的跳跃游戏"
+        }
+    },
+    {
+        "id": "la-mini_game-jump_rope-name",
+        "data": {
+            "id": "la-mini_game-jump_rope-name",
+            "text": "跳跳大绳"
+        }
+    },
+    {
+        "id": "la-mini_game-jump_rope-ranking_score_type_lang_id",
+        "data": {
+            "id": "la-mini_game-jump_rope-ranking_score_type_lang_id",
+            "text": "SCORE"
+        }
+    },
+    {
+        "id": "la-mini_game-jump_rope-ranking_view_description_lang_id",
+        "data": {
+            "id": "la-mini_game-jump_rope-ranking_view_description_lang_id",
+            "text": "显示最佳得分 前100名"
+        }
+    }
+]

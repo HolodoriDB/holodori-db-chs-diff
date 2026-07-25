@@ -1,0 +1,30 @@
+[
+    {
+        "id": "la-character_voice_category-live",
+        "data": {
+            "id": "la-character_voice_category-live",
+            "text": "演出"
+        }
+    },
+    {
+        "id": "la-character_voice_category-member",
+        "data": {
+            "id": "la-character_voice_category-member",
+            "text": "成员"
+        }
+    },
+    {
+        "id": "la-character_voice_category-other",
+        "data": {
+            "id": "la-character_voice_category-other",
+            "text": "其他"
+        }
+    },
+    {
+        "id": "la-character_voice_category-system",
+        "data": {
+            "id": "la-character_voice_category-system",
+            "text": "系统"
+        }
+    }
+]

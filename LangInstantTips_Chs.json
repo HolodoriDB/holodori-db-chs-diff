@@ -1,0 +1,72 @@
+[
+    {
+        "id": "la-instant_tips-a02_station",
+        "data": {
+            "id": "la-instant_tips-a02_station",
+            "text": "“勤工飞车”现在可以实行“Holowork”了。"
+        }
+    },
+    {
+        "id": "la-instant_tips-bet_amount",
+        "data": {
+            "id": "la-instant_tips-bet_amount",
+            "text": "已解锁“终极向前冲”与“扑克屋！”的押注额上限。"
+        }
+    },
+    {
+        "id": "la-instant_tips-coinbooth",
+        "data": {
+            "id": "la-instant_tips-coinbooth",
+            "text": "“电玩巨蛋城代币兑换所”添加了新的道具。"
+        }
+    },
+    {
+        "id": "la-instant_tips-cooking_puzzle-normal",
+        "data": {
+            "id": "la-instant_tips-cooking_puzzle-normal",
+            "text": "已解锁“拼配厨房”的NORMAL难度。"
+        }
+    },
+    {
+        "id": "la-instant_tips-cooking_puzzle-score_attack",
+        "data": {
+            "id": "la-instant_tips-cooking_puzzle-score_attack",
+            "text": "已解锁“拼配厨房”的得分挑战。"
+        }
+    },
+    {
+        "id": "la-instant_tips-jump_rope-normal",
+        "data": {
+            "id": "la-instant_tips-jump_rope-normal",
+            "text": "已解锁“跳跳大绳”的NORMAL难度。"
+        }
+    },
+    {
+        "id": "la-instant_tips-jump_rope-score_attack",
+        "data": {
+            "id": "la-instant_tips-jump_rope-score_attack",
+            "text": "已解锁“跳跳大绳”的得分挑战。"
+        }
+    },
+    {
+        "id": "la-instant_tips-present-facerock-1",
+        "data": {
+            "id": "la-instant_tips-present-facerock-1",
+            "text": "已添加【来自0期生的礼物】。"
+        }
+    },
+    {
+        "id": "la-instant_tips-present-prison-1",
+        "data": {
+            "id": "la-instant_tips-present-prison-1",
+            "text": "已添加【来自Advent的礼物】。"
+        }
+    },
+    {
+        "id": "la-instant_tips-random_reward-livehouse-1",
+        "data": {
+            "id": "la-instant_tips-random_reward-livehouse-1",
+            "text": "已升级【holo成员的隐秘宝藏】。"
+        }
+    }
+]

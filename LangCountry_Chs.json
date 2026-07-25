@@ -1,0 +1,583 @@
+[
+    {
+        "id": "la-country-ae",
+        "data": {
+            "id": "la-country-ae",
+            "text": "阿拉伯联合酋长国"
+        }
+    },
+    {
+        "id": "la-country-ar",
+        "data": {
+            "id": "la-country-ar",
+            "text": "阿根廷"
+        }
+    },
+    {
+        "id": "la-country-at",
+        "data": {
+            "id": "la-country-at",
+            "text": "奥地利"
+        }
+    },
+    {
+        "id": "la-country-au",
+        "data": {
+            "id": "la-country-au",
+            "text": "澳大利亚"
+        }
+    },
+    {
+        "id": "la-country-bg",
+        "data": {
+            "id": "la-country-bg",
+            "text": "保加利亚"
+        }
+    },
+    {
+        "id": "la-country-bh",
+        "data": {
+            "id": "la-country-bh",
+            "text": "巴林"
+        }
+    },
+    {
+        "id": "la-country-br",
+        "data": {
+            "id": "la-country-br",
+            "text": "巴西"
+        }
+    },
+    {
+        "id": "la-country-ca",
+        "data": {
+            "id": "la-country-ca",
+            "text": "加拿大"
+        }
+    },
+    {
+        "id": "la-country-cl",
+        "data": {
+            "id": "la-country-cl",
+            "text": "智利"
+        }
+    },
+    {
+        "id": "la-country-co",
+        "data": {
+            "id": "la-country-co",
+            "text": "哥伦比亚"
+        }
+    },
+    {
+        "id": "la-country-cr",
+        "data": {
+            "id": "la-country-cr",
+            "text": "哥斯达黎加"
+        }
+    },
+    {
+        "id": "la-country-cy",
+        "data": {
+            "id": "la-country-cy",
+            "text": "塞浦路斯"
+        }
+    },
+    {
+        "id": "la-country-cz",
+        "data": {
+            "id": "la-country-cz",
+            "text": "捷克"
+        }
+    },
+    {
+        "id": "la-country-de",
+        "data": {
+            "id": "la-country-de",
+            "text": "德国"
+        }
+    },
+    {
+        "id": "la-country-dk",
+        "data": {
+            "id": "la-country-dk",
+            "text": "丹麦"
+        }
+    },
+    {
+        "id": "la-country-dm",
+        "data": {
+            "id": "la-country-dm",
+            "text": "多米尼克"
+        }
+    },
+    {
+        "id": "la-country-do",
+        "data": {
+            "id": "la-country-do",
+            "text": "多米尼加共和国"
+        }
+    },
+    {
+        "id": "la-country-ec",
+        "data": {
+            "id": "la-country-ec",
+            "text": "厄瓜多尔"
+        }
+    },
+    {
+        "id": "la-country-ee",
+        "data": {
+            "id": "la-country-ee",
+            "text": "爱沙尼亚"
+        }
+    },
+    {
+        "id": "la-country-eg",
+        "data": {
+            "id": "la-country-eg",
+            "text": "埃及"
+        }
+    },
+    {
+        "id": "la-country-es",
+        "data": {
+            "id": "la-country-es",
+            "text": "西班牙"
+        }
+    },
+    {
+        "id": "la-country-fi",
+        "data": {
+            "id": "la-country-fi",
+            "text": "芬兰"
+        }
+    },
+    {
+        "id": "la-country-fj",
+        "data": {
+            "id": "la-country-fj",
+            "text": "斐济"
+        }
+    },
+    {
+        "id": "la-country-fm",
+        "data": {
+            "id": "la-country-fm",
+            "text": "密克罗尼西亚联邦"
+        }
+    },
+    {
+        "id": "la-country-gb",
+        "data": {
+            "id": "la-country-gb",
+            "text": "英国"
+        }
+    },
+    {
+        "id": "la-country-gr",
+        "data": {
+            "id": "la-country-gr",
+            "text": "希腊"
+        }
+    },
+    {
+        "id": "la-country-hk",
+        "data": {
+            "id": "la-country-hk",
+            "text": "香港"
+        }
+    },
+    {
+        "id": "la-country-hn",
+        "data": {
+            "id": "la-country-hn",
+            "text": "洪都拉斯"
+        }
+    },
+    {
+        "id": "la-country-hr",
+        "data": {
+            "id": "la-country-hr",
+            "text": "克罗地亚"
+        }
+    },
+    {
+        "id": "la-country-hu",
+        "data": {
+            "id": "la-country-hu",
+            "text": "匈牙利"
+        }
+    },
+    {
+        "id": "la-country-id",
+        "data": {
+            "id": "la-country-id",
+            "text": "印度尼西亚"
+        }
+    },
+    {
+        "id": "la-country-ie",
+        "data": {
+            "id": "la-country-ie",
+            "text": "爱尔兰"
+        }
+    },
+    {
+        "id": "la-country-il",
+        "data": {
+            "id": "la-country-il",
+            "text": "以色列"
+        }
+    },
+    {
+        "id": "la-country-in",
+        "data": {
+            "id": "la-country-in",
+            "text": "印度"
+        }
+    },
+    {
+        "id": "la-country-it",
+        "data": {
+            "id": "la-country-it",
+            "text": "意大利"
+        }
+    },
+    {
+        "id": "la-country-jm",
+        "data": {
+            "id": "la-country-jm",
+            "text": "牙买加"
+        }
+    },
+    {
+        "id": "la-country-jo",
+        "data": {
+            "id": "la-country-jo",
+            "text": "约旦"
+        }
+    },
+    {
+        "id": "la-country-jp",
+        "data": {
+            "id": "la-country-jp",
+            "text": "日本"
+        }
+    },
+    {
+        "id": "la-country-kh",
+        "data": {
+            "id": "la-country-kh",
+            "text": "柬埔寨"
+        }
+    },
+    {
+        "id": "la-country-kn",
+        "data": {
+            "id": "la-country-kn",
+            "text": "圣基茨和尼维斯"
+        }
+    },
+    {
+        "id": "la-country-kr",
+        "data": {
+            "id": "la-country-kr",
+            "text": "韩国"
+        }
+    },
+    {
+        "id": "la-country-kw",
+        "data": {
+            "id": "la-country-kw",
+            "text": "科威特"
+        }
+    },
+    {
+        "id": "la-country-kz",
+        "data": {
+            "id": "la-country-kz",
+            "text": "哈萨克斯坦"
+        }
+    },
+    {
+        "id": "la-country-la",
+        "data": {
+            "id": "la-country-la",
+            "text": "老挝"
+        }
+    },
+    {
+        "id": "la-country-lb",
+        "data": {
+            "id": "la-country-lb",
+            "text": "黎巴嫩"
+        }
+    },
+    {
+        "id": "la-country-lc",
+        "data": {
+            "id": "la-country-lc",
+            "text": "圣卢西亚"
+        }
+    },
+    {
+        "id": "la-country-lk",
+        "data": {
+            "id": "la-country-lk",
+            "text": "斯里兰卡"
+        }
+    },
+    {
+        "id": "la-country-lt",
+        "data": {
+            "id": "la-country-lt",
+            "text": "立陶宛"
+        }
+    },
+    {
+        "id": "la-country-lu",
+        "data": {
+            "id": "la-country-lu",
+            "text": "卢森堡"
+        }
+    },
+    {
+        "id": "la-country-lv",
+        "data": {
+            "id": "la-country-lv",
+            "text": "拉脱维亚"
+        }
+    },
+    {
+        "id": "la-country-mm",
+        "data": {
+            "id": "la-country-mm",
+            "text": "缅甸"
+        }
+    },
+    {
+        "id": "la-country-mo",
+        "data": {
+            "id": "la-country-mo",
+            "text": "澳门"
+        }
+    },
+    {
+        "id": "la-country-mt",
+        "data": {
+            "id": "la-country-mt",
+            "text": "马耳他"
+        }
+    },
+    {
+        "id": "la-country-mx",
+        "data": {
+            "id": "la-country-mx",
+            "text": "墨西哥"
+        }
+    },
+    {
+        "id": "la-country-my",
+        "data": {
+            "id": "la-country-my",
+            "text": "马来西亚"
+        }
+    },
+    {
+        "id": "la-country-ni",
+        "data": {
+            "id": "la-country-ni",
+            "text": "尼加拉瓜"
+        }
+    },
+    {
+        "id": "la-country-nz",
+        "data": {
+            "id": "la-country-nz",
+            "text": "新西兰"
+        }
+    },
+    {
+        "id": "la-country-om",
+        "data": {
+            "id": "la-country-om",
+            "text": "阿曼"
+        }
+    },
+    {
+        "id": "la-country-pe",
+        "data": {
+            "id": "la-country-pe",
+            "text": "秘鲁"
+        }
+    },
+    {
+        "id": "la-country-pg",
+        "data": {
+            "id": "la-country-pg",
+            "text": "巴布亚新几内亚"
+        }
+    },
+    {
+        "id": "la-country-ph",
+        "data": {
+            "id": "la-country-ph",
+            "text": "菲律宾"
+        }
+    },
+    {
+        "id": "la-country-pl",
+        "data": {
+            "id": "la-country-pl",
+            "text": "波兰"
+        }
+    },
+    {
+        "id": "la-country-pt",
+        "data": {
+            "id": "la-country-pt",
+            "text": "葡萄牙"
+        }
+    },
+    {
+        "id": "la-country-py",
+        "data": {
+            "id": "la-country-py",
+            "text": "巴拉圭"
+        }
+    },
+    {
+        "id": "la-country-qa",
+        "data": {
+            "id": "la-country-qa",
+            "text": "卡塔尔"
+        }
+    },
+    {
+        "id": "la-country-ro",
+        "data": {
+            "id": "la-country-ro",
+            "text": "罗马尼亚"
+        }
+    },
+    {
+        "id": "la-country-sa",
+        "data": {
+            "id": "la-country-sa",
+            "text": "沙特阿拉伯"
+        }
+    },
+    {
+        "id": "la-country-sb",
+        "data": {
+            "id": "la-country-sb",
+            "text": "所罗门群岛"
+        }
+    },
+    {
+        "id": "la-country-se",
+        "data": {
+            "id": "la-country-se",
+            "text": "瑞典"
+        }
+    },
+    {
+        "id": "la-country-sg",
+        "data": {
+            "id": "la-country-sg",
+            "text": "新加坡"
+        }
+    },
+    {
+        "id": "la-country-si",
+        "data": {
+            "id": "la-country-si",
+            "text": "斯洛文尼亚"
+        }
+    },
+    {
+        "id": "la-country-sk",
+        "data": {
+            "id": "la-country-sk",
+            "text": "斯洛伐克"
+        }
+    },
+    {
+        "id": "la-country-sr",
+        "data": {
+            "id": "la-country-sr",
+            "text": "苏里南"
+        }
+    },
+    {
+        "id": "la-country-sv",
+        "data": {
+            "id": "la-country-sv",
+            "text": "萨尔瓦多"
+        }
+    },
+    {
+        "id": "la-country-th",
+        "data": {
+            "id": "la-country-th",
+            "text": "泰国"
+        }
+    },
+    {
+        "id": "la-country-tr",
+        "data": {
+            "id": "la-country-tr",
+            "text": "土耳其"
+        }
+    },
+    {
+        "id": "la-country-tt",
+        "data": {
+            "id": "la-country-tt",
+            "text": "特立尼达和多巴哥"
+        }
+    },
+    {
+        "id": "la-country-tw",
+        "data": {
+            "id": "la-country-tw",
+            "text": "台湾"
+        }
+    },
+    {
+        "id": "la-country-us",
+        "data": {
+            "id": "la-country-us",
+            "text": "美国"
+        }
+    },
+    {
+        "id": "la-country-uy",
+        "data": {
+            "id": "la-country-uy",
+            "text": "乌拉圭"
+        }
+    },
+    {
+        "id": "la-country-ve",
+        "data": {
+            "id": "la-country-ve",
+            "text": "委内瑞拉"
+        }
+    },
+    {
+        "id": "la-country-ye",
+        "data": {
+            "id": "la-country-ye",
+            "text": "也门"
+        }
+    },
+    {
+        "id": "la-country-za",
+        "data": {
+            "id": "la-country-za",
+            "text": "南非"
+        }
+    }
+]

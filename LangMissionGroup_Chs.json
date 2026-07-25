@@ -1,0 +1,30 @@
+[
+    {
+        "id": "la-mission_grp-beginner_mission",
+        "data": {
+            "id": "la-mission_grp-beginner_mission",
+            "text": "新手任务"
+        }
+    },
+    {
+        "id": "la-mission_grp-mission_pass-0001-daily",
+        "data": {
+            "id": "la-mission_grp-mission_pass-0001-daily",
+            "text": "每日任务"
+        }
+    },
+    {
+        "id": "la-mission_grp-mission_pass-0001-season",
+        "data": {
+            "id": "la-mission_grp-mission_pass-0001-season",
+            "text": "季度任务"
+        }
+    },
+    {
+        "id": "la-mission_grp-mission_pass-0001-weekly",
+        "data": {
+            "id": "la-mission_grp-mission_pass-0001-weekly",
+            "text": "每周任务"
+        }
+    }
+]
