@@ -1,1 +1,44 @@
-[]
+[
+    {
+        "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-1",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-1",
+            "text": "Where is 夏日假期？"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-2",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-2",
+            "text": "夏天！大海！去度假吧！！"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-3",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-3",
+            "text": "海上的全面战争"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-4",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-4",
+            "text": "禁忌的沙子游戏♪"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-5",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-5",
+            "text": "开始了鸭！沙滩烤肉派对"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-6",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-6",
+            "text": "夕阳下的夏日度假时光"
+        }
+    }
+]

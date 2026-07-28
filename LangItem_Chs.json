@@ -868,6 +868,20 @@
         }
     },
     {
+        "id": "la-item-event_badge-marathon_event-normal-001-chapter-01-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-normal-001-chapter-01-description",
+            "text": "可在活动兑换所兑换道具的徽章。\n有效期限过后，会转换为holo金币。"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-normal-001-chapter-01-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-normal-001-chapter-01-name",
+            "text": "活动徽章"
+        }
+    },
+    {
         "id": "la-item-exchange-holomedal-description",
         "data": {
             "id": "la-item-exchange-holomedal-description",

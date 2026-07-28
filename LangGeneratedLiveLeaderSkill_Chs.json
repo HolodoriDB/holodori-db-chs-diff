@@ -1,5 +1,40 @@
 [
     {
+        "id": "la-generated-live_leader_skill-card-00012-5-uniq-0062-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00012-5-uniq-0062-00-description",
+            "text": "全体成员中得分辅助效果60% "
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00021-5-uniq-0064-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00021-5-uniq-0064-00-description",
+            "text": "队伍中有至少2名[attribute=happy]快乐类型[/attribute]的角色时全体成员中技巧提升80% 队伍中有至少2名[attribute=happy]快乐类型[/attribute]的角色时全体成员中得分辅助效果25%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00022-5-uniq-0063-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00022-5-uniq-0063-00-description",
+            "text": "队伍中有至少2名3期生时全体成员中表现力提升135% "
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00026-5-uniq-0065-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00026-5-uniq-0065-00-description",
+            "text": "队伍中有至少2名[attribute=happy]快乐类型[/attribute]的角色时全体成员中品位提升80% 队伍中有至少2名[attribute=happy]快乐类型[/attribute]的角色时全体成员中得分辅助效果25%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-06002-5-uniq-0066-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-06002-5-uniq-0066-00-description",
+            "text": "队伍中有至少2名[attribute=happy]快乐类型[/attribute]的角色时全体成员中表现力提升130% "
+        }
+    },
+    {
         "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",
         "data": {
             "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",

@@ -28,6 +28,76 @@
         }
     },
     {
+        "id": "la-generated-live_active_skill-card-00012-5-uniq-0062-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00012-5-uniq-0062-00.1-description",
+            "text": "每 17 秒以中等概率在 7 秒内得分提升45% 达成40连击以上得分提升90% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00012-5-uniq-0062-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00012-5-uniq-0062-00.2-description",
+            "text": "每 17 秒以中等概率在 7 秒内得分提升[highlight]55[/highlight]% 达成40连击以上得分提升[highlight]105[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00021-5-uniq-0064-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00021-5-uniq-0064-00.1-description",
+            "text": "每 33 秒以高概率在 11 秒内得分提升50% 队伍中有至少2名[attribute=happy]快乐类型[/attribute]的角色时得分提升105% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00021-5-uniq-0064-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00021-5-uniq-0064-00.2-description",
+            "text": "每 33 秒以高概率在 11 秒内得分提升[highlight]60[/highlight]% 队伍中有至少2名[attribute=happy]快乐类型[/attribute]的角色时得分提升[highlight]125[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00022-5-uniq-0063-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00022-5-uniq-0063-00.1-description",
+            "text": "每 21 秒以高概率在 7 秒内得分提升100% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00022-5-uniq-0063-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00022-5-uniq-0063-00.2-description",
+            "text": "每 21 秒以高概率在 7 秒内得分提升[highlight]120[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00026-5-uniq-0065-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00026-5-uniq-0065-00.1-description",
+            "text": "每 35 秒以高概率在 12 秒内得分提升50% 队伍中有至少2名[attribute=happy]快乐类型[/attribute]的角色时得分提升100% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00026-5-uniq-0065-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00026-5-uniq-0065-00.2-description",
+            "text": "每 35 秒以高概率在 12 秒内得分提升[highlight]60[/highlight]% 队伍中有至少2名[attribute=happy]快乐类型[/attribute]的角色时得分提升[highlight]120[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-06002-5-uniq-0066-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-06002-5-uniq-0066-00.1-description",
+            "text": "每 23 秒以中等概率在 8 秒内得分提升100% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-06002-5-uniq-0066-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-06002-5-uniq-0066-00.2-description",
+            "text": "每 23 秒以中等概率在 8 秒内得分提升[highlight]120[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",
         "data": {
             "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",

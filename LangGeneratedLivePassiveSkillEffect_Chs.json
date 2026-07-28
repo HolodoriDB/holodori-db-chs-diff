@@ -1,5 +1,40 @@
 [
     {
+        "id": "la-generated-live_leader_skill_effect-performance_up_permil_up-1350-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-performance_up_permil_up-1350-live_skill_effect_target-all.1-description",
+            "text": "全体成员中表现力提升135%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-sense_up_permil_up-800-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-sense_up_permil_up-800-live_skill_effect_target-all.1-description",
+            "text": "全体成员中品位提升80%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-technique_up_permil_up-800-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-technique_up_permil_up-800-live_skill_effect_target-all.1-description",
+            "text": "全体成员中技巧提升80%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-110-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-110-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色所有参数提升11%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-150-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-150-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色所有参数提升15%"
+        }
+    },
+    {
         "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-300-live_skill_effect_target-all.1-description",
         "data": {
             "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-300-live_skill_effect_target-all.1-description",
