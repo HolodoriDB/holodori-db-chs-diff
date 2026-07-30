@@ -10633,6 +10633,13 @@
         }
     },
     {
+        "id": "la-mission-event-beginner_mission-increment_mini_game_play_count-circuit-name",
+        "data": {
+            "id": "la-mission-event-beginner_mission-increment_mini_game_play_count-circuit-name",
+            "text": "游玩{0}次终极向前冲"
+        }
+    },
+    {
         "id": "la-mission-event-beginner_mission-increment_mini_game_stamina_consumption-name",
         "data": {
             "id": "la-mission-event-beginner_mission-increment_mini_game_stamina_consumption-name",
