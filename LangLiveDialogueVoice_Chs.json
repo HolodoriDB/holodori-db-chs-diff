@@ -7,6 +7,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0067-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0067-00_myself",
+            "text": "【沙滩激战，光彩四射！ 巫女】SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00018_00018-5-uniq-0068-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00018_00018-5-uniq-0068-00_myself",
+            "text": "【夏日一闪！水枪奏响的琶音 彗星】SP技能"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0064-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0064-00_myself",
@@ -455,6 +469,20 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_00015-5-uniq-0067-00_00015-to-00018",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00015-5-uniq-0067-00_00015-to-00018",
+            "text": "【沙滩激战，光彩四射！ 巫女】巫女&彗星"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00015-5-uniq-0067-00_00018-to-00015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00015-5-uniq-0067-00_00018-to-00015",
+            "text": "【沙滩激战，光彩四射！ 巫女】彗星&巫女"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_00016-5-uniq-0014-00_00016-to-00006",
         "data": {
             "id": "la-name_live_dial_voice_card_00016-5-uniq-0014-00_00016-to-00006",
@@ -543,6 +571,20 @@
         "data": {
             "id": "la-name_live_dial_voice_card_00018-5-uniq-0004-00_myself",
             "text": "【Comet Heart Stealer 彗星】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00018-5-uniq-0068-00_00015-to-00018",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00018-5-uniq-0068-00_00015-to-00018",
+            "text": "【夏日一闪！水枪奏响的琶音 彗星】巫女&彗星"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00018-5-uniq-0068-00_00018-to-00015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00018-5-uniq-0068-00_00018-to-00015",
+            "text": "【夏日一闪！水枪奏响的琶音 彗星】彗星&巫女"
         }
     },
     {

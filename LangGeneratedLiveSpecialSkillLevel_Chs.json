@@ -70,6 +70,34 @@
         }
     },
     {
+        "id": "la-generated-live_special_skill-card-00015-5-uniq-0067-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00015-5-uniq-0067-00.1-description",
+            "text": "在 11 秒内得分辅助效果120%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00015-5-uniq-0067-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00015-5-uniq-0067-00.2-description",
+            "text": "在 11 秒内得分辅助效果[highlight]145[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00018-5-uniq-0068-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00018-5-uniq-0068-00.1-description",
+            "text": "在 12 秒内得分辅助效果100%且队伍中有至少2名0期生时技能发动概率提升40%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00018-5-uniq-0068-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00018-5-uniq-0068-00.2-description",
+            "text": "在 12 秒内得分辅助效果[highlight]120[/highlight]%且队伍中有至少2名0期生时技能发动概率提升[highlight]45[/highlight]%"
+        }
+    },
+    {
         "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",
         "data": {
             "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",

@@ -70,6 +70,34 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill-card-00015-5-uniq-0067-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00015-5-uniq-0067-00.1-description",
+            "text": "队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时2名[attribute=pure]纯洁类型[/attribute]角色表现力提升32% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00015-5-uniq-0067-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00015-5-uniq-0067-00.2-description",
+            "text": "队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时2名[attribute=pure]纯洁类型[/attribute]角色表现力提升[highlight]43[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00018-5-uniq-0068-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00018-5-uniq-0068-00.1-description",
+            "text": "队伍中有至少2名0期生时令2名0期生的得分辅助效果9% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00018-5-uniq-0068-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00018-5-uniq-0068-00.2-description",
+            "text": "队伍中有至少2名0期生时令2名0期生的得分辅助效果[highlight]12[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",

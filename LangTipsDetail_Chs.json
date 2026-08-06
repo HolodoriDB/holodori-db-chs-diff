@@ -1288,6 +1288,48 @@
         }
     },
     {
+        "id": "la-tips-hint-marathon_mission-description-1",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-1",
+            "text": "<color=#ff3bc8>得分挑战活动</color>需要游玩活动课题曲，挑战高分！\n\n如果成绩进入高分排行榜，或在活动期间游玩演出及迷你游戏，都可获得活动徽章！\n\n收集活动徽章，可以在兑换所兑换活动回忆卡等道具！\n\n每个活动都有好几首活动课题曲，在乐曲选择画面查看详情吧！"
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_mission-description-2",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-2",
+            "text": "<color=#ff3bc8>合计高分排行榜</color>是供玩家在活动期间游玩课题曲时，竞争活动总分的排行榜！\n\n若成绩进入排行榜，可以获得活动限定称号等奖励！\n\n※平时得分和活动得分都会保存在活动课题曲的记录当中。\n\n※详情请查看［活动］→［排行榜］→［合计高分排行榜］。"
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_mission-description-3",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-3",
+            "text": "每首活动课题曲，都设有供玩家<color=#ff3bc8>在活动期间竞争的高分排行榜</color>！\n\n若成绩进入排行榜，可以获得活动限定称号！\n\n※详情请查看［活动］→［排行榜］→［高分排行榜］。"
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_mission-description-4",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-4",
+            "text": "善加利用<color=#ff3bc8>活动加成</color>，就能提升得分！\n\n将有活动加成的成员编入小队并挑战活动课题曲，可以获得<color=#ff3bc8>活动得分加成效果</color>！\n\n每首活动课题曲对应的得分加成成员都不同！\n\n※详情请查看［活动］→［活动加成］。"
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_mission-description-5",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-5",
+            "text": "巧妙利用<color=#ff3bc8>活动加成</color>，拿到更多活动Pt和活动徽章吧！\n\n其中包含能够提升演出活动Pt和活动徽章的<color=#ff3bc8>获得加成</color>！\n\n获得加成共有3种！\n\n▼特定成员加成\n・将要求的特定成员编入小队挑战演出，即可提升奖励获得量\n\n▼holo成员加成\n・将要求的holo成员编入小队挑战演出，即可提升奖励获得量\n\n▼绽放加成\n・根据编入小队的成员的绽放状况，即可提升演出奖励的获得量\n\n另外，活动加成还能够提升迷你游戏活动Pt和活动徽章的获得量哦！\n\n▼迷你游戏加成\n・游玩特定的迷你游戏，即可提升奖励获得量\n\n▼特定成员加成\n・只需持有要求的成员，即可提升奖励获得量\n\n※详情请查看［活动］→［活动加成］。"
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_mission-description-6",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-6",
+            "text": "<color=#ff3bc8>得分越高</color>，活动Pt和活动徽章的获得量就<color=#ff3bc8>越多</color>！\n\n▼如何获得活动Pt和活动徽章\n・自动演出也可以获得\n・消耗的演出能量越多，获得量越多\n・乐曲越长，获得量越多"
+        }
+    },
+    {
         "id": "la-tips-hint-marathon_nomal-description-1",
         "data": {
             "id": "la-tips-hint-marathon_nomal-description-1",

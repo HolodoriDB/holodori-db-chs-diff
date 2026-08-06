@@ -686,6 +686,13 @@
         }
     },
     {
+        "id": "la-tips-hint-marathon_mission-title",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-title",
+            "text": "得分挑战活动"
+        }
+    },
+    {
         "id": "la-tips-hint-marathon_nomal",
         "data": {
             "id": "la-tips-hint-marathon_nomal",

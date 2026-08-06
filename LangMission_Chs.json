@@ -10654,6 +10654,76 @@
         }
     },
     {
+        "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
+            "text": "解锁{0}位holo成员"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-absolute_live_clear_music_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-absolute_live_clear_music_count",
+            "text": "通关{0}种不同演出"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_cooking_puzzle_completion_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_cooking_puzzle_completion_count",
+            "text": "在拼配厨房中制作{0}道餐品"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_jump_rope_success_jump_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_jump_rope_success_jump_count",
+            "text": "在跳跳大绳中成功跳{0}次"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_live_play_count",
+            "text": "游玩演出{0}次"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_mini_game_stamina_consumption",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_mini_game_stamina_consumption",
+            "text": "总计消耗{0}点迷你游戏能量"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_mission_clear_count-mission_grp-training_support-260816",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_mission_clear_count-mission_grp-training_support-260816",
+            "text": "完成所有任务"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_multi_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_multi_live_play_count",
+            "text": "游玩共同演出{0}次"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_park_present_receive_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_park_present_receive_count",
+            "text": "领取{0}次来自holo成员的礼物"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_work_finish_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_work_finish_count",
+            "text": "完成{0}次holowork"
+        }
+    },
+    {
         "id": "la-mission-hidden-gacha-beginner-select-001",
         "data": {
             "id": "la-mission-hidden-gacha-beginner-select-001",
@@ -10693,6 +10763,13 @@
         "data": {
             "id": "la-mission-marathon_event-live_clear_count",
             "text": "通关活动课题曲{0}次"
+        }
+    },
+    {
+        "id": "la-mission-marathon_event-live_highest_score",
+        "data": {
+            "id": "la-mission-marathon_event-live_highest_score",
+            "text": "挑战课题曲，努力获得{0}分吧"
         }
     },
     {

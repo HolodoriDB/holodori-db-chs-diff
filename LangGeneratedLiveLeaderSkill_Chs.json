@@ -35,6 +35,20 @@
         }
     },
     {
+        "id": "la-generated-live_leader_skill-card-00015-5-uniq-0067-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00015-5-uniq-0067-00-description",
+            "text": "队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时全体成员中表现力提升80% 队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时全体成员中得分辅助效果25%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00018-5-uniq-0068-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00018-5-uniq-0068-00-description",
+            "text": "队伍中有至少2名0期生时全体成员中品位提升135% "
+        }
+    },
+    {
         "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",
         "data": {
             "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",

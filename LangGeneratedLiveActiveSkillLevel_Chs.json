@@ -98,6 +98,34 @@
         }
     },
     {
+        "id": "la-generated-live_active_skill-card-00015-5-uniq-0067-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00015-5-uniq-0067-00.1-description",
+            "text": "每 27 秒以中等概率在 10 秒内得分提升95% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00015-5-uniq-0067-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00015-5-uniq-0067-00.2-description",
+            "text": "每 27 秒以中等概率在 10 秒内得分提升[highlight]115[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00018-5-uniq-0068-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00018-5-uniq-0068-00.1-description",
+            "text": "每 23 秒以中等概率在 8 秒内得分提升100% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00018-5-uniq-0068-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00018-5-uniq-0068-00.2-description",
+            "text": "每 23 秒以中等概率在 8 秒内得分提升[highlight]120[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",
         "data": {
             "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",
