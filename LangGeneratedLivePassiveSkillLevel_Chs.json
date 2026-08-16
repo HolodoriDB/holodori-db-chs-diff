@@ -98,6 +98,76 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill-card-00010-5-uniq-0069-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00010-5-uniq-0069-00.1-description",
+            "text": "队伍中有至少2名2期生时令2名2期生的得分辅助效果9% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00010-5-uniq-0069-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00010-5-uniq-0069-00.2-description",
+            "text": "队伍中有至少2名2期生时令2名2期生的得分辅助效果[highlight]12[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00028-5-uniq-0070-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00028-5-uniq-0070-00.1-description",
+            "text": "令2名4期生的表现力提升32% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00028-5-uniq-0070-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00028-5-uniq-0070-00.2-description",
+            "text": "令2名4期生的表现力提升[highlight]43[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03004-5-uniq-0073-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03004-5-uniq-0073-00.1-description",
+            "text": "队伍中有至少2名[attribute=happy]快乐类型[/attribute]的角色时2名[attribute=happy]快乐类型[/attribute]角色品位提升32% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03004-5-uniq-0073-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03004-5-uniq-0073-00.2-description",
+            "text": "队伍中有至少2名[attribute=happy]快乐类型[/attribute]的角色时2名[attribute=happy]快乐类型[/attribute]角色品位提升[highlight]43[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04001-5-uniq-0071-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04001-5-uniq-0071-00.1-description",
+            "text": "队伍中有至少2名[attribute=cute]可爱类型[/attribute]的角色时2名[attribute=cute]可爱类型[/attribute]角色品位提升32% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04001-5-uniq-0071-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04001-5-uniq-0071-00.2-description",
+            "text": "队伍中有至少2名[attribute=cute]可爱类型[/attribute]的角色时2名[attribute=cute]可爱类型[/attribute]角色品位提升[highlight]43[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04003-5-uniq-0072-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04003-5-uniq-0072-00.1-description",
+            "text": "令2名Myth的品位提升32% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04003-5-uniq-0072-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04003-5-uniq-0072-00.2-description",
+            "text": "令2名Myth的品位提升[highlight]43[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",

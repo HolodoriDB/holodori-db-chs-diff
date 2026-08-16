@@ -896,6 +896,90 @@
         }
     },
     {
+        "id": "la-item-event_badge-marathon_event-relay-001-all-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-all-description",
+            "text": "可在活动兑换所（全部）兑换道具的徽章。\n有效期限过后，会转换为Holo金币。"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-001-all-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-all-name",
+            "text": "活动徽章（全部）"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-001-chapter-01-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-chapter-01-description",
+            "text": "可在活动兑换所（Calliope）兑换道具的徽章。\n有效期限过后，会转换为Holo金币。"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-001-chapter-01-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-chapter-01-name",
+            "text": "活动徽章（Calliope）"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-001-chapter-02-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-chapter-02-description",
+            "text": "可在活动兑换所（绫目）兑换道具的徽章。\n有效期限过后，会转换为Holo金币。"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-001-chapter-02-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-chapter-02-name",
+            "text": "活动徽章（绫目）"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-001-chapter-03-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-chapter-03-description",
+            "text": "可在活动兑换所（Ollie）兑换道具的徽章。\n有效期限过后，会转换为Holo金币。"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-001-chapter-03-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-chapter-03-name",
+            "text": "活动徽章（Ollie）"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-001-chapter-04-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-chapter-04-description",
+            "text": "可在活动兑换所（璐娜）兑换道具的徽章。\n有效期限过后，会转换为Holo金币。"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-001-chapter-04-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-chapter-04-name",
+            "text": "活动徽章（璐娜）"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-001-chapter-05-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-chapter-05-description",
+            "text": "可在活动兑换所（Ina'nis）兑换道具的徽章。\n有效期限过后，会转换为Holo金币。"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-001-chapter-05-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-001-chapter-05-name",
+            "text": "活动徽章（璐娜）"
+        }
+    },
+    {
         "id": "la-item-exchange-holomedal-description",
         "data": {
             "id": "la-item-exchange-holomedal-description",

@@ -10787,10 +10787,24 @@
         }
     },
     {
+        "id": "la-mission-marathon_event-marathon_live_play_count",
+        "data": {
+            "id": "la-mission-marathon_event-marathon_live_play_count",
+            "text": "游玩本章节的活动课题曲{0}次"
+        }
+    },
+    {
         "id": "la-mission-marathon_event-marathon_score_quantity",
         "data": {
             "id": "la-mission-marathon_event-marathon_score_quantity",
             "text": "获得{0}活动Pt"
+        }
+    },
+    {
+        "id": "la-mission-marathon_event-marathon_score_quantity_chapter",
+        "data": {
+            "id": "la-mission-marathon_event-marathon_score_quantity_chapter",
+            "text": "获得{0}本章节的活动Pt"
         }
     },
     {

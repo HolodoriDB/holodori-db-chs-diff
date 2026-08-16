@@ -5,5 +5,40 @@
             "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01",
             "text": "Hello！Brand New Summer！"
         }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-001-chapter-01",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-001-chapter-01",
+            "text": "紧张Death！死神的沙滩演出"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-001-chapter-02",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-001-chapter-02",
+            "text": "夏日鬼女，灿烂笑容可爱余☆"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-001-chapter-03",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-001-chapter-03",
+            "text": "夏日☆疯狂血拼！"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-001-chapter-04",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-001-chapter-04",
+            "text": "嗯呐～～～♡公主的夏日泳池"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-001-chapter-05",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-001-chapter-05",
+            "text": "WAHderful夏日☆"
+        }
     }
 ]
