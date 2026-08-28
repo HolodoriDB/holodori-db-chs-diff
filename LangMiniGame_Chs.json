@@ -1,5 +1,33 @@
 [
     {
+        "id": "la-mini_game-chase-description",
+        "data": {
+            "id": "la-mini_game-chase-description",
+            "text": "在夜晚的乐园里你追我跑！"
+        }
+    },
+    {
+        "id": "la-mini_game-chase-name",
+        "data": {
+            "id": "la-mini_game-chase-name",
+            "text": "夜色追逐战"
+        }
+    },
+    {
+        "id": "la-mini_game-chase-ranking_score_type_lang_id",
+        "data": {
+            "id": "la-mini_game-chase-ranking_score_type_lang_id",
+            "text": "SCORE"
+        }
+    },
+    {
+        "id": "la-mini_game-chase_game-ranking_view_description_lang_id",
+        "data": {
+            "id": "la-mini_game-chase_game-ranking_view_description_lang_id",
+            "text": "显示最佳得分 前100名"
+        }
+    },
+    {
         "id": "la-mini_game-circuit-description",
         "data": {
             "id": "la-mini_game-circuit-description",

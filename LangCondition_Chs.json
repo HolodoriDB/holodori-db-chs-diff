@@ -14,6 +14,13 @@
         }
     },
     {
+        "id": "la-cd-exchange_booth-facility-a01-exchangebooth-facility_item-unlock",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a01-exchangebooth-facility_item-unlock",
+            "text": "自10月起每月重置"
+        }
+    },
+    {
         "id": "la-cd-exchange_booth-facility-a02-exchangebooth3-initial_lineup",
         "data": {
             "id": "la-cd-exchange_booth-facility-a02-exchangebooth3-initial_lineup",
@@ -116,6 +123,13 @@
         "data": {
             "id": "la-cd-marathon_event",
             "text": "阅读主线任务第1章第4话解锁"
+        }
+    },
+    {
+        "id": "la-cd-perm-a01-chase",
+        "data": {
+            "id": "la-cd-perm-a01-chase",
+            "text": "夜色追逐战"
         }
     },
     {
@@ -298,6 +312,20 @@
         "data": {
             "id": "la-cd-quest-area-a01-28-unlock-description",
             "text": "完成任务或演出吧。"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-29",
+        "data": {
+            "id": "la-cd-quest-area-a01-29",
+            "text": "完成协律花园的主线任务EP24解锁"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-29-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-29-description",
+            "text": "完成协律花园的主线任务EP24即可解锁。"
         }
     },
     {
@@ -501,6 +529,13 @@
         "data": {
             "id": "la-locktestdesc-cd-quest-area-a01-03",
             "text": "推进主线任务即可解锁。"
+        }
+    },
+    {
+        "id": "la-music_lock_description-m0301",
+        "data": {
+            "id": "la-music_lock_description-m0301",
+            "text": "解锁条件：完成第2章主线任务"
         }
     },
     {

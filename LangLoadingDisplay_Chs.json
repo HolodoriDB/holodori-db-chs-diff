@@ -364,6 +364,34 @@
         }
     },
     {
+        "id": "la-loading_display-tips-mg-chase-001-text",
+        "data": {
+            "id": "la-loading_display-tips-mg-chase-001-text",
+            "text": "连续使用钥匙的话，使用时间也会缩短！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-chase-001-title",
+        "data": {
+            "id": "la-loading_display-tips-mg-chase-001-title",
+            "text": "夜色追逐战小贴士（捣蛋组）"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-chase-002-text",
+        "data": {
+            "id": "la-loading_display-tips-mg-chase-002-text",
+            "text": "看准发动技能的时机！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-chase-002-title",
+        "data": {
+            "id": "la-loading_display-tips-mg-chase-002-title",
+            "text": "夜色追逐战小贴士（巡逻小队）"
+        }
+    },
+    {
         "id": "la-loading_display-tips-mg-circuit-001-text",
         "data": {
             "id": "la-loading_display-tips-mg-circuit-001-text",

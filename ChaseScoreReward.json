@@ -1,0 +1,322 @@
+[
+    {
+        "score_gte": 100,
+        "data": {
+            "scoreGte": "100",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
+                }
+            ]
+        }
+    },
+    {
+        "score_gte": 200,
+        "data": {
+            "scoreGte": "200",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
+                }
+            ]
+        }
+    },
+    {
+        "score_gte": 300,
+        "data": {
+            "scoreGte": "300",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
+                }
+            ]
+        }
+    },
+    {
+        "score_gte": 400,
+        "data": {
+            "scoreGte": "400",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
+                }
+            ]
+        }
+    },
+    {
+        "score_gte": 500,
+        "data": {
+            "scoreGte": "500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
+                }
+            ]
+        }
+    },
+    {
+        "score_gte": 600,
+        "data": {
+            "scoreGte": "600",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
+                }
+            ]
+        }
+    },
+    {
+        "score_gte": 700,
+        "data": {
+            "scoreGte": "700",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
+                }
+            ]
+        }
+    },
+    {
+        "score_gte": 800,
+        "data": {
+            "scoreGte": "800",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
+                }
+            ]
+        }
+    },
+    {
+        "score_gte": 900,
+        "data": {
+            "scoreGte": "900",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
+                }
+            ]
+        }
+    },
+    {
+        "score_gte": 1000,
+        "data": {
+            "scoreGte": "1000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
+                }
+            ]
+        }
+    },
+    {
+        "score_gte": 1100,
+        "data": {
+            "scoreGte": "1100",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
+                }
+            ]
+        }
+    },
+    {
+        "score_gte": 1200,
+        "data": {
+            "scoreGte": "1200",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
+                }
+            ]
+        }
+    },
+    {
+        "score_gte": 1400,
+        "data": {
+            "scoreGte": "1400",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
+                }
+            ]
+        }
+    },
+    {
+        "score_gte": 1600,
+        "data": {
+            "scoreGte": "1600",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
+                }
+            ]
+        }
+    },
+    {
+        "score_gte": 1800,
+        "data": {
+            "scoreGte": "1800",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
+                }
+            ]
+        }
+    },
+    {
+        "score_gte": 2000,
+        "data": {
+            "scoreGte": "2000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
+                }
+            ]
+        }
+    }
+]

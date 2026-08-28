@@ -84,6 +84,34 @@
         }
     },
     {
+        "id": "la-generated-live_leader_skill-card-00006-5-uniq-0074-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00006-5-uniq-0074-00-description",
+            "text": "队伍中有至少2名[attribute=cute]可爱类型[/attribute]的角色时全体成员中品位提升130% "
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00014-5-uniq-0075-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00014-5-uniq-0075-00-description",
+            "text": "队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时全体成员中技巧提升130% "
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00016-5-uniq-0076-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00016-5-uniq-0076-00-description",
+            "text": "队伍中有至少2名GAMERS时全体成员中表现力提升135% "
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00017-5-uniq-0077-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00017-5-uniq-0077-00-description",
+            "text": "队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时全体成员中技巧提升80% 队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时全体成员中得分辅助效果25%"
+        }
+    },
+    {
         "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",
         "data": {
             "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",

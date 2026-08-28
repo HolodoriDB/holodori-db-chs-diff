@@ -98,6 +98,13 @@
         }
     },
     {
+        "id": "la-label-facility-a01-secretbase",
+        "data": {
+            "id": "la-label-facility-a01-secretbase",
+            "text": "迷你游戏"
+        }
+    },
+    {
         "id": "la-label-facility-a01-station",
         "data": {
             "id": "la-label-facility-a01-station",

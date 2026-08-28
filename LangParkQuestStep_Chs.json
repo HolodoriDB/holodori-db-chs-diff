@@ -581,6 +581,20 @@
         }
     },
     {
+        "id": "la-quest-area-a01-29-1-1",
+        "data": {
+            "id": "la-quest-area-a01-29-1-1",
+            "text": "holoX好像有什么可疑的动向。去看看情况吧！"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-29-1-2",
+        "data": {
+            "id": "la-quest-area-a01-29-1-2",
+            "text": "夜色追逐战开始！黑暗中的决斗就要开始啦！"
+        }
+    },
+    {
         "id": "la-quest-area-a02-01-1-1",
         "data": {
             "id": "la-quest-area-a02-01-1-1",

@@ -35,6 +35,13 @@
         }
     },
     {
+        "id": "la-instant_tips-exchange_booth-facility-a01-exchangebooth-facility_item",
+        "data": {
+            "id": "la-instant_tips-exchange_booth-facility-a01-exchangebooth-facility_item",
+            "text": "音波菈牡商店已添加“协律花园代币兑换所”"
+        }
+    },
+    {
         "id": "la-instant_tips-jump_rope-normal",
         "data": {
             "id": "la-instant_tips-jump_rope-normal",

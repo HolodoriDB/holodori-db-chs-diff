@@ -140,6 +140,34 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-character_grouping-grp-gamers-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-character_grouping-grp-gamers-2.1-description",
+            "text": "令2名GAMERS的表现力提升32%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gamers-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gamers-2.1-description",
+            "text": "令2名GAMERS的表现力提升43%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-320-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-320-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色技巧提升32%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-430-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-430-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色技巧提升43%"
+        }
+    },
+    {
         "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-300-live_skill_effect_target-all.1-description",
         "data": {
             "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-300-live_skill_effect_target-all.1-description",

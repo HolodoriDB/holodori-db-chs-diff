@@ -49,6 +49,69 @@
         }
     },
     {
+        "id": "la-tips-chase-description-1",
+        "data": {
+            "id": "la-tips-chase-description-1",
+            "text": "夜色追逐战可以随时在<color=#ff3bc8>holoX基地</color>游玩！"
+        }
+    },
+    {
+        "id": "la-tips-chase-description-2",
+        "data": {
+            "id": "la-tips-chase-description-2",
+            "text": "不论是输是赢，都可以根据得分获得奖励！\n\n奖励还包含<color=#ff3bc8>协律花园代币</color>！\n\n协律花园代币可以在音波菈牡商店兑换各类道具！"
+        }
+    },
+    {
+        "id": "la-tips-chase-description-3",
+        "data": {
+            "id": "la-tips-chase-description-3",
+            "text": "排行榜会<color=#ff3bc8>分别记录捣蛋组和巡逻小队获得的最佳得分</color>！\n\n※如果最佳得分相同，则提交成绩较早的玩家排名更靠前。"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-1",
+        "data": {
+            "id": "la-tips-chase-quest-description-1",
+            "text": "在迷你游戏“夜色追逐战”中，玩家要分为<color=#ff3bc8>逃跑的捣蛋组</color>和<color=#ff3bc8>抓人的巡逻小队</color>进行对决！"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-2",
+        "data": {
+            "id": "la-tips-chase-quest-description-2",
+            "text": "捣蛋组需要躲避巡逻小队的追捕，同时<color=#ff3bc8>打开5个设施的门锁就算胜利！</color>\n\n每开锁需要消耗散落在乐园内的钥匙！\n\n▼操作方法\nPick：在钥匙附近点击，即可捡起钥匙\n\nUse：在持有钥匙的状态下靠近设施，长按即可使用钥匙\n※按键会在靠近设施时变化"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-3",
+        "data": {
+            "id": "la-tips-chase-quest-description-3",
+            "text": "巡逻小队的获胜条件，是<color=#ff3bc8>抓住全体捣蛋组的成员！</color>\n\n在捣蛋组附近按下“抓捕”，就能抓住对方了！\n\n另外，<color=#ff3bc8>如果捣蛋组没能在时限内打开5所设施</color>，也判为巡逻小队获胜！"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-4",
+        "data": {
+            "id": "la-tips-chase-quest-description-4",
+            "text": "捣蛋组可以营救被抓的同伴！\n\n在<color=#ff3bc8>被抓的同伴附近长按“营救”</color>，就能救出同伴了！"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-5",
+        "data": {
+            "id": "la-tips-chase-quest-description-5",
+            "text": "捣蛋组如果能巧妙利用激光机关，就能占据有利形势！\n\n成功解除激光机关的话，<color=#ff3bc8>开启各设施所需的钥匙数量可以减少1把</color>！\n\n踩在机关前方的开关上，就能解除机关了！\n\n开关有2个，所以<color=#ff3bc8>2人一起去踩能更快解除</color>！\n"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-6",
+        "data": {
+            "id": "la-tips-chase-quest-description-6",
+            "text": "巡逻小队可以使用技能！\n\n技能共分为3种，会随机分配给巡逻小队的玩家！\n\n▼技能说明\n・速度提升：<color=#ff3bc8>移动速度加快</color>\n\n・雷达探知：<color=#ff3bc8>能探知附近的捣蛋组成员位置</color>\n\n・隐身：<color=#ff3bc8>身体变为半透明状，难以被捣蛋组发现</color>\n\n※技能效果有时限。\n※一旦使用技能，在下次计量槽满之前将无法再次使用。"
+        }
+    },
+    {
         "id": "la-tips-circuit-description-1",
         "data": {
             "id": "la-tips-circuit-description-1",
@@ -710,7 +773,7 @@
         "id": "la-tips-game_screen-park_high_low_top-description-2",
         "data": {
             "id": "la-tips-game_screen-park_high_low_top-description-2",
-            "text": "在加倍机会中，要猜测下一张抽出的牌比前一张牌的数字是大是小！\n\n<color=#ff3bc8>只要猜对了，获得的代币数量就能翻倍</color>！"
+            "text": "在加倍机会中，要猜测下一张抽出的牌比前一张牌的数字是“高”是“低”！\n\n▼牌面的高低\nA ＞ K ＞ Q ＞ J ＞ 10 ＞ 9 ＞ 8 ＞ 7 ＞ 6 ＞ 5 ＞ 4 ＞ 3 ＞ 2\n\n<color=#ff3bc8>只要猜对了，获得的代币数量就能翻倍</color>！"
         }
     },
     {
@@ -1718,7 +1781,7 @@
         "id": "la-tips-park-high-low-area02-description-2",
         "data": {
             "id": "la-tips-park-high-low-area02-description-2",
-            "text": "在加倍机会中，要猜测下一张抽出的牌比前一张牌的数字是大是小！\n\n<color=#ff3bc8>只要猜对了，获得的代币数量就能翻倍</color>！"
+            "text": "在加倍机会中，要猜测下一张抽出的牌比前一张牌的数字是“高”是“低”！\n\n▼牌面的高低\nA ＞ K ＞ Q ＞ J ＞ 10 ＞ 9 ＞ 8 ＞ 7 ＞ 6 ＞ 5 ＞ 4 ＞ 3 ＞ 2\n\n<color=#ff3bc8>只要猜对了，获得的代币数量就能翻倍</color>！"
         }
     },
     {

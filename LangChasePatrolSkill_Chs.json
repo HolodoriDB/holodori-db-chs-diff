@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "id": "la-chase_patrol_skill-radar-name",
+        "data": {
+            "id": "la-chase_patrol_skill-radar-name",
+            "text": "雷达探知"
+        }
+    },
+    {
+        "id": "la-chase_patrol_skill-speed_up-name",
+        "data": {
+            "id": "la-chase_patrol_skill-speed_up-name",
+            "text": "速度提升"
+        }
+    },
+    {
+        "id": "la-chase_patrol_skill-stealth-name",
+        "data": {
+            "id": "la-chase_patrol_skill-stealth-name",
+            "text": "隐身"
+        }
+    },
+    {
+        "id": "la-empty",
+        "data": {
+            "id": "la-empty",
+            "text": "-"
+        }
+    }
+]

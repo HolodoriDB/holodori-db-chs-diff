@@ -1,5 +1,12 @@
 [
     {
+        "id": "la-name_cv-live_dial_chr-00006_00006-5-uniq-0074-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00006_00006-5-uniq-0074-00_myself",
+            "text": "【水洲上的twinkle 吹雪】SP技能"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_myself",
@@ -14,10 +21,31 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00014_00014-5-uniq-0075-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00014_00014-5-uniq-0075-00_myself",
+            "text": "【夏日微倦的Wolf Heart 澪】SP技能"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0067-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0067-00_myself",
             "text": "【沙滩激战，光彩四射！ 巫女】SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00016_00016-5-uniq-0076-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00016_00016-5-uniq-0076-00_myself",
+            "text": "【阳伞下的自由猫咪 小粥】SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00017_00017-5-uniq-0077-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00017_00017-5-uniq-0077-00_myself",
+            "text": "【穿梭于密林的野性之夏！ 沁音】SP技能"
         }
     },
     {
@@ -256,6 +284,48 @@
         "data": {
             "id": "la-name_live_dial_voice_card_00006-5-uniq-0007-00_myself",
             "text": "【Kitsune’s Rite 吹雪】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00006-to-00014",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00006-to-00014",
+            "text": "【水洲上的twinkle 吹雪】吹雪&澪"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00006-to-00016",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00006-to-00016",
+            "text": "【水洲上的twinkle 吹雪】吹雪&小粥"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00006-to-00017",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00006-to-00017",
+            "text": "【水洲上的twinkle 吹雪】吹雪&沁音"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00014-to-00006",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00014-to-00006",
+            "text": "【水洲上的twinkle 吹雪】澪&吹雪"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00016-to-00006",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00016-to-00006",
+            "text": "【水洲上的twinkle 吹雪】小粥&吹雪"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00017-to-00006",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00006-5-uniq-0074-00_00017-to-00006",
+            "text": "【水洲上的twinkle 吹雪】沁音&吹雪"
         }
     },
     {
@@ -525,6 +595,48 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00006-to-00014",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00006-to-00014",
+            "text": "【夏日微倦的Wolf Heart 澪】吹雪&澪"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00014-to-00006",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00014-to-00006",
+            "text": "【夏日微倦的Wolf Heart 澪】澪&吹雪"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00014-to-00016",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00014-to-00016",
+            "text": "【夏日微倦的Wolf Heart 澪】澪&小粥"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00014-to-00017",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00014-to-00017",
+            "text": "【夏日微倦的Wolf Heart 澪】澪&沁音"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00016-to-00014",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00016-to-00014",
+            "text": "【夏日微倦的Wolf Heart 澪】小粥&澪"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00017-to-00014",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00014-5-uniq-0075-00_00017-to-00014",
+            "text": "【夏日微倦的Wolf Heart 澪】沁音&澪"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_00015-5-uniq-0003-00_00015-to-00001",
         "data": {
             "id": "la-name_live_dial_voice_card_00015-5-uniq-0003-00_00015-to-00001",
@@ -602,6 +714,48 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00006-to-00016",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00006-to-00016",
+            "text": "【阳伞下的自由猫咪 小粥】吹雪&小粥"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00014-to-00016",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00014-to-00016",
+            "text": "【阳伞下的自由猫咪 小粥】澪&小粥"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00016-to-00006",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00016-to-00006",
+            "text": "【阳伞下的自由猫咪 小粥】小粥&吹雪"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00016-to-00014",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00016-to-00014",
+            "text": "【阳伞下的自由猫咪 小粥】小粥&澪"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00016-to-00017",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00016-to-00017",
+            "text": "【阳伞下的自由猫咪 小粥】小粥&沁音"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00017-to-00016",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00016-5-uniq-0076-00_00017-to-00016",
+            "text": "【阳伞下的自由猫咪 小粥】沁音&小粥"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_00017-5-uniq-0015-00_00017-to-00006",
         "data": {
             "id": "la-name_live_dial_voice_card_00017-5-uniq-0015-00_00017-to-00006",
@@ -627,6 +781,48 @@
         "data": {
             "id": "la-name_live_dial_voice_card_00017-5-uniq-0015-00_myself",
             "text": "【Vibrant Skater 沁音】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00006-to-00017",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00006-to-00017",
+            "text": "【穿梭于密林的野性之夏！ 沁音】吹雪&沁音"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00014-to-00017",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00014-to-00017",
+            "text": "【穿梭于密林的野性之夏！ 沁音】澪&沁音"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00016-to-00017",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00016-to-00017",
+            "text": "【穿梭于密林的野性之夏！ 沁音】小粥&沁音"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00017-to-00006",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00017-to-00006",
+            "text": "【穿梭于密林的野性之夏！ 沁音】沁音&吹雪"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00017-to-00014",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00017-to-00014",
+            "text": "【穿梭于密林的野性之夏！ 沁音】沁音&澪"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00017-to-00016",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00017-5-uniq-0077-00_00017-to-00016",
+            "text": "【穿梭于密林的野性之夏！ 沁音】沁音&小粥"
         }
     },
     {

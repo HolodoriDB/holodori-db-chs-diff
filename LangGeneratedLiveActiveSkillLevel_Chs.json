@@ -196,6 +196,62 @@
         }
     },
     {
+        "id": "la-generated-live_active_skill-card-00006-5-uniq-0074-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00006-5-uniq-0074-00.1-description",
+            "text": "每 35 秒以中等概率在 13 秒内得分提升95% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00006-5-uniq-0074-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00006-5-uniq-0074-00.2-description",
+            "text": "每 35 秒以中等概率在 13 秒内得分提升[highlight]115[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00014-5-uniq-0075-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00014-5-uniq-0075-00.1-description",
+            "text": "每 23 秒以中等概率在 8 秒内得分提升100% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00014-5-uniq-0075-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00014-5-uniq-0075-00.2-description",
+            "text": "每 23 秒以中等概率在 8 秒内得分提升[highlight]120[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00016-5-uniq-0076-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00016-5-uniq-0076-00.1-description",
+            "text": "每 28 秒以高概率在 10 秒内得分提升95% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00016-5-uniq-0076-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00016-5-uniq-0076-00.2-description",
+            "text": "每 28 秒以高概率在 10 秒内得分提升[highlight]110[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00017-5-uniq-0077-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00017-5-uniq-0077-00.1-description",
+            "text": "每 32 秒以高概率在 11 秒内得分提升50% 队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时得分提升100% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00017-5-uniq-0077-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00017-5-uniq-0077-00.2-description",
+            "text": "每 32 秒以高概率在 11 秒内得分提升[highlight]60[/highlight]% 队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时得分提升[highlight]120[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",
         "data": {
             "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",
