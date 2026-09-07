@@ -84,6 +84,13 @@
         }
     },
     {
+        "id": "la-card_flavor-00036-5-uniq-0078-00",
+        "data": {
+            "id": "la-card_flavor-00036-5-uniq-0078-00",
+            "text": "享受涛声的精明干部"
+        }
+    },
+    {
         "id": "la-card_flavor-03004-5-uniq-0073-00",
         "data": {
             "id": "la-card_flavor-03004-5-uniq-0073-00",
@@ -102,6 +109,20 @@
         "data": {
             "id": "la-card_flavor-04003-5-uniq-0072-00",
             "text": "追溯海浪声的记忆"
+        }
+    },
+    {
+        "id": "la-card_flavor-04016-5-uniq-0079-00",
+        "data": {
+            "id": "la-card_flavor-04016-5-uniq-0079-00",
+            "text": "Fuwawa的Flowing Summer"
+        }
+    },
+    {
+        "id": "la-card_flavor-04017-5-uniq-0080-00",
+        "data": {
+            "id": "la-card_flavor-04017-5-uniq-0080-00",
+            "text": "Mococo的Breezy Summer"
         }
     },
     {
@@ -633,7 +654,7 @@
         "id": "la-card_name-00032-5-uniq-0026-00",
         "data": {
             "id": "la-card_name-00032-5-uniq-0026-00",
-            "text": "令人瞩目的神瞄准！lion’s hunt"
+            "text": "令人瞩目的神瞄准！lion's hunt"
         }
     },
     {
@@ -948,7 +969,7 @@
         "id": "la-card_name-04001-5-uniq-0042-00",
         "data": {
             "id": "la-card_name-04001-5-uniq-0042-00",
-            "text": "Reaper’s death flow"
+            "text": "Reaper's death flow"
         }
     },
     {

@@ -224,6 +224,48 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill-card-00036-5-uniq-0078-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00036-5-uniq-0078-00.1-description",
+            "text": "队伍中有至少2名holoX时令2名holoX的得分辅助效果9% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00036-5-uniq-0078-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00036-5-uniq-0078-00.2-description",
+            "text": "队伍中有至少2名holoX时令2名holoX的得分辅助效果[highlight]12[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04016-5-uniq-0079-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04016-5-uniq-0079-00.1-description",
+            "text": "队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时自身的所有参数提升24% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04016-5-uniq-0079-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04016-5-uniq-0079-00.2-description",
+            "text": "队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时自身的所有参数提升[highlight]32[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04017-5-uniq-0080-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04017-5-uniq-0080-00.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色得分辅助效果8% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04017-5-uniq-0080-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04017-5-uniq-0080-00.2-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色得分辅助效果[highlight]11[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",

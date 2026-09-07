@@ -252,6 +252,48 @@
         }
     },
     {
+        "id": "la-generated-live_active_skill-card-00036-5-uniq-0078-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00036-5-uniq-0078-00.1-description",
+            "text": "每 28 秒以高概率在 9 秒内得分提升105% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00036-5-uniq-0078-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00036-5-uniq-0078-00.2-description",
+            "text": "每 28 秒以高概率在 9 秒内得分提升[highlight]125[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-04016-5-uniq-0079-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-04016-5-uniq-0079-00.1-description",
+            "text": "每 35 秒以高概率在 12 秒内得分提升50% 队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时得分提升100% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-04016-5-uniq-0079-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-04016-5-uniq-0079-00.2-description",
+            "text": "每 35 秒以高概率在 12 秒内得分提升[highlight]60[/highlight]% 队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时得分提升[highlight]120[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-04017-5-uniq-0080-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-04017-5-uniq-0080-00.1-description",
+            "text": "每 22 秒以中等概率在 8 秒内得分提升50% 队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时得分提升100% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-04017-5-uniq-0080-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-04017-5-uniq-0080-00.2-description",
+            "text": "每 22 秒以中等概率在 8 秒内得分提升[highlight]60[/highlight]% 队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时得分提升[highlight]120[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",
         "data": {
             "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",
