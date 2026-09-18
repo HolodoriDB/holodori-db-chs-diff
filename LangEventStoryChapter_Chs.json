@@ -47,5 +47,33 @@
             "id": "la-event_story_chapter-marathon_event-relay-001-chapter-05",
             "text": "WAHderful夏日☆"
         }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-002-chapter-01",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-002-chapter-01",
+            "text": "亚绮罗森度过暑假的方式"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-002-chapter-02",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-002-chapter-02",
+            "text": "炎热、泳池与爱书人"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-002-chapter-03",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-002-chapter-03",
+            "text": "总帅的天堂侵略作战！"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-002-chapter-04",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-002-chapter-04",
+            "text": "有才监督前来圣地巡礼"
+        }
     }
 ]

@@ -1,5 +1,12 @@
 [
     {
+        "id": "la-name_cv-live_dial_chr-00004_00004-5-uniq-0081-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00004_00004-5-uniq-0081-00_myself",
+            "text": "【阳光下的神秘摇曳 亚绮】SP技能"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00006_00006-5-uniq-0074-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-00006_00006-5-uniq-0074-00_myself",
@@ -84,6 +91,13 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00035_00035-5-uniq-0082-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00035_00035-5-uniq-0082-00_myself",
+            "text": "【总帅专用！隐秘私人泳池 拉普拉斯】SP技能"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_myself",
@@ -98,6 +112,13 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-03005_03005-5-uniq-0084-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03005_03005-5-uniq-0084-00_myself",
+            "text": "【悠闲的阳光假日 Anya】SP技能"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_myself",
@@ -109,6 +130,13 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_myself",
             "text": "【追溯海浪声的记忆 Ina'nis】SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04013_04013-5-uniq-0083-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04013_04013-5-uniq-0083-00_myself",
+            "text": "【求知若渴的泳池之夜 Shiori】SP技能"
         }
     },
     {
@@ -228,6 +256,62 @@
         "data": {
             "id": "la-name_live_dial_voice_card_00004-5-uniq-0005-00_myself",
             "text": "【Ethereal Half-Elf 亚绮】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00002-to-00004",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00002-to-00004",
+            "text": "【阳光下的神秘摇曳 亚绮】萝卜子&亚绮"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00002",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00002",
+            "text": "【阳光下的神秘摇曳 亚绮】亚绮&萝卜子"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00011",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00011",
+            "text": "【阳光下的神秘摇曳 亚绮】亚绮&巧可"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00012",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00012",
+            "text": "【阳光下的神秘摇曳 亚绮】亚绮&昴"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00030",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00030",
+            "text": "【阳光下的神秘摇曳 亚绮】亚绮&菈米"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00011-to-00004",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00011-to-00004",
+            "text": "【阳光下的神秘摇曳 亚绮】巧可&亚绮"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00012-to-00004",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00012-to-00004",
+            "text": "【阳光下的神秘摇曳 亚绮】昴&亚绮"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00030-to-00004",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00030-to-00004",
+            "text": "【阳光下的神秘摇曳 亚绮】菈米&亚绮"
         }
     },
     {
@@ -1435,6 +1519,62 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00013-to-00035",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00013-to-00035",
+            "text": "【总帅专用！隐秘私人泳池 拉普拉斯】AZKi&拉普拉斯"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00027-to-00035",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00027-to-00035",
+            "text": "【总帅专用！隐秘私人泳池 拉普拉斯】永远&拉普拉斯"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-00013",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-00013",
+            "text": "【总帅专用！隐秘私人泳池 拉普拉斯】拉普拉斯&AZKi"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-00027",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-00027",
+            "text": "【总帅专用！隐秘私人泳池 拉普拉斯】拉普拉斯&永远"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-00039",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-00039",
+            "text": "【总帅专用！隐秘私人泳池 拉普拉斯】拉普拉斯&伊吕波"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-06002",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-06002",
+            "text": "【总帅专用！隐秘私人泳池 拉普拉斯】拉普拉斯&奏"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00039-to-00035",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00039-to-00035",
+            "text": "【总帅专用！隐秘私人泳池 拉普拉斯】伊吕波&拉普拉斯"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_06002-to-00035",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_06002-to-00035",
+            "text": "【总帅专用！隐秘私人泳池 拉普拉斯】奏&拉普拉斯"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_00036-5-uniq-0029-00_00036-to-00035",
         "data": {
             "id": "la-name_live_dial_voice_card_00036-5-uniq-0029-00_00036-to-00035",
@@ -1705,6 +1845,62 @@
         "data": {
             "id": "la-name_live_dial_voice_card_03005-5-uniq-0037-00_myself",
             "text": "【Couch Potato Gamer Anya】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_00021-to-03005",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_00021-to-03005",
+            "text": "【悠闲的阳光假日 Anya】芙蕾雅&Anya"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_00026-to-03005",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_00026-to-03005",
+            "text": "【悠闲的阳光假日 Anya】绵芽&Anya"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-00021",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-00021",
+            "text": "【悠闲的阳光假日 Anya】Anya&芙蕾雅"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-00026",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-00026",
+            "text": "【悠闲的阳光假日 Anya】Anya&绵芽"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-04003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-04003",
+            "text": "【悠闲的阳光假日 Anya】Anya&Ina'nis"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-04007",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-04007",
+            "text": "【悠闲的阳光假日 Anya】Anya&IRyS"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_04003-to-03005",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_04003-to-03005",
+            "text": "【悠闲的阳光假日 Anya】Ina'nis&Anya"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_04007-to-03005",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_04007-to-03005",
+            "text": "【悠闲的阳光假日 Anya】IRyS&Anya"
         }
     },
     {
@@ -2062,6 +2258,62 @@
         "data": {
             "id": "la-name_live_dial_voice_card_04013-5-uniq-0052-00_myself",
             "text": "【Library Inquisitor Shiori】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_03005-to-04013",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_03005-to-04013",
+            "text": "【求知若渴的泳池之夜 Shiori】Anya&Shiori"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_03007-to-04013",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_03007-to-04013",
+            "text": "【求知若渴的泳池之夜 Shiori】Zeta&Shiori"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04001-to-04013",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04001-to-04013",
+            "text": "【求知若渴的泳池之夜 Shiori】Calliope&Shiori"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-03005",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-03005",
+            "text": "【求知若渴的泳池之夜 Shiori】Shiori&Anya"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-03007",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-03007",
+            "text": "【求知若渴的泳池之夜 Shiori】Shiori&Zeta"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-04001",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-04001",
+            "text": "【求知若渴的泳池之夜 Shiori】Shiori&Calliope"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-04015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-04015",
+            "text": "【求知若渴的泳池之夜 Shiori】Shiori&Nerissa"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04015-to-04013",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04015-to-04013",
+            "text": "【求知若渴的泳池之夜 Shiori】Nerissa&Shiori"
         }
     },
     {

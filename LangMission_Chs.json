@@ -11277,6 +11277,83 @@
         }
     },
     {
+        "id": "la-mission-missionpass-261001-weekly-increment_card_level_limit_break_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-weekly-increment_card_level_limit_break_count-name",
+            "text": "让成员特训{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-weekly-increment_drop_item_get_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-weekly-increment_drop_item_get_count-name",
+            "text": "拾取{0}个隐秘宝藏"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-weekly-increment_exchange_purchase_count-exchange_booth-facility-a01-exchangebooth-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-weekly-increment_exchange_purchase_count-exchange_booth-facility-a01-exchangebooth-name",
+            "text": "在音波菈牡商店兑换Holo金币{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-weekly-increment_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-weekly-increment_live_play_count-name",
+            "text": "游玩演出{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-weekly-increment_live_stamina_consumption-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-weekly-increment_live_stamina_consumption-name",
+            "text": "总计消耗{0}点演出能量"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-weekly-increment_mini_game_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-weekly-increment_mini_game_play_count-name",
+            "text": "游玩迷你游戏{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-weekly-increment_mini_game_stamina_consumption-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-weekly-increment_mini_game_stamina_consumption-name",
+            "text": "总计消耗{0}点迷你游戏能量"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-weekly-increment_multi_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-weekly-increment_multi_live_play_count-name",
+            "text": "游玩共同演出{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-weekly-increment_music_creative_chart_live_clear_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-weekly-increment_music_creative_chart_live_clear_count-name",
+            "text": "通关自制谱面乐曲{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-weekly-increment_skill_tree_release_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-weekly-increment_skill_tree_release_count-name",
+            "text": "解锁{0}个Holo成员面板"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-weekly-increment_work_start_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-weekly-increment_work_start_count-name",
+            "text": "开始{0}次Holowork"
+        }
+    },
+    {
         "id": "la-mission-quest-area-a01-03-1-1-description",
         "data": {
             "id": "la-mission-quest-area-a01-03-1-1-description",

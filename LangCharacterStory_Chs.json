@@ -21,6 +21,13 @@
         }
     },
     {
+        "id": "la-character_story-chr-00004-002",
+        "data": {
+            "id": "la-character_story-chr-00004-002",
+            "text": "亚绮罗森度过暑假的方式"
+        }
+    },
+    {
         "id": "la-character_story-chr-00005-001",
         "data": {
             "id": "la-character_story-chr-00005-001",
@@ -203,6 +210,13 @@
         }
     },
     {
+        "id": "la-character_story-chr-00035-002",
+        "data": {
+            "id": "la-character_story-chr-00035-002",
+            "text": "总帅的天堂侵略作战！"
+        }
+    },
+    {
         "id": "la-character_story-chr-00036-001",
         "data": {
             "id": "la-character_story-chr-00036-001",
@@ -263,6 +277,13 @@
         "data": {
             "id": "la-character_story-chr-03005-001",
             "text": "沉着冷静头脑精明的古代武器"
+        }
+    },
+    {
+        "id": "la-character_story-chr-03005-002",
+        "data": {
+            "id": "la-character_story-chr-03005-002",
+            "text": "有才监督前来圣地巡礼"
         }
     },
     {
@@ -354,6 +375,13 @@
         "data": {
             "id": "la-character_story-chr-04013-001",
             "text": "愉快收藏家的奇特失物"
+        }
+    },
+    {
+        "id": "la-character_story-chr-04013-002",
+        "data": {
+            "id": "la-character_story-chr-04013-002",
+            "text": "炎热、泳池与爱书人"
         }
     },
     {

@@ -63,6 +63,41 @@
         }
     },
     {
+        "id": "la-mission_grp-marathon_event-relay-002",
+        "data": {
+            "id": "la-mission_grp-marathon_event-relay-002",
+            "text": "活动任务"
+        }
+    },
+    {
+        "id": "la-mission_grp-marathon_event-relay-002-chapter-01",
+        "data": {
+            "id": "la-mission_grp-marathon_event-relay-002-chapter-01",
+            "text": "活动任务（亚绮）"
+        }
+    },
+    {
+        "id": "la-mission_grp-marathon_event-relay-002-chapter-02",
+        "data": {
+            "id": "la-mission_grp-marathon_event-relay-002-chapter-02",
+            "text": "活动任务（Shiori）"
+        }
+    },
+    {
+        "id": "la-mission_grp-marathon_event-relay-002-chapter-03",
+        "data": {
+            "id": "la-mission_grp-marathon_event-relay-002-chapter-03",
+            "text": "活动任务（拉普拉斯）"
+        }
+    },
+    {
+        "id": "la-mission_grp-marathon_event-relay-002-chapter-04",
+        "data": {
+            "id": "la-mission_grp-marathon_event-relay-002-chapter-04",
+            "text": "活动任务（Anya）"
+        }
+    },
+    {
         "id": "la-mission_grp-mission_pass-0001-daily",
         "data": {
             "id": "la-mission_grp-mission_pass-0001-daily",
@@ -101,6 +136,27 @@
         "id": "la-mission_grp-missionpass-260901-weekly",
         "data": {
             "id": "la-mission_grp-missionpass-260901-weekly",
+            "text": "每周任务"
+        }
+    },
+    {
+        "id": "la-mission_grp-missionpass-261001-daily",
+        "data": {
+            "id": "la-mission_grp-missionpass-261001-daily",
+            "text": "每日任务"
+        }
+    },
+    {
+        "id": "la-mission_grp-missionpass-261001-season",
+        "data": {
+            "id": "la-mission_grp-missionpass-261001-season",
+            "text": "季度任务"
+        }
+    },
+    {
+        "id": "la-mission_grp-missionpass-261001-weekly",
+        "data": {
+            "id": "la-mission_grp-missionpass-261001-weekly",
             "text": "每周任务"
         }
     },

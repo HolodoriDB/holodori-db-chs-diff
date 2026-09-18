@@ -294,6 +294,62 @@
         }
     },
     {
+        "id": "la-generated-live_active_skill-card-00004-5-uniq-0081-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00004-5-uniq-0081-00.1-description",
+            "text": "每 24 秒以高概率在 9 秒内得分提升90% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00004-5-uniq-0081-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00004-5-uniq-0081-00.2-description",
+            "text": "每 24 秒以高概率在 9 秒内得分提升[highlight]105[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00035-5-uniq-0082-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00035-5-uniq-0082-00.1-description",
+            "text": "每 32 秒以高概率在 11 秒内得分提升50% 队伍中有至少2名[attribute=cute]可爱类型[/attribute]的角色时得分提升100% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00035-5-uniq-0082-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00035-5-uniq-0082-00.2-description",
+            "text": "每 32 秒以高概率在 11 秒内得分提升[highlight]60[/highlight]% 队伍中有至少2名[attribute=cute]可爱类型[/attribute]的角色时得分提升[highlight]120[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-03005-5-uniq-0084-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-03005-5-uniq-0084-00.1-description",
+            "text": "每 19 秒以高概率在 7 秒内得分提升90% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-03005-5-uniq-0084-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-03005-5-uniq-0084-00.2-description",
+            "text": "每 19 秒以高概率在 7 秒内得分提升[highlight]110[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-04013-5-uniq-0083-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-04013-5-uniq-0083-00.1-description",
+            "text": "每 29 秒以中等概率在 11 秒内得分提升50% 队伍中有至少2名[attribute=cute]可爱类型[/attribute]的角色时得分提升95% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-04013-5-uniq-0083-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-04013-5-uniq-0083-00.2-description",
+            "text": "每 29 秒以中等概率在 11 秒内得分提升[highlight]60[/highlight]% 队伍中有至少2名[attribute=cute]可爱类型[/attribute]的角色时得分提升[highlight]115[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",
         "data": {
             "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",
