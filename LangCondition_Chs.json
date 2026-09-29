@@ -35,6 +35,48 @@
         }
     },
     {
+        "id": "la-cd-exchange_booth-facility-a03-fishingshop-initial_lineup",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a03-fishingshop-initial_lineup",
+            "text": "通关主线任务“Build Up！绝佳钓点”即可解锁。"
+        }
+    },
+    {
+        "id": "la-cd-exchange_booth-facility-a03-fishingshop-initial_lineup-description",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a03-fishingshop-initial_lineup-description",
+            "text": "通关主线任务“Build Up！绝佳钓点”即可解锁。"
+        }
+    },
+    {
+        "id": "la-cd-exchange_booth-facility-a03-resortshop-first_time_limited-next_lineup_view",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a03-resortshop-first_time_limited-next_lineup_view",
+            "text": "11月起每月重置"
+        }
+    },
+    {
+        "id": "la-cd-exchange_booth-facility-a03-resortshop-initial_lineup",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a03-resortshop-initial_lineup",
+            "text": "完成主线任务“水上的高雅奢华设施”后即可解锁。"
+        }
+    },
+    {
+        "id": "la-cd-exchange_booth-facility-a03-resortshop-initial_lineup-description",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a03-resortshop-initial_lineup-description",
+            "text": "完成主线任务“水上的高雅奢华设施”后即可解锁。"
+        }
+    },
+    {
+        "id": "la-cd-exchange_booth_fixed_item_unlock-item-mini-game-chase-coin",
+        "data": {
+            "id": "la-cd-exchange_booth_fixed_item_unlock-item-mini-game-chase-coin",
+            "text": "解锁条件：完成区域任务“黑夜盛宴，火花四溅追逐战”"
+        }
+    },
+    {
         "id": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
         "data": {
             "id": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
@@ -123,6 +165,27 @@
         "data": {
             "id": "la-cd-marathon_event",
             "text": "阅读主线任务第1章第4话解锁"
+        }
+    },
+    {
+        "id": "la-cd-park_fishing_rod-02",
+        "data": {
+            "id": "la-cd-park_fishing_rod-02",
+            "text": "解锁条件：阅读主线任务第3章第5话"
+        }
+    },
+    {
+        "id": "la-cd-park_fishing_rod-03",
+        "data": {
+            "id": "la-cd-park_fishing_rod-03",
+            "text": "解锁条件：钓到20种鱼"
+        }
+    },
+    {
+        "id": "la-cd-park_fishing_rod-04",
+        "data": {
+            "id": "la-cd-park_fishing_rod-04",
+            "text": "解锁条件：钓到50种鱼"
         }
     },
     {
@@ -571,6 +634,34 @@
         "data": {
             "id": "la-quest-main-w1-02-09-unlock-description",
             "text": "挑战区域任务或Holo成员任务，\n即可提升梦幻Rank。"
+        }
+    },
+    {
+        "id": "la-unlock-player_level-30",
+        "data": {
+            "id": "la-unlock-player_level-30",
+            "text": "梦幻Rank达到30即可解锁。"
+        }
+    },
+    {
+        "id": "la-unlock-player_level-34",
+        "data": {
+            "id": "la-unlock-player_level-34",
+            "text": "梦幻Rank达到34即可解锁。"
+        }
+    },
+    {
+        "id": "la-unlock-player_level-35",
+        "data": {
+            "id": "la-unlock-player_level-35",
+            "text": "梦幻Rank达到35即可解锁。"
+        }
+    },
+    {
+        "id": "la-unlock_description-quest_live_play",
+        "data": {
+            "id": "la-unlock_description-quest_live_play",
+            "text": "参与游戏任务和观看现场表演。"
         }
     }
 ]

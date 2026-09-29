@@ -630,6 +630,272 @@
         }
     },
     {
+        "id": "la-quest-area-a03-01-description",
+        "data": {
+            "id": "la-quest-area-a03-01-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-01-title",
+        "data": {
+            "id": "la-quest-area-a03-01-title",
+            "text": "加油，加油，快快上钩！"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-02-description",
+        "data": {
+            "id": "la-quest-area-a03-02-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-02-title",
+        "data": {
+            "id": "la-quest-area-a03-02-title",
+            "text": "这就是青春啊♡"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-03-description",
+        "data": {
+            "id": "la-quest-area-a03-03-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-03-title",
+        "data": {
+            "id": "la-quest-area-a03-03-title",
+            "text": "知性天才"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-04-description",
+        "data": {
+            "id": "la-quest-area-a03-04-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-04-title",
+        "data": {
+            "id": "la-quest-area-a03-04-title",
+            "text": "干劲十足的钓鱼老师"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-05-description",
+        "data": {
+            "id": "la-quest-area-a03-05-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-05-title",
+        "data": {
+            "id": "la-quest-area-a03-05-title",
+            "text": "Never Give Up！"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-06-description",
+        "data": {
+            "id": "la-quest-area-a03-06-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-06-title",
+        "data": {
+            "id": "la-quest-area-a03-06-title",
+            "text": "Let's Splash♪"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-07-description",
+        "data": {
+            "id": "la-quest-area-a03-07-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-07-title",
+        "data": {
+            "id": "la-quest-area-a03-07-title",
+            "text": "冷酷柔情"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-08-description",
+        "data": {
+            "id": "la-quest-area-a03-08-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-08-title",
+        "data": {
+            "id": "la-quest-area-a03-08-title",
+            "text": "海盗船改造计划！"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-09-description",
+        "data": {
+            "id": "la-quest-area-a03-09-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-09-title",
+        "data": {
+            "id": "la-quest-area-a03-09-title",
+            "text": "钓鱼的事就交给我？"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-10-description",
+        "data": {
+            "id": "la-quest-area-a03-10-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-10-title",
+        "data": {
+            "id": "la-quest-area-a03-10-title",
+            "text": "水花飞溅的激情舞蹈♪"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-11-description",
+        "data": {
+            "id": "la-quest-area-a03-11-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-11-title",
+        "data": {
+            "id": "la-quest-area-a03-11-title",
+            "text": "垂下钓绳，悠然自在"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-12-description",
+        "data": {
+            "id": "la-quest-area-a03-12-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-12-title",
+        "data": {
+            "id": "la-quest-area-a03-12-title",
+            "text": "追着球的轨迹，奔向天涯"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-13-description",
+        "data": {
+            "id": "la-quest-area-a03-13-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-13-title",
+        "data": {
+            "id": "la-quest-area-a03-13-title",
+            "text": "太阳落山也要一起！"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-14-description",
+        "data": {
+            "id": "la-quest-area-a03-14-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-14-title",
+        "data": {
+            "id": "la-quest-area-a03-14-title",
+            "text": "为了两人一起享乐"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-15-description",
+        "data": {
+            "id": "la-quest-area-a03-15-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-15-title",
+        "data": {
+            "id": "la-quest-area-a03-15-title",
+            "text": "帅气的两人"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-16-description",
+        "data": {
+            "id": "la-quest-area-a03-16-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-16-title",
+        "data": {
+            "id": "la-quest-area-a03-16-title",
+            "text": "近海的激烈对决"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-17-description",
+        "data": {
+            "id": "la-quest-area-a03-17-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-17-title",
+        "data": {
+            "id": "la-quest-area-a03-17-title",
+            "text": "温暖也很重要"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-18-description",
+        "data": {
+            "id": "la-quest-area-a03-18-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-18-title",
+        "data": {
+            "id": "la-quest-area-a03-18-title",
+            "text": "还要更蓬松一点♪"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-19-description",
+        "data": {
+            "id": "la-quest-area-a03-19-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-19-title",
+        "data": {
+            "id": "la-quest-area-a03-19-title",
+            "text": "用心仪的饮品干杯"
+        }
+    },
+    {
         "id": "la-quest-chr-00001-description",
         "data": {
             "id": "la-quest-chr-00001-description",
@@ -1523,6 +1789,216 @@
         "data": {
             "id": "la-quest-main-w1-02-12-title",
             "text": "喧闹时光不会终结"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-01-description",
+        "data": {
+            "id": "la-quest-main-w1-03-01-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-01-title",
+        "data": {
+            "id": "la-quest-main-w1-03-01-title",
+            "text": "大海之上绘就蓝图"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-02-description",
+        "data": {
+            "id": "la-quest-main-w1-03-02-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-02-title",
+        "data": {
+            "id": "la-quest-main-w1-03-02-title",
+            "text": "Unknown Ocean"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-description",
+        "data": {
+            "id": "la-quest-main-w1-03-03-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-title",
+        "data": {
+            "id": "la-quest-main-w1-03-03-title",
+            "text": "Build Up！绝佳钓点"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-04-description",
+        "data": {
+            "id": "la-quest-main-w1-03-04-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-04-title",
+        "data": {
+            "id": "la-quest-main-w1-03-04-title",
+            "text": "水上的高雅奢华设施"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-05-description",
+        "data": {
+            "id": "la-quest-main-w1-03-05-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-05-title",
+        "data": {
+            "id": "la-quest-main-w1-03-05-title",
+            "text": "改装汽艇征服海域！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-06-description",
+        "data": {
+            "id": "la-quest-main-w1-03-06-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-06-title",
+        "data": {
+            "id": "la-quest-main-w1-03-06-title",
+            "text": "Water Stage！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-07-description",
+        "data": {
+            "id": "la-quest-main-w1-03-07-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-07-title",
+        "data": {
+            "id": "la-quest-main-w1-03-07-title",
+            "text": "海风中的顶级钓师"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-08-description",
+        "data": {
+            "id": "la-quest-main-w1-03-08-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-08-title",
+        "data": {
+            "id": "la-quest-main-w1-03-08-title",
+            "text": "大海之上的开球仪式！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-09-description",
+        "data": {
+            "id": "la-quest-main-w1-03-09-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-09-title",
+        "data": {
+            "id": "la-quest-main-w1-03-09-title",
+            "text": "海盗船上的小憩"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-description",
+        "data": {
+            "id": "la-quest-main-w1-03-10-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-title",
+        "data": {
+            "id": "la-quest-main-w1-03-10-title",
+            "text": "禁止错过！来自海面的重大公告"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-11-description",
+        "data": {
+            "id": "la-quest-main-w1-03-11-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-11-title",
+        "data": {
+            "id": "la-quest-main-w1-03-11-title",
+            "text": "Mission “Cove”"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-12-description",
+        "data": {
+            "id": "la-quest-main-w1-03-12-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-12-title",
+        "data": {
+            "id": "la-quest-main-w1-03-12-title",
+            "text": "未知鱼儿的New Spot"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-13-description",
+        "data": {
+            "id": "la-quest-main-w1-03-13-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-13-title",
+        "data": {
+            "id": "la-quest-main-w1-03-13-title",
+            "text": "商店遍染自推之色"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-14-description",
+        "data": {
+            "id": "la-quest-main-w1-03-14-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-14-title",
+        "data": {
+            "id": "la-quest-main-w1-03-14-title",
+            "text": "星海环抱的露营场"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-15-description",
+        "data": {
+            "id": "la-quest-main-w1-03-15-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-15-title",
+        "data": {
+            "id": "la-quest-main-w1-03-15-title",
+            "text": "海上演出，响彻波浪间！"
         }
     },
     {

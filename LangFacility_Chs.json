@@ -1,5 +1,12 @@
 [
     {
+        "id": "la-empty",
+        "data": {
+            "id": "la-empty",
+            "text": "-"
+        }
+    },
+    {
         "id": "la-facility-a01-athletic-description",
         "data": {
             "id": "la-facility-a01-athletic-description",
@@ -143,14 +150,14 @@
         "id": "la-facility-a01-gate3-description",
         "data": {
             "id": "la-facility-a01-gate3-description",
-            "text": "-"
+            "text": "通往汽水泡泡海湾的门"
         }
     },
     {
         "id": "la-facility-a01-gate3-name",
         "data": {
             "id": "la-facility-a01-gate3-name",
-            "text": "-"
+            "text": "汽水泡泡海湾大门"
         }
     },
     {
@@ -711,6 +718,249 @@
         "data": {
             "id": "la-facility-a02-station-name",
             "text": "勤工飞车"
+        }
+    },
+    {
+        "id": "la-facility-a03-boatshop-description",
+        "data": {
+            "id": "la-facility-a03-boatshop-description",
+            "text": "小夜璃的汽艇改造设施。\n目标是将爱艇改造成最快的样子。"
+        }
+    },
+    {
+        "id": "la-facility-a03-boatshop-name",
+        "data": {
+            "id": "la-facility-a03-boatshop-name",
+            "text": "小夜实验室海洋分部"
+        }
+    },
+    {
+        "id": "la-facility-a03-entrance-description",
+        "data": {
+            "id": "la-facility-a03-entrance-description",
+            "text": "海上的玄关大门。\n往来船只不绝，是美丽海都的门面。"
+        }
+    },
+    {
+        "id": "la-facility-a03-entrance-name",
+        "data": {
+            "id": "la-facility-a03-entrance-name",
+            "text": "汽水泡泡海湾入口"
+        }
+    },
+    {
+        "id": "la-facility-a03-fishingpond1-description",
+        "data": {
+            "id": "la-facility-a03-fishingpond1-description",
+            "text": "放眼望去一片青蓝的平静海域。\n美丽的水面是绝佳的钓场。"
+        }
+    },
+    {
+        "id": "la-facility-a03-fishingpond1-name",
+        "data": {
+            "id": "la-facility-a03-fishingpond1-name",
+            "text": "青之垂钓场"
+        }
+    },
+    {
+        "id": "la-facility-a03-fishingpond2-description",
+        "data": {
+            "id": "la-facility-a03-fishingpond2-description",
+            "text": "银装素裹的钓场，由菈米开设。\n可以一边享受雪景一边钓起大家伙。"
+        }
+    },
+    {
+        "id": "la-facility-a03-fishingpond2-name",
+        "data": {
+            "id": "la-facility-a03-fishingpond2-name",
+            "text": "菈米的冰天雪堡"
+        }
+    },
+    {
+        "id": "la-facility-a03-fishingpond3-description",
+        "data": {
+            "id": "la-facility-a03-fishingpond3-description",
+            "text": "白色浪花之中的钓场，由Kobo开设。\n将聚集在这里的强者统统钓起来吧。"
+        }
+    },
+    {
+        "id": "la-facility-a03-fishingpond3-name",
+        "data": {
+            "id": "la-facility-a03-fishingpond3-name",
+            "text": "波可波可灯塔"
+        }
+    },
+    {
+        "id": "la-facility-a03-fishingshop-description",
+        "data": {
+            "id": "la-facility-a03-fishingshop-description",
+            "text": "各类鱼饵齐全的钓具店，由Baelz开设。\n支付金币，就能提升钓技。"
+        }
+    },
+    {
+        "id": "la-facility-a03-fishingshop-name",
+        "data": {
+            "id": "la-facility-a03-fishingshop-name",
+            "text": "Bae's 混沌杂货"
+        }
+    },
+    {
+        "id": "la-facility-a03-glamping-description",
+        "data": {
+            "id": "la-facility-a03-glamping-description",
+            "text": "波尔卡开设的小众宝藏露营场。\n在这里吃的户外烤肉滋味一绝。"
+        }
+    },
+    {
+        "id": "la-facility-a03-glamping-name",
+        "data": {
+            "id": "la-facility-a03-glamping-name",
+            "text": "波波波开心营地"
+        }
+    },
+    {
+        "id": "la-facility-a03-islandlarge1-name",
+        "data": {
+            "id": "la-facility-a03-islandlarge1-name"
+        }
+    },
+    {
+        "id": "la-facility-a03-islandlarge2-name",
+        "data": {
+            "id": "la-facility-a03-islandlarge2-name"
+        }
+    },
+    {
+        "id": "la-facility-a03-islandmiddle1-name",
+        "data": {
+            "id": "la-facility-a03-islandmiddle1-name"
+        }
+    },
+    {
+        "id": "la-facility-a03-islandmiddle2-name",
+        "data": {
+            "id": "la-facility-a03-islandmiddle2-name"
+        }
+    },
+    {
+        "id": "la-facility-a03-islandmiddle3-name",
+        "data": {
+            "id": "la-facility-a03-islandmiddle3-name"
+        }
+    },
+    {
+        "id": "la-facility-a03-islandsmall1-name",
+        "data": {
+            "id": "la-facility-a03-islandsmall1-name"
+        }
+    },
+    {
+        "id": "la-facility-a03-islandsmall2-name",
+        "data": {
+            "id": "la-facility-a03-islandsmall2-name"
+        }
+    },
+    {
+        "id": "la-facility-a03-islandsmall3-name",
+        "data": {
+            "id": "la-facility-a03-islandsmall3-name"
+        }
+    },
+    {
+        "id": "la-facility-a03-islandsmall4-name",
+        "data": {
+            "id": "la-facility-a03-islandsmall4-name"
+        }
+    },
+    {
+        "id": "la-facility-a03-livestage-description",
+        "data": {
+            "id": "la-facility-a03-livestage-description",
+            "text": "海风舒适的演出舞台。\n歌声与波浪声一同在这里回荡。"
+        }
+    },
+    {
+        "id": "la-facility-a03-livestage-name",
+        "data": {
+            "id": "la-facility-a03-livestage-name",
+            "text": "汽水泡泡海湾舞台"
+        }
+    },
+    {
+        "id": "la-facility-a03-name",
+        "data": {
+            "id": "la-facility-a03-name",
+            "text": "海上"
+        }
+    },
+    {
+        "id": "la-facility-a03-resortshop-description",
+        "data": {
+            "id": "la-facility-a03-resortshop-description",
+            "text": "莉莉华开设的钓鱼奖励兑换所。\n可以将闪亮的代币兑换成梦幻精品。"
+        }
+    },
+    {
+        "id": "la-facility-a03-resortshop-name",
+        "data": {
+            "id": "la-facility-a03-resortshop-name",
+            "text": "一条贵宾会所"
+        }
+    },
+    {
+        "id": "la-facility-a03-stadium-description",
+        "data": {
+            "id": "la-facility-a03-stadium-description",
+            "text": "将海面作为场地的球赛设施。\n操控波浪，冲向胜利的球门吧。"
+        }
+    },
+    {
+        "id": "la-facility-a03-stadium-name",
+        "data": {
+            "id": "la-facility-a03-stadium-name",
+            "text": "水花运动场"
+        }
+    },
+    {
+        "id": "la-facility-a03-station-description",
+        "data": {
+            "id": "la-facility-a03-station-description",
+            "text": "由玛琳开设，坐落于海边的休息所。\n在这里能听着波涛声享受片刻休息。"
+        }
+    },
+    {
+        "id": "la-facility-a03-station-name",
+        "data": {
+            "id": "la-facility-a03-station-name",
+            "text": "玛琳公主号"
+        }
+    },
+    {
+        "id": "la-facility-a03-watergun-description",
+        "data": {
+            "id": "la-facility-a03-watergun-description",
+            "text": "彼方的演唱会周边专卖店。\n端着人人都爱的水枪，去看演出吧！"
+        }
+    },
+    {
+        "id": "la-facility-a03-watergun-name",
+        "data": {
+            "id": "la-facility-a03-watergun-name",
+            "text": "呜帕欧天堂"
+        }
+    },
+    {
+        "id": "la-facility-a03-whale-description",
+        "data": {
+            "id": "la-facility-a03-whale-description",
+            "text": "在海域内来去的巨大鲸鱼。\n这里是眺望巨体的绝佳摄影点。"
+        }
+    },
+    {
+        "id": "la-facility-a03-whale-name",
+        "data": {
+            "id": "la-facility-a03-whale-name",
+            "text": "鲸鱼"
         }
     },
     {

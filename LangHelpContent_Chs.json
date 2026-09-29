@@ -1106,6 +1106,20 @@
         }
     },
     {
+        "id": "la-help_category-help-game-8-text",
+        "data": {
+            "id": "la-help_category-help-game-8-text",
+            "text": "水球大战是分成3队，每队3人，操控汽艇将球顶入敌方球门的水上迷你游戏。\n任意队伍的分数达标或归零，或时间用尽时，比赛结束。\n奖励会根据队伍名次、个人成绩进行发放。\n水球大战仅支持“多人游戏”，支持最多9人同时游玩。\n\n可以点选水球大战首页的［？］查看详细玩法。"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-8-title",
+        "data": {
+            "id": "la-help_category-help-game-8-title",
+            "text": "关于水球大战"
+        }
+    },
+    {
         "id": "la-help_category-help-item-1-text",
         "data": {
             "id": "la-help_category-help-item-1-text",
@@ -1159,6 +1173,20 @@
         "data": {
             "id": "la-help_category-help-option-2-title",
             "text": "关于演出选项"
+        }
+    },
+    {
+        "id": "la-help_category-help-option-3-text",
+        "data": {
+            "id": "la-help_category-help-option-3-text",
+            "text": "游戏运行出现卡顿时，通过降低画质设置，可能可以减轻运行负担。\n不过，如果将画质调至标准以下，乐园中出现的holo成员人数可能会减少。请根据游戏的具体运行情况，调整至您能够舒适游玩的设置。"
+        }
+    },
+    {
+        "id": "la-help_category-help-option-3-title",
+        "data": {
+            "id": "la-help_category-help-option-3-title",
+            "text": "关于画质设置"
         }
     },
     {
@@ -1229,6 +1257,34 @@
         "data": {
             "id": "la-help_category-help-park-13-title",
             "text": "关于隐秘宝藏"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-14-text",
+        "data": {
+            "id": "la-help_category-help-park-14-text",
+            "text": "在汽水泡泡海湾，可以乘坐汽艇在海上移动。\n走近汽艇就能上船。\n另外，驾驶汽艇期间接近允许登陆的地点时，就能在该地点登陆。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-14-title",
+        "data": {
+            "id": "la-help_category-help-park-14-title",
+            "text": "关于汽艇"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-15-text",
+        "data": {
+            "id": "la-help_category-help-park-15-text",
+            "text": "钓鱼是可以在汽水泡泡海湾的钓场游玩的迷你游戏。\n成功钓到鱼后，可以根据渔获的种类和大小获得“汽水泡泡代币”。\n获得的代币可以在“一条贵宾会所”兑换各种道具。\n\n▼钓鱼的玩法\n鱼咬钩后点击画面，游戏就会开始。\n操作画面上显示的“渔轮”按钮，把鱼钓到手吧。\n\n▽基本操作\n按住渔轮按钮期间，“捕获条”会上升，松开则会下降。\n\n▽钓到鱼的窍门\n让上下移动的“鱼”持续与捕获条重合，就会推进“钓鱼进度条”。\n\n▽成功与失败\n钓鱼进度条蓄满则钓鱼成功。\n若钓鱼进度条归零，则鱼会逃跑，判定失败。\n※不同种类的鱼的行动方式和难度各不相同。\n\n▼关于钓场\n可以在汽水泡泡海湾的任意钓场开始钓鱼。\n每个钓场出没的鱼种都有所不同。\n\n▼关于钓竿\n花费Holo金币可以强化钓竿。\n强化后，鱼将更容易上钩，使钓鱼进程变得更轻松。\n\n▼关于鱼饵\n在钓鱼时使用的鱼饵，可以在“Bae's 混沌杂货”兑换。\n不同种类的鱼有着不同的鱼饵喜好。\n※无论钓鱼成功或失败都会消耗鱼饵。\n\n▼关于鱼类图鉴\n钓到的鱼的信息会记录在《鱼类图鉴》中。\n与钓鱼设施的holo成员对话，即可查看鱼类图鉴。\n记录在图鉴中的鱼类达到一定数量后，可以获得达成奖励。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-15-title",
+        "data": {
+            "id": "la-help_category-help-park-15-title",
+            "text": "关于钓鱼"
         }
     },
     {
@@ -1585,7 +1641,7 @@
         "id": "la-help_category-help-rhythm-2-text",
         "data": {
             "id": "la-help_category-help-rhythm-2-text",
-            "text": "小队包含1名领队和5名队员。\n每个holo成员最多可以加入10个小队。\n\n小队总分是在演出中得分的参考指标。\n小队总分越高，在演出中能获得的分数就越多。\n小队总分的数值由领队的服装技能、成员的参数和技能来决定。"
+            "text": "小队包含1名领队和5名队员。\n每个holo成员最多可以加入10个小队。\n\n小队总分是在演出中得分的参考指标。\n小队总分越高，在演出中能获得的分数就越多。\n小队总分的数值由领队的服装技能、成员的参数和技能来决定。\n\n※由于计算“小队总分”时会考虑主动技能是否平等发动，因此在部分阵容中，若解锁Holo成员面板上的“技能发动频率UP”模块，可能反而会导致数值降低。"
         }
     },
     {

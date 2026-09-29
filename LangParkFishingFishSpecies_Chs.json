@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "id": "la-park_fishing_fish_species-01-name",
+        "data": {
+            "id": "la-park_fishing_fish_species-01-name",
+            "text": "淡水鱼"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish_species-02-name",
+        "data": {
+            "id": "la-park_fishing_fish_species-02-name",
+            "text": "海鱼"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish_species-03-name",
+        "data": {
+            "id": "la-park_fishing_fish_species-03-name",
+            "text": "两栖动物"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish_species-04-name",
+        "data": {
+            "id": "la-park_fishing_fish_species-04-name",
+            "text": "鲨鱼等等。"
+        }
+    }
+]

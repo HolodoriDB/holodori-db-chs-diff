@@ -105,6 +105,13 @@
         }
     },
     {
+        "id": "la-achievement_grp-minigame_splashball",
+        "data": {
+            "id": "la-achievement_grp-minigame_splashball",
+            "text": "水球大战"
+        }
+    },
+    {
         "id": "la-achievement_grp-music",
         "data": {
             "id": "la-achievement_grp-music",
@@ -151,6 +158,13 @@
         "data": {
             "id": "la-achievement_grp-w1-a02",
             "text": "电玩巨蛋城"
+        }
+    },
+    {
+        "id": "la-achievement_grp-w1-a03",
+        "data": {
+            "id": "la-achievement_grp-w1-a03",
+            "text": "汽水泡泡海湾"
         }
     },
     {

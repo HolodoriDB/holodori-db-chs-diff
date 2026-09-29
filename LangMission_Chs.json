@@ -1,5 +1,12 @@
 [
     {
+        "id": "la-increment_park_fishing_fish_caught_count",
+        "data": {
+            "id": "la-increment_park_fishing_fish_caught_count",
+            "text": "钓起{0}条鱼"
+        }
+    },
+    {
         "id": "la-mission-achievement-chr-00001-absolute_card_get_unique_count-description",
         "data": {
             "id": "la-mission-achievement-chr-00001-absolute_card_get_unique_count-description",
@@ -9744,6 +9751,76 @@
         }
     },
     {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-description",
+            "text": "钓起{0}种不同的鱼"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0028-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0028-description",
+            "text": "钓起万人迷绿鳍鱼"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0029-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0029-description",
+            "text": "钓起学究魔鬼鱼"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0030-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0030-description",
+            "text": "钓起卡哇伊势龙虾"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0061-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0061-description",
+            "text": "钓起雪花海天使"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0062-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0062-description",
+            "text": "钓起妩媚阿波鱼"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0063-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0063-description",
+            "text": "钓起鼠目沙钻鱼"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0094-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0094-description",
+            "text": "钓起暴雨叉斑锉鳞鲀"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0095-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0095-description",
+            "text": "钓起天使锯青蟹"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0096-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0096-description",
+            "text": "钓起小丑安在青蛙鱼"
+        }
+    },
+    {
         "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a01-area-description",
         "data": {
             "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a01-area-description",
@@ -9772,6 +9849,13 @@
         }
     },
     {
+        "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a03-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a03-description",
+            "text": "完成所有汽水泡泡海湾的主线、区域任务"
+        }
+    },
+    {
         "id": "la-mission-achievement-common-absolute_park_quest_clear_count-quest-main-w1-01-24-description",
         "data": {
             "id": "la-mission-achievement-common-absolute_park_quest_clear_count-quest-main-w1-01-24-description",
@@ -9786,6 +9870,13 @@
         }
     },
     {
+        "id": "la-mission-achievement-common-absolute_park_quest_clear_count-quest-main-w3-01-15-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_quest_clear_count-quest-main-w3-01-15-description",
+            "text": "完成汽水泡泡海湾的主线任务EP15"
+        }
+    },
+    {
         "id": "la-mission-achievement-common-absolute_park_treasure_get_count-area_group-a01-description",
         "data": {
             "id": "la-mission-achievement-common-absolute_park_treasure_get_count-area_group-a01-description",
@@ -9796,6 +9887,13 @@
         "id": "la-mission-achievement-common-absolute_park_treasure_get_count-area_group-a02-description",
         "data": {
             "id": "la-mission-achievement-common-absolute_park_treasure_get_count-area_group-a02-description",
+            "text": "获得{0}个宝藏"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_treasure_get_count-area_group-a03-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_treasure_get_count-area_group-a03-description",
             "text": "获得{0}个宝藏"
         }
     },
@@ -10220,6 +10318,13 @@
         }
     },
     {
+        "id": "la-mission-achievement-common-increment_mini_game_play_count-splash_ball-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_mini_game_play_count-splash_ball-description",
+            "text": "游玩{0}次"
+        }
+    },
+    {
         "id": "la-mission-achievement-common-increment_multi_live_mvp_count-description",
         "data": {
             "id": "la-mission-achievement-common-increment_multi_live_mvp_count-description",
@@ -10245,6 +10350,27 @@
         "data": {
             "id": "la-mission-achievement-common-increment_music_creative_chart_live_clear_count-description",
             "text": "通关{0}首自制谱面"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_park_fishing_fish_caught_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_park_fishing_fish_caught_count-description",
+            "text": "钓起{0}条鱼"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_park_fishing_fish_failed_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_park_fishing_fish_failed_count-description",
+            "text": "放跑鱼{0}次"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_park_fishing_fish_failed_count-name",
+        "data": {
+            "id": "la-mission-achievement-common-increment_park_fishing_fish_failed_count-name",
+            "text": "喂食高手"
         }
     },
     {
@@ -10290,6 +10416,48 @@
         }
     },
     {
+        "id": "la-mission-achievement-common-increment_splash_ball_cold_lose_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_splash_ball_cold_lose_count-description",
+            "text": "所在队伍0分落败"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_splash_ball_cold_lose_count-name",
+        "data": {
+            "id": "la-mission-achievement-common-increment_splash_ball_cold_lose_count-name",
+            "text": "总有一天……我要成为前锋……"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_splash_ball_defense_score-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_splash_ball_defense_score-description",
+            "text": "获得{0}点守门Pt"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_splash_ball_goal_count-bonus-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_splash_ball_goal_count-bonus-description",
+            "text": "射入金球{0}次"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_splash_ball_goal_score-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_splash_ball_goal_score-description",
+            "text": "获得{0}点进球Pt"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_splash_ball_win_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_splash_ball_win_count-description",
+            "text": "获胜{0}次"
+        }
+    },
+    {
         "id": "la-mission-achievement-common-increment_work_finish_count-5-description",
         "data": {
             "id": "la-mission-achievement-common-increment_work_finish_count-5-description",
@@ -10301,6 +10469,286 @@
         "data": {
             "id": "la-mission-achievement-common-increment_work_finish_count-description",
             "text": "完成{0}次Holowork"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-arch_island_top-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-arch_island_top-description",
+            "text": "在弓形小岛的石堆下摆姿势"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-arch_island_top-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-arch_island_top-name",
+            "text": "自然中的运动冒险"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-beach_sand_muscle-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-beach_sand_muscle-description",
+            "text": "变成肌肉发达的人鱼"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-beach_sand_muscle-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-beach_sand_muscle-name",
+            "text": "沙上的肉体之美"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-beach_sos-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-beach_sos-description",
+            "text": "找到写在沙地上的“SOS”字样"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-beach_sos-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-beach_sos-name",
+            "text": "某人的恶作剧涂鸦"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-beacon_lighthouse-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-beacon_lighthouse-description",
+            "text": "在波可波可灯塔敲3次门，holo成员会回应"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-beacon_lighthouse-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-beacon_lighthouse-name",
+            "text": "灯下黑"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-boatshop_experiment_failure-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-boatshop_experiment_failure-description",
+            "text": "让小夜实验室海洋分部的阀门喷射绿色气体"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-boatshop_experiment_failure-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-boatshop_experiment_failure-name",
+            "text": "实验中……？"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-cave_bench-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-cave_bench-description",
+            "text": "坐在东南方山洞内的椅子上"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-cave_bench-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-cave_bench-name",
+            "text": "秘密避暑地"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-cave_exit_pose-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-cave_exit_pose-description",
+            "text": "在西部洞窟前方的山崖上摆姿势"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-cave_exit_pose-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-cave_exit_pose-name",
+            "text": "穿越黑暗"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-cave_waterfall-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-cave_waterfall-description",
+            "text": "在北部洞窟的瀑布下修行"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-cave_waterfall-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-cave_waterfall-name",
+            "text": "让瀑布冲走杂念"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-cliff_top-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-cliff_top-description",
+            "text": "登顶东部的山崖"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-cliff_top-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-cliff_top-name",
+            "text": "立于顶端的特权"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-cottage_cliff_yoga-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-cottage_cliff_yoga-description",
+            "text": "在北部的小屋后方做深呼吸"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-cottage_cliff_yoga-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-cottage_cliff_yoga-name",
+            "text": "在北极点深呼吸"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-fishblue_vacances-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-fishblue_vacances-description",
+            "text": "坐在青之垂钓场的椅子上"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-fishblue_vacances-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-fishblue_vacances-name",
+            "text": "享受假日中"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-glamping_bed-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-glamping_bed-description",
+            "text": "一头扎进波波波开心营地的床铺"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-glamping_bed-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-glamping_bed-name",
+            "text": "今天打烊了！"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-live_stage_backstage-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-live_stage_backstage-description",
+            "text": "前往演出舞台后方的平台处"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-live_stage_backstage-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-live_stage_backstage-name",
+            "text": "舞台的背后有什么！"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-observatory_deck_chair-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-observatory_deck_chair-description",
+            "text": "坐在观景平台的椅子上喝饮料"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-observatory_deck_chair-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-observatory_deck_chair-name",
+            "text": "优雅一刻"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-residential_knock-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-residential_knock-description",
+            "text": "敲遍西部别墅地区所有的门"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-residential_knock-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-residential_knock-name",
+            "text": "请问有人吗？"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-resortshop_water-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-resortshop_water-description",
+            "text": "坐在一条贵宾会所的泳池里打腿"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-resortshop_water-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-resortshop_water-name",
+            "text": "正在练习游泳"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-snowdome_caress-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-snowdome_caress-description",
+            "text": "在菈米的冰天雪堡抚摸大福"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-snowdome_caress-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-snowdome_caress-name",
+            "text": "看起来好像很冷"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-station_ship_cannon-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-station_ship_cannon-description",
+            "text": "发射大炮，使之落在玛琳公主号附近"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-station_ship_cannon-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-station_ship_cannon-name",
+            "text": "千钧一发的危机"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-waterfall_point-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-waterfall_point-description",
+            "text": "在东部洞窟欣赏瀑布"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-waterfall_point-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-waterfall_point-name",
+            "text": "下船之后的风景"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-watergun_rainbow-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-watergun_rainbow-description",
+            "text": "在呜帕欧天堂的栈桥欣赏彩虹"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-watergun_rainbow-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-watergun_rainbow-name",
+            "text": "彩虹之桥"
         }
     },
     {
@@ -10703,6 +11151,69 @@
         }
     },
     {
+        "id": "la-mission-event_mission-area03-release-260929-absolute_park_fishing_fish_unique_count",
+        "data": {
+            "id": "la-mission-event_mission-area03-release-260929-absolute_park_fishing_fish_unique_count",
+            "text": "钓起{0}种鱼"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-area03-release-260929-increment_drop_item_get_count-area_group-a03",
+        "data": {
+            "id": "la-mission-event_mission-area03-release-260929-increment_drop_item_get_count-area_group-a03",
+            "text": "在汽水泡泡海湾拾取{0}个隐秘宝藏"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-area03-release-260929-increment_mission_clear_count-mission_grp-area03-release-260929",
+        "data": {
+            "id": "la-mission-event_mission-area03-release-260929-increment_mission_clear_count-mission_grp-area03-release-260929",
+            "text": "完成所有任务"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-area03-release-260929-increment_park_fishing_fish_caught_count",
+        "data": {
+            "id": "la-mission-event_mission-area03-release-260929-increment_park_fishing_fish_caught_count",
+            "text": "钓起{0}条鱼"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-area03-release-260929-increment_resource_get_count-item-item-mini_game_fishing_coin",
+        "data": {
+            "id": "la-mission-event_mission-area03-release-260929-increment_resource_get_count-item-item-mini_game_fishing_coin",
+            "text": "获得{0}枚汽水泡泡代币"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_defense_score",
+        "data": {
+            "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_defense_score",
+            "text": "在水球大战中获得{0}点防守点数"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_goal_count",
+        "data": {
+            "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_goal_count",
+            "text": "在水球大战中进球{0}次"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_win_count",
+        "data": {
+            "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_win_count",
+            "text": "在水球大战中获胜{0}次"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-area03-release-260929-increment_work_finish_count",
+        "data": {
+            "id": "la-mission-event_mission-area03-release-260929-increment_work_finish_count",
+            "text": "完成{0}次holowork"
+        }
+    },
+    {
         "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_mischief_team_key_use_count",
         "data": {
             "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_mischief_team_key_use_count",
@@ -10770,6 +11281,41 @@
         "data": {
             "id": "la-mission-event_mission-chase_celebration-260828-increment_work_finish_count",
             "text": "完成{0}次holowork"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-comeback-260929-absolute_card_level",
+        "data": {
+            "id": "la-mission-event_mission-comeback-260929-absolute_card_level",
+            "text": "将成员Lv提升到Lv{0}"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-comeback-260929-absolute_live_clear_music_count",
+        "data": {
+            "id": "la-mission-event_mission-comeback-260929-absolute_live_clear_music_count",
+            "text": "通关{0}种不同演出"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-comeback-260929-absolute_live_deck_evaluation_value",
+        "data": {
+            "id": "la-mission-event_mission-comeback-260929-absolute_live_deck_evaluation_value",
+            "text": "小队总分达到{0}"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-comeback-260929-absolute_park_quest_clear_count-quest-main-w1-02-12",
+        "data": {
+            "id": "la-mission-event_mission-comeback-260929-absolute_park_quest_clear_count-quest-main-w1-02-12",
+            "text": "完成电玩巨蛋城的主线任务EP12"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-comeback-260929-increment_mini_game_stamina_consumption",
+        "data": {
+            "id": "la-mission-event_mission-comeback-260929-increment_mini_game_stamina_consumption",
+            "text": "总计消耗{0}点迷你游戏能量"
         }
     },
     {
@@ -10878,6 +11424,13 @@
         }
     },
     {
+        "id": "la-mission-hidden-shop_consumption_item-pack-area03_clear-260929-name",
+        "data": {
+            "id": "la-mission-hidden-shop_consumption_item-pack-area03_clear-260929-name",
+            "text": "-"
+        }
+    },
+    {
         "id": "la-mission-marathon_event-live_clear_count",
         "data": {
             "id": "la-mission-marathon_event-live_clear_count",
@@ -10903,6 +11456,13 @@
         "data": {
             "id": "la-mission-marathon_event-live_stamina_consumption",
             "text": "总计消耗{0}点演出能量"
+        }
+    },
+    {
+        "id": "la-mission-marathon_event-marathon_increment_resource_get_count",
+        "data": {
+            "id": "la-mission-marathon_event-marathon_increment_resource_get_count",
+            "text": "获得{0}个活动徽章"
         }
     },
     {
@@ -11277,6 +11837,90 @@
         }
     },
     {
+        "id": "la-mission-missionpass-261001-daily-increment_card_level_up_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-daily-increment_card_level_up_count-name",
+            "text": "强化成员Lv{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-daily-increment_drop_item_get_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-daily-increment_drop_item_get_count-name",
+            "text": "拾取{0}个隐秘宝藏"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-daily-increment_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-daily-increment_live_play_count-name",
+            "text": "游玩演出{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-daily-increment_mini_game_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-daily-increment_mini_game_play_count-name",
+            "text": "游玩迷你游戏{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-daily-increment_multi_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-daily-increment_multi_live_play_count-name",
+            "text": "游玩共同演出{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-daily-increment_park_present_receive_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-daily-increment_park_present_receive_count-name",
+            "text": "领取{0}次来自holo成员的礼物"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-daily-increment_park_quest_clear_count-daily-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-daily-increment_park_quest_clear_count-daily-name",
+            "text": "完成{0}次每日任务"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-daily-increment_work_start_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-daily-increment_work_start_count-name",
+            "text": "开始{0}次Holowork"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-season-absolute_park_fishing_fish_unique_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-season-absolute_park_fishing_fish_unique_count-name",
+            "text": "钓起{0}种鱼"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-season-absolute_park_quest_clear_count-quest-main-w1-03-15-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-season-absolute_park_quest_clear_count-quest-main-w1-03-15-name",
+            "text": "完成汽水泡泡海湾的主线任务EP15"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-season-increment_mini_game_play_count-splash_ball-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-season-increment_mini_game_play_count-splash_ball-name",
+            "text": "游玩{0}次水球大战"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-season-increment_park_fishing_fish_caught_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-season-increment_park_fishing_fish_caught_count-name",
+            "text": "钓起{0}条鱼"
+        }
+    },
+    {
         "id": "la-mission-missionpass-261001-weekly-increment_card_level_limit_break_count-name",
         "data": {
             "id": "la-mission-missionpass-261001-weekly-increment_card_level_limit_break_count-name",
@@ -11550,6 +12194,132 @@
         }
     },
     {
+        "id": "la-mission-quest-area-a03-01-1-2-description",
+        "data": {
+            "id": "la-mission-quest-area-a03-01-1-2-description",
+            "text": "钓起{0}条★2以上的鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-01-1-2-name",
+        "data": {
+            "id": "la-mission-quest-area-a03-01-1-2-name",
+            "text": "钓起{0}条★2以上的鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-03-1-2-description",
+        "data": {
+            "id": "la-mission-quest-area-a03-03-1-2-description",
+            "text": "获得{0}枚汽水泡泡代币"
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-03-1-2-name",
+        "data": {
+            "id": "la-mission-quest-area-a03-03-1-2-name",
+            "text": "获得{0}枚汽水泡泡代币"
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-04-1-2-description",
+        "data": {
+            "id": "la-mission-quest-area-a03-04-1-2-description",
+            "text": "钓起{0}种不同的鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-04-1-2-name",
+        "data": {
+            "id": "la-mission-quest-area-a03-04-1-2-name",
+            "text": "钓起{0}种不同的鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-07-1-2-description",
+        "data": {
+            "id": "la-mission-quest-area-a03-07-1-2-description",
+            "text": "解锁{0}个Holo成员面板"
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-07-1-2-name",
+        "data": {
+            "id": "la-mission-quest-area-a03-07-1-2-name",
+            "text": "解锁{0}个Holo成员面板"
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-09-1-2-description",
+        "data": {
+            "id": "la-mission-quest-area-a03-09-1-2-description",
+            "text": "钓起{0}条★4以上的鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-09-1-2-name",
+        "data": {
+            "id": "la-mission-quest-area-a03-09-1-2-name",
+            "text": "钓起{0}条★4以上的鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-11-1-2-description",
+        "data": {
+            "id": "la-mission-quest-area-a03-11-1-2-description",
+            "text": "钓起{0}条★5的鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-11-1-2-name",
+        "data": {
+            "id": "la-mission-quest-area-a03-11-1-2-name",
+            "text": "钓起{0}条★5的鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-13-1-2-description",
+        "data": {
+            "id": "la-mission-quest-area-a03-13-1-2-description",
+            "text": "在深夜钓起{0}条鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-13-1-2-name",
+        "data": {
+            "id": "la-mission-quest-area-a03-13-1-2-name",
+            "text": "在深夜钓起{0}条鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-14-1-2-description",
+        "data": {
+            "id": "la-mission-quest-area-a03-14-1-2-description",
+            "text": "钓起{0}种不同的鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-14-1-2-name",
+        "data": {
+            "id": "la-mission-quest-area-a03-14-1-2-name",
+            "text": "钓起{0}种不同的鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-16-1-2-description",
+        "data": {
+            "id": "la-mission-quest-area-a03-16-1-2-description",
+            "text": "将成员特训到{0}阶段"
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-16-1-2-name",
+        "data": {
+            "id": "la-mission-quest-area-a03-16-1-2-name",
+            "text": "将成员特训到{0}阶段"
+        }
+    },
+    {
         "id": "la-mission-quest-daily-mini_game_bet_coin-description",
         "data": {
             "id": "la-mission-quest-daily-mini_game_bet_coin-description",
@@ -11561,6 +12331,20 @@
         "data": {
             "id": "la-mission-quest-daily-mini_game_bet_coin-name",
             "text": "获得{0}个电玩巨蛋城代币"
+        }
+    },
+    {
+        "id": "la-mission-quest-daily-mini_game_fishing_coin-description",
+        "data": {
+            "id": "la-mission-quest-daily-mini_game_fishing_coin-description",
+            "text": "获得{0}枚汽水泡泡代币"
+        }
+    },
+    {
+        "id": "la-mission-quest-daily-mini_game_fishing_coin-name",
+        "data": {
+            "id": "la-mission-quest-daily-mini_game_fishing_coin-name",
+            "text": "获得{0}枚汽水泡泡代币"
         }
     },
     {
@@ -11659,6 +12443,118 @@
         "data": {
             "id": "la-mission-quest-main-w1-02-06-1-07-name",
             "text": "拍1次闪亮大头贴"
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-03-1-04-description",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-03-1-04-description",
+            "text": "钓起{0}条鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-03-1-04-name",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-03-1-04-name",
+            "text": "钓起{0}条鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-03-1-07-description",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-03-1-07-description",
+            "text": "在Bae's 混沌杂货兑换{0}次商品"
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-03-1-07-name",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-03-1-07-name",
+            "text": "在Bae's 混沌杂货兑换{0}次商品"
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-03-1-08-description",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-03-1-08-description",
+            "text": "在青之垂钓场钓上{0}条鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-03-1-08-name",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-03-1-08-name",
+            "text": "在青之垂钓场钓上{0}条鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-04-1-03-description",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-04-1-03-description",
+            "text": "在一条贵宾会所兑换{0}次商品"
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-04-1-03-name",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-04-1-03-name",
+            "text": "在一条贵宾会所兑换{0}次商品"
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-07-1-03-description",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-07-1-03-description",
+            "text": "在菈米的冰天雪堡钓上{0}条鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-07-1-03-name",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-07-1-03-name",
+            "text": "在菈米的冰天雪堡钓上{0}条鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-10-1-03-description",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-10-1-03-description",
+            "text": "钓起{0}条鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-10-1-03-name",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-10-1-03-name",
+            "text": "钓起{0}条鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-10-1-05-description",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-10-1-05-description",
+            "text": "钓起{0}条★2以上的鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-10-1-05-name",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-10-1-05-name",
+            "text": "钓起{0}条★2以上的鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-12-1-04-description",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-12-1-04-description",
+            "text": "在波可波可灯塔钓上{0}条鱼"
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-12-1-04-name",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-12-1-04-name",
+            "text": "在波可波可灯塔钓上{0}条鱼"
         }
     }
 ]

@@ -1,5 +1,12 @@
 [
     {
+        "id": "la-empty",
+        "data": {
+            "id": "la-empty",
+            "text": "-"
+        }
+    },
+    {
         "id": "la-facility-a01-athletic-description",
         "data": {
             "id": "la-facility-a01-athletic-description",
@@ -144,6 +151,104 @@
         "data": {
             "id": "la-facility-a02-station-lvup",
             "text": "高Rank的Holowork触发率提升"
+        }
+    },
+    {
+        "id": "la-facility-a03-boat-description",
+        "data": {
+            "id": "la-facility-a03-boat-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-facility-a03-boatshop-description",
+        "data": {
+            "id": "la-facility-a03-boatshop-description",
+            "text": "小夜璃的汽艇改造设施。\n目标是将爱艇改造成最快的样子。"
+        }
+    },
+    {
+        "id": "la-facility-a03-entrance-description",
+        "data": {
+            "id": "la-facility-a03-entrance-description",
+            "text": "海上的玄关大门。\n往来船只不绝，是美丽海都的门面。"
+        }
+    },
+    {
+        "id": "la-facility-a03-fishingpond1-description",
+        "data": {
+            "id": "la-facility-a03-fishingpond1-description",
+            "text": "放眼望去一片青蓝的平静海域。\n美丽的水面是绝佳的钓场。"
+        }
+    },
+    {
+        "id": "la-facility-a03-fishingpond2-description",
+        "data": {
+            "id": "la-facility-a03-fishingpond2-description",
+            "text": "银装素裹的钓场，由菈米开设。\n可以一边享受雪景一边钓起大家伙。"
+        }
+    },
+    {
+        "id": "la-facility-a03-fishingpond3-description",
+        "data": {
+            "id": "la-facility-a03-fishingpond3-description",
+            "text": "白色浪花之中的钓场，由Kobo开设。\n将聚集在这里的强者统统钓起来吧。"
+        }
+    },
+    {
+        "id": "la-facility-a03-fishingshop-description",
+        "data": {
+            "id": "la-facility-a03-fishingshop-description",
+            "text": "各类鱼饵齐全的钓具店，由Baelz开设。\n支付金币，就能提升钓技。"
+        }
+    },
+    {
+        "id": "la-facility-a03-glamping-description",
+        "data": {
+            "id": "la-facility-a03-glamping-description",
+            "text": "波尔卡开设的小众宝藏露营场。\n在这里吃的户外烤肉滋味一绝。"
+        }
+    },
+    {
+        "id": "la-facility-a03-livestage-description",
+        "data": {
+            "id": "la-facility-a03-livestage-description",
+            "text": "海风舒适的演出舞台。\n歌声与波浪声一同在这里回荡。"
+        }
+    },
+    {
+        "id": "la-facility-a03-resortshop-description",
+        "data": {
+            "id": "la-facility-a03-resortshop-description",
+            "text": "莉莉华开设的钓鱼奖励兑换所。\n可以将闪亮的代币兑换成梦幻精品。"
+        }
+    },
+    {
+        "id": "la-facility-a03-stadium-description",
+        "data": {
+            "id": "la-facility-a03-stadium-description",
+            "text": "将海面作为场地的球赛设施。\n操控波浪，冲向胜利的球门吧。"
+        }
+    },
+    {
+        "id": "la-facility-a03-station-description",
+        "data": {
+            "id": "la-facility-a03-station-description",
+            "text": "由玛琳开设，坐落于海边的休息所。\n在这里能听着波涛声享受片刻休息。"
+        }
+    },
+    {
+        "id": "la-facility-a03-watergun-description",
+        "data": {
+            "id": "la-facility-a03-watergun-description",
+            "text": "彼方的演唱会周边专卖店。\n端着人人都爱的水枪，去看演出吧！"
+        }
+    },
+    {
+        "id": "la-facility-a03-whale-description",
+        "data": {
+            "id": "la-facility-a03-whale-description",
+            "text": "在海域内来去的巨大鲸鱼。\n这里是眺望巨体的绝佳摄影点。"
         }
     }
 ]

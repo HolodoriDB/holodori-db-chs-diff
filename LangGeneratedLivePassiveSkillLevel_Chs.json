@@ -322,6 +322,62 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill-card-00023-5-uniq-0085-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00023-5-uniq-0085-00.1-description",
+            "text": "队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时2名[attribute=pure]纯洁类型[/attribute]角色品位提升32% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00023-5-uniq-0085-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00023-5-uniq-0085-00.2-description",
+            "text": "队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时2名[attribute=pure]纯洁类型[/attribute]角色品位提升[highlight]43[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00037-5-uniq-0086-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00037-5-uniq-0086-00.1-description",
+            "text": "队伍中有至少2名[attribute=happy]快乐类型[/attribute]的角色时2名[attribute=happy]快乐类型[/attribute]角色表现力提升32% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00037-5-uniq-0086-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00037-5-uniq-0086-00.2-description",
+            "text": "队伍中有至少2名[attribute=happy]快乐类型[/attribute]的角色时2名[attribute=happy]快乐类型[/attribute]角色表现力提升[highlight]43[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03009-5-uniq-0088-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03009-5-uniq-0088-00.1-description",
+            "text": "队伍中有至少2名[attribute=cute]可爱类型[/attribute]的角色时2名[attribute=cute]可爱类型[/attribute]角色品位提升32% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03009-5-uniq-0088-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03009-5-uniq-0088-00.2-description",
+            "text": "队伍中有至少2名[attribute=cute]可爱类型[/attribute]的角色时2名[attribute=cute]可爱类型[/attribute]角色品位提升[highlight]43[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04012-5-uniq-0087-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04012-5-uniq-0087-00.1-description",
+            "text": "队伍中有至少2名Promise时自身的所有参数提升25% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04012-5-uniq-0087-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04012-5-uniq-0087-00.2-description",
+            "text": "队伍中有至少2名Promise时自身的所有参数提升[highlight]33[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",

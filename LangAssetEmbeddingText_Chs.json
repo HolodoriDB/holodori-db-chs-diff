@@ -196,6 +196,97 @@
         }
     },
     {
+        "id": "la-asset_embedding_text-facility-a03-boatshop",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a03-boatshop",
+            "text": "小夜实验室海洋分部"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a03-entrance",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a03-entrance",
+            "text": "汽水泡泡海湾入口"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a03-fishingpond1",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a03-fishingpond1",
+            "text": "青之垂钓场"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a03-fishingpond2",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a03-fishingpond2",
+            "text": "菈米的冰天雪堡"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a03-fishingpond3",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a03-fishingpond3",
+            "text": "波可波可灯塔"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a03-fishingshop",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a03-fishingshop",
+            "text": "Bae's 混沌杂货"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a03-glamping",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a03-glamping",
+            "text": "波波波开心营地"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a03-livestage",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a03-livestage",
+            "text": "汽水泡泡海湾舞台"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a03-resortshop",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a03-resortshop",
+            "text": "一条贵宾会所"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a03-stadium",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a03-stadium",
+            "text": "水花运动场"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a03-station",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a03-station",
+            "text": "玛琳公主号"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a03-watergun",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a03-watergun",
+            "text": "呜帕欧天堂"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a03-whale",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a03-whale",
+            "text": "鲸鱼"
+        }
+    },
+    {
         "id": "la-asset_embedding_text-park_action-cmn-change-evening",
         "data": {
             "id": "la-asset_embedding_text-park_action-cmn-change-evening",
@@ -431,6 +522,90 @@
         "data": {
             "id": "la-asset_embedding_text-park_action-facility-a02-slotgame-00",
             "text": "游玩"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a03-fishingpond2-00",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a03-fishingpond2-00",
+            "text": "抚摸"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a03-fishingpond2-01",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a03-fishingpond2-01",
+            "text": "偷看"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a03-fishingpond3-00",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a03-fishingpond3-00",
+            "text": "敲门"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a03-glamping-00",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a03-glamping-00",
+            "text": "飞扑"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a03-glamping-01",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a03-glamping-01",
+            "text": "伸手"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-park_action-cmn-board",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-park_action-cmn-board",
+            "text": "乘坐汽艇"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-park_action-cmn-hangout",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-park_action-cmn-hangout",
+            "text": "游玩"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-park_action-cmn-knock",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-park_action-cmn-knock",
+            "text": "敲门"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-park_action-cmn-land",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-park_action-cmn-land",
+            "text": "离开汽艇"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-park_action-cmn-look",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-park_action-cmn-look",
+            "text": "查看"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-park_action-cmn-pose",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-park_action-cmn-pose",
+            "text": "摆姿势"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-park_action-cmn-sandpile",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-park_action-cmn-sandpile",
+            "text": "被埋"
         }
     }
 ]

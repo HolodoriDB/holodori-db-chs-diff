@@ -42,6 +42,27 @@
         }
     },
     {
+        "id": "la-facility-a03-fishingshop-name",
+        "data": {
+            "id": "la-facility-a03-fishingshop-name",
+            "text": "Bae's 混沌杂货"
+        }
+    },
+    {
+        "id": "la-facility-a03-resortshop-name",
+        "data": {
+            "id": "la-facility-a03-resortshop-name",
+            "text": "一条贵宾会所"
+        }
+    },
+    {
+        "id": "la-facility-a03-station-name",
+        "data": {
+            "id": "la-facility-a03-station-name",
+            "text": "玛琳公主号"
+        }
+    },
+    {
         "id": "la-resource_obtainment_route-achievement",
         "data": {
             "id": "la-resource_obtainment_route-achievement",
@@ -91,6 +112,27 @@
         }
     },
     {
+        "id": "la-resource_obtainment_route-fishingpond1",
+        "data": {
+            "id": "la-resource_obtainment_route-fishingpond1",
+            "text": "青之垂钓场\n（钓鱼）"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-fishingpond2",
+        "data": {
+            "id": "la-resource_obtainment_route-fishingpond2",
+            "text": "菈米的冰天雪堡\n（钓鱼）"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-fishingpond3",
+        "data": {
+            "id": "la-resource_obtainment_route-fishingpond3",
+            "text": "波可波可灯塔\n（钓鱼）"
+        }
+    },
+    {
         "id": "la-resource_obtainment_route-gacha",
         "data": {
             "id": "la-resource_obtainment_route-gacha",
@@ -129,6 +171,13 @@
         "id": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-004-chapter-01",
         "data": {
             "id": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-004-chapter-01",
+            "text": "活动"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-005-chapter-01",
+        "data": {
+            "id": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-005-chapter-01",
             "text": "活动"
         }
     },
@@ -284,6 +333,13 @@
         "data": {
             "id": "la-resource_obtainment_route-shop",
             "text": "商店"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-splash_ball",
+        "data": {
+            "id": "la-resource_obtainment_route-splash_ball",
+            "text": "水花运动场\n（水球大战）"
         }
     },
     {

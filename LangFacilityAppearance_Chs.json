@@ -49,6 +49,13 @@
         }
     },
     {
+        "id": "la-label-facility-a01-gate3",
+        "data": {
+            "id": "la-label-facility-a01-gate3",
+            "text": "区域移动"
+        }
+    },
+    {
         "id": "la-label-facility-a01-house",
         "data": {
             "id": "la-label-facility-a01-house",
@@ -193,6 +200,90 @@
         "data": {
             "id": "la-label-facility-a02-station",
             "text": "Holowork"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-boatshop",
+        "data": {
+            "id": "la-label-facility-a03-boatshop",
+            "text": "汽艇商店"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-fishingpond1",
+        "data": {
+            "id": "la-label-facility-a03-fishingpond1",
+            "text": "钓场"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-fishingpond2",
+        "data": {
+            "id": "la-label-facility-a03-fishingpond2",
+            "text": "钓场"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-fishingpond3",
+        "data": {
+            "id": "la-label-facility-a03-fishingpond3",
+            "text": "钓场"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-fishingshop",
+        "data": {
+            "id": "la-label-facility-a03-fishingshop",
+            "text": "钓饵商店"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-glamping",
+        "data": {
+            "id": "la-label-facility-a03-glamping",
+            "text": "更改时间"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-livestage",
+        "data": {
+            "id": "la-label-facility-a03-livestage",
+            "text": "节奏游戏"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-resortshop",
+        "data": {
+            "id": "la-label-facility-a03-resortshop",
+            "text": "兑换所"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-stadium",
+        "data": {
+            "id": "la-label-facility-a03-stadium",
+            "text": "迷你游戏"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-station",
+        "data": {
+            "id": "la-label-facility-a03-station",
+            "text": "Holowork"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-watergun",
+        "data": {
+            "id": "la-label-facility-a03-watergun",
+            "text": "水枪商店"
+        }
+    },
+    {
+        "id": "la-label-facility-a03-whale",
+        "data": {
+            "id": "la-label-facility-a03-whale",
+            "text": "鲸鱼"
         }
     }
 ]

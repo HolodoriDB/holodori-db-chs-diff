@@ -7,6 +7,20 @@
         }
     },
     {
+        "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1050.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1050.1-description",
+            "text": "得分辅助效果105%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-900.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-900.1-description",
+            "text": "得分辅助效果90%"
+        }
+    },
+    {
         "id": "la-generated-live_active_skill_effect-score_up_permil_up-1000.1-description",
         "data": {
             "id": "la-generated-live_active_skill_effect-score_up_permil_up-1000.1-description",

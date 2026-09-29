@@ -1,5 +1,12 @@
 [
     {
+        "id": "la-gacha_point-area03-260929",
+        "data": {
+            "id": "la-gacha_point-area03-260929",
+            "text": "新区域开放纪念！支持自选！★5成员扭蛋 Pt"
+        }
+    },
+    {
         "id": "la-gacha_point-beginner-select-001",
         "data": {
             "id": "la-gacha_point-beginner-select-001",
@@ -53,6 +60,13 @@
         "data": {
             "id": "la-gacha_point-pickup-260919",
             "text": "寻求凉爽之旅扭蛋Pt"
+        }
+    },
+    {
+        "id": "la-gacha_point-pickup-260929",
+        "data": {
+            "id": "la-gacha_point-pickup-260929",
+            "text": "逐梦蔚蓝边境扭蛋Pt"
         }
     }
 ]

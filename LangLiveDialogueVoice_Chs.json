@@ -77,6 +77,13 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00023_00023-5-uniq-0085-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00023_00023-5-uniq-0085-00_myself",
+            "text": "【独占宝物♡水力加农炮 玛琳】SP技能"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_myself",
@@ -105,6 +112,13 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00037_00037-5-uniq-0086-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00037_00037-5-uniq-0086-00_myself",
+            "text": "【回眸一笑的aventure 小夜璃】SP技能"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_myself",
@@ -119,6 +133,13 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-03009_03009-5-uniq-0088-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03009_03009-5-uniq-0088-00_myself",
+            "text": "【波间摇曳的Body & Soul Kobo】SP技能"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_myself",
@@ -130,6 +151,13 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_myself",
             "text": "【追溯海浪声的记忆 Ina'nis】SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04012_04012-5-uniq-0087-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04012_04012-5-uniq-0087-00_myself",
+            "text": "【这款是我的首推！ Baelz】SP技能"
         }
     },
     {
@@ -1204,6 +1232,90 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-00030",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-00030",
+            "text": "【独占宝物♡水力加农炮 玛琳】玛琳&菈米"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-00034",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-00034",
+            "text": "【独占宝物♡水力加农炮 玛琳】玛琳&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-00037",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-00037",
+            "text": "【独占宝物♡水力加农炮 玛琳】玛琳&小夜璃"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-03009",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-03009",
+            "text": "【独占宝物♡水力加农炮 玛琳】玛琳&Kobo"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-04012",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-04012",
+            "text": "【独占宝物♡水力加农炮 玛琳】玛琳&Baelz"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-06003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-06003",
+            "text": "【独占宝物♡水力加农炮 玛琳】玛琳&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00030-to-00023",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00030-to-00023",
+            "text": "【独占宝物♡水力加农炮 玛琳】菈米&玛琳"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00034-to-00023",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00034-to-00023",
+            "text": "【独占宝物♡水力加农炮 玛琳】波尔卡&玛琳"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00037-to-00023",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00037-to-00023",
+            "text": "【独占宝物♡水力加农炮 玛琳】小夜璃&玛琳"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_03009-to-00023",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_03009-to-00023",
+            "text": "【独占宝物♡水力加农炮 玛琳】Kobo&玛琳"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_04012-to-00023",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_04012-to-00023",
+            "text": "【独占宝物♡水力加农炮 玛琳】Baelz&玛琳"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_06003-to-00023",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_06003-to-00023",
+            "text": "【独占宝物♡水力加农炮 玛琳】莉莉华&玛琳"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_00026-5-uniq-0021-00_00026-to-00027",
         "data": {
             "id": "la-name_live_dial_voice_card_00026-5-uniq-0021-00_00026-to-00027",
@@ -1659,6 +1771,90 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00023-to-00037",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00023-to-00037",
+            "text": "【回眸一笑的aventure 小夜璃】玛琳&小夜璃"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00030-to-00037",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00030-to-00037",
+            "text": "【回眸一笑的aventure 小夜璃】菈米&小夜璃"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00034-to-00037",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00034-to-00037",
+            "text": "【回眸一笑的aventure 小夜璃】波尔卡&小夜璃"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-00023",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-00023",
+            "text": "【回眸一笑的aventure 小夜璃】小夜璃&玛琳"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-00030",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-00030",
+            "text": "【回眸一笑的aventure 小夜璃】小夜璃&菈米"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-00034",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-00034",
+            "text": "【回眸一笑的aventure 小夜璃】小夜璃&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-03009",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-03009",
+            "text": "【回眸一笑的aventure 小夜璃】小夜璃&Kobo"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-04012",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-04012",
+            "text": "【回眸一笑的aventure 小夜璃】小夜璃&Baelz"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-06003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-06003",
+            "text": "【回眸一笑的aventure 小夜璃】小夜璃&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_03009-to-00037",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_03009-to-00037",
+            "text": "【回眸一笑的aventure 小夜璃】Kobo&小夜璃"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_04012-to-00037",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_04012-to-00037",
+            "text": "【回眸一笑的aventure 小夜璃】Baelz&小夜璃"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_06003-to-00037",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_06003-to-00037",
+            "text": "【回眸一笑的aventure 小夜璃】莉莉华&小夜璃"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_00039-5-uniq-0032-00_00039-to-00035",
         "data": {
             "id": "la-name_live_dial_voice_card_00039-5-uniq-0032-00_00039-to-00035",
@@ -1988,6 +2184,90 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_00023-to-03009",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_00023-to-03009",
+            "text": "【波间摇曳的Body & Soul Kobo】玛琳&Kobo"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_00030-to-03009",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_00030-to-03009",
+            "text": "【波间摇曳的Body & Soul Kobo】菈米&Kobo"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_00034-to-03009",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_00034-to-03009",
+            "text": "【波间摇曳的Body & Soul Kobo】波尔卡&Kobo"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_00037-to-03009",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_00037-to-03009",
+            "text": "【波间摇曳的Body & Soul Kobo】小夜璃&Kobo"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-00023",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-00023",
+            "text": "【波间摇曳的Body & Soul Kobo】Kobo&玛琳"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-00030",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-00030",
+            "text": "【波间摇曳的Body & Soul Kobo】Kobo&菈米"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-00034",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-00034",
+            "text": "【波间摇曳的Body & Soul Kobo】Kobo&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-00037",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-00037",
+            "text": "【波间摇曳的Body & Soul Kobo】Kobo&小夜璃"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-04012",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-04012",
+            "text": "【波间摇曳的Body & Soul Kobo】Kobo&Baelz"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-06003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-06003",
+            "text": "【波间摇曳的Body & Soul Kobo】Kobo&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_04012-to-03009",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_04012-to-03009",
+            "text": "【波间摇曳的Body & Soul Kobo】Baelz&Kobo"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_06003-to-03009",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_06003-to-03009",
+            "text": "【波间摇曳的Body & Soul Kobo】莉莉华&Kobo"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_04001-5-uniq-0042-00_04001-to-04002",
         "data": {
             "id": "la-name_live_dial_voice_card_04001-5-uniq-0042-00_04001-to-04002",
@@ -2223,6 +2503,90 @@
         "data": {
             "id": "la-name_live_dial_voice_card_04012-5-uniq-0051-00_myself",
             "text": "【Chaotic Powerful Rat Baelz】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_00023-to-04012",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_00023-to-04012",
+            "text": "【这款是我的首推！ Baelz】玛琳&Baelz"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_00030-to-04012",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_00030-to-04012",
+            "text": "【这款是我的首推！ Baelz】菈米&Baelz"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_00034-to-04012",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_00034-to-04012",
+            "text": "【这款是我的首推！ Baelz】波尔卡&Baelz"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_00037-to-04012",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_00037-to-04012",
+            "text": "【这款是我的首推！ Baelz】小夜璃&Baelz"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_03009-to-04012",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_03009-to-04012",
+            "text": "【这款是我的首推！ Baelz】Kobo&Baelz"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-00023",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-00023",
+            "text": "【这款是我的首推！ Baelz】Baelz&玛琳"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-00030",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-00030",
+            "text": "【这款是我的首推！ Baelz】Baelz&菈米"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-00034",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-00034",
+            "text": "【这款是我的首推！ Baelz】Baelz&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-00037",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-00037",
+            "text": "【这款是我的首推！ Baelz】Baelz&小夜璃"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-03009",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-03009",
+            "text": "【这款是我的首推！ Baelz】Baelz&Kobo"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-06003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-06003",
+            "text": "【这款是我的首推！ Baelz】Baelz&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_06003-to-04012",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_06003-to-04012",
+            "text": "【这款是我的首推！ Baelz】莉莉华&Baelz"
         }
     },
     {

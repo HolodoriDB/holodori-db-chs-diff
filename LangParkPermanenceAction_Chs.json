@@ -19,5 +19,47 @@
             "id": "la-perm-a02-coinbooth-description-3",
             "text": "道别"
         }
+    },
+    {
+        "id": "la-perm-a03-fishingshop-1",
+        "data": {
+            "id": "la-perm-a03-fishingshop-1",
+            "text": "钓饵商店"
+        }
+    },
+    {
+        "id": "la-perm-a03-fishingshop-2",
+        "data": {
+            "id": "la-perm-a03-fishingshop-2",
+            "text": "强化钓竿"
+        }
+    },
+    {
+        "id": "la-perm-a03-fishingshop-3",
+        "data": {
+            "id": "la-perm-a03-fishingshop-3",
+            "text": "道别"
+        }
+    },
+    {
+        "id": "la-perm-a03-resortshop-description-1",
+        "data": {
+            "id": "la-perm-a03-resortshop-description-1",
+            "text": "兑换道具"
+        }
+    },
+    {
+        "id": "la-perm-a03-resortshop-description-2",
+        "data": {
+            "id": "la-perm-a03-resortshop-description-2",
+            "text": "迷你游戏能量转换"
+        }
+    },
+    {
+        "id": "la-perm-a03-resortshop-description-3",
+        "data": {
+            "id": "la-perm-a03-resortshop-description-3",
+            "text": "道别"
+        }
     }
 ]

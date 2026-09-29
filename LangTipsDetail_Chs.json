@@ -749,6 +749,48 @@
         }
     },
     {
+        "id": "la-tips-game_screen-park-fishing-fish-list-area03-description-1",
+        "data": {
+            "id": "la-tips-game_screen-park-fishing-fish-list-area03-description-1",
+            "text": "钓到鱼后可以获得<color=#ff3bc8>汽水泡泡代币</color>！\n\n根据鱼的重量和稀有度，还能提升代币获得量哦！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park-fishing-fish-list-area03-description-2",
+        "data": {
+            "id": "la-tips-game_screen-park-fishing-fish-list-area03-description-2",
+            "text": "可以在图鉴中查看钓到的鱼的信息！\n\n钓到的鱼的种类越多，获得的奖励就越多！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park-fishing-rod-level-description-1",
+        "data": {
+            "id": "la-tips-game_screen-park-fishing-rod-level-description-1",
+            "text": "在Bae's 混沌杂货，可以花费Holo金币强化钓竿！\n\n<color=#ff3bc8>使用强化后的钓竿，会更容易钓到鱼</color>！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park-fishing-top-area03-1",
+        "data": {
+            "id": "la-tips-game_screen-park-fishing-top-area03-1",
+            "text": "选择鱼饵，开始钓鱼吧！\n\n<color=#ff3bc8>鱼饵、钓场和时间段不同，容易上钩的鱼也可能不一样</color>哦。"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park-fishing-top-area03-2",
+        "data": {
+            "id": "la-tips-game_screen-park-fishing-top-area03-2",
+            "text": "鱼咬钩时点击画面，就会进入迷你游戏环节！\n\n<color=#ff3bc8>反复长按或松开渔轮，让鱼保持在钓鱼条内！</color>\n鱼在钓鱼条内时，右侧的进度条就会增加！\n\n进度条蓄满时，就能把鱼钓上来了！"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park-time-period-area03-description-1",
+        "data": {
+            "id": "la-tips-game_screen-park-time-period-area03-description-1",
+            "text": "在波波波开心营地可以更改时间哦！\n\n<color=#ff3bc8>不同时间段钓到的鱼也会不同</color>！\n\n在<color=#ff3bc8>鱼类图鉴</color>中可以查看鱼的出没时间！"
+        }
+    },
+    {
         "id": "la-tips-game_screen-park_change_playable-description-1",
         "data": {
             "id": "la-tips-game_screen-park_change_playable-description-1",
@@ -1162,6 +1204,13 @@
         }
     },
     {
+        "id": "la-tips-hint-live_option_detail_special_skill_timing_display-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_special_skill_timing_display-description-1",
+            "text": "可选择用“线条”或“图标”来显示SP技能发动的时间点。"
+        }
+    },
+    {
         "id": "la-tips-hint-live_option_detail_tap_effect-description-1",
         "data": {
             "id": "la-tips-hint-live_option_detail_tap_effect-description-1",
@@ -1173,6 +1222,34 @@
         "data": {
             "id": "la-tips-hint-live_option_detail_tap_vibration-description-1",
             "text": "设置点击时设备震动的强度。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_judgement_display_settingdescription-1",
+        "data": {
+            "id": "la-tips-hint-live_option_judgement_display_settingdescription-1",
+            "text": "可以选择画面上展示的判定级别。\n级别高于您的设置的判定，在演出途中会被隐藏。\n被隐藏的判定也可以在结算画面查看统计结果。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_judgement_display_typedescription-1",
+        "data": {
+            "id": "la-tips-hint-live_option_judgement_display_typedescription-1",
+            "text": "可以选择让判定文字固定在画面中央，或改为出现在对应的轨道处。\n若选择“出现在轨道处”，还可以进一步选择将显示判定文字的轨道分割为2/3/4/5/6/12条。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_judgement_positiondescription-1",
+        "data": {
+            "id": "la-tips-hint-live_option_judgement_positiondescription-1",
+            "text": "可以调整判定文字显示的位置。\n数值高，判定文字会显示在画面上方；数值低则显示在画面下方。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_judgement_timing_positiondescription-1",
+        "data": {
+            "id": "la-tips-hint-live_option_judgement_timing_positiondescription-1",
+            "text": "可以选择让FAST/SLOW字样显示在判定文字的上方或下方。"
         }
     },
     {
@@ -1204,10 +1281,31 @@
         }
     },
     {
+        "id": "la-tips-hint-live_option_lane_split-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_lane_split-description-1",
+            "text": "可调整轨道上显示的分隔线数量。"
+        }
+    },
+    {
         "id": "la-tips-hint-live_option_lane_top_cut-description-1",
         "data": {
             "id": "la-tips-hint-live_option_lane_top_cut-description-1",
             "text": "截断轨道上半部分，可以调整音符出现并开始落下的位置。\n\n音符的显示时间，是指从音符出现到抵达判定线的时间（毫秒）。\n\n如果已经截断轨道上方，则“显示时间”为从上方截断位置到抵达判定线的时间；\n如果截断轨道下方时选择了高于判定线的位置，则“显示时间”为从上方截断位置到抵达下方截断位置的时间。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_lane_width_setting-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_lane_width_setting-description-1",
+            "text": "可调整轨道的宽度。\n数值越大，轨道的宽度越大。\n调大轨道宽度，可能会导致部分UI与轨道重合。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_low_life_warning_effectdescription-1",
+        "data": {
+            "id": "la-tips-hint-live_option_low_life_warning_effectdescription-1",
+            "text": "可以选择开启/关闭当生命值较低时出现的红色闪烁特效。"
         }
     },
     {
@@ -1232,10 +1330,24 @@
         }
     },
     {
+        "id": "la-tips-hint-live_option_note_height_pct_setting-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_note_height_pct_setting-description-1",
+            "text": "可调整音符的长度。\n数值越大，音符的纵向跨度越大。"
+        }
+    },
+    {
         "id": "la-tips-hint-live_option_note_speed-description-1",
         "data": {
             "id": "la-tips-hint-live_option_note_speed-description-1",
             "text": "设置音符落下的速度。\n\n点击左右按键，能以0.1或0.5的刻度进行调整。\n点击数值部分，还能对小数点后第2位进行进一步微调。\n\n音符的显示时间，是指音符显示在画面内的时间（毫秒）。\n更改音符的速度，或截断轨道的上半/下半部分，该数值也会随之变动。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_note_width_pct_setting-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_note_width_pct_setting-description-1",
+            "text": "可调整音符的宽度。\n数值越大，音符的横向跨度越大。"
         }
     },
     {
@@ -1278,6 +1390,13 @@
         "data": {
             "id": "la-tips-hint-live_option_skin_note-description-1",
             "text": "更改音符外观。"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_penlight-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_penlight-description-1",
+            "text": "选择普通背景时，可以修改背景中显示的应援棒颜色。配色以当前选择的领队holo成员为准。\n“原创配色”为游戏中使用的颜色，“演出配色”为在hololive fes.等活动中实际使用的应援棒颜色。"
         }
     },
     {
@@ -1382,14 +1501,14 @@
         "id": "la-tips-hint-marathon_mission-description-5",
         "data": {
             "id": "la-tips-hint-marathon_mission-description-5",
-            "text": "巧妙利用<color=#ff3bc8>活动加成</color>，拿到更多活动Pt和活动徽章吧！\n\n其中包含能够提升演出活动Pt和活动徽章的<color=#ff3bc8>获得加成</color>！\n\n获得加成共有3种！\n\n▼特定成员加成\n・将要求的特定成员编入小队挑战演出，即可提升奖励获得量\n\n▼holo成员加成\n・将要求的holo成员编入小队挑战演出，即可提升奖励获得量\n\n▼绽放加成\n・根据编入小队的成员的绽放状况，即可提升演出奖励的获得量\n\n另外，活动加成还能够提升迷你游戏活动Pt和活动徽章的获得量哦！\n\n▼迷你游戏加成\n・游玩特定的迷你游戏，即可提升奖励获得量\n\n▼特定成员加成\n・只需持有要求的成员，即可提升奖励获得量\n\n※详情请查看［活动］→［活动加成］。"
+            "text": "巧妙利用<color=#ff3bc8>活动加成</color>，拿到更多活动徽章吧！\n\n活动加成包含能够提升演出活动徽章获得量的<color=#ff3bc8>获得加成</color>！\n\n获得加成共有3种！\n\n▼特定成员加成\n・将要求的特定成员编入小队挑战演出，即可提升奖励获得量\n\n▼Holo成员加成\n・将要求的Holo成员编入小队挑战演出，即可提升奖励获得量\n\n▼绽放加成\n・根据编入小队的成员的绽放状况，即可提升演出奖励的获得量\n\n另外，活动加成还能够提升迷你游戏活动徽章的获得量哦！\n\n▼迷你游戏加成\n・游玩特定的迷你游戏，即可提升奖励获得量\n\n▼特定成员加成\n・只需持有要求的成员，即可提升奖励获得量\n\n※详情请查看［活动］→［活动加成］。"
         }
     },
     {
         "id": "la-tips-hint-marathon_mission-description-6",
         "data": {
             "id": "la-tips-hint-marathon_mission-description-6",
-            "text": "<color=#ff3bc8>得分越高</color>，活动Pt和活动徽章的获得量就<color=#ff3bc8>越多</color>！\n\n▼如何获得活动Pt和活动徽章\n・自动演出也可以获得\n・消耗的演出能量越多，获得量越多\n・乐曲越长，获得量越多"
+            "text": "<color=#ff3bc8>得分越高</color>，活动徽章的获得量就<color=#ff3bc8>越多</color>！\n\n▼如何获得活动徽章\n・自动演出也可以获得\n・消耗的演出能量越多，获得量越多\n・乐曲越长，获得量越多"
         }
     },
     {
@@ -1715,6 +1834,20 @@
         }
     },
     {
+        "id": "la-tips-park-boat-area03-description-1",
+        "data": {
+            "id": "la-tips-park-boat-area03-description-1",
+            "text": "汽水泡泡海湾，可以乘船游览周边地区！\n\n搭乘附近的船只，探索周边美景吧！"
+        }
+    },
+    {
+        "id": "la-tips-park-boat-area03-level-description-1",
+        "data": {
+            "id": "la-tips-park-boat-area03-level-description-1",
+            "text": "在小夜实验室海洋分部，可以消耗指定素材来强化汽艇！\n\n<color=#ff3bc8>打造更强的汽艇，前往更深处的海域吧！</color>"
+        }
+    },
+    {
         "id": "la-tips-park-character-shop-area01-balloon-description-1",
         "data": {
             "id": "la-tips-park-character-shop-area01-balloon-description-1",
@@ -1768,6 +1901,55 @@
         "data": {
             "id": "la-tips-park-character-shop-area02-hair-accessory-description-2",
             "text": "获得的兔耳朵礼帽可以让对应的holo成员戴上哦！"
+        }
+    },
+    {
+        "id": "la-tips-park-fishing-area03-description-1",
+        "data": {
+            "id": "la-tips-park-fishing-area03-description-1",
+            "text": "在钓场可以钓鱼！\n\n前往散布在区域中的钓场，尽情享受钓鱼的乐趣吧！"
+        }
+    },
+    {
+        "id": "la-tips-park-fishing-fish-list-area03-description-1",
+        "data": {
+            "id": "la-tips-park-fishing-fish-list-area03-description-1",
+            "text": "钓到鱼后可以获得<color=#ff3bc8>汽水泡泡代币</color>！\n\n根据鱼的重量和稀有度，还能提升代币获得量哦！"
+        }
+    },
+    {
+        "id": "la-tips-park-fishing-fish-list-area03-description-2",
+        "data": {
+            "id": "la-tips-park-fishing-fish-list-area03-description-2",
+            "text": "可以在图鉴中查看钓到的鱼的信息！\n\n钓到的鱼的种类越多，获得的奖励就越多！"
+        }
+    },
+    {
+        "id": "la-tips-park-fishing-rod-level-area03-description-1",
+        "data": {
+            "id": "la-tips-park-fishing-rod-level-area03-description-1",
+            "text": "在Bae's 混沌杂货，可以花费Holo金币强化钓竿！\n\n<color=#ff3bc8>使用强化后的钓竿，会更容易钓到鱼</color>！"
+        }
+    },
+    {
+        "id": "la-tips-park-fishing-top-area03-description-1",
+        "data": {
+            "id": "la-tips-park-fishing-top-area03-description-1",
+            "text": "选择鱼饵，开始钓鱼吧！\n\n<color=#ff3bc8>鱼饵、钓场和时间段不同，容易上钩的鱼也可能不一样</color>哦。"
+        }
+    },
+    {
+        "id": "la-tips-park-fishing-top-area03-description-2",
+        "data": {
+            "id": "la-tips-park-fishing-top-area03-description-2",
+            "text": "鱼咬钩时点击画面，就会进入迷你游戏环节！\n\n<color=#ff3bc8>反复长按或松开渔轮，让鱼保持在钓鱼条内！</color>\n鱼在钓鱼条内时，右侧的进度条就会增加！\n\n进度条蓄满时，就能把鱼钓上来了！"
+        }
+    },
+    {
+        "id": "la-tips-park-fishingshop-area03-description-1",
+        "data": {
+            "id": "la-tips-park-fishingshop-area03-description-1",
+            "text": "在Bae's 混沌杂货，可以用Holo金币兑换钓饵！\n\n<color=#ff3bc8>不同的钓饵能钓到的鱼也不同</color>！\n\n兑换钓饵，钓上多多的鱼吧！"
         }
     },
     {
@@ -1943,6 +2125,62 @@
         "data": {
             "id": "la-tips-skill-tree-description-2",
             "text": "解锁格子所需的<color=#ff3bc8>各种方块，可以通过兑换所或Holowork等途径获得</color>！\n\n<color=#ff3bc8>提升Holo成员Rank，就能获得Holo成员Pt</color>！\n\n提升Rank所需的经验值，可以通过达成各个成员的成就来获得！"
+        }
+    },
+    {
+        "id": "la-tips-splash_ball-description-1",
+        "data": {
+            "id": "la-tips-splash_ball-description-1",
+            "text": "水球大战可以随时在汽水泡泡海湾的<color=#ff3bc8>水花运动场</color>进行游玩！"
+        }
+    },
+    {
+        "id": "la-tips-splash_ball-description-2",
+        "data": {
+            "id": "la-tips-splash_ball-description-2",
+            "text": "奖励会根据队伍名次、个人成绩进行发放！\n\n<color=#ff3bc8>获得第1名的队伍中，得到最多积分的玩家</color>会被选为<color=#ff3bc8>MVP</color>！\n积极运球顶球，在赛场上大展身手吧！"
+        }
+    },
+    {
+        "id": "la-tips-splash_ball-description-3",
+        "data": {
+            "id": "la-tips-splash_ball-description-3",
+            "text": "排行榜会记录最佳得分！ \n\n※如果最佳得分相同，则提交成绩较早的玩家排名更靠前。"
+        }
+    },
+    {
+        "id": "la-tips-splash_ball-quest-description-1",
+        "data": {
+            "id": "la-tips-splash_ball-quest-description-1",
+            "text": "水球大战是分为3队，每队3人的对战游戏哦！\n\n<color=#ff3bc8>将球射入敌方的球门里就能得分，努力达到要求的分数吧！</color>\n\n不过要注意，<color=#ff3bc8>如果往己方球门里进乌龙球，则会扣分</color>！\n\n比赛时间到，或任意队伍得分到达目标分数或归零，游戏就结束了！"
+        }
+    },
+    {
+        "id": "la-tips-splash_ball-quest-description-2",
+        "data": {
+            "id": "la-tips-splash_ball-quest-description-2",
+            "text": "▼操作方法\n・移动：<color=#ff3bc8>点击移动汽艇</color>\n\n・跳跃：<color=#ff3bc8>点击一下，汽艇就会跳起</color>\n\n・加速：<color=#ff3bc8>点击后短时间内速度提升</color>\n\n※一旦使用加速，在下次计量槽满之前将无法再次使用。"
+        }
+    },
+    {
+        "id": "la-tips-splash_ball-quest-description-3",
+        "data": {
+            "id": "la-tips-splash_ball-quest-description-3",
+            "text": "用汽艇来顶球，将球射入敌方的球门吧！\n\n<color=#ff3bc8>如果汽艇正好顶到球的中心，会让球飞得更远哦</color>！"
+        }
+    },
+    {
+        "id": "la-tips-splash_ball-quest-description-4",
+        "data": {
+            "id": "la-tips-splash_ball-quest-description-4",
+            "text": "场地上存在着<color=#ff3bc8>各种不同分值和重量的球</color>！\n\n有时，球甚至还可能会“大量涌现”？！"
+        }
+    },
+    {
+        "id": "la-tips-splash_ball-quest-description-5",
+        "data": {
+            "id": "la-tips-splash_ball-quest-description-5",
+            "text": "将球顶出自家的阵地，就能获得<color=#ff3bc8>“防守点数”</color>！\n\n<color=#ff3bc8>成功获得“防守点数”时，球会飞得比平时更快更远！</color>\n\n※获取“防守点数”有冷却时间。\n※若某颗球最后一次是由自己或队友触碰的，则将其顶出己方阵地也无法获得“防守点数”。"
         }
     },
     {

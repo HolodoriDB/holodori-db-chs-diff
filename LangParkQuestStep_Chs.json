@@ -931,6 +931,384 @@
         }
     },
     {
+        "id": "la-quest-area-a03-01-1-1",
+        "data": {
+            "id": "la-quest-area-a03-01-1-1",
+            "text": "海风吹来胜利的气息！在青之垂钓场与挑战钓鱼的{character}汇合。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-01-1-2",
+        "data": {
+            "id": "la-quest-area-a03-01-1-2",
+            "text": "别看漏水面的动向！读懂波形，钓起2条★2以上的鱼吧。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-01-1-3",
+        "data": {
+            "id": "la-quest-area-a03-01-1-3",
+            "text": "有手感了吗？在青之垂钓场与{character}查看钓鱼成果。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-02-1-1",
+        "data": {
+            "id": "la-quest-area-a03-02-1-1",
+            "text": "波浪声是两人的专属背景音。与海边的玛琳和菈米对话。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-02-1-2",
+        "data": {
+            "id": "la-quest-area-a03-02-1-2",
+            "text": "在海风的陪伴下，让练习圆满收官吧。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-02-1-3",
+        "data": {
+            "id": "la-quest-area-a03-02-1-3",
+            "text": "刻在蔚蓝海面上的努力痕迹。前往海边，与感到充实的玛琳和菈米对话。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-03-1-1",
+        "data": {
+            "id": "la-quest-area-a03-03-1-1",
+            "text": "为了钓大鱼，要先放长线？与Bae's 混沌杂货的{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-03-1-2",
+        "data": {
+            "id": "la-quest-area-a03-03-1-2",
+            "text": "目标大丰收！磨练钓鱼技巧，搜集1000个汽水泡泡代币吧。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-03-1-3",
+        "data": {
+            "id": "la-quest-area-a03-03-1-3",
+            "text": "这就是钓师的实力！直击青之垂钓场，看看依然兴奋的{character}在做什么吧。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-04-1-1",
+        "data": {
+            "id": "la-quest-area-a03-04-1-1",
+            "text": "循着愉快的笑声，与在海边心情绝佳的{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-04-1-2",
+        "data": {
+            "id": "la-quest-area-a03-04-1-2",
+            "text": "为了追寻还未见过的影子，坚持垂钓，搜集15种不同的鱼吧。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-04-1-3",
+        "data": {
+            "id": "la-quest-area-a03-04-1-3",
+            "text": "好在意桶里有什么！在菈米的冰天雪堡与{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-05-1-1",
+        "data": {
+            "id": "la-quest-area-a03-05-1-1",
+            "text": "Kobo和拉普拉斯在菈米的冰天雪堡附近探头探脑。去搭话吧。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-05-1-2",
+        "data": {
+            "id": "la-quest-area-a03-05-1-2",
+            "text": "这样就又能钓鱼了！在区域入口附近找到钓竿，送去给{character}吧。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-05-1-3",
+        "data": {
+            "id": "la-quest-area-a03-05-1-3",
+            "text": "找到了心爱的钓竿，总算告一段落。前往菈米的冰天雪堡，寻找Kobo和拉普拉斯。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-06-1-1",
+        "data": {
+            "id": "la-quest-area-a03-06-1-1",
+            "text": "空和波尔卡好像在演出舞台唱歌。沿着歌声去找她们吧。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-06-1-2",
+        "data": {
+            "id": "la-quest-area-a03-06-1-2",
+            "text": "在水花运动场与{character}对话，一起玩水球大战吧。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-06-1-3",
+        "data": {
+            "id": "la-quest-area-a03-06-1-3",
+            "text": "水花飞溅，意犹未尽？火热的对决结束后需要冷却，与空和波尔卡对话。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-07-1-1",
+        "data": {
+            "id": "la-quest-area-a03-07-1-1",
+            "text": "闪耀的笑容点缀海滩。去找正在愉快谈天的Ina'nis和Kronii吧。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-07-1-2",
+        "data": {
+            "id": "la-quest-area-a03-07-1-2",
+            "text": "向着更高的境界迈步。解锁150个Holo成员面板吧。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-07-1-3",
+        "data": {
+            "id": "la-quest-area-a03-07-1-3",
+            "text": "愉快的时光还在继续？前往海边，与欢闹的Ina'nis和Kronii对话。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-08-1-1",
+        "data": {
+            "id": "la-quest-area-a03-08-1-1",
+            "text": "在波浪声中商讨对策。与玛琳公主号的小夜璃和玛琳汇合。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-08-1-2",
+        "data": {
+            "id": "la-quest-area-a03-08-1-2",
+            "text": "海上大投资？！与{character}对话，进一步改造玛琳公主号。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-08-1-3",
+        "data": {
+            "id": "la-quest-area-a03-08-1-3",
+            "text": "船体脱胎换骨，大家击掌欢呼！与结束改造的小夜璃和玛琳对话。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-09-1-1",
+        "data": {
+            "id": "la-quest-area-a03-09-1-1",
+            "text": "拯救“空军”危机！前往菈米的冰天雪堡，与菈米和巫女汇合。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-09-1-2",
+        "data": {
+            "id": "la-quest-area-a03-09-1-2",
+            "text": "渔轮嘶鸣的世纪对决！用你最擅长的钓技，钓上1条★4以上的大家伙吧。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-09-1-3",
+        "data": {
+            "id": "la-quest-area-a03-09-1-3",
+            "text": "这就是大师的操竿技巧吗？！在菈米的冰天雪堡，向菈米和巫女打听两人的钓鱼成果。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-10-1-1",
+        "data": {
+            "id": "la-quest-area-a03-10-1-1",
+            "text": "水花飞溅，笑声四溢！与在海边专心玩耍的{character}搭话。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-10-1-2",
+        "data": {
+            "id": "la-quest-area-a03-10-1-2",
+            "text": "登上水灵灵的舞台！与演出舞台的{character}一起歌唱。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-10-1-3",
+        "data": {
+            "id": "la-quest-area-a03-10-1-3",
+            "text": "跳舞跳得衣服都干了？在演出舞台与心满意足的{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-11-1-1",
+        "data": {
+            "id": "la-quest-area-a03-11-1-1",
+            "text": "好像看到了拨开水面的巨影？前往波可波可灯塔，拜访正在对话的亚绮和绫目。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-11-1-2",
+        "data": {
+            "id": "la-quest-area-a03-11-1-2",
+            "text": "别看漏了咬钩的瞬间！专心致志，钓起1条★5的鱼吧！"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-11-1-3",
+        "data": {
+            "id": "la-quest-area-a03-11-1-3",
+            "text": "前往因大丰收而沸腾的波可波可灯塔，与笑意难掩的亚绮和绫目汇合。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-12-1-1",
+        "data": {
+            "id": "la-quest-area-a03-12-1-1",
+            "text": "突发事件？！赶往波波波开心营地，去找波尔卡和璐娜吧。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-12-1-2",
+        "data": {
+            "id": "la-quest-area-a03-12-1-2",
+            "text": "球形的影子在水面上浮浮沉沉。前往呜帕欧天堂，寻找被冲到这里的沙滩球吧。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-12-1-3",
+        "data": {
+            "id": "la-quest-area-a03-12-1-3",
+            "text": "成功救回沙滩球！与波波波开心营地的波尔卡和璐娜对话。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-13-1-1",
+        "data": {
+            "id": "la-quest-area-a03-13-1-1",
+            "text": "寻求月光下的浪漫。与一条贵宾会所的{character}汇合吧。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-13-1-2",
+        "data": {
+            "id": "la-quest-area-a03-13-1-2",
+            "text": "月夜促成了奇迹的邂逅。钓上出现在夜晚海域的鱼吧。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-13-1-3",
+        "data": {
+            "id": "la-quest-area-a03-13-1-3",
+            "text": "{character}因为夜晚的青之垂钓场十分兴奋。问问她的感想吧！"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-14-1-1",
+        "data": {
+            "id": "la-quest-area-a03-14-1-1",
+            "text": "盯着浮标等待的时光也是特别的回忆。与波可波可灯塔的{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-14-1-2",
+        "data": {
+            "id": "la-quest-area-a03-14-1-2",
+            "text": "这就是钓师的证明！在鱼类图鉴上记录总计60种鱼吧！"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-14-1-3",
+        "data": {
+            "id": "la-quest-area-a03-14-1-3",
+            "text": "达成目标了？！在波可波可灯塔与{character}分享喜悦。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-15-1-1",
+        "data": {
+            "id": "la-quest-area-a03-15-1-1",
+            "text": "波浪的旋律治愈人心？与正在海滩放松的小夜璃和一对话。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-15-1-2",
+        "data": {
+            "id": "la-quest-area-a03-15-1-2",
+            "text": "培养默契，筹备正式表演！与在舞台等待的{character}开始特训！"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-15-1-3",
+        "data": {
+            "id": "la-quest-area-a03-15-1-3",
+            "text": "笑容灿烂，汗水畅快！向练习后正在舞台上休息的小夜璃和一询问感想。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-16-1-1",
+        "data": {
+            "id": "la-quest-area-a03-16-1-1",
+            "text": "正在构思最棒的表演？！与在演出舞台谈话的Baelz和Kobo汇合吧。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-16-1-2",
+        "data": {
+            "id": "la-quest-area-a03-16-1-2",
+            "text": "唤醒隐藏的才能！将1位成员特训到4阶段。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-16-1-3",
+        "data": {
+            "id": "la-quest-area-a03-16-1-3",
+            "text": "努力不会背叛你。快去找在舞台上大放异彩的Baelz和Kobo吧。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-17-1-1",
+        "data": {
+            "id": "la-quest-area-a03-17-1-1",
+            "text": "还有改善的空间？！在玛琳公主号与{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-17-1-2",
+        "data": {
+            "id": "la-quest-area-a03-17-1-2",
+            "text": "将梦想的点子化为现实！与{character}对话，让玛琳公主号继续进化吧！"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-18-1-1",
+        "data": {
+            "id": "la-quest-area-a03-18-1-1",
+            "text": "灵感让人心潮澎湃！在玛琳公主号听听{character}所说的好方案！"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-18-1-2",
+        "data": {
+            "id": "la-quest-area-a03-18-1-2",
+            "text": "变成特等席！与{character}一起升级玛琳公主号吧。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-19-1-1",
+        "data": {
+            "id": "la-quest-area-a03-19-1-1",
+            "text": "最后用美味饮品做点缀。与玛琳公主号的{character}汇合。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-19-1-2",
+        "data": {
+            "id": "la-quest-area-a03-19-1-2",
+            "text": "将海上的特等席变得更豪华！与{character}一起强化玛琳公主号。"
+        }
+    },
+    {
         "id": "la-quest-chr-00001-1-1",
         "data": {
             "id": "la-quest-chr-00001-1-1",
@@ -2919,6 +3297,153 @@
         }
     },
     {
+        "id": "la-quest-daily-fishing_coin-a03-00023-1-1",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00023-1-1",
+            "text": "{character}好像要在波可波可灯塔钓鱼。看看情况吧。"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00023-1-2",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00023-1-2",
+            "text": "抓住胜利！钓鱼换取汽水泡泡代币吧。"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00023-1-3",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00023-1-3",
+            "text": "The Winner！与发出胜利咆哮的{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00030-1-1",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00030-1-1",
+            "text": "Bae's 混沌杂货好像进了一批新钓竿。跟{character}对话吧。"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00030-1-2",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00030-1-2",
+            "text": "新钓竿的使用体验如何呢？钓鱼换取汽水泡泡代币吧。"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00030-1-3",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00030-1-3",
+            "text": "新钓竿真厉害！与心情绝佳的{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00034-1-1",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00034-1-1",
+            "text": "青之垂钓场内，{character}的钓竿一动不动。试着搭话吧。"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00034-1-2",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00034-1-2",
+            "text": "接下来才是重头戏哦！钓鱼换取汽水泡泡代币吧。"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00034-1-3",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00034-1-3",
+            "text": "大丰收啊！与笑意难掩的{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00037-1-1",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00037-1-1",
+            "text": "成果为0？前往菈米的冰天雪堡，探望垂头丧气的{character}。"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00037-1-2",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00037-1-2",
+            "text": "Believe In Myself！ 钓鱼换取汽水泡泡代币吧。"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00037-1-3",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00037-1-3",
+            "text": "一切都如“大脑”所料？与笑眯眯的{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-03009-1-1",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-03009-1-1",
+            "text": "好像在波波波开心营地睡得很香啊。与睡眼惺忪的{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-03009-1-2",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-03009-1-2",
+            "text": "把垂钓玩出花来！钓鱼换取汽水泡泡代币吧。"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-03009-1-3",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-03009-1-3",
+            "text": "这技术简直称得上天才？与心情很好的{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-04012-1-1",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-04012-1-1",
+            "text": "情绪好像很亢奋？与波可波可灯塔的{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-04012-1-2",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-04012-1-2",
+            "text": "老鼠一出手，绝对大丰收！钓鱼换取汽水泡泡代币吧。"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-04012-1-3",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-04012-1-3",
+            "text": "这就是钓鱼女王的实力！与得意洋洋的{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-06003-1-1",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-06003-1-1",
+            "text": "前往菈米的冰天雪堡，与好像很冷的{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-06003-1-2",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-06003-1-2",
+            "text": "斗志燃烧得连雪都能融化？钓鱼换取汽水泡泡代币吧。"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-06003-1-3",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-06003-1-3",
+            "text": "来，是时候喊出胜利口号了！与斗志燃烧的{character}对话。"
+        }
+    },
+    {
         "id": "la-quest-daily-group-04016-1-1",
         "data": {
             "id": "la-quest-daily-group-04016-1-1",
@@ -3714,6 +4239,104 @@
         "data": {
             "id": "la-quest-daily-live-06005-1-2",
             "text": "想尝试的东西有好多呢！在演出舞台与{character}开始课程训练。"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00023-1-1",
+        "data": {
+            "id": "la-quest-daily-live-a03-00023-1-1",
+            "text": "{character}好像正在一条贵宾会所休息。去搭话吧。"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00023-1-2",
+        "data": {
+            "id": "la-quest-daily-live-a03-00023-1-2",
+            "text": "赶上了吗？与演出舞台的{character}一起练习吧。"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00030-1-1",
+        "data": {
+            "id": "la-quest-daily-live-a03-00030-1-1",
+            "text": "{character}好像正在呜帕欧天堂构思演出效果哦。去看看情况吧！"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00030-1-2",
+        "data": {
+            "id": "la-quest-daily-live-a03-00030-1-2",
+            "text": "构思的最终结果是？与前往演出舞台的{character}一起练习吧。"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00034-1-1",
+        "data": {
+            "id": "la-quest-daily-live-a03-00034-1-1",
+            "text": "她们好像在玛琳公主号直播。跟{character}搭话吧。"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00034-1-2",
+        "data": {
+            "id": "la-quest-daily-live-a03-00034-1-2",
+            "text": "向在演出舞台积极准备的{character}搭话，开始练习。"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00037-1-1",
+        "data": {
+            "id": "la-quest-daily-live-a03-00037-1-1",
+            "text": "{character}好像正在演出舞台练习。去看看吧。"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00037-1-2",
+        "data": {
+            "id": "la-quest-daily-live-a03-00037-1-2",
+            "text": "向充满干劲的{character}搭话，开始充满智慧的练习！"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-03009-1-1",
+        "data": {
+            "id": "la-quest-daily-live-a03-03009-1-1",
+            "text": "{character}正笑眯眯地摸着肚子。去看看情况吧。"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-03009-1-2",
+        "data": {
+            "id": "la-quest-daily-live-a03-03009-1-2",
+            "text": "零食之力全开！与演出舞台的{character}开始练习吧。"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-04012-1-1",
+        "data": {
+            "id": "la-quest-daily-live-a03-04012-1-1",
+            "text": "{character}好像在小夜实验室海洋分部保养汽艇。去看看吧。"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-04012-1-2",
+        "data": {
+            "id": "la-quest-daily-live-a03-04012-1-2",
+            "text": "{character}驾驶崭新的汽艇前往演出舞台。与她一起练习吧。"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-06003-1-1",
+        "data": {
+            "id": "la-quest-daily-live-a03-06003-1-1",
+            "text": "{character}好像斗志昂扬。去演出舞台看看吧！"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-06003-1-2",
+        "data": {
+            "id": "la-quest-daily-live-a03-06003-1-2",
+            "text": "不擅长的舞步要跳到熟练为止！与{character}一起练习吧。"
         }
     },
     {
@@ -5373,6 +5996,468 @@
         "data": {
             "id": "la-quest-main-w1-02-12-1-5",
             "text": "让心意乘上旋律。前往大家等候的赌场区，完成最棒的演出吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-01-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-01-1-1",
+            "text": "隐约能听到笑声。前往热闹的holo之家跟大家汇合吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-01-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-01-1-2",
+            "text": "这就是清新的海风气息！前往新区域感受开阔的新天地吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-02-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-02-1-1",
+            "text": "等待的时间也不能浪费！在汽艇送来之前，唱出美妙的音色吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-02-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-02-1-2",
+            "text": "远处会有什么在等待呢？驾驶汽艇，冲向未知的近海吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-1",
+            "text": "发生了意外情况？！与门厅中不知所措的{character}搭话。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-2",
+            "text": "在海面上筑起希望！前往门厅向{character}搭话。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-3",
+            "text": "感觉能钓上大家伙！完成青之垂钓场的建造吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-4",
+            "text": "全心关注水面上的浮漂！成功钓鱼，展现自己的实力吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-5",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-5",
+            "text": "钓到鱼啦！与{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-6",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-6",
+            "text": "高手认证的讲究好店！竣工Bae's 混沌杂货，为钓上大鱼做好准备。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-7",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-7",
+            "text": "保证鱼儿们走不动道！在Bae's 混沌杂货购买最棒的鱼饵吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-8",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-8",
+            "text": "咬钩率翻倍？！使用新获得的鱼饵，在青之垂钓场钓上3条鱼吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-9",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-9",
+            "text": "钓到鱼啦！与{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-04-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-04-1-1",
+            "text": "锤声铿锵！与勉力施工的{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-04-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-04-1-2",
+            "text": "将最奢侈的休憩化为现实！完成一条贵宾会所，大家一起干杯庆祝吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-04-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-04-1-3",
+            "text": "在一条贵宾会所兑换精美商品吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-04-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-04-1-4",
+            "text": "与正在一条贵宾会所优雅驻足（？）的{character}搭话。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-05-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-05-1-1",
+            "text": "加入热闹的圈子。与一条贵宾会所的{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-05-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-05-1-2",
+            "text": "浪击海岸的尖端设施！完成小夜实验室海洋分部，开始研究吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-05-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-05-1-3",
+            "text": "满心雀跃☆全副武装！在小夜实验室海洋分部改造汽艇吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-05-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-05-1-4",
+            "text": "驶向未知的海域！驾驶新的汽艇，前往远洋海面吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-06-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-06-1-1",
+            "text": "乘风破浪，前往新天地。转舵驶向未曾到达的海域吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-06-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-06-1-2",
+            "text": "头脑风暴！前往门厅向{character}搭话，参加会议吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-06-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-06-1-3",
+            "text": "想象狂热的舞台景色！前往舞台施工地点，寻找正在构思的{character}。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-06-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-06-1-4",
+            "text": "与演出舞台的{character}搭话，在最棒的舞台上展开第一次练习！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-07-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-07-1-1",
+            "text": "设施打扫得怎么样啦？与青之垂钓场的{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-07-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-07-1-2",
+            "text": "距离理想钓场就差最后一步！加快完成菈米的冰天雪堡吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-07-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-07-1-3",
+            "text": "在菈米的冰天雪堡钓上3条新鲜海获！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-07-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-07-1-4",
+            "text": "钓鱼大赛进入最终阶段！在菈米的冰天雪堡与{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-08-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-08-1-1",
+            "text": "钓鱼冠军究竟花落谁家？！在菈米的冰天雪堡与{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-08-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-08-1-2",
+            "text": "这个声音，是体育竞技的感觉？跟着拍球声前往门厅。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-08-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-08-1-3",
+            "text": "梦幻殿堂即将诞生！完成水花运动场，迎来欢乐时刻吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-08-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-08-1-4",
+            "text": "书写新的历史！前往完工的运动场，与{character}汇合！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-09-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-09-1-1",
+            "text": "门厅好像很热闹。与{character}对话吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-09-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-09-1-2",
+            "text": "将大家的牵绊化作实体。一口气完成玛琳公主号吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-1",
+            "text": "1分钟后开场！在门厅与准备预告直播的{character}搭话吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-10",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-10",
+            "text": "让汽艇进化吧！与小夜实验室海洋分部的{character}汇合。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-2",
+            "text": "钓师们的火热决斗！前往青之垂钓场，去找等待上场的{character}吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-3",
+            "text": "展示特训的成果吧！争做钓鱼大赛的主角，先完成钓3条鱼的目标！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-4",
+            "text": "钓鱼大赛仍在进行。与在青之垂钓场追逐胜利的{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-5",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-5",
+            "text": "撕裂寂静的一抛。钓起1条★2以上的鱼。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-6",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-6",
+            "text": "前往菈米的冰天雪堡，与{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-7",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-7",
+            "text": "隔着画面也要传递狂热！在预告直播上演出亮相吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-8",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-8",
+            "text": "接下来才是重头戏！快去找在水花运动场做准备的{character}吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-9",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-9",
+            "text": "意料之外的巨型嘉宾？！趁鲸鱼下潜，在holo之家与{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-11-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-11-1-1",
+            "text": "试试新生汽艇的实力！驾驶强化汽艇，全速冲向未知海域！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-11-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-11-1-2",
+            "text": "开始潜入鲸鱼的家！去看看海湾里到底有什么吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-11-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-11-1-3",
+            "text": "把海湾打扫得干干净净！在水花运动场商量计划吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-11-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-11-1-4",
+            "text": "巨大的邻居跑来玩了？！与水花运动场的{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-11-1-5",
+        "data": {
+            "id": "la-quest-main-w1-03-11-1-5",
+            "text": "清扫作战终于要实行了！在门厅与万事俱备的{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-11-1-6",
+        "data": {
+            "id": "la-quest-main-w1-03-11-1-6",
+            "text": "前后对比终于要揭晓了！再去海湾看看情况吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-12-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-12-1-1",
+            "text": "大家好像都在门厅里。与{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-12-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-12-1-2",
+            "text": "战况胶着！海上的大家依然斗志昂扬，与{character}对话吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-12-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-12-1-3",
+            "text": "快完工了吗？与波可波可灯塔的{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-12-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-12-1-4",
+            "text": "别错过那一瞬间的拉扯！在波可波可灯塔钓上3条鱼吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-12-1-5",
+        "data": {
+            "id": "la-quest-main-w1-03-12-1-5",
+            "text": "在激战中笑到最后的究竟是？！与波可波可灯塔的{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-13-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-13-1-1",
+            "text": "演出舞台好像很热闹。与兴奋的{character}对话。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-13-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-13-1-2",
+            "text": "圣地诞生只差最后一步！赶往在呜帕欧天堂指挥建造的{character}身边吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-14-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-14-1-1",
+            "text": "前往演出舞台，与正在筹备亮相演出的{character}搭话吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-14-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-14-1-2",
+            "text": "该启航了！为了不迟到，前往门厅与{character}汇合吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-14-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-14-1-3",
+            "text": "梦想即将化为实体！与波波波开心营地的{character}最终确认吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-14-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-14-1-4",
+            "text": "庆祝完工！在波波波开心营地与{character}享用美味的户外烤肉吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-15-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-15-1-1",
+            "text": "亮相的瞬间要与大家在一起！在演出舞台与{character}搭话。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-15-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-15-1-2",
+            "text": "终于要亮相了。去门厅与紧张的{character}汇合吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-15-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-15-1-3",
+            "text": "场内座无虚席！前往演出舞台吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-15-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-15-1-4",
+            "text": "亮相演出开幕！大家一起让它圆满成功吧！"
         }
     }
 ]
