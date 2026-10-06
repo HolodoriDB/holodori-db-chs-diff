@@ -98,6 +98,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_myself",
+            "text": "【透心凉的治愈一口 菈米】SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_myself",
+            "text": "【分享幸福Meat For You 波尔卡】SP技能"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00035_00035-5-uniq-0082-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-00035_00035-5-uniq-0082-00_myself",
@@ -186,6 +200,13 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_myself",
             "text": "【乘着海风的笑颜和声 奏】SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_myself",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】SP技能"
         }
     },
     {
@@ -1519,6 +1540,90 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00023-to-00030",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00023-to-00030",
+            "text": "【透心凉的治愈一口 菈米】玛琳&菈米"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00030-to-00023",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00030-to-00023",
+            "text": "【透心凉的治愈一口 菈米】菈米&玛琳"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00030-to-00034",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00030-to-00034",
+            "text": "【透心凉的治愈一口 菈米】菈米&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00030-to-00037",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00030-to-00037",
+            "text": "【透心凉的治愈一口 菈米】菈米&小夜璃"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00030-to-03009",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00030-to-03009",
+            "text": "【透心凉的治愈一口 菈米】菈米&Kobo"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00030-to-04012",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00030-to-04012",
+            "text": "【透心凉的治愈一口 菈米】菈米&Baelz"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00030-to-06003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00030-to-06003",
+            "text": "【透心凉的治愈一口 菈米】菈米&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00034-to-00030",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00034-to-00030",
+            "text": "【透心凉的治愈一口 菈米】波尔卡&菈米"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00037-to-00030",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00037-to-00030",
+            "text": "【透心凉的治愈一口 菈米】小夜璃&菈米"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_03009-to-00030",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_03009-to-00030",
+            "text": "【透心凉的治愈一口 菈米】Kobo&菈米"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_04012-to-00030",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_04012-to-00030",
+            "text": "【透心凉的治愈一口 菈米】Baelz&菈米"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_06003-to-00030",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_06003-to-00030",
+            "text": "【透心凉的治愈一口 菈米】莉莉华&菈米"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_00031-5-uniq-0025-00_00031-to-00030",
         "data": {
             "id": "la-name_live_dial_voice_card_00031-5-uniq-0025-00_00031-to-00030",
@@ -1600,6 +1705,90 @@
         "data": {
             "id": "la-name_live_dial_voice_card_00034-5-uniq-0027-00_myself",
             "text": "【Polka’s Phantasm 波尔卡】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00023-to-00034",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00023-to-00034",
+            "text": "【分享幸福Meat For You 波尔卡】玛琳&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00030-to-00034",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00030-to-00034",
+            "text": "【分享幸福Meat For You 波尔卡】菈米&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00034-to-00023",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00034-to-00023",
+            "text": "【分享幸福Meat For You 波尔卡】波尔卡&玛琳"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00034-to-00030",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00034-to-00030",
+            "text": "【分享幸福Meat For You 波尔卡】波尔卡&菈米"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00034-to-00037",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00034-to-00037",
+            "text": "【分享幸福Meat For You 波尔卡】波尔卡&小夜璃"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00034-to-03009",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00034-to-03009",
+            "text": "【分享幸福Meat For You 波尔卡】波尔卡&Kobo"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00034-to-04012",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00034-to-04012",
+            "text": "【分享幸福Meat For You 波尔卡】波尔卡&Baelz"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00034-to-06003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00034-to-06003",
+            "text": "【分享幸福Meat For You 波尔卡】波尔卡&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00037-to-00034",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00037-to-00034",
+            "text": "【分享幸福Meat For You 波尔卡】小夜璃&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_03009-to-00034",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_03009-to-00034",
+            "text": "【分享幸福Meat For You 波尔卡】Kobo&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_04012-to-00034",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_04012-to-00034",
+            "text": "【分享幸福Meat For You 波尔卡】Baelz&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_06003-to-00034",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_06003-to-00034",
+            "text": "【分享幸福Meat For You 波尔卡】莉莉华&波尔卡"
         }
     },
     {
@@ -2986,6 +3175,90 @@
         "data": {
             "id": "la-name_live_dial_voice_card_06003-5-uniq-0059-00_myself",
             "text": "【The CEO's Struggling Meal 莉莉华】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_00023-to-06003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_00023-to-06003",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】玛琳&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_00030-to-06003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_00030-to-06003",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】菈米&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_00034-to-06003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_00034-to-06003",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】波尔卡&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_00037-to-06003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_00037-to-06003",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】小夜璃&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_03009-to-06003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_03009-to-06003",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】Kobo&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_04012-to-06003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_04012-to-06003",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】Baelz&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_06003-to-00023",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_06003-to-00023",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】莉莉华&玛琳"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_06003-to-00030",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_06003-to-00030",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】莉莉华&菈米"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_06003-to-00034",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_06003-to-00034",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】莉莉华&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_06003-to-00037",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_06003-to-00037",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】莉莉华&小夜璃"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_06003-to-03009",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_06003-to-03009",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】莉莉华&Kobo"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_06003-to-04012",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_06003-to-04012",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】莉莉华&Baelz"
         }
     },
     {

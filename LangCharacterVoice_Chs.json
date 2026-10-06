@@ -1783,6 +1783,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-detail",
+            "text": "【透心凉的治愈一口 菈米】聊天"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-01",
+            "text": "【透心凉的治愈一口 菈米】绽放1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-02",
+            "text": "【透心凉的治愈一口 菈米】绽放2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-03",
+            "text": "【透心凉的治愈一口 菈米】绽放3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-04",
+            "text": "【透心凉的治愈一口 菈米】绽放4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-05",
+            "text": "【透心凉的治愈一口 菈米】绽放5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-00031_00031-5-uniq-0025-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-00031_00031-5-uniq-0025-00_card-detail",
@@ -1924,6 +1972,54 @@
         "data": {
             "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0027-00_card-potential-05",
             "text": "【变幻自如！波尔卡马戏团开演！ 波尔卡】 绽放5"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-detail",
+            "text": "【分享幸福Meat For You 波尔卡】聊天"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-01",
+            "text": "【分享幸福Meat For You 波尔卡】绽放1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-02",
+            "text": "【分享幸福Meat For You 波尔卡】绽放2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-03",
+            "text": "【分享幸福Meat For You 波尔卡】绽放3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-04",
+            "text": "【分享幸福Meat For You 波尔卡】绽放4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-05",
+            "text": "【分享幸福Meat For You 波尔卡】绽放5"
         }
     },
     {
@@ -3799,6 +3895,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-detail",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】聊天"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-01",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】绽放1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-02",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】绽放2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-03",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】绽放3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-04",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】绽放4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-05",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】绽放5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-06004_06004-5-uniq-0060-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-06004_06004-5-uniq-0060-00_card-detail",
@@ -4721,6 +4865,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-00030_00030-5-uniq-0089-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00030_00030-5-uniq-0089-00_skill-card",
+            "text": "【透心凉的治愈一口 菈米】技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00030_00030-5-uniq-0089-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00030_00030-5-uniq-0089-00_start-card",
+            "text": "【透心凉的治愈一口 菈米】演出开始"
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-00030_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-00030_myself-001",
@@ -4802,6 +4960,20 @@
         "data": {
             "id": "la-name_cv-live_cmn_chr-00034_00034-5-uniq-0027-00_start-card",
             "text": "【变幻自如！波尔卡马戏团开演！ 波尔卡】 演出开始"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00034_00034-5-uniq-0090-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00034_00034-5-uniq-0090-00_skill-card",
+            "text": "【分享幸福Meat For You 波尔卡】技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00034_00034-5-uniq-0090-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00034_00034-5-uniq-0090-00_start-card",
+            "text": "【分享幸福Meat For You 波尔卡】演出开始"
         }
     },
     {
@@ -5712,6 +5884,20 @@
         "data": {
             "id": "la-name_cv-live_cmn_chr-06003_06003-5-uniq-0059-00_start-card",
             "text": "【深夜的片刻喘息，CEO的极限饭 莉莉华】 演出开始"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-06003_06003-5-uniq-0091-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-06003_06003-5-uniq-0091-00_skill-card",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-06003_06003-5-uniq-0091-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-06003_06003-5-uniq-0091-00_start-card",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】演出开始"
         }
     },
     {
@@ -21836,6 +22022,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00023_00030-5-uniq-0089-00_00023-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00023_00030-5-uniq-0089-00_00023-to-00030",
+            "text": "【透心凉的治愈一口 菈米】玛琳&菈米"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00023_00030-5-uniq-0089-00_00030-to-00023",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00023_00030-5-uniq-0089-00_00030-to-00023",
+            "text": "【透心凉的治愈一口 菈米】菈米&玛琳"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00023_00030-to-00023",
         "data": {
             "id": "la-name_cv-live_dial_chr-00023_00030-to-00023",
@@ -21854,6 +22054,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00023_00032-to-00023",
             "text": "牡丹&玛琳"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00023_00034-5-uniq-0090-00_00023-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00023_00034-5-uniq-0090-00_00023-to-00034",
+            "text": "【分享幸福Meat For You 波尔卡】玛琳&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00023_00034-5-uniq-0090-00_00034-to-00023",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00023_00034-5-uniq-0090-00_00034-to-00023",
+            "text": "【分享幸福Meat For You 波尔卡】波尔卡&玛琳"
         }
     },
     {
@@ -22078,6 +22292,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00023_06002-to-00023",
             "text": "奏&玛琳"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00023_06003-5-uniq-0091-00_00023-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00023_06003-5-uniq-0091-00_00023-to-06003",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】玛琳&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00023_06003-5-uniq-0091-00_06003-to-00023",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00023_06003-5-uniq-0091-00_06003-to-00023",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】莉莉华&玛琳"
         }
     },
     {
@@ -24853,6 +25081,97 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00023-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00023-to-00030",
+            "text": "【透心凉的治愈一口 菈米】玛琳&菈米"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00023",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00023",
+            "text": "【透心凉的治愈一口 菈米】菈米&玛琳"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00034",
+            "text": "【透心凉的治愈一口 菈米】菈米&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00037",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00037",
+            "text": "【透心凉的治愈一口 菈米】菈米&小夜璃"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-03009",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-03009",
+            "text": "【透心凉的治愈一口 菈米】菈米&Kobo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-04012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-04012",
+            "text": "【透心凉的治愈一口 菈米】菈米&Baelz"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-06003",
+            "text": "【透心凉的治愈一口 菈米】菈米&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00034-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00034-to-00030",
+            "text": "【透心凉的治愈一口 菈米】波尔卡&菈米"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00037-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00037-to-00030",
+            "text": "【透心凉的治愈一口 菈米】小夜璃&菈米"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_03009-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_03009-to-00030",
+            "text": "【透心凉的治愈一口 菈米】Kobo&菈米"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_04012-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_04012-to-00030",
+            "text": "【透心凉的治愈一口 菈米】Baelz&菈米"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_06003-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_06003-to-00030",
+            "text": "【透心凉的治愈一口 菈米】莉莉华&菈米"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_myself",
+            "text": "【透心凉的治愈一口 菈米】SP技能"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00030_00030-to-00001",
         "data": {
             "id": "la-name_cv-live_dial_chr-00030_00030-to-00001",
@@ -25259,6 +25578,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00030_00034-5-uniq-0090-00_00030-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00034-5-uniq-0090-00_00030-to-00034",
+            "text": "【分享幸福Meat For You 波尔卡】菈米&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_00034-5-uniq-0090-00_00034-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_00034-5-uniq-0090-00_00034-to-00030",
+            "text": "【分享幸福Meat For You 波尔卡】波尔卡&菈米"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00030_00034-to-00030",
         "data": {
             "id": "la-name_cv-live_dial_chr-00030_00034-to-00030",
@@ -25480,6 +25813,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00030_06002-to-00030",
             "text": "奏&菈米"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_06003-5-uniq-0091-00_00030-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_06003-5-uniq-0091-00_00030-to-06003",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】菈米&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00030_06003-5-uniq-0091-00_06003-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00030_06003-5-uniq-0091-00_06003-to-00030",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】莉莉华&菈米"
         }
     },
     {
@@ -27289,6 +27636,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00034_00030-5-uniq-0089-00_00030-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00030-5-uniq-0089-00_00030-to-00034",
+            "text": "【透心凉的治愈一口 菈米】菈米&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00030-5-uniq-0089-00_00034-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00030-5-uniq-0089-00_00034-to-00030",
+            "text": "【透心凉的治愈一口 菈米】波尔卡&菈米"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00034_00030-to-00034",
         "data": {
             "id": "la-name_cv-live_dial_chr-00034_00030-to-00034",
@@ -27349,6 +27710,97 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0027-00_myself",
             "text": "【变幻自如！波尔卡马戏团开演！ 波尔卡】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00023-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00023-to-00034",
+            "text": "【分享幸福Meat For You 波尔卡】玛琳&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00030-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00030-to-00034",
+            "text": "【分享幸福Meat For You 波尔卡】菈米&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00023",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00023",
+            "text": "【分享幸福Meat For You 波尔卡】波尔卡&玛琳"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00030",
+            "text": "【分享幸福Meat For You 波尔卡】波尔卡&菈米"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00037",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00037",
+            "text": "【分享幸福Meat For You 波尔卡】波尔卡&小夜璃"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-03009",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-03009",
+            "text": "【分享幸福Meat For You 波尔卡】波尔卡&Kobo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-04012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-04012",
+            "text": "【分享幸福Meat For You 波尔卡】波尔卡&Baelz"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-06003",
+            "text": "【分享幸福Meat For You 波尔卡】波尔卡&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00037-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00037-to-00034",
+            "text": "【分享幸福Meat For You 波尔卡】小夜璃&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_03009-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_03009-to-00034",
+            "text": "【分享幸福Meat For You 波尔卡】Kobo&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_04012-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_04012-to-00034",
+            "text": "【分享幸福Meat For You 波尔卡】Baelz&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_06003-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_06003-to-00034",
+            "text": "【分享幸福Meat For You 波尔卡】莉莉华&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_myself",
+            "text": "【分享幸福Meat For You 波尔卡】SP技能"
         }
     },
     {
@@ -27937,6 +28389,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00034_06002-to-00034",
             "text": "奏&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_06003-5-uniq-0091-00_00034-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_06003-5-uniq-0091-00_00034-to-06003",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】波尔卡&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_06003-5-uniq-0091-00_06003-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_06003-5-uniq-0091-00_06003-to-00034",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】莉莉华&波尔卡"
         }
     },
     {
@@ -29851,6 +30317,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00037_00030-5-uniq-0089-00_00030-to-00037",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00037_00030-5-uniq-0089-00_00030-to-00037",
+            "text": "【透心凉的治愈一口 菈米】菈米&小夜璃"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00037_00030-5-uniq-0089-00_00037-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00037_00030-5-uniq-0089-00_00037-to-00030",
+            "text": "【透心凉的治愈一口 菈米】小夜璃&菈米"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00037_00030-to-00037",
         "data": {
             "id": "la-name_cv-live_dial_chr-00037_00030-to-00037",
@@ -29869,6 +30349,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00037_00032-to-00037",
             "text": "牡丹&小夜璃"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00037_00034-5-uniq-0090-00_00034-to-00037",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00037_00034-5-uniq-0090-00_00034-to-00037",
+            "text": "【分享幸福Meat For You 波尔卡】波尔卡&小夜璃"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00037_00034-5-uniq-0090-00_00037-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00037_00034-5-uniq-0090-00_00037-to-00034",
+            "text": "【分享幸福Meat For You 波尔卡】小夜璃&波尔卡"
         }
     },
     {
@@ -30583,6 +31077,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00037_06002-to-00037",
             "text": "奏&小夜璃"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00037_06003-5-uniq-0091-00_00037-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00037_06003-5-uniq-0091-00_00037-to-06003",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】小夜璃&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00037_06003-5-uniq-0091-00_06003-to-00037",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00037_06003-5-uniq-0091-00_06003-to-00037",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】莉莉华&小夜璃"
         }
     },
     {
@@ -37992,6 +38500,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-03009_00030-5-uniq-0089-00_00030-to-03009",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03009_00030-5-uniq-0089-00_00030-to-03009",
+            "text": "【透心凉的治愈一口 菈米】菈米&Kobo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03009_00030-5-uniq-0089-00_03009-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03009_00030-5-uniq-0089-00_03009-to-00030",
+            "text": "【透心凉的治愈一口 菈米】Kobo&菈米"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-03009_00030-to-03009",
         "data": {
             "id": "la-name_cv-live_dial_chr-03009_00030-to-03009",
@@ -38010,6 +38532,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-03009_00032-to-03009",
             "text": "牡丹&Kobo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03009_00034-5-uniq-0090-00_00034-to-03009",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03009_00034-5-uniq-0090-00_00034-to-03009",
+            "text": "【分享幸福Meat For You 波尔卡】波尔卡&Kobo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03009_00034-5-uniq-0090-00_03009-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03009_00034-5-uniq-0090-00_03009-to-00034",
+            "text": "【分享幸福Meat For You 波尔卡】Kobo&波尔卡"
         }
     },
     {
@@ -38710,6 +39246,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-03009_06002-to-03009",
             "text": "奏&Kobo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03009_06003-5-uniq-0091-00_03009-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03009_06003-5-uniq-0091-00_03009-to-06003",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】Kobo&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03009_06003-5-uniq-0091-00_06003-to-03009",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03009_06003-5-uniq-0091-00_06003-to-03009",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】莉莉华&Kobo"
         }
     },
     {
@@ -43011,6 +43561,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04012_00030-5-uniq-0089-00_00030-to-04012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04012_00030-5-uniq-0089-00_00030-to-04012",
+            "text": "【透心凉的治愈一口 菈米】菈米&Baelz"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04012_00030-5-uniq-0089-00_04012-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04012_00030-5-uniq-0089-00_04012-to-00030",
+            "text": "【透心凉的治愈一口 菈米】Baelz&菈米"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04012_00030-to-04012",
         "data": {
             "id": "la-name_cv-live_dial_chr-04012_00030-to-04012",
@@ -43029,6 +43593,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-04012_00032-to-04012",
             "text": "牡丹&Baelz"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04012_00034-5-uniq-0090-00_00034-to-04012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04012_00034-5-uniq-0090-00_00034-to-04012",
+            "text": "【分享幸福Meat For You 波尔卡】波尔卡&Baelz"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04012_00034-5-uniq-0090-00_04012-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04012_00034-5-uniq-0090-00_04012-to-00034",
+            "text": "【分享幸福Meat For You 波尔卡】Baelz&波尔卡"
         }
     },
     {
@@ -43743,6 +44321,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-04012_06002-to-04012",
             "text": "奏&Baelz"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04012_06003-5-uniq-0091-00_04012-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04012_06003-5-uniq-0091-00_04012-to-06003",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】Baelz&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04012_06003-5-uniq-0091-00_06003-to-04012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04012_06003-5-uniq-0091-00_06003-to-04012",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】莉莉华&Baelz"
         }
     },
     {
@@ -49115,6 +49707,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-06003_00030-5-uniq-0089-00_00030-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_00030-5-uniq-0089-00_00030-to-06003",
+            "text": "【透心凉的治愈一口 菈米】菈米&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_00030-5-uniq-0089-00_06003-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_00030-5-uniq-0089-00_06003-to-00030",
+            "text": "【透心凉的治愈一口 菈米】莉莉华&菈米"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-06003_00030-to-06003",
         "data": {
             "id": "la-name_cv-live_dial_chr-06003_00030-to-06003",
@@ -49133,6 +49739,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-06003_00032-to-06003",
             "text": "牡丹&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_00034-5-uniq-0090-00_00034-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_00034-5-uniq-0090-00_00034-to-06003",
+            "text": "【分享幸福Meat For You 波尔卡】波尔卡&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_00034-5-uniq-0090-00_06003-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_00034-5-uniq-0090-00_06003-to-00034",
+            "text": "【分享幸福Meat For You 波尔卡】莉莉华&波尔卡"
         }
     },
     {
@@ -49392,6 +50012,97 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0059-00_myself",
             "text": "【深夜的片刻喘息，CEO的极限饭 莉莉华】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00023-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00023-to-06003",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】玛琳&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00030-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00030-to-06003",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】菈米&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00034-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00034-to-06003",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】波尔卡&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00037-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00037-to-06003",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】小夜璃&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_03009-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_03009-to-06003",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】Kobo&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_04012-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_04012-to-06003",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】Baelz&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00023",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00023",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】莉莉华&玛琳"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00030",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00030",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】莉莉华&菈米"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00034",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】莉莉华&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00037",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00037",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】莉莉华&小夜璃"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-03009",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-03009",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】莉莉华&Kobo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-04012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-04012",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】莉莉华&Baelz"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_myself",
+            "text": "【为夏夜添彩的Brilliant Smile 莉莉华】SP技能"
         }
     },
     {
@@ -102714,6 +103425,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-detail",
+            "text": "哈～～～！脑袋被冻得“铿——”的一下～～～！真是效果强劲～\n不过，真好吃！感觉会吃上瘾耶～♪\n……嗯唔～什么呀～？想尝一口菈米的刨冰？才不要，你自己不是有吗～？\n……欸，就算自己有也想尝我的？唉～没办法。\n那～你待会可以去菈米的设施陪我一起玩吗～？可以的话，我就勉为其难考虑一下～？\n啊哈哈，你点头点得好用力啊！知道了，那就说定了哦♪\n那么那么……来，张开嘴♪　啊～♡"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-get",
+            "text": "严禁花心！就让菈米把比海还深的爱……传递到大家心里吧～～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-01",
+            "text": "锵锵～这就是菈米酱的泳衣了！怎么样，好看吗？格子图案很可爱吧～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-02",
+            "text": "我刚刚才发现，如果把糖浆换成利口酒，应该能比现在还美味吧……？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-03",
+            "text": "呜嚯♪　跟我猜得一模一样～♪　利口酒刨冰好好吃哦～♪　菈米是天才～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-04",
+            "text": "糟了，刨冰吃太多，开始浑身发冷了……呜呜……"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-05",
+            "text": "哎，去钓鱼之前我们先到海里玩吧！先热热身，然后再去钓鱼！快～点～啦～！"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-00031_00031-5-uniq-0025-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-00031_00031-5-uniq-0025-00_card-detail",
@@ -102858,6 +103618,55 @@
         "data": {
             "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0027-00_card-potential-05",
             "text": "谢谢你一直支持波尔卡！保证下次也会让你笑容满面哦☆"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-detail",
+            "text": "好，立刻把肉设置在铁网上！\n哦哦～！开始听到火烤肉时那充满诱惑力的“呲呲”声了～！\n鲜美的汗水，也就是肉汁！正在溢而出～！\n肉的表面渐渐开始上色了哦～烤熟了吗？！烤……熟了～！\n因此呢……来！肉烤好啦～\n哎呀～户外烤肉真不错～♪　这个设施真是建对了～\n……嗯？你也要动手烤给波尔卡吃吗？哇～谢谢～！\n那麻烦帮我烤一分熟就好。要生得不能再生的那种哦？拜托你咯～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-get",
+            "text": "别让发动机熄火！名为演出的汪洋大海，你们要一直享受下去～！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-01",
+            "text": "透过这顶防晒帽看世界的时候……眼前的一切，都是萤光粉色的哦☆"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-02",
+            "text": "好好吃啊？！这肉也太好吃了吧～？！欸，您莫非是三星主厨？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-03",
+            "text": "好～了，肚子也填饱了，去散散步吧。哦，你要一起吗？Ok come on～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-04",
+            "text": "潮水涨起又退去……或许人生也不过如此……嗯？刚才这话什么意思？？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-05",
+            "text": "欸？你要回帐篷休息？别啊别啊，我们一起堆沙堡嘛～！求求你啦～～～！"
         }
     },
     {
@@ -104772,6 +105581,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-detail",
+            "text": "风吹过来好舒服啊～～～♪　躺在泳池边悠闲放松……这就是上流社会的生活～～……♪\n想到这里，不由得烤肠都多吃了几口！啊呜！嚼嚼嚼……嗯～美味！再来一根！\n……欸？景色很漂亮？嘿嘿，对吧对吧♪　看来您很中意本会所的特色霓虹灯牌，荣幸之至♪\n因·此·呢～像您这样眼光独到的客人，特别赠送夜拍机会！我们一起拍照吧～！\n来，再离我近一点！准备好了吗？要拍了哦！\n一、二，茄……啊，糟糕？！要从火烈鸟背上掉下去了～！哇啊啊啊啊啊～～～？！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-get",
+            "text": "莉莉华心里对大家的喜欢，可是大到比海还要宽呢！是真的哦～？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-01",
+            "text": "莉莉华的泳衣怎么样？想表现出名流气质……重点就在于这顶帽子的角度哦♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-02",
+            "text": "呜呜，全身都湿透了……啊，现在这样是不是能更还原本尊？！请看，模仿海带之术～！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-03",
+            "text": "你看你看！我的烤香肠没掉进泳池！做得好啊，火烈鸟！谢谢你帮我守住了它～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-04",
+            "text": "哇～满天都是星星啊～♪　哦、哦？！啊哈哈……差点又掉下去啦♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-05",
+            "text": "再一次，夜拍的好机会来啦！这次要跟我合影哦？好不好♪"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-06004_06004-5-uniq-0060-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-06004_06004-5-uniq-0060-00_card-detail",
@@ -105696,6 +106554,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-00030_00030-5-uniq-0089-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00030_00030-5-uniq-0089-00_skill-card",
+            "text": "跟菈米一起海上大冒险吧～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00030_00030-5-uniq-0089-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00030_00030-5-uniq-0089-00_start-card",
+            "text": "看菈米出手～把大家的心钓上来哦～♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-00030_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-00030_myself-001",
@@ -105777,6 +106649,20 @@
         "data": {
             "id": "la-text_cv-live_cmn_chr-00034_00034-5-uniq-0027-00_start-card",
             "text": "波尔卡在这哦！大家也都在吗——？！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00034_00034-5-uniq-0090-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00034_00034-5-uniq-0090-00_skill-card",
+            "text": "向着宏伟的海洋，敬礼！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00034_00034-5-uniq-0090-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00034_00034-5-uniq-0090-00_start-card",
+            "text": "就算大风大浪来了，波尔卡也不会输！去闹它个天翻地覆咯～！"
         }
     },
     {
@@ -106687,6 +107573,20 @@
         "data": {
             "id": "la-text_cv-live_cmn_chr-06003_06003-5-uniq-0059-00_start-card",
             "text": "下一次会议，是全力演出哦——♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-06003_06003-5-uniq-0091-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-06003_06003-5-uniq-0091-00_skill-card",
+            "text": "这就是海鲜版极限饭！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-06003_06003-5-uniq-0091-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-06003_06003-5-uniq-0091-00_start-card",
+            "text": "跟莉莉华一起，用天才的方式享受这片海吧！"
         }
     },
     {
@@ -122811,6 +123711,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00023_00030-5-uniq-0089-00_00023-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00023_00030-5-uniq-0089-00_00023-to-00030",
+            "text": "对于菈米，玛琳这里有水枪……但是我偏偏不打你♡"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00023_00030-5-uniq-0089-00_00030-to-00023",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00023_00030-5-uniq-0089-00_00030-to-00023",
+            "text": "谢谢～！那我先把衣服全脱掉～……"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00023_00030-to-00023",
         "data": {
             "id": "la-text_cv-live_dial_chr-00023_00030-to-00023",
@@ -122829,6 +123743,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00023_00032-to-00023",
             "text": "牡丹桑……喜欢！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00023_00034-5-uniq-0090-00_00023-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00023_00034-5-uniq-0090-00_00023-to-00034",
+            "text": "你这泳衣也太大胆了吧！既然如此，玛琳也要能露则露……"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00023_00034-5-uniq-0090-00_00034-to-00023",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00023_00034-5-uniq-0090-00_00034-to-00023",
+            "text": "哦？兽耳配辣妹系泳衣……潜力无限啊！"
         }
     },
     {
@@ -123053,6 +123981,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00023_06002-to-00023",
             "text": "船我虽然没有，不过放心吧！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00023_06003-5-uniq-0091-00_00023-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00023_06003-5-uniq-0091-00_00023-to-06003",
+            "text": "莉莉华蕾丝装饰下展露的肌肤……很性感嘛♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00023_06003-5-uniq-0091-00_06003-to-00023",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00023_06003-5-uniq-0091-00_06003-to-00023",
+            "text": "成熟大人莉莉华？！慢着慢着，你想干什么啊！"
         }
     },
     {
@@ -125828,6 +126770,97 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00023-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00023-to-00030",
+            "text": "为什么啦！倒是用你的水枪喷我啊！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00023",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00023",
+            "text": "玛琳，要不要我帮你涂防晒霜啊～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00034",
+            "text": "菈米会用自己像海一样的爱，迷得大家死心塌地哦♡"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00037",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-00037",
+            "text": "大家～！菈米的泳衣可爱吗～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-03009",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-03009",
+            "text": "好冰？！刚刚是谁啊，拿什么东西贴在菈米身上～？！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-04012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-04012",
+            "text": "接下来，请Bae酱像涡流一样原地打转转～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00030-to-06003",
+            "text": "这就是菈米的～马力全开啦～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00034-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00034-to-00030",
+            "text": "别乱玩别人的泳衣啊～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00037-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_00037-to-00030",
+            "text": "好呀～♪　我开汽艇带你，去汪洋大海上兜风吧～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_03009-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_03009-to-00030",
+            "text": "嗯～～～？那你藏在背后的那根钓竿是怎么回事呢～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_04012-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_04012-to-00030",
+            "text": "是声援的巨浪呢～♪　咱们可不要错过这波浪潮，准备好咯～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_06003-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_06003-to-00030",
+            "text": "什么意思～？！听不懂你在讲什么啦！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00030-5-uniq-0089-00_myself",
+            "text": "严禁花心！就让菈米把比海还深的爱……传递到大家心里吧～～♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00030_00030-to-00001",
         "data": {
             "id": "la-text_cv-live_dial_chr-00030_00030-to-00001",
@@ -126234,6 +127267,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00030_00034-5-uniq-0090-00_00030-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00034-5-uniq-0090-00_00030-to-00034",
+            "text": "哇啊～！尾丸丸，你这身泳衣很可爱嘛～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_00034-5-uniq-0090-00_00034-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_00034-5-uniq-0090-00_00034-to-00030",
+            "text": "尾、尾丸丸你怎么了？要跟菈米聊聊吗？！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00030_00034-to-00030",
         "data": {
             "id": "la-text_cv-live_dial_chr-00030_00034-to-00030",
@@ -126455,6 +127502,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00030_06002-to-00030",
             "text": "可爱的后辈都求我了，这怎么好拒绝～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_06003-5-uniq-0091-00_00030-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_06003-5-uniq-0091-00_00030-to-06003",
+            "text": "你这身泳衣很成熟嘛～不错不错♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00030_06003-5-uniq-0091-00_06003-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00030_06003-5-uniq-0091-00_06003-to-00030",
+            "text": "可爱的小姑娘，是在喊菈米吗～？欸～～～爱你～♡"
         }
     },
     {
@@ -128264,6 +129325,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00034_00030-5-uniq-0089-00_00030-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00030-5-uniq-0089-00_00030-to-00034",
+            "text": "唔哦哦哦～本大爷的菈米最棒啦～～～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00030-5-uniq-0089-00_00034-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00030-5-uniq-0089-00_00034-to-00030",
+            "text": "菈米身上到处都是～……绒绒球～～♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00034_00030-to-00034",
         "data": {
             "id": "la-text_cv-live_dial_chr-00034_00030-to-00034",
@@ -128324,6 +129399,97 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0027-00_myself",
             "text": "波尔卡很有型，来看波尔卡的你们也超有型哦！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00023-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00023-to-00034",
+            "text": "我倒是无所谓啦，但你真的要当心越线哦！！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00030-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00030-to-00034",
+            "text": "欸？啊、是、是吗……？谢、谢谢～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00023",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00023",
+            "text": "咚！辣妹系泳装耳廓狐，震撼诞生！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00030",
+            "text": "看着大海的时候，不仅是心灵，连灵魂都能治愈呢。"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00037",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-00037",
+            "text": "呵……这顶防晒帽是不是超级有型？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-03009",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-03009",
+            "text": "哦，是野生的雨萨满！来钓一只好了～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-04012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-04012",
+            "text": "为了钓到大量的鱼，最好用活蹦乱跳的老鼠做鱼饵……！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00034-to-06003",
+            "text": "马力开到最大！莉莉华，你跟得上我的速度吗？！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00037-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_00037-to-00034",
+            "text": "我我我我我！请跟波尔卡！开着汽艇！在海面上约会吧！！！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_03009-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_03009-to-00034",
+            "text": "唔？闻到了喜欢玩尾巴饰品的熊孩子气息……"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_04012-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_04012-to-00034",
+            "text": "哈、哈、哈！干脆踩着这个一路滚过海洋吧！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_06003-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_06003-to-00034",
+            "text": "不然就用咱们的vibes把大海煮到沸腾好啦～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00034-5-uniq-0090-00_myself",
+            "text": "别让发动机熄火！名为演出的汪洋大海，你们要一直享受下去～！"
         }
     },
     {
@@ -128912,6 +130078,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00034_06002-to-00034",
             "text": "要目不转睛地看着我哦，知道了吗——！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_06003-5-uniq-0091-00_00034-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_06003-5-uniq-0091-00_00034-to-06003",
+            "text": "社长！请说一句吧，大家都在等您致辞呢……！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_06003-5-uniq-0091-00_06003-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_06003-5-uniq-0091-00_06003-to-00034",
+            "text": "唷！莉莉华！很棒哦莉莉华～～～！"
         }
     },
     {
@@ -130826,6 +132006,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00037_00030-5-uniq-0089-00_00030-to-00037",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00037_00030-5-uniq-0089-00_00030-to-00037",
+            "text": "超可爱～～～！菈米碳～看这边～～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00037_00030-5-uniq-0089-00_00037-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00037_00030-5-uniq-0089-00_00037-to-00030",
+            "text": "小夜……好想跟菈米碳一起去约会哦～♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00037_00030-to-00037",
         "data": {
             "id": "la-text_cv-live_dial_chr-00037_00030-to-00037",
@@ -130844,6 +132038,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00037_00032-to-00037",
             "text": "欸～好高兴～♪　汪！！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00037_00034-5-uniq-0090-00_00034-to-00037",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00037_00034-5-uniq-0090-00_00034-to-00037",
+            "text": "不仅防晒帽有型，泳衣也是最棒的啦～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00037_00034-5-uniq-0090-00_00037-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00037_00034-5-uniq-0090-00_00037-to-00034",
+            "text": "问大家一个问题～！有谁想跟小夜去约会的呀～～～？"
         }
     },
     {
@@ -131558,6 +132766,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00037_06002-to-00037",
             "text": "诶～奏明明是淘气王～"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00037_06003-5-uniq-0091-00_00037-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00037_06003-5-uniq-0091-00_00037-to-06003",
+            "text": "所有人都要来关注“大脑”与“天才”的舞台哦～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00037_06003-5-uniq-0091-00_06003-to-00037",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00037_06003-5-uniq-0091-00_06003-to-00037",
+            "text": "欸……为什么？！这里是舞台耶？！"
         }
     },
     {
@@ -138967,6 +140189,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-03009_00030-5-uniq-0089-00_00030-to-03009",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03009_00030-5-uniq-0089-00_00030-to-03009",
+            "text": "咕呼呼！喏，就是这个瓶子！你要喝水吗？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03009_00030-5-uniq-0089-00_03009-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03009_00030-5-uniq-0089-00_03009-to-00030",
+            "text": "Kobo是乖孩子哦～什么都不会做的哦～？"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-03009_00030-to-03009",
         "data": {
             "id": "la-text_cv-live_dial_chr-03009_00030-to-03009",
@@ -138985,6 +140221,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-03009_00032-to-03009",
             "text": "Kobo最喜欢舞台了！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03009_00034-5-uniq-0090-00_00034-to-03009",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03009_00034-5-uniq-0090-00_00034-to-03009",
+            "text": "波尔波尔一脸坏相～♪　我们一起去搞恶作剧吧！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03009_00034-5-uniq-0090-00_03009-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03009_00034-5-uniq-0090-00_03009-to-00034",
+            "text": "哦哦～！有两条尾巴耶～！！"
         }
     },
     {
@@ -139685,6 +140935,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-03009_06002-to-03009",
             "text": "奏～！我爱你～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03009_06003-5-uniq-0091-00_03009-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03009_06003-5-uniq-0091-00_03009-to-06003",
+            "text": "莉莉华，我们一起唱歌吧！快点，快点……！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03009_06003-5-uniq-0091-00_06003-to-03009",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03009_06003-5-uniq-0091-00_06003-to-03009",
+            "text": "嗷啊啊啊啊啊啊啊——————！！！"
         }
     },
     {
@@ -143986,6 +145250,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-04012_00030-5-uniq-0089-00_00030-to-04012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04012_00030-5-uniq-0089-00_00030-to-04012",
+            "text": "涡流……？虽然不是很懂，我要表演旋转了～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04012_00030-5-uniq-0089-00_04012-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04012_00030-5-uniq-0089-00_04012-to-00030",
+            "text": "唔喔喔喔～大家的热情都好火爆啊～！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-04012_00030-to-04012",
         "data": {
             "id": "la-text_cv-live_dial_chr-04012_00030-to-04012",
@@ -144004,6 +145282,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-04012_00032-to-04012",
             "text": "牡丹前辈酷毙啦！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04012_00034-5-uniq-0090-00_00034-to-04012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04012_00034-5-uniq-0090-00_00034-to-04012",
+            "text": "波、波尔卡前辈？！你盯着我看做什么～？！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04012_00034-5-uniq-0090-00_04012-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04012_00034-5-uniq-0090-00_04012-to-00034",
+            "text": "唔喔～！好厉害！波尔卡前辈表演杂技踩球了～！"
         }
     },
     {
@@ -144718,6 +146010,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-04012_06002-to-04012",
             "text": "我要与奏制造至高的混沌！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04012_06003-5-uniq-0091-00_04012-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04012_06003-5-uniq-0091-00_04012-to-06003",
+            "text": "好～了。那就……让大家看看我们认真的模样吧。"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04012_06003-5-uniq-0091-00_06003-to-04012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04012_06003-5-uniq-0091-00_06003-to-04012",
+            "text": "哦哦～！观众们集体皱着眉头捂住了心脏～！"
         }
     },
     {
@@ -150090,6 +151396,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-06003_00030-5-uniq-0089-00_00030-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_00030-5-uniq-0089-00_00030-to-06003",
+            "text": "唔哦哦哦哦——！莉莉华也要来全开～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_00030-5-uniq-0089-00_06003-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_00030-5-uniq-0089-00_06003-to-00030",
+            "text": "说到菈米前辈就是蓝色……啊！也就是说，你是大海～～？！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-06003_00030-to-06003",
         "data": {
             "id": "la-text_cv-live_dial_chr-06003_00030-to-06003",
@@ -150108,6 +151428,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-06003_00032-to-06003",
             "text": "哇啊～谢谢夸奖！♡"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_00034-5-uniq-0090-00_00034-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_00034-5-uniq-0090-00_00034-to-06003",
+            "text": "那当然！让你看看莉莉华的实力～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_00034-5-uniq-0090-00_06003-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_00034-5-uniq-0090-00_06003-to-00034",
+            "text": "演出最棒啦～♪　有种超超兴奋的感觉？"
         }
     },
     {
@@ -150367,6 +151701,97 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0059-00_myself",
             "text": "大家愿意支持原原本本，不加修饰的莉莉华吗？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00023-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00023-to-06003",
+            "text": "哼哼～！脱毛我也做得万无一失哦！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00030-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00030-to-06003",
+            "text": "呜呼呼♪　这就是我身为社长的做派哦，菈米前辈！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00034-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00034-to-06003",
+            "text": "大家的发动机都预热好了吗～？是时候让它们轰鸣了哦～～～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00037-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_00037-to-06003",
+            "text": "首先就由我们来淋湿大家～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_03009-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_03009-to-06003",
+            "text": "哇啊？！不要扯莉莉华的开襟毛衣呀～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_04012-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_04012-to-06003",
+            "text": "呵……终于到了脱下这顶50kg重的帽子的时候……！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00023",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00023",
+            "text": "戴上墨镜，让大家看看莉莉华成熟大人的一面吧♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00030",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00030",
+            "text": "那边的可爱小姑娘，上我的汽艇坐坐吧～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00034",
+            "text": "呵呵呵♪　戴着帽子的莉莉华也很有型吧？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00037",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-00037",
+            "text": "小夜酱前辈！我们来互相泼水玩吧～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-03009",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-03009",
+            "text": "都给我吼出震碎波浪的气势来～～～！！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-04012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_06003-to-04012",
+            "text": "瞄准大家的心～……抛钩♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_06003-5-uniq-0091-00_myself",
+            "text": "莉莉华心里对大家的喜欢，可是大到比海还要宽呢！是真的哦～？"
         }
     },
     {

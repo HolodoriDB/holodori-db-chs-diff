@@ -98,6 +98,20 @@
         }
     },
     {
+        "id": "la-card_flavor-00030-5-uniq-0089-00",
+        "data": {
+            "id": "la-card_flavor-00030-5-uniq-0089-00",
+            "text": "透心凉的治愈一口"
+        }
+    },
+    {
+        "id": "la-card_flavor-00034-5-uniq-0090-00",
+        "data": {
+            "id": "la-card_flavor-00034-5-uniq-0090-00",
+            "text": "分享幸福Meat For You"
+        }
+    },
+    {
         "id": "la-card_flavor-00035-5-uniq-0082-00",
         "data": {
             "id": "la-card_flavor-00035-5-uniq-0082-00",
@@ -186,6 +200,13 @@
         "data": {
             "id": "la-card_flavor-06002-5-uniq-0066-00",
             "text": "乘着海风的笑颜和声"
+        }
+    },
+    {
+        "id": "la-card_flavor-06003-5-uniq-0091-00",
+        "data": {
+            "id": "la-card_flavor-06003-5-uniq-0091-00",
+            "text": "为夏夜添彩的Brilliant Smile"
         }
     },
     {

@@ -378,6 +378,48 @@
         }
     },
     {
+        "id": "la-generated-live_special_skill-card-00030-5-uniq-0089-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00030-5-uniq-0089-00.1-description",
+            "text": "在 14 秒内得分辅助效果95%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00030-5-uniq-0089-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00030-5-uniq-0089-00.2-description",
+            "text": "在 14 秒内得分辅助效果[highlight]115[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00034-5-uniq-0090-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00034-5-uniq-0090-00.1-description",
+            "text": "在 12 秒内得分辅助效果110%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00034-5-uniq-0090-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00034-5-uniq-0090-00.2-description",
+            "text": "在 12 秒内得分辅助效果[highlight]135[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-06003-5-uniq-0091-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-06003-5-uniq-0091-00.1-description",
+            "text": "在 12 秒内得分辅助效果110%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-06003-5-uniq-0091-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-06003-5-uniq-0091-00.2-description",
+            "text": "在 12 秒内得分辅助效果[highlight]135[/highlight]%"
+        }
+    },
+    {
         "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",
         "data": {
             "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",

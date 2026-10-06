@@ -1470,6 +1470,13 @@
         }
     },
     {
+        "id": "la-tips-hint-marathon_area-description-1",
+        "data": {
+            "id": "la-tips-hint-marathon_area-description-1",
+            "text": "在<color=#ff3bc8>积攒点数活动</color>期间，游玩演出或迷你游戏，就可以获得活动Pt和活动徽章了！\n\n收集活动徽章，可以在兑换所兑换活动回忆卡等道具哦！"
+        }
+    },
+    {
         "id": "la-tips-hint-marathon_mission-description-1",
         "data": {
             "id": "la-tips-hint-marathon_mission-description-1",
