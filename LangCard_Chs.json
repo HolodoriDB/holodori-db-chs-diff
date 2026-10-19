@@ -91,6 +91,13 @@
         }
     },
     {
+        "id": "la-card_flavor-00027-5-uniq-0092-00",
+        "data": {
+            "id": "la-card_flavor-00027-5-uniq-0092-00",
+            "text": "树荫下的悠闲假日"
+        }
+    },
+    {
         "id": "la-card_flavor-00028-5-uniq-0070-00",
         "data": {
             "id": "la-card_flavor-00028-5-uniq-0070-00",
@@ -102,6 +109,13 @@
         "data": {
             "id": "la-card_flavor-00030-5-uniq-0089-00",
             "text": "透心凉的治愈一口"
+        }
+    },
+    {
+        "id": "la-card_flavor-00032-5-uniq-0093-00",
+        "data": {
+            "id": "la-card_flavor-00032-5-uniq-0093-00",
+            "text": "一心一意的嗦面时间"
         }
     },
     {
@@ -147,6 +161,13 @@
         }
     },
     {
+        "id": "la-card_flavor-03008-5-uniq-0095-00",
+        "data": {
+            "id": "la-card_flavor-03008-5-uniq-0095-00",
+            "text": "树荫下编织的Shiny Memory"
+        }
+    },
+    {
         "id": "la-card_flavor-03009-5-uniq-0088-00",
         "data": {
             "id": "la-card_flavor-03009-5-uniq-0088-00",
@@ -179,6 +200,13 @@
         "data": {
             "id": "la-card_flavor-04013-5-uniq-0083-00",
             "text": "求知若渴的泳池之夜"
+        }
+    },
+    {
+        "id": "la-card_flavor-04014-5-uniq-0094-00",
+        "data": {
+            "id": "la-card_flavor-04014-5-uniq-0094-00",
+            "text": "笑容灿烂的Sand castle"
         }
     },
     {

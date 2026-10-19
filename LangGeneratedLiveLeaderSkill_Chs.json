@@ -210,6 +210,34 @@
         }
     },
     {
+        "id": "la-generated-live_leader_skill-card-00027-5-uniq-0092-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00027-5-uniq-0092-00-description",
+            "text": "队伍中有至少2名[attribute=cute]可爱类型[/attribute]的角色时全体成员中技巧提升80% 队伍中有至少2名[attribute=cute]可爱类型[/attribute]的角色时全体成员中得分辅助效果25%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00032-5-uniq-0093-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00032-5-uniq-0093-00-description",
+            "text": "队伍中有至少2名[attribute=cute]可爱类型[/attribute]的角色时全体成员中品位提升80% 队伍中有至少2名[attribute=cute]可爱类型[/attribute]的角色时全体成员中得分辅助效果25%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-03008-5-uniq-0095-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-03008-5-uniq-0095-00-description",
+            "text": "队伍中有至少2名ID3期生时全体成员中品位提升135% "
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-04014-5-uniq-0094-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-04014-5-uniq-0094-00-description",
+            "text": "队伍中有至少2名Advent时全体成员中表现力提升135% "
+        }
+    },
+    {
         "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",
         "data": {
             "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",

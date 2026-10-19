@@ -1639,6 +1639,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-detail",
+            "text": "【树荫下的悠闲假日 永远】聊天"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-01",
+            "text": "【树荫下的悠闲假日 永远】绽放1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-02",
+            "text": "【树荫下的悠闲假日 永远】绽放2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-03",
+            "text": "【树荫下的悠闲假日 永远】绽放3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-04",
+            "text": "【树荫下的悠闲假日 永远】绽放4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-05",
+            "text": "【树荫下的悠闲假日 永远】绽放5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-00028_00028-5-uniq-0023-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-00028_00028-5-uniq-0023-00_card-detail",
@@ -1924,6 +1972,54 @@
         "data": {
             "id": "la-name_cv-cmn_chr-00032_00032-5-uniq-0026-00_card-potential-05",
             "text": "【令人瞩目的神瞄准！lion’s hunt 牡丹】 绽放5"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-detail",
+            "text": "【一心一意的嗦面时间 牡丹】聊天"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-01",
+            "text": "【一心一意的嗦面时间 牡丹】绽放1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-02",
+            "text": "【一心一意的嗦面时间 牡丹】绽放2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-03",
+            "text": "【一心一意的嗦面时间 牡丹】绽放3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-04",
+            "text": "【一心一意的嗦面时间 牡丹】绽放4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-05",
+            "text": "【一心一意的嗦面时间 牡丹】绽放5"
         }
     },
     {
@@ -2839,6 +2935,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-detail",
+            "text": "【树荫下编织的Shiny Memory Kaela】聊天"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-01",
+            "text": "【树荫下编织的Shiny Memory Kaela】绽放1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-02",
+            "text": "【树荫下编织的Shiny Memory Kaela】绽放2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-03",
+            "text": "【树荫下编织的Shiny Memory Kaela】绽放3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-04",
+            "text": "【树荫下编织的Shiny Memory Kaela】绽放4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-05",
+            "text": "【树荫下编织的Shiny Memory Kaela】绽放5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-03009_03009-5-uniq-0041-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-03009_03009-5-uniq-0041-00_card-detail",
@@ -3508,6 +3652,54 @@
         "data": {
             "id": "la-name_cv-cmn_chr-04014_04014-5-uniq-0053-00_card-potential-05",
             "text": "【闪闪发光的Crystal place Bijou】 绽放5"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-detail",
+            "text": "【笑容灿烂的Sand castle Bijou】聊天"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-01",
+            "text": "【笑容灿烂的Sand castle Bijou】绽放1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-02",
+            "text": "【笑容灿烂的Sand castle Bijou】绽放2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-03",
+            "text": "【笑容灿烂的Sand castle Bijou】绽放3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-04",
+            "text": "【笑容灿烂的Sand castle Bijou】绽放4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-05",
+            "text": "【笑容灿烂的Sand castle Bijou】绽放5"
         }
     },
     {
@@ -4795,6 +4987,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-00027_00027-5-uniq-0092-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00027_00027-5-uniq-0092-00_skill-card",
+            "text": "【树荫下的悠闲假日 永远】技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00027_00027-5-uniq-0092-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00027_00027-5-uniq-0092-00_start-card",
+            "text": "【树荫下的悠闲假日 永远】演出开始"
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-00027_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-00027_myself-001",
@@ -4932,6 +5138,20 @@
         "data": {
             "id": "la-name_cv-live_cmn_chr-00032_00032-5-uniq-0026-00_start-card",
             "text": "【令人瞩目的神瞄准！lion’s hunt 牡丹】 演出开始"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00032_00032-5-uniq-0093-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00032_00032-5-uniq-0093-00_skill-card",
+            "text": "【一心一意的嗦面时间 牡丹】技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00032_00032-5-uniq-0093-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00032_00032-5-uniq-0093-00_start-card",
+            "text": "【一心一意的嗦面时间 牡丹】演出开始"
         }
     },
     {
@@ -5383,6 +5603,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-03008_03008-5-uniq-0095-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-03008_03008-5-uniq-0095-00_skill-card",
+            "text": "【树荫下编织的Shiny Memory Kaela】技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-03008_03008-5-uniq-0095-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-03008_03008-5-uniq-0095-00_start-card",
+            "text": "【树荫下编织的Shiny Memory Kaela】演出开始"
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-03008_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-03008_myself-001",
@@ -5702,6 +5936,20 @@
         "data": {
             "id": "la-name_cv-live_cmn_chr-04014_04014-5-uniq-0053-00_start-card",
             "text": "【闪闪发光的Crystal place Bijou】 演出开始"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-04014_04014-5-uniq-0094-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-04014_04014-5-uniq-0094-00_skill-card",
+            "text": "【笑容灿烂的Sand castle Bijou】技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-04014_04014-5-uniq-0094-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-04014_04014-5-uniq-0094-00_start-card",
+            "text": "【笑容灿烂的Sand castle Bijou】演出开始"
         }
     },
     {
@@ -7354,6 +7602,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00002_00026-to-00002",
             "text": "绵芽&萝卜子"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00002_00027-5-uniq-0092-00_00002-to-00027",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00002_00027-5-uniq-0092-00_00002-to-00027",
+            "text": "【树荫下的悠闲假日 永远】萝卜子&永远"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00002_00027-5-uniq-0092-00_00027-to-00002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00002_00027-5-uniq-0092-00_00027-to-00002",
+            "text": "【树荫下的悠闲假日 永远】永远&萝卜子"
         }
     },
     {
@@ -13286,6 +13548,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00012_00027-5-uniq-0092-00_00012-to-00027",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00012_00027-5-uniq-0092-00_00012-to-00027",
+            "text": "【树荫下的悠闲假日 永远】昴&永远"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00012_00027-5-uniq-0092-00_00027-to-00012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00012_00027-5-uniq-0092-00_00027-to-00012",
+            "text": "【树荫下的悠闲假日 永远】永远&昴"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00012_00027-to-00012",
         "data": {
             "id": "la-name_cv-live_dial_chr-00012_00027-to-00012",
@@ -16002,6 +16278,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00015_03008-5-uniq-0095-00_00015-to-03008",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00015_03008-5-uniq-0095-00_00015-to-03008",
+            "text": "【树荫下编织的Shiny Memory Kaela】巫女&Kaela"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00015_03008-5-uniq-0095-00_03008-to-00015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00015_03008-5-uniq-0095-00_03008-to-00015",
+            "text": "【树荫下编织的Shiny Memory Kaela】Kaela&巫女"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00015_03008-to-00015",
         "data": {
             "id": "la-name_cv-live_dial_chr-00015_03008-to-00015",
@@ -18501,6 +18791,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00018_00027-5-uniq-0092-00_00018-to-00027",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00018_00027-5-uniq-0092-00_00018-to-00027",
+            "text": "【树荫下的悠闲假日 永远】彗星&永远"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00018_00027-5-uniq-0092-00_00027-to-00018",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00018_00027-5-uniq-0092-00_00027-to-00018",
+            "text": "【树荫下的悠闲假日 永远】永远&彗星"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00018_00027-to-00018",
         "data": {
             "id": "la-name_cv-live_dial_chr-00018_00027-to-00018",
@@ -19317,6 +19621,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00019_00031-to-00019",
             "text": "音音&佩克拉"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00019_00032-5-uniq-0093-00_00019-to-00032",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00019_00032-5-uniq-0093-00_00019-to-00032",
+            "text": "【一心一意的嗦面时间 牡丹】佩克拉&牡丹"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00019_00032-5-uniq-0093-00_00032-to-00019",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00019_00032-5-uniq-0093-00_00032-to-00019",
+            "text": "【一心一意的嗦面时间 牡丹】牡丹&佩克拉"
         }
     },
     {
@@ -23002,6 +23320,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00026_00032-5-uniq-0093-00_00026-to-00032",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00026_00032-5-uniq-0093-00_00026-to-00032",
+            "text": "【一心一意的嗦面时间 牡丹】绵芽&牡丹"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00026_00032-5-uniq-0093-00_00032-to-00026",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00026_00032-5-uniq-0093-00_00032-to-00026",
+            "text": "【一心一意的嗦面时间 牡丹】牡丹&绵芽"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00026_00032-to-00026",
         "data": {
             "id": "la-name_cv-live_dial_chr-00026_00032-to-00026",
@@ -23405,6 +23737,69 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00027_00027-5-uniq-0022-00_myself",
             "text": "【真心没有尽头的放松夜游 永远】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00002-to-00027",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00002-to-00027",
+            "text": "【树荫下的悠闲假日 永远】萝卜子&永远"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00012-to-00027",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00012-to-00027",
+            "text": "【树荫下的悠闲假日 永远】昴&永远"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00018-to-00027",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00018-to-00027",
+            "text": "【树荫下的悠闲假日 永远】彗星&永远"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00027-to-00002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00027-to-00002",
+            "text": "【树荫下的悠闲假日 永远】永远&萝卜子"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00027-to-00012",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00027-to-00012",
+            "text": "【树荫下的悠闲假日 永远】永远&昴"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00027-to-00018",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00027-to-00018",
+            "text": "【树荫下的悠闲假日 永远】永远&彗星"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00027-to-00031",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00027-to-00031",
+            "text": "【树荫下的悠闲假日 永远】永远&音音"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00031-to-00027",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00031-to-00027",
+            "text": "【树荫下的悠闲假日 永远】音音&永远"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00027_00027-5-uniq-0092-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00027_00027-5-uniq-0092-00_myself",
+            "text": "【树荫下的悠闲假日 永远】SP技能"
         }
     },
     {
@@ -25991,6 +26386,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00031_00027-5-uniq-0092-00_00027-to-00031",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00031_00027-5-uniq-0092-00_00027-to-00031",
+            "text": "【树荫下的悠闲假日 永远】永远&音音"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00031_00027-5-uniq-0092-00_00031-to-00027",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00031_00027-5-uniq-0092-00_00031-to-00027",
+            "text": "【树荫下的悠闲假日 永远】音音&永远"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00031_00027-to-00031",
         "data": {
             "id": "la-name_cv-live_dial_chr-00031_00027-to-00031",
@@ -26866,6 +27275,69 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00019-to-00032",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00019-to-00032",
+            "text": "【一心一意的嗦面时间 牡丹】佩克拉&牡丹"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00026-to-00032",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00026-to-00032",
+            "text": "【一心一意的嗦面时间 牡丹】绵芽&牡丹"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00032-to-00019",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00032-to-00019",
+            "text": "【一心一意的嗦面时间 牡丹】牡丹&佩克拉"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00032-to-00026",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00032-to-00026",
+            "text": "【一心一意的嗦面时间 牡丹】牡丹&绵芽"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00032-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00032-to-00034",
+            "text": "【一心一意的嗦面时间 牡丹】牡丹&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00032-to-00036",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00032-to-00036",
+            "text": "【一心一意的嗦面时间 牡丹】牡丹&琉依"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00034-to-00032",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00034-to-00032",
+            "text": "【一心一意的嗦面时间 牡丹】波尔卡&牡丹"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00036-to-00032",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00036-to-00032",
+            "text": "【一心一意的嗦面时间 牡丹】琉依&牡丹"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00032_00032-5-uniq-0093-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00032_00032-5-uniq-0093-00_myself",
+            "text": "【一心一意的嗦面时间 牡丹】SP技能"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00032_00032-to-00001",
         "data": {
             "id": "la-name_cv-live_dial_chr-00032_00032-to-00001",
@@ -27675,6 +28147,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00034_00032-5-uniq-0026-00_00032-to-00034",
             "text": "【令人瞩目的神瞄准！lion’s hunt 牡丹】牡丹&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00032-5-uniq-0093-00_00032-to-00034",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00032-5-uniq-0093-00_00032-to-00034",
+            "text": "【一心一意的嗦面时间 牡丹】牡丹&波尔卡"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00034_00032-5-uniq-0093-00_00034-to-00032",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00034_00032-5-uniq-0093-00_00034-to-00032",
+            "text": "【一心一意的嗦面时间 牡丹】波尔卡&牡丹"
         }
     },
     {
@@ -29460,6 +29946,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00036_00031-to-00036",
             "text": "音音&琉依"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00036_00032-5-uniq-0093-00_00032-to-00036",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_00032-5-uniq-0093-00_00032-to-00036",
+            "text": "【一心一意的嗦面时间 牡丹】牡丹&琉依"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00036_00032-5-uniq-0093-00_00036-to-00032",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_00032-5-uniq-0093-00_00036-to-00032",
+            "text": "【一心一意的嗦面时间 牡丹】琉依&牡丹"
         }
     },
     {
@@ -35063,6 +35563,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-03004_04014-5-uniq-0094-00_03004-to-04014",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03004_04014-5-uniq-0094-00_03004-to-04014",
+            "text": "【笑容灿烂的Sand castle Bijou】Ollie&Bijou"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03004_04014-5-uniq-0094-00_04014-to-03004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03004_04014-5-uniq-0094-00_04014-to-03004",
+            "text": "【笑容灿烂的Sand castle Bijou】Bijou&Ollie"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-03004_04014-to-03004",
         "data": {
             "id": "la-name_cv-live_dial_chr-03004_04014-to-03004",
@@ -37415,6 +37929,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-03007_03008-5-uniq-0095-00_03007-to-03008",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03007_03008-5-uniq-0095-00_03007-to-03008",
+            "text": "【树荫下编织的Shiny Memory Kaela】Zeta&Kaela"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03007_03008-5-uniq-0095-00_03008-to-03007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03007_03008-5-uniq-0095-00_03008-to-03007",
+            "text": "【树荫下编织的Shiny Memory Kaela】Kaela&Zeta"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-03007_03008-to-03007",
         "data": {
             "id": "la-name_cv-live_dial_chr-03007_03008-to-03007",
@@ -37839,6 +38367,69 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0040-00_myself",
             "text": "【在锻造场打磨坚强内心 Kaela】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0095-00_00015-to-03008",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0095-00_00015-to-03008",
+            "text": "【树荫下编织的Shiny Memory Kaela】巫女&Kaela"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03007-to-03008",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03007-to-03008",
+            "text": "【树荫下编织的Shiny Memory Kaela】Zeta&Kaela"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03008-to-00015",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03008-to-00015",
+            "text": "【树荫下编织的Shiny Memory Kaela】Kaela&巫女"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03008-to-03007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03008-to-03007",
+            "text": "【树荫下编织的Shiny Memory Kaela】Kaela&Zeta"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03008-to-03009",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03008-to-03009",
+            "text": "【树荫下编织的Shiny Memory Kaela】Kaela&Kobo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03008-to-06005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03008-to-06005",
+            "text": "【树荫下编织的Shiny Memory Kaela】Kaela&一"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03009-to-03008",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03009-to-03008",
+            "text": "【树荫下编织的Shiny Memory Kaela】Kobo&Kaela"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0095-00_06005-to-03008",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0095-00_06005-to-03008",
+            "text": "【树荫下编织的Shiny Memory Kaela】一&Kaela"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0095-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0095-00_myself",
+            "text": "【树荫下编织的Shiny Memory Kaela】SP技能"
         }
     },
     {
@@ -38276,6 +38867,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-03008_04014-5-uniq-0094-00_03008-to-04014",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03008_04014-5-uniq-0094-00_03008-to-04014",
+            "text": "【笑容灿烂的Sand castle Bijou】Kaela&Bijou"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03008_04014-5-uniq-0094-00_04014-to-03008",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03008_04014-5-uniq-0094-00_04014-to-03008",
+            "text": "【笑容灿烂的Sand castle Bijou】Bijou&Kaela"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-03008_04014-to-03008",
         "data": {
             "id": "la-name_cv-live_dial_chr-03008_04014-to-03008",
@@ -38658,6 +39263,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-03009_03008-5-uniq-0040-00_03008-to-03009",
             "text": "【在锻造场打磨坚强内心 Kaela】Kaela&Kobo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03009_03008-5-uniq-0095-00_03008-to-03009",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03009_03008-5-uniq-0095-00_03008-to-03009",
+            "text": "【树荫下编织的Shiny Memory Kaela】Kaela&Kobo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03009_03008-5-uniq-0095-00_03009-to-03008",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03009_03008-5-uniq-0095-00_03009-to-03008",
+            "text": "【树荫下编织的Shiny Memory Kaela】Kobo&Kaela"
         }
     },
     {
@@ -40079,6 +40698,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-04001_04013-to-04001",
             "text": "Shiori&Calliope"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04001_04014-5-uniq-0094-00_04001-to-04014",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04001_04014-5-uniq-0094-00_04001-to-04014",
+            "text": "【笑容灿烂的Sand castle Bijou】Calliope&Bijou"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04001_04014-5-uniq-0094-00_04014-to-04001",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04001_04014-5-uniq-0094-00_04014-to-04001",
+            "text": "【笑容灿烂的Sand castle Bijou】Bijou&Calliope"
         }
     },
     {
@@ -45619,6 +46252,69 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04014_04014-5-uniq-0094-00_03004-to-04014",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04014_04014-5-uniq-0094-00_03004-to-04014",
+            "text": "【笑容灿烂的Sand castle Bijou】Ollie&Bijou"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04014_04014-5-uniq-0094-00_03008-to-04014",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04014_04014-5-uniq-0094-00_03008-to-04014",
+            "text": "【笑容灿烂的Sand castle Bijou】Kaela&Bijou"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04014_04014-5-uniq-0094-00_04001-to-04014",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04014_04014-5-uniq-0094-00_04001-to-04014",
+            "text": "【笑容灿烂的Sand castle Bijou】Calliope&Bijou"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04014_04014-5-uniq-0094-00_04014-to-03004",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04014_04014-5-uniq-0094-00_04014-to-03004",
+            "text": "【笑容灿烂的Sand castle Bijou】Bijou&Ollie"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04014_04014-5-uniq-0094-00_04014-to-03008",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04014_04014-5-uniq-0094-00_04014-to-03008",
+            "text": "【笑容灿烂的Sand castle Bijou】Bijou&Kaela"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04014_04014-5-uniq-0094-00_04014-to-04001",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04014_04014-5-uniq-0094-00_04014-to-04001",
+            "text": "【笑容灿烂的Sand castle Bijou】Bijou&Calliope"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04014_04014-5-uniq-0094-00_04014-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04014_04014-5-uniq-0094-00_04014-to-06003",
+            "text": "【笑容灿烂的Sand castle Bijou】Bijou&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04014_04014-5-uniq-0094-00_06003-to-04014",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04014_04014-5-uniq-0094-00_06003-to-04014",
+            "text": "【笑容灿烂的Sand castle Bijou】莉莉华&Bijou"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04014_04014-5-uniq-0094-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04014_04014-5-uniq-0094-00_myself",
+            "text": "【笑容灿烂的Sand castle Bijou】SP技能"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04014_04014-to-00001",
         "data": {
             "id": "la-name_cv-live_dial_chr-04014_04014-to-00001",
@@ -49945,6 +50641,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-06003_04014-5-uniq-0094-00_04014-to-06003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_04014-5-uniq-0094-00_04014-to-06003",
+            "text": "【笑容灿烂的Sand castle Bijou】Bijou&莉莉华"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06003_04014-5-uniq-0094-00_06003-to-04014",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06003_04014-5-uniq-0094-00_06003-to-04014",
+            "text": "【笑容灿烂的Sand castle Bijou】莉莉华&Bijou"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-06003_04014-to-06003",
         "data": {
             "id": "la-name_cv-live_dial_chr-06003_04014-to-06003",
@@ -51552,6 +52262,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-06005_03007-to-06005",
             "text": "Zeta&一"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06005_03008-5-uniq-0095-00_03008-to-06005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06005_03008-5-uniq-0095-00_03008-to-06005",
+            "text": "【树荫下编织的Shiny Memory Kaela】Kaela&一"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06005_03008-5-uniq-0095-00_06005-to-03008",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06005_03008-5-uniq-0095-00_06005-to-03008",
+            "text": "【树荫下编织的Shiny Memory Kaela】一&Kaela"
         }
     },
     {
@@ -103278,6 +104002,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-detail",
+            "text": "呼～……躺在南国的吊床上摇摇摆摆。真的好放松……\n之前去泳池的时候很累嘛～也需要这样喘口气啊。\n你呢，在这里待得还舒服吗？\n不过，毕竟都跟永远一起来南国了，没有比这更治愈的了吧！说笑……\n咦，你那什么表情……啊，知道了。你想跟永远玩对不对？\n我也很想跟你玩，可是这吊床不愿意放我下去啊～\n啊哈哈，没有没有，就是逗逗你嘛。所以，我们要玩什么～？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-get",
+            "text": "你们的汗出得还不够多吧～？！接着喊啊喊啊～！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-01",
+            "text": "太阳这么毒辣，墨镜少不了啊少不了。怎么样，这副不错吧？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-02",
+            "text": "欸？等等。这吊床，好难下去啊？！哎，你帮我一下！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-03",
+            "text": "说到夏天，不就是永远吗？永远“sama”，就是永远“summer”啊。……喂，给点反应啊你！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-04",
+            "text": "出了很多汗嘛你。毕竟今天一直在玩啊～喏，毛巾！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-05",
+            "text": "能跟永远一起来玩很高兴吧？呵呵，都写在你脸上咯～♪"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-00028_00028-5-uniq-0023-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-00028_00028-5-uniq-0023-00_card-detail",
@@ -103569,6 +104342,55 @@
         "data": {
             "id": "la-text_cv-cmn_chr-00032_00032-5-uniq-0026-00_card-potential-05",
             "text": "下次我的背后就交给你了！拜托啦，搭档♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-detail",
+            "text": "嗯～好吃！听着海浪声吃拉面也太赞了吧？\n哎呀～还好这里刚刚好有一家海边餐馆～\n咦，海苔的形状？啊～你说这个。知道啦～我全都告诉你。\n其实我最近在跟这家餐馆联动。刚好跑来附近，我就想让你尝尝看啦。\n所以，你尽管敞开吃就好。我也不会客气的！\n虽然前不久才刚刚大吃了一顿，但我今天已经决定要狂吃了！\n不好意思～麻烦帮我续面！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-get",
+            "text": "好～！这个夏天，要把大家想做的事全都做个遍～！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-01",
+            "text": "喂喂，这顶草帽很有夏天的感觉，不错吧～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-02",
+            "text": "一边流这么多汗一边吃拉面，一抵消不就等于零卡吗？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-03",
+            "text": "沙滩反射阳光好猛啊～！再待在上面要变成烤全狮了。"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-04",
+            "text": "吃我的泼水攻击！耶～狮白选手成功命中～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-05",
+            "text": "天空变红了呢。机会难得，就在这里静静看着夕阳落山吧。"
         }
     },
     {
@@ -104503,6 +105325,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-detail",
+            "text": "怎么样，这个地方感觉不错吧？\n是荫凉处～又离大海很近，而且没人～能找到这宝地，我真厉害。\n唉～不过，偶尔悠闲一下也不错。\n前不久我也来过海边，只是当时一直到处奔忙。\n当然，忙一点也很有趣……但是像现在这样悠悠闲闲的，感觉……sooo relax。\n不过难得来一趟，老是缩在这里也有点可惜……\n嗯，在这里再稍微待一会，还是去玩点什么吧！\n在那之前，就继续relaaaax咯♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-get",
+            "text": "用大家的应援和我们的歌声点燃烈火，打造最棒的夏日舞台吧！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-01",
+            "text": "泳衣穿上很方便活动，真不错。等等，你在看哪里啊～？好好看着泳衣啦～"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-02",
+            "text": "天气很热也不算什么，反正我睡饱了……啊，嗯，我、我真的睡了哦。"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-03",
+            "text": "决定了！就在海边一直待到天亮吧～……开玩笑的，你当真啦？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-04",
+            "text": "要吃水果吗？要喝果汁吗？天气很热，一定要充分摄入营养哦。"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-05",
+            "text": "Whee～玩得好开心啊♪　下次再一起来海边吧……！当然，要准备的东西都交给我。"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-03009_03009-5-uniq-0041-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-03009_03009-5-uniq-0041-00_card-detail",
@@ -105186,6 +106057,55 @@
         "data": {
             "id": "la-text_cv-cmn_chr-04014_04014-5-uniq-0053-00_card-potential-05",
             "text": "如果还有漂亮的亮晶晶，我就给你看！你好好期待吧♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-detail",
+            "text": "Biboo的沙堡正在顺利建设中，马上就要完工～！\n不过，不止这样哦！我还要找来更漂亮的石头，把它变得更更更更更～闪亮♪\n所以，现在就出发去找漂亮石头吧！\n队长当然是Biboo我啦！上次来海边玩也是我当队长，放心交给我就好！\n……什么？感觉Biboo不太靠得住？喂，你敢不敢再说一遍！\n既然你要这么说，就来比赛谁能找到更多漂亮石头好了！\n我要让你知道队长的厉害！嘿呀————！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-get",
+            "text": "Bijou的光辉才不会输给区区夏天的太阳呢！Kirakira～Koseki☆"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-01",
+            "text": "咕呼呼，Bijou的泳衣可爱吗？好耶～！谢谢～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-02",
+            "text": "这个口袋里装的东西……是秘密～！就不告诉你～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-03",
+            "text": "啊——好漂亮的石头——？！是Biboo先找到的！所以是Biboo的了！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-04",
+            "text": "耶～！Biboo赢啦♪　今后要叫我Biboo队长哦！明白了吗？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-05",
+            "text": "哈～玩得好开心！下次你再跟Biboo一起探险吧！说定了哦～♪"
         }
     },
     {
@@ -106484,6 +107404,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-00027_00027-5-uniq-0092-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00027_00027-5-uniq-0092-00_skill-card",
+            "text": "哪怕大汗淋漓也没关系的！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00027_00027-5-uniq-0092-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00027_00027-5-uniq-0092-00_start-card",
+            "text": "都准备好热到融化了吗～？！"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-00027_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-00027_myself-001",
@@ -106621,6 +107555,20 @@
         "data": {
             "id": "la-text_cv-live_cmn_chr-00032_00032-5-uniq-0026-00_start-card",
             "text": "只要还活着，就总会有转机！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00032_00032-5-uniq-0093-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00032_00032-5-uniq-0093-00_skill-card",
+            "text": "好热啊～医护兵～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00032_00032-5-uniq-0093-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00032_00032-5-uniq-0093-00_start-card",
+            "text": "吃了拉面，一起撑过夏天吧～！"
         }
     },
     {
@@ -107072,6 +108020,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-03008_03008-5-uniq-0095-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-03008_03008-5-uniq-0095-00_skill-card",
+            "text": "盛夏的水球～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-03008_03008-5-uniq-0095-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-03008_03008-5-uniq-0095-00_start-card",
+            "text": "来跟我一起享受最棒的夏天吧！Wheee♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-03008_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-03008_myself-001",
@@ -107391,6 +108353,20 @@
         "data": {
             "id": "la-text_cv-live_cmn_chr-04014_04014-5-uniq-0053-00_start-card",
             "text": "好嘞～！打起精神，要加油了～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-04014_04014-5-uniq-0094-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-04014_04014-5-uniq-0094-00_skill-card",
+            "text": "Biboo已经占领夏天啦！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-04014_04014-5-uniq-0094-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-04014_04014-5-uniq-0094-00_start-card",
+            "text": "耶～！跟Biboo一起在夏天的舞台上狂欢吧～！"
         }
     },
     {
@@ -109043,6 +110019,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00002_00026-to-00002",
             "text": "我听到绵芽的声音也被治愈啦～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00002_00027-5-uniq-0092-00_00002-to-00027",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00002_00027-5-uniq-0092-00_00002-to-00027",
+            "text": "大家要注意，别被天气害得过热了哦～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00002_00027-5-uniq-0092-00_00027-to-00002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00002_00027-5-uniq-0092-00_00027-to-00002",
+            "text": "混蛋中暑，看招！好了，我已经帮大家打倒了♪"
         }
     },
     {
@@ -114975,6 +115965,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00012_00027-5-uniq-0092-00_00012-to-00027",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00012_00027-5-uniq-0092-00_00012-to-00027",
+            "text": "别输给炎热啊永远！精神！身体！热情！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00012_00027-5-uniq-0092-00_00027-to-00012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00012_00027-5-uniq-0092-00_00027-to-00012",
+            "text": "还不是因为觉得你很可爱嘛！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00012_00027-to-00012",
         "data": {
             "id": "la-text_cv-live_dial_chr-00012_00027-to-00012",
@@ -117691,6 +118695,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00015_03008-5-uniq-0095-00_00015-to-03008",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00015_03008-5-uniq-0095-00_00015-to-03008",
+            "text": "巫女！is！Kaela！Love！OK～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00015_03008-5-uniq-0095-00_03008-to-00015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00015_03008-5-uniq-0095-00_03008-to-00015",
+            "text": "嗯～什么呀……哇啊～喷水了～～？！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00015_03008-to-00015",
         "data": {
             "id": "la-text_cv-live_dial_chr-00015_03008-to-00015",
@@ -120190,6 +121208,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00018_00027-5-uniq-0092-00_00018-to-00027",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00018_00027-5-uniq-0092-00_00018-to-00027",
+            "text": "大家～？是不是热到脑袋都不会转了～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00018_00027-5-uniq-0092-00_00027-to-00018",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00018_00027-5-uniq-0092-00_00027-to-00018",
+            "text": "不错嘛。也借彗酱戴戴～"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00018_00027-to-00018",
         "data": {
             "id": "la-text_cv-live_dial_chr-00018_00027-to-00018",
@@ -121006,6 +122038,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00019_00031-to-00019",
             "text": "你这个佩克拉的模仿也太敷衍了吧～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00019_00032-5-uniq-0093-00_00019-to-00032",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00019_00032-5-uniq-0093-00_00019-to-00032",
+            "text": "牡丹酱戴着草帽，很有夏天的感觉嘛。"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00019_00032-5-uniq-0093-00_00032-to-00019",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00019_00032-5-uniq-0093-00_00032-to-00019",
+            "text": "牡、牡丹酱怎么一直看着我……？"
         }
     },
     {
@@ -124691,6 +125737,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00026_00032-5-uniq-0093-00_00026-to-00032",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00026_00032-5-uniq-0093-00_00026-to-00032",
+            "text": "牡丹酱的泳衣，这可是好东西……！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00026_00032-5-uniq-0093-00_00032-to-00026",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00026_00032-5-uniq-0093-00_00032-to-00026",
+            "text": "吃太多了，会冰得脑袋瓜发懵呢～"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00026_00032-to-00026",
         "data": {
             "id": "la-text_cv-live_dial_chr-00026_00032-to-00026",
@@ -125094,6 +126154,69 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00027_00027-5-uniq-0022-00_myself",
             "text": "各位，thank you啦♪　永远今后也会going my way的！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00002-to-00027",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00002-to-00027",
+            "text": "那永远就用冷酷的歌声，帮你们冷却一下咯。"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00012-to-00027",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00012-to-00027",
+            "text": "OK～！精神！身体！热情！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00018-to-00027",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00018-to-00027",
+            "text": "就该这样啊～！全都怪到夏天头上，尽情闹吧！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00027-to-00002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00027-to-00002",
+            "text": "大家～！中暑什么的都踹到天边去～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00027-to-00012",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00027-to-00012",
+            "text": "小昴，你盯着永远看太久了吧～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00027-to-00018",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00027-to-00018",
+            "text": "看，这副太阳镜，不觉得很帅吗～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00027-to-00031",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00027-to-00031",
+            "text": "这里的氛围太热烈了，永远感觉自己都要蒸发了～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00031-to-00027",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00027_00027-5-uniq-0092-00_00031-to-00027",
+            "text": "呜哇？！音音，热死了别贴过来～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00027_00027-5-uniq-0092-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00027_00027-5-uniq-0092-00_myself",
+            "text": "你们的汗出得还不够多吧～？！接着喊啊喊啊～！"
         }
     },
     {
@@ -127680,6 +128803,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00031_00027-5-uniq-0092-00_00027-to-00031",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00031_00027-5-uniq-0092-00_00027-to-00031",
+            "text": "火热到暴汗的好永远远～♪　呼～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00031_00027-5-uniq-0092-00_00031-to-00027",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00031_00027-5-uniq-0092-00_00031-to-00027",
+            "text": "给大家炫一炫我们恩恩爱爱的火热交情吧～♡"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00031_00027-to-00031",
         "data": {
             "id": "la-text_cv-live_dial_chr-00031_00027-to-00031",
@@ -128555,6 +129692,69 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00019-to-00032",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00019-to-00032",
+            "text": "咦？佩克酱，难道你也想戴？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00026-to-00032",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00026-to-00032",
+            "text": "绵芽小姐～请不要死盯着看可以吗～"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00032-to-00019",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00032-to-00019",
+            "text": "夏天还是要吃能打起精神的东西啊～"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00032-to-00026",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00032-to-00026",
+            "text": "热天吃刨冰可真是太美味了。"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00032-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00032-to-00034",
+            "text": "大家好，这里是夏季装扮的狮白白～"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00032-to-00036",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00032-to-00036",
+            "text": "夏天的强度能不能再稍微削一点啊～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00034-to-00032",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00034-to-00032",
+            "text": "那，你愿意请我吃海边小餐馆的拉面吗～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00036-to-00032",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00032_00032-5-uniq-0093-00_00036-to-00032",
+            "text": "荫凉地真的是优势点，大家要优先占领啊～"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00032_00032-5-uniq-0093-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00032_00032-5-uniq-0093-00_myself",
+            "text": "好～！这个夏天，要把大家想做的事全都做个遍～！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00032_00032-to-00001",
         "data": {
             "id": "la-text_cv-live_dial_chr-00032_00032-to-00001",
@@ -129364,6 +130564,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00034_00032-5-uniq-0026-00_00032-to-00034",
             "text": "It's show time！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00032-5-uniq-0093-00_00032-to-00034",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00032-5-uniq-0093-00_00032-to-00034",
+            "text": "大家！快谢谢夏天！感恩夏天～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00034_00032-5-uniq-0093-00_00034-to-00032",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00034_00032-5-uniq-0093-00_00034-to-00032",
+            "text": "嘿，小姐姐～！要不要跟我约会啊～？"
         }
     },
     {
@@ -131149,6 +132363,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00036_00031-to-00036",
             "text": "夸张表达请收收味～"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00036_00032-5-uniq-0093-00_00032-to-00036",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00036_00032-5-uniq-0093-00_00032-to-00036",
+            "text": "不但没削，反而还年年加强了吧？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00036_00032-5-uniq-0093-00_00036-to-00032",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00036_00032-5-uniq-0093-00_00036-to-00032",
+            "text": "各位～！请一定要注意身体状况哦～！"
         }
     },
     {
@@ -136752,6 +137980,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-03004_04014-5-uniq-0094-00_03004-to-04014",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03004_04014-5-uniq-0094-00_03004-to-04014",
+            "text": "谁要是不跟着一起狂欢，就把你们埋进沙滩哦～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03004_04014-5-uniq-0094-00_04014-to-03004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03004_04014-5-uniq-0094-00_04014-to-03004",
+            "text": "我我我我我～！Ollie来帮你涂防晒霜～！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-03004_04014-to-03004",
         "data": {
             "id": "la-text_cv-live_dial_chr-03004_04014-to-03004",
@@ -139104,6 +140346,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-03007_03008-5-uniq-0095-00_03007-to-03008",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03007_03008-5-uniq-0095-00_03007-to-03008",
+            "text": "好冰？！喂～～～～Elaaa！！！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03007_03008-5-uniq-0095-00_03008-to-03007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03007_03008-5-uniq-0095-00_03008-to-03007",
+            "text": "欸～那，Ela你帮我戴上吧♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-03007_03008-to-03007",
         "data": {
             "id": "la-text_cv-live_dial_chr-03007_03008-to-03007",
@@ -139528,6 +140784,69 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-03008_03008-5-uniq-0040-00_myself",
             "text": "多亏大家，我现在很快乐。谢谢你们的支持。"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03008_03008-5-uniq-0095-00_00015-to-03008",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03008_03008-5-uniq-0095-00_00015-to-03008",
+            "text": "Thank you～♪　巫女亲的爱比夏天还Hot呢！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03007-to-03008",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03007-to-03008",
+            "text": "咦，你不要喝饮料吗？快点拿去啦。"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03008-to-00015",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03008-to-00015",
+            "text": "巫女亲～！你那边会有喷水特效哦～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03008-to-03007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03008-to-03007",
+            "text": "Zeta，阳光会不会太强？要不要借你帽子？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03008-to-03009",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03008-to-03009",
+            "text": "我很强壮～不管多热都不怕。"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03008-to-06005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03008-to-06005",
+            "text": "怎么样？大家觉得好看吗～？墨镜可是夏日必备啊。"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03009-to-03008",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03008_03008-5-uniq-0095-00_03009-to-03008",
+            "text": "摩拳擦掌了哦～那我们堆一个大到要抬头看的沙堡吧！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03008_03008-5-uniq-0095-00_06005-to-03008",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03008_03008-5-uniq-0095-00_06005-to-03008",
+            "text": "Cute？No！哈吉mya！I'm cool！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03008_03008-5-uniq-0095-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03008_03008-5-uniq-0095-00_myself",
+            "text": "用大家的应援和我们的歌声点燃烈火，打造最棒的夏日舞台吧！"
         }
     },
     {
@@ -139965,6 +141284,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-03008_04014-5-uniq-0094-00_03008-to-04014",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03008_04014-5-uniq-0094-00_03008-to-04014",
+            "text": "准备好大闹一场了吗？Bijou，go go go go gooo！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03008_04014-5-uniq-0094-00_04014-to-03008",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03008_04014-5-uniq-0094-00_04014-to-03008",
+            "text": "好好好，这样行了吗？可爱的小捣蛋鬼。"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-03008_04014-to-03008",
         "data": {
             "id": "la-text_cv-live_dial_chr-03008_04014-to-03008",
@@ -140347,6 +141680,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-03009_03008-5-uniq-0040-00_03008-to-03009",
             "text": "没关系！之后会再帮你接上的——！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03009_03008-5-uniq-0095-00_03008-to-03009",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03009_03008-5-uniq-0095-00_03008-to-03009",
+            "text": "哦～～～那Kobo也不怕！Kobo也很壮壮！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03009_03008-5-uniq-0095-00_03009-to-03008",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03009_03008-5-uniq-0095-00_03009-to-03008",
+            "text": "Ela，Ela！如果我们去沙滩玩，Kobo想堆沙堡！"
         }
     },
     {
@@ -141768,6 +143115,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-04001_04013-to-04001",
             "text": "仅在演出中吗？！别开这种玩笑啦。"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04001_04014-5-uniq-0094-00_04001-to-04014",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04001_04014-5-uniq-0094-00_04001-to-04014",
+            "text": "在summer的沙滩上“撒马”狂奔吧～！说笑啦♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04001_04014-5-uniq-0094-00_04014-to-04001",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04001_04014-5-uniq-0094-00_04014-to-04001",
+            "text": "等下等下……？！你的包包开着口呢！"
         }
     },
     {
@@ -147308,6 +148669,69 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-04014_04014-5-uniq-0094-00_03004-to-04014",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04014_04014-5-uniq-0094-00_03004-to-04014",
+            "text": "谁要是不跟着一起狂欢，就把他跟僵尸一样埋起来哦～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04014_04014-5-uniq-0094-00_03008-to-04014",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04014_04014-5-uniq-0094-00_03008-to-04014",
+            "text": "Yeah！我们要把夏天的炎热都吹跑～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04014_04014-5-uniq-0094-00_04001-to-04014",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04014_04014-5-uniq-0094-00_04001-to-04014",
+            "text": "哦～？Calli前辈，Calli前辈，什么意思啊？？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04014_04014-5-uniq-0094-00_04014-to-03004",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04014_04014-5-uniq-0094-00_04014-to-03004",
+            "text": "Biboo想在海边晒日光浴～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04014_04014-5-uniq-0094-00_04014-to-03008",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04014_04014-5-uniq-0094-00_04014-to-03008",
+            "text": "哈、哈、哈！不想被泼水，就举起手来！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04014_04014-5-uniq-0094-00_04014-to-04001",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04014_04014-5-uniq-0094-00_04014-to-04001",
+            "text": "大家～让Biboo见识一下大浪吧！嘿呀～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04014_04014-5-uniq-0094-00_04014-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04014_04014-5-uniq-0094-00_04014-to-06003",
+            "text": "大家快看，快看～！Biboo穿泳衣了哦～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04014_04014-5-uniq-0094-00_06003-to-04014",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04014_04014-5-uniq-0094-00_06003-to-04014",
+            "text": "谢谢～！它还可以当飞盘玩呢～"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04014_04014-5-uniq-0094-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04014_04014-5-uniq-0094-00_myself",
+            "text": "Bijou的光辉才不会输给区区夏天的太阳呢！Kirakira～Koseki☆"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-04014_04014-to-00001",
         "data": {
             "id": "la-text_cv-live_dial_chr-04014_04014-to-00001",
@@ -151634,6 +153058,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-06003_04014-5-uniq-0094-00_04014-to-06003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_04014-5-uniq-0094-00_04014-to-06003",
+            "text": "哇啊啊啊啊，Biboo也太可爱了吧！！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06003_04014-5-uniq-0094-00_06003-to-04014",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06003_04014-5-uniq-0094-00_06003-to-04014",
+            "text": "Biboo，你的草帽很适合你哦！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-06003_04014-to-06003",
         "data": {
             "id": "la-text_cv-live_dial_chr-06003_04014-to-06003",
@@ -153241,6 +154679,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-06005_03007-to-06005",
             "text": "轰隆隆～！前辈就欣赏我的精彩演出吧！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06005_03008-5-uniq-0095-00_03008-to-06005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06005_03008-5-uniq-0095-00_03008-to-06005",
+            "text": "哦～！Kaela前辈好帅——！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06005_03008-5-uniq-0095-00_06005-to-03008",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06005_03008-5-uniq-0095-00_06005-to-03008",
+            "text": "Kaela前辈的泳衣，very very cute～"
         }
     },
     {

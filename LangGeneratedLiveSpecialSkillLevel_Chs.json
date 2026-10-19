@@ -420,6 +420,62 @@
         }
     },
     {
+        "id": "la-generated-live_special_skill-card-00027-5-uniq-0092-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00027-5-uniq-0092-00.1-description",
+            "text": "在 12 秒内得分辅助效果100%技能发动概率提升35%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00027-5-uniq-0092-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00027-5-uniq-0092-00.2-description",
+            "text": "在 12 秒内得分辅助效果[highlight]120[/highlight]%技能发动概率提升[highlight]40[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00032-5-uniq-0093-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00032-5-uniq-0093-00.1-description",
+            "text": "在 12 秒内得分辅助效果100%技能发动概率提升35%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00032-5-uniq-0093-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00032-5-uniq-0093-00.2-description",
+            "text": "在 12 秒内得分辅助效果[highlight]120[/highlight]%技能发动概率提升[highlight]40[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-03008-5-uniq-0095-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-03008-5-uniq-0095-00.1-description",
+            "text": "在 10 秒内得分辅助效果120%且队伍中有至少2名ID3期生时技能发动概率提升45%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-03008-5-uniq-0095-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-03008-5-uniq-0095-00.2-description",
+            "text": "在 10 秒内得分辅助效果[highlight]145[/highlight]%且队伍中有至少2名ID3期生时技能发动概率提升[highlight]55[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-04014-5-uniq-0094-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-04014-5-uniq-0094-00.1-description",
+            "text": "在 12 秒内得分辅助效果100%且队伍中有至少2名Advent时技能发动概率提升40%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-04014-5-uniq-0094-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-04014-5-uniq-0094-00.2-description",
+            "text": "在 12 秒内得分辅助效果[highlight]120[/highlight]%且队伍中有至少2名Advent时技能发动概率提升[highlight]45[/highlight]%"
+        }
+    },
+    {
         "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",
         "data": {
             "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",

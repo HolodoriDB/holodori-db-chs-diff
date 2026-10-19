@@ -3,7 +3,7 @@
         "id": "la-splash_ball-game_playing_display_clear_condition-normal",
         "data": {
             "id": "la-splash_ball-game_playing_display_clear_condition-normal",
-            "text": "尽量把球踢进对方球门！以0分获胜！"
+            "text": "尽量把球踢进对方球门！以{0}分获胜！"
         }
     },
     {

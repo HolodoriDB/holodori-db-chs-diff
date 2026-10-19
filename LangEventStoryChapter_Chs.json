@@ -75,5 +75,33 @@
             "id": "la-event_story_chapter-marathon_event-relay-002-chapter-04",
             "text": "有才监督前来圣地巡礼"
         }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-003-chapter-01",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-003-chapter-01",
+            "text": "兴奋的恶魔泳池假日☆"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-003-chapter-02",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-003-chapter-02",
+            "text": "铁匠的超讲究建筑！"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-003-chapter-03",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-003-chapter-03",
+            "text": "幺女白狮的饱餐实录"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-003-chapter-04",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-003-chapter-04",
+            "text": "Biboo的心动☆大冒险"
+        }
     }
 ]
