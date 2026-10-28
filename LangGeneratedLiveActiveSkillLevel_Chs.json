@@ -504,6 +504,76 @@
         }
     },
     {
+        "id": "la-generated-live_active_skill-card-00007-5-uniq-0096-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00007-5-uniq-0096-00.1-description",
+            "text": "每 26 秒以中等概率在 10 秒内得分提升90% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00007-5-uniq-0096-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00007-5-uniq-0096-00.2-description",
+            "text": "每 26 秒以中等概率在 10 秒内得分提升[highlight]110[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-03007-5-uniq-0100-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-03007-5-uniq-0100-00.1-description",
+            "text": "每 27 秒以中等概率在 10 秒内得分提升95% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-03007-5-uniq-0100-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-03007-5-uniq-0100-00.2-description",
+            "text": "每 27 秒以中等概率在 10 秒内得分提升[highlight]115[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-04015-5-uniq-0099-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-04015-5-uniq-0099-00.1-description",
+            "text": "每 29 秒以高概率在 10 秒内得分提升95% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-04015-5-uniq-0099-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-04015-5-uniq-0099-00.2-description",
+            "text": "每 29 秒以高概率在 [highlight]11[/highlight] 秒内得分提升[highlight]105[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-06004-5-uniq-0098-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-06004-5-uniq-0098-00.1-description",
+            "text": "每 23 秒以中等概率在 8 秒内得分提升100% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-06004-5-uniq-0098-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-06004-5-uniq-0098-00.2-description",
+            "text": "每 23 秒以中等概率在 8 秒内得分提升[highlight]120[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-06005-5-uniq-0097-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-06005-5-uniq-0097-00.1-description",
+            "text": "每 32 秒以中等概率在 11 秒内得分提升55% 队伍中有至少2名ReGLOSS时得分提升110% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-06005-5-uniq-0097-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-06005-5-uniq-0097-00.2-description",
+            "text": "每 32 秒以中等概率在 11 秒内得分提升[highlight]65[/highlight]% 队伍中有至少2名ReGLOSS时得分提升[highlight]130[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",
         "data": {
             "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",

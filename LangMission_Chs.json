@@ -11396,6 +11396,76 @@
         }
     },
     {
+        "id": "la-mission-event_mission-training_support-261105-absolute_character_get_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261105-absolute_character_get_count",
+            "text": "解锁{0}位holo成员"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261105-absolute_character_level_sum",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261105-absolute_character_level_sum",
+            "text": "将总计Holo成员Rank提升到{0}"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261105-absolute_live_clear_music_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261105-absolute_live_clear_music_count",
+            "text": "通关{0}种不同演出"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261105-absolute_live_highest_score",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261105-absolute_live_highest_score",
+            "text": "在演出中获得{0}分"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261105-absolute_skill_tree_release_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261105-absolute_skill_tree_release_count",
+            "text": "总计解锁{0}个Holo成员面板"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261105-increment_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261105-increment_live_play_count",
+            "text": "游玩演出{0}次"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261105-increment_mini_game_stamina_consumption",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261105-increment_mini_game_stamina_consumption",
+            "text": "总计消耗{0}点迷你游戏能量"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261105-increment_mission_clear_count-mission_grp-training_support-261105",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261105-increment_mission_clear_count-mission_grp-training_support-261105",
+            "text": "完成所有任务"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261105-increment_park_present_receive_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261105-increment_park_present_receive_count",
+            "text": "领取{0}次来自holo成员的礼物"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261105-increment_work_finish_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261105-increment_work_finish_count",
+            "text": "完成{0}次holowork"
+        }
+    },
+    {
         "id": "la-mission-hidden-gacha-beginner-select-001",
         "data": {
             "id": "la-mission-hidden-gacha-beginner-select-001",
@@ -12002,6 +12072,83 @@
         "data": {
             "id": "la-mission-missionpass-261001-weekly-increment_work_start_count-name",
             "text": "开始{0}次Holowork"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261101-daily-increment_card_level_up_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261101-daily-increment_card_level_up_count-name",
+            "text": "强化成员Lv{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261101-daily-increment_drop_item_get_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261101-daily-increment_drop_item_get_count-name",
+            "text": "拾取{0}个隐秘宝藏"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261101-daily-increment_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261101-daily-increment_live_play_count-name",
+            "text": "游玩演出{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261101-daily-increment_mini_game_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261101-daily-increment_mini_game_play_count-name",
+            "text": "游玩迷你游戏{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261101-daily-increment_multi_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261101-daily-increment_multi_live_play_count-name",
+            "text": "游玩共同演出{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261101-daily-increment_park_present_receive_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261101-daily-increment_park_present_receive_count-name",
+            "text": "领取{0}次来自holo成员的礼物"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261101-daily-increment_park_quest_clear_count-daily-name",
+        "data": {
+            "id": "la-mission-missionpass-261101-daily-increment_park_quest_clear_count-daily-name",
+            "text": "完成{0}次每日任务"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261101-daily-increment_work_start_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261101-daily-increment_work_start_count-name",
+            "text": "开始{0}次Holowork"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261101-season-absolute_character_level_sum-name",
+        "data": {
+            "id": "la-mission-missionpass-261101-season-absolute_character_level_sum-name",
+            "text": "将总计Holo成员Rank提升到{0}"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261101-season-absolute_facility_level_up_count-area_group-a03-facility-a03-station-name",
+        "data": {
+            "id": "la-mission-missionpass-261101-season-absolute_facility_level_up_count-area_group-a03-facility-a03-station-name",
+            "text": "升级玛琳公主号设施Lv{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261101-season-absolute_music_highest_score_rating_sum-name",
+        "data": {
+            "id": "la-mission-missionpass-261101-season-absolute_music_highest_score_rating_sum-name",
+            "text": "将总计Holo成员评定值提升到{0}以上"
         }
     },
     {

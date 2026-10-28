@@ -14,6 +14,13 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00007_00007-5-uniq-0096-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00007_00007-5-uniq-0096-00_myself",
+            "text": "【淘气小狼的甜蜜蜜Trick 祭】SP技能"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_myself",
@@ -161,6 +168,13 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0100-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0100-00_myself",
+            "text": "【随性少女的心跳诊室 Zeta】SP技能"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0095-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0095-00_myself",
@@ -210,6 +224,13 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0099-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0099-00_myself",
+            "text": "【魅惑的Magic Potion Nerissa】SP技能"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_myself",
@@ -235,6 +256,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_myself",
             "text": "【为夏夜添彩的Brilliant Smile 莉莉华】SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0098-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0098-00_myself",
+            "text": "【高贵吸血鬼的嗜好 螺钿】SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0097-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0097-00_myself",
+            "text": "【今夜开幕！妖异献舞 一】SP技能"
         }
     },
     {
@@ -536,6 +571,62 @@
         "data": {
             "id": "la-name_live_dial_voice_card_00007-5-uniq-0008-00_myself",
             "text": "【Vivid Cheer Spirit 祭】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_00007-to-03007",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_00007-to-03007",
+            "text": "【淘气小狼的甜蜜蜜Trick 祭】祭&Zeta"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_00007-to-04015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_00007-to-04015",
+            "text": "【淘气小狼的甜蜜蜜Trick 祭】祭&Nerissa"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_00007-to-06004",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_00007-to-06004",
+            "text": "【淘气小狼的甜蜜蜜Trick 祭】祭&螺钿"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_00007-to-06005",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_00007-to-06005",
+            "text": "【淘气小狼的甜蜜蜜Trick 祭】祭&一"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_03007-to-00007",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_03007-to-00007",
+            "text": "【淘气小狼的甜蜜蜜Trick 祭】Zeta&祭"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_04015-to-00007",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_04015-to-00007",
+            "text": "【淘气小狼的甜蜜蜜Trick 祭】Nerissa&祭"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_06004-to-00007",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_06004-to-00007",
+            "text": "【淘气小狼的甜蜜蜜Trick 祭】螺钿&祭"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_06005-to-00007",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_06005-to-00007",
+            "text": "【淘气小狼的甜蜜蜜Trick 祭】一&祭"
         }
     },
     {
@@ -2471,6 +2562,62 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_00007-to-03007",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_00007-to-03007",
+            "text": "【随性少女的心跳诊室 Zeta】祭&Zeta"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_03007-to-00007",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_03007-to-00007",
+            "text": "【随性少女的心跳诊室 Zeta】Zeta&祭"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_03007-to-04015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_03007-to-04015",
+            "text": "【随性少女的心跳诊室 Zeta】Zeta&Nerissa"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_03007-to-06004",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_03007-to-06004",
+            "text": "【随性少女的心跳诊室 Zeta】Zeta&螺钿"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_03007-to-06005",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_03007-to-06005",
+            "text": "【随性少女的心跳诊室 Zeta】Zeta&一"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_04015-to-03007",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_04015-to-03007",
+            "text": "【随性少女的心跳诊室 Zeta】Nerissa&Zeta"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_06004-to-03007",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_06004-to-03007",
+            "text": "【随性少女的心跳诊室 Zeta】螺钿&Zeta"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_06005-to-03007",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_06005-to-03007",
+            "text": "【随性少女的心跳诊室 Zeta】一&Zeta"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_03008-5-uniq-0040-00_03008-to-03007",
         "data": {
             "id": "la-name_live_dial_voice_card_03008-5-uniq-0040-00_03008-to-03007",
@@ -3192,6 +3339,62 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_00007-to-04015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_00007-to-04015",
+            "text": "【魅惑的Magic Potion Nerissa】祭&Nerissa"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_03007-to-04015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_03007-to-04015",
+            "text": "【魅惑的Magic Potion Nerissa】Zeta&Nerissa"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_04015-to-00007",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_04015-to-00007",
+            "text": "【魅惑的Magic Potion Nerissa】Nerissa&祭"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_04015-to-03007",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_04015-to-03007",
+            "text": "【魅惑的Magic Potion Nerissa】Nerissa&Zeta"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_04015-to-06004",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_04015-to-06004",
+            "text": "【魅惑的Magic Potion Nerissa】Nerissa&螺钿"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_04015-to-06005",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_04015-to-06005",
+            "text": "【魅惑的Magic Potion Nerissa】Nerissa&一"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_06004-to-04015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_06004-to-04015",
+            "text": "【魅惑的Magic Potion Nerissa】螺钿&Nerissa"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_06005-to-04015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_06005-to-04015",
+            "text": "【魅惑的Magic Potion Nerissa】一&Nerissa"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_04016-5-uniq-0055-00_04016-to-04013",
         "data": {
             "id": "la-name_live_dial_voice_card_04016-5-uniq-0055-00_04016-to-04013",
@@ -3542,6 +3745,62 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_00007-to-06004",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_00007-to-06004",
+            "text": "【高贵吸血鬼的嗜好 螺钿】祭&螺钿"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_03007-to-06004",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_03007-to-06004",
+            "text": "【高贵吸血鬼的嗜好 螺钿】Zeta&螺钿"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_04015-to-06004",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_04015-to-06004",
+            "text": "【高贵吸血鬼的嗜好 螺钿】Nerissa&螺钿"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_06004-to-00007",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_06004-to-00007",
+            "text": "【高贵吸血鬼的嗜好 螺钿】螺钿&祭"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_06004-to-03007",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_06004-to-03007",
+            "text": "【高贵吸血鬼的嗜好 螺钿】螺钿&Zeta"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_06004-to-04015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_06004-to-04015",
+            "text": "【高贵吸血鬼的嗜好 螺钿】螺钿&Nerissa"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_06004-to-06005",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_06004-to-06005",
+            "text": "【高贵吸血鬼的嗜好 螺钿】螺钿&一"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_06005-to-06004",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_06005-to-06004",
+            "text": "【高贵吸血鬼的嗜好 螺钿】一&螺钿"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_06005-5-uniq-0061-00_06005-to-06002",
         "data": {
             "id": "la-name_live_dial_voice_card_06005-5-uniq-0061-00_06005-to-06002",
@@ -3567,6 +3826,62 @@
         "data": {
             "id": "la-name_live_dial_voice_card_06005-5-uniq-0061-00_myself",
             "text": "【Bancho’s Soft Grace 一】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_00007-to-06005",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_00007-to-06005",
+            "text": "【今夜开幕！妖异献舞 一】祭&一"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_03007-to-06005",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_03007-to-06005",
+            "text": "【今夜开幕！妖异献舞 一】Zeta&一"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_04015-to-06005",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_04015-to-06005",
+            "text": "【今夜开幕！妖异献舞 一】Nerissa&一"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_06004-to-06005",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_06004-to-06005",
+            "text": "【今夜开幕！妖异献舞 一】螺钿&一"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_06005-to-00007",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_06005-to-00007",
+            "text": "【今夜开幕！妖异献舞 一】一&祭"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_06005-to-03007",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_06005-to-03007",
+            "text": "【今夜开幕！妖异献舞 一】一&Zeta"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_06005-to-04015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_06005-to-04015",
+            "text": "【今夜开幕！妖异献舞 一】一&Nerissa"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_06005-to-06004",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_06005-to-06004",
+            "text": "【今夜开幕！妖异献舞 一】一&螺钿"
         }
     },
     {

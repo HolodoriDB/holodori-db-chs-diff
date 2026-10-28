@@ -14,6 +14,13 @@
         }
     },
     {
+        "id": "la-card_flavor-00007-5-uniq-0096-00",
+        "data": {
+            "id": "la-card_flavor-00007-5-uniq-0096-00",
+            "text": "淘气小狼的甜蜜蜜Trick"
+        }
+    },
+    {
         "id": "la-card_flavor-00010-5-uniq-0069-00",
         "data": {
             "id": "la-card_flavor-00010-5-uniq-0069-00",
@@ -161,6 +168,13 @@
         }
     },
     {
+        "id": "la-card_flavor-03007-5-uniq-0100-00",
+        "data": {
+            "id": "la-card_flavor-03007-5-uniq-0100-00",
+            "text": "随性少女的心跳诊室"
+        }
+    },
+    {
         "id": "la-card_flavor-03008-5-uniq-0095-00",
         "data": {
             "id": "la-card_flavor-03008-5-uniq-0095-00",
@@ -210,6 +224,13 @@
         }
     },
     {
+        "id": "la-card_flavor-04015-5-uniq-0099-00",
+        "data": {
+            "id": "la-card_flavor-04015-5-uniq-0099-00",
+            "text": "魅惑的Magic Potion"
+        }
+    },
+    {
         "id": "la-card_flavor-04016-5-uniq-0079-00",
         "data": {
             "id": "la-card_flavor-04016-5-uniq-0079-00",
@@ -235,6 +256,20 @@
         "data": {
             "id": "la-card_flavor-06003-5-uniq-0091-00",
             "text": "为夏夜添彩的Brilliant Smile"
+        }
+    },
+    {
+        "id": "la-card_flavor-06004-5-uniq-0098-00",
+        "data": {
+            "id": "la-card_flavor-06004-5-uniq-0098-00",
+            "text": "高贵吸血鬼的嗜好"
+        }
+    },
+    {
+        "id": "la-card_flavor-06005-5-uniq-0097-00",
+        "data": {
+            "id": "la-card_flavor-06005-5-uniq-0097-00",
+            "text": "今夜开幕！妖异献舞"
         }
     },
     {

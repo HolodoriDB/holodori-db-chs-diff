@@ -476,6 +476,76 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill-card-00007-5-uniq-0096-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00007-5-uniq-0096-00.1-description",
+            "text": "队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时2名[attribute=pure]纯洁类型[/attribute]角色品位提升32% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00007-5-uniq-0096-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00007-5-uniq-0096-00.2-description",
+            "text": "队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时2名[attribute=pure]纯洁类型[/attribute]角色品位提升[highlight]43[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03007-5-uniq-0100-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03007-5-uniq-0100-00.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色得分辅助效果8% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03007-5-uniq-0100-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03007-5-uniq-0100-00.2-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色得分辅助效果[highlight]11[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04015-5-uniq-0099-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04015-5-uniq-0099-00.1-description",
+            "text": "队伍中有至少2名[attribute=happy]快乐类型[/attribute]的角色时2名[attribute=happy]快乐类型[/attribute]角色表现力提升32% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04015-5-uniq-0099-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04015-5-uniq-0099-00.2-description",
+            "text": "队伍中有至少2名[attribute=happy]快乐类型[/attribute]的角色时2名[attribute=happy]快乐类型[/attribute]角色表现力提升[highlight]43[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-06004-5-uniq-0098-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-06004-5-uniq-0098-00.1-description",
+            "text": "队伍中有至少2名ReGLOSS时令2名ReGLOSS的得分辅助效果9% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-06004-5-uniq-0098-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-06004-5-uniq-0098-00.2-description",
+            "text": "队伍中有至少2名ReGLOSS时令2名ReGLOSS的得分辅助效果[highlight]12[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-06005-5-uniq-0097-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-06005-5-uniq-0097-00.1-description",
+            "text": "队伍中有至少2名ReGLOSS时自身的所有参数提升25% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-06005-5-uniq-0097-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-06005-5-uniq-0097-00.2-description",
+            "text": "队伍中有至少2名ReGLOSS时自身的所有参数提升[highlight]33[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
