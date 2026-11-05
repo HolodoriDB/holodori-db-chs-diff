@@ -154,6 +154,27 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-03001_03001-5-uniq-0114-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03001_03001-5-uniq-0114-00_myself",
+            "text": "【睡眼惺忪整装中 Risu】SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03002_03002-5-uniq-0113-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03002_03002-5-uniq-0113-00_myself",
+            "text": "【繁星夜色，悠然浴室时光 Moona】SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03003_03003-5-uniq-0115-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03003_03003-5-uniq-0115-00_myself",
+            "text": "【向阳处的温暖微笑 Iofi】SP技能"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_myself",
@@ -2324,6 +2345,34 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03001-to-03002",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03001-to-03002",
+            "text": "【睡眼惺忪整装中 Risu】Risu&Moona"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03001-to-03003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03001-to-03003",
+            "text": "【睡眼惺忪整装中 Risu】Risu&Iofi"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03002-to-03001",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03002-to-03001",
+            "text": "【睡眼惺忪整装中 Risu】Moona&Risu"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03003-to-03001",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03003-to-03001",
+            "text": "【睡眼惺忪整装中 Risu】Iofi&Risu"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_03002-5-uniq-0034-00_03002-to-03001",
         "data": {
             "id": "la-name_live_dial_voice_card_03002-5-uniq-0034-00_03002-to-03001",
@@ -2345,6 +2394,34 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03001-to-03002",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03001-to-03002",
+            "text": "【繁星夜色，悠然浴室时光 Moona】Risu&Moona"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03002-to-03001",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03002-to-03001",
+            "text": "【繁星夜色，悠然浴室时光 Moona】Moona&Risu"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03002-to-03003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03002-to-03003",
+            "text": "【繁星夜色，悠然浴室时光 Moona】Moona&Iofi"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03003-to-03002",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03003-to-03002",
+            "text": "【繁星夜色，悠然浴室时光 Moona】Iofi&Moona"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_03003-5-uniq-0035-00_03003-to-03001",
         "data": {
             "id": "la-name_live_dial_voice_card_03003-5-uniq-0035-00_03003-to-03001",
@@ -2363,6 +2440,34 @@
         "data": {
             "id": "la-name_live_dial_voice_card_03003-5-uniq-0035-00_myself",
             "text": "【Sunlit Cosmos Palette Iofi】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03001-to-03003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03001-to-03003",
+            "text": "【向阳处的温暖微笑 Iofi】Risu&Iofi"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03002-to-03003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03002-to-03003",
+            "text": "【向阳处的温暖微笑 Iofi】Moona&Iofi"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03003-to-03001",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03003-to-03001",
+            "text": "【向阳处的温暖微笑 Iofi】Iofi&Risu"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03003-to-03002",
+        "data": {
+            "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03003-to-03002",
+            "text": "【向阳处的温暖微笑 Iofi】Iofi&Moona"
         }
     },
     {
