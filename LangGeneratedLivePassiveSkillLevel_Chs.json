@@ -588,6 +588,76 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill-card-00002-5-uniq-0104-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00002-5-uniq-0104-00.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色得分辅助效果8% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00002-5-uniq-0104-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00002-5-uniq-0104-00.2-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色得分辅助效果[highlight]11[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00019-5-uniq-0108-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00019-5-uniq-0108-00.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色得分辅助效果8% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00019-5-uniq-0108-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00019-5-uniq-0108-00.2-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色得分辅助效果[highlight]11[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00031-5-uniq-0105-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00031-5-uniq-0105-00.1-description",
+            "text": "令2名5期生的技巧提升32% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00031-5-uniq-0105-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00031-5-uniq-0105-00.2-description",
+            "text": "令2名5期生的技巧提升[highlight]43[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03006-5-uniq-0107-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03006-5-uniq-0107-00.1-description",
+            "text": "令2名ID2期生的表现力提升32% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03006-5-uniq-0107-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03006-5-uniq-0107-00.2-description",
+            "text": "令2名ID2期生的表现力提升[highlight]43[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04007-5-uniq-0106-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04007-5-uniq-0106-00.1-description",
+            "text": "队伍中有至少2名[attribute=cute]可爱类型[/attribute]的角色时2名[attribute=cute]可爱类型[/attribute]角色表现力提升32% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04007-5-uniq-0106-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04007-5-uniq-0106-00.2-description",
+            "text": "队伍中有至少2名[attribute=cute]可爱类型[/attribute]的角色时2名[attribute=cute]可爱类型[/attribute]角色表现力提升[highlight]43[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",

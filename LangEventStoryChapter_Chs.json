@@ -110,5 +110,40 @@
             "id": "la-event_story_chapter-marathon_event-relay-003-chapter-04",
             "text": "Biboo的心动☆大冒险"
         }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-004-chapter-01",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-004-chapter-01",
+            "text": "这次约会杜绝耍笨！"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-004-chapter-02",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-004-chapter-02",
+            "text": "酷酷小兔与金色秋日"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-004-chapter-03",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-004-chapter-03",
+            "text": "御宅歌姬的推活二三事"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-004-chapter-04",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-004-chapter-04",
+            "text": "音音亲的周边商品大探查"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-004-chapter-05",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-004-chapter-05",
+            "text": "大小姐的魔力☆妆扮"
+        }
     }
 ]
