@@ -378,6 +378,20 @@
         }
     },
     {
+        "id": "la-loading_display-tips-live_tower-001-text",
+        "data": {
+            "id": "la-loading_display-tips-live_tower-001-text",
+            "text": "巧妙编入加成成员，努力达成目标得分吧！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live_tower-001-title",
+        "data": {
+            "id": "la-loading_display-tips-live_tower-001-title",
+            "text": "挑战演出小贴士"
+        }
+    },
+    {
         "id": "la-loading_display-tips-mg-001-text",
         "data": {
             "id": "la-loading_display-tips-mg-001-text",

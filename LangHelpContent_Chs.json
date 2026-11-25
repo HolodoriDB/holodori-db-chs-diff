@@ -451,7 +451,7 @@
         "id": "la-help_category-faq-questions-5-text",
         "data": {
             "id": "la-help_category-faq-questions-5-text",
-            "text": "礼物领取记录最多可以显示100条。\n超过100条的部分，会按时间先后删除。"
+            "text": "礼物领取记录最多可以显示500条。\n超过500条的部分，会按时间先后删除。"
         }
     },
     {
@@ -1120,6 +1120,20 @@
         }
     },
     {
+        "id": "la-help_category-help-game-9-text",
+        "data": {
+            "id": "la-help_category-help-game-9-text",
+            "text": "浮排大战是需要操作不同职能的holo成员，设法让对手的领队落水的迷你游戏。\n想要获胜，可以使对手的领队落水，或者让我方的领队冲锋陷阵。\n\n奖励会根据对局胜负进行发放。\n游戏模式分为“单人模式”“多人模式”2种。\n“多人模式”中，最多支持2名玩家游玩。\n\n详情可点击浮排大战首页的［？］查看具体玩法。\n\n▼监修\n“浮排大战”的游戏规则基于“动物将棋”。\n“动物将棋”游戏设计者，兼本游戏监修：北尾まどか"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-9-title",
+        "data": {
+            "id": "la-help_category-help-game-9-title",
+            "text": "关于浮排大战"
+        }
+    },
+    {
         "id": "la-help_category-help-item-1-text",
         "data": {
             "id": "la-help_category-help-item-1-text",
@@ -1459,7 +1473,7 @@
         "id": "la-help_category-help-profile-3-text",
         "data": {
             "id": "la-help_category-help-profile-3-text",
-            "text": "在个人资料中，可以选择是否公开基本信息、holo成员、演出和游戏的详情。\n可以在各项信息的下方选择公开或不公开。"
+            "text": "个人资料中的基本信息、holo成员、演出和游戏的详情可切换“公开”“不公开”“仅对好友公开”。\n\n可以在个人资料的下方调整该设置。"
         }
     },
     {
@@ -1638,6 +1652,20 @@
         }
     },
     {
+        "id": "la-help_category-help-rhythm-13-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-13-text",
+            "text": "在挑战演出中，可以挑战各个关卡的课题曲，努力达到目标分值。\n达成目标分值后即视为通关，可以领取奖励并进入下一个关卡。\n※已通关的关卡无法再次挑战。\n\n将各个关卡的加成成员编入队伍，就能获得加成效果，提升小队总分。\n应用加成效果时，小队总分下方会显示“＋加成效果值”。\n※加成效果值不会计入小队总分的合计数值。\n※判断是否达成成就时，不会采用小队总分加上加成效果值后的数值。\n※不含加成成员效果的得分，将计入各个乐曲的高分纪录。\n\n详情请选择挑战演出首页的［？］查看详细玩法。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-13-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-13-title",
+            "text": "关于挑战演出"
+        }
+    },
+    {
         "id": "la-help_category-help-rhythm-2-text",
         "data": {
             "id": "la-help_category-help-rhythm-2-text",
@@ -1767,7 +1795,7 @@
         "id": "la-help_category-help-shop-2-text",
         "data": {
             "id": "la-help_category-help-shop-2-text",
-            "text": "“Holo通行证”是支付月费换取各种特典的订阅服务。\n\n▼有效期内的特典\n・奖励加成：演出及迷你游戏的通关奖励翻倍。\n・提升能量上限：演出及迷你游戏能量上限翻倍。\n\n※活动Pt、活动徽章也适用奖励加成。\n\n▼加入/续订特典\n・购买时、续订时都会获得360颗蓝色钻石。\n\n▼注意事项\n・Holo通行证的有效期为自加入日/续订日起1个月。\n・正在订阅的Holo通行证有效期满后，会自动进行续订。\n・Steam版无法进行加入操作，但在iOS・Android版中获取的Holo通行证会在Steam版中生效。\n・关于解除Holo通行证订阅的方法，请进入［梦幻乐园］→［菜单］→［商店］→［Holo通行证］页面，选择“＋”来查看［详情］。"
+            "text": "“Holo通行证”是支付月费换取各种特典的订阅服务。\n\n▼有效期内的特典\n・奖励加成：演出及迷你游戏的奖励翻倍。\n・提升能量上限：演出及迷你游戏能量上限翻倍。\n\n※活动Pt、活动徽章也适用奖励加成。\n※各乐曲的达成奖励不适用奖励加成。\n※任务、多人游戏的私人房间、以及浮排大战的NORMAL模式同样不适用奖励加成。\n\n▼加入/续订特典\n・购买时、续订时都会获得360颗蓝色钻石。\n\n▼注意事项\n・Holo通行证的有效期为自加入日/续订日起1个月。\n・正在订阅的Holo通行证有效期满后，会自动进行续订。\n・Steam版无法进行加入操作，但在iOS・Android版中获取的Holo通行证会在Steam版中生效。\n・关于解除Holo通行证订阅的方法，请进入［梦幻乐园］→［菜单］→［商店］→［Holo通行证］页面，选择“＋”来查看［详情］。"
         }
     },
     {

@@ -1,0 +1,44 @@
+[
+    {
+        "id": "la-shogi-game_playing_display_clear_condition-quest",
+        "data": {
+            "id": "la-shogi-game_playing_display_clear_condition-quest",
+            "text": "对决，直到分出胜负！"
+        }
+    },
+    {
+        "id": "la-shogi-game_start_display_clear_condition-quest",
+        "data": {
+            "id": "la-shogi-game_start_display_clear_condition-quest",
+            "text": "将对手的领队推入水中，或者冲锋陷阵获胜吧！"
+        }
+    },
+    {
+        "id": "la-shogi-game_start_display_clear_stage1",
+        "data": {
+            "id": "la-shogi-game_start_display_clear_stage1",
+            "text": "驱动海豚，将对手的领队逼入死角，获得胜利吧！"
+        }
+    },
+    {
+        "id": "la-shogi-game_start_display_clear_stage2",
+        "data": {
+            "id": "la-shogi-game_start_display_clear_stage2",
+            "text": "驱动领队，尝试冲锋陷阵获胜吧！"
+        }
+    },
+    {
+        "id": "la-shogi-game_start_display_clear_stage3",
+        "data": {
+            "id": "la-shogi-game_start_display_clear_stage3",
+            "text": "配置伙伴holo成员，获得胜利吧！"
+        }
+    },
+    {
+        "id": "la-shogi-game_start_display_clear_stage4",
+        "data": {
+            "id": "la-shogi-game_start_display_clear_stage4",
+            "text": "让绿乌龟升级，获得胜利吧！"
+        }
+    }
+]

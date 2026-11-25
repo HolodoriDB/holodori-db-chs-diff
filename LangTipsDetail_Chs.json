@@ -1617,6 +1617,20 @@
         }
     },
     {
+        "id": "la-tips-instant_tips-live_tower-quest-unlock-description-1",
+        "data": {
+            "id": "la-tips-instant_tips-live_tower-quest-unlock-description-1",
+            "text": "区域任务“<color=#ff3bc8>登上梦想舞台！任务开始</color>”解锁啦！\n\n完成任务就可以游玩“<color=#ff3bc8>挑战演出</color>”了！\n\n在挑战演出中，可以挑战每个关卡给定的目标分值！"
+        }
+    },
+    {
+        "id": "la-tips-instant_tips-live_tower-quest-unlock-description-2",
+        "data": {
+            "id": "la-tips-instant_tips-live_tower-quest-unlock-description-2",
+            "text": "通关特定的关卡，就能获得<color=#ff3bc8>星星方块</color>和<color=#ff3bc8>达成称号</color>等等作为奖励！\n\n※达成称号需在成就中领取。"
+        }
+    },
+    {
         "id": "la-tips-instant_tips-present-facerock-2-description-1",
         "data": {
             "id": "la-tips-instant_tips-present-facerock-2-description-1",
@@ -1635,6 +1649,13 @@
         "data": {
             "id": "la-tips-instant_tips-random_reward-livehouse-2-description-1",
             "text": "ReGLOSS让隐秘宝藏的种类增多了！\n\n<color=#ff3bc8>宝物每天都会藏在随机地点</color>，去试着寻宝吧！"
+        }
+    },
+    {
+        "id": "la-tips-instant_tips-skill_tree-upgrade-1-description-1",
+        "data": {
+            "id": "la-tips-instant_tips-skill_tree-upgrade-1-description-1",
+            "text": "增加了新的<color=#ff3bc8>强化领队效果的格子</color>！\n\n解锁新增格子需要的星星方块可以通过<color=#ff3bc8>挑战演出</color>获得！"
         }
     },
     {
@@ -1691,6 +1712,48 @@
         "data": {
             "id": "la-tips-live-description-1",
             "text": "小队包含<color=#ff3bc8>1名领队和5名队员</color>！\n\n小队总分由领队的服装技能，或队员的参数和技能等决定！"
+        }
+    },
+    {
+        "id": "la-tips-live_tower-description-1",
+        "data": {
+            "id": "la-tips-live_tower-description-1",
+            "text": "挑战演出可以随时在<color=#ff3bc8>各区域的演出舞台</color>或<color=#ff3bc8>演出传送门</color>游玩！"
+        }
+    },
+    {
+        "id": "la-tips-live_tower-description-2",
+        "data": {
+            "id": "la-tips-live_tower-description-2",
+            "text": "击破关卡，赢得各种各样的奖励吧！\n\n通关特定的关卡，就能获得<color=#ff3bc8>星方块</color>和<color=#ff3bc8>达成称号</color>作为奖励！\n\n※达成称号需在成就中领取。"
+        }
+    },
+    {
+        "id": "la-tips-live_tower-quest-description-1",
+        "data": {
+            "id": "la-tips-live_tower-quest-description-1",
+            "text": "在挑战演出中，可以<color=#ff3bc8>挑战每个关卡给定的目标分值</color>！\n\n达成目标就通过关卡了！\n通关关卡可以获得奖励，进入下一个关卡！\n\n※已经通关的关卡无法再次挑战。"
+        }
+    },
+    {
+        "id": "la-tips-live_tower-quest-description-2",
+        "data": {
+            "id": "la-tips-live_tower-quest-description-2",
+            "text": "各个关卡都准备了好几首课题曲哦！\n\n<color=#ff3bc8>只需其中1首达成目标得分，就可以通关</color>了！"
+        }
+    },
+    {
+        "id": "la-tips-live_tower-quest-description-3",
+        "data": {
+            "id": "la-tips-live_tower-quest-description-3",
+            "text": "各个关卡都有自己的加成成员！\n\n将加成成员编入队伍，就能<color=#ff3bc8>获得加成，提升小队总分</color>！"
+        }
+    },
+    {
+        "id": "la-tips-live_tower-quest-description-4",
+        "data": {
+            "id": "la-tips-live_tower-quest-description-4",
+            "text": "<color=#ff3bc8>如果分数远超关卡的目标得分，还可以跳过这个关卡</color>！\n\n如果选择跳过关卡，已跳过关卡的奖励也可以一次性获得！\n\n<color=#ff3bc8>彩色的关卡是必须要挑战的</color>关卡！"
         }
     },
     {
@@ -2118,6 +2181,174 @@
         "data": {
             "id": "la-tips-rhythm-game-description-5",
             "text": "如果在演出选项中开启“节奏辅助”功能，<color=#ff3bc8>小节当中的反拍等普通音符会变为灰色</color>，更容易看出节奏偏移哦！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-description-1",
+        "data": {
+            "id": "la-tips-shogi-description-1",
+            "text": "浮排大战可以随时在汽水泡泡海湾的<color=#ff3bc8>水花运动场</color>游玩！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-description-2",
+        "data": {
+            "id": "la-tips-shogi-description-2",
+            "text": "<color=#ff3bc8>通关NORMAL关卡，就能获得奖励！</color>\n\n试着战胜各关卡的holo成员吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-description-3",
+        "data": {
+            "id": "la-tips-shogi-description-3",
+            "text": "<color=#ff3bc8>如果通关了全部的NORMAL关卡，就能开启CHALLENGE关卡！</color>\n\n在CHALLENGE关卡中，可以与各种强度的holo成员对战！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-1",
+        "data": {
+            "id": "la-tips-shogi-quest-description-1",
+            "text": "浮排大战是<color=#ff3bc8>将对手的领队推入水中，以此获得胜利</color>的迷你游戏！\n\n除领队外，落水的敌方holo成员，可被纳入我方队伍！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-2",
+        "data": {
+            "id": "la-tips-shogi-quest-description-2",
+            "text": "在自己的回合<color=#ff3bc8>有1次行动机会</color>，\n可以选择“让1名位于落脚点上的holo成员移动”\n或者“将加入我方的holo成员配置在空的落脚点上”！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-3",
+        "data": {
+            "id": "la-tips-shogi-quest-description-3",
+            "text": "将对手的领队推入水中，取得胜利吧！\n\n▼获胜条件①（让领队落水）\n<color=#ff3bc8>将对手领队（王冠holo成员）推入水中即可获胜！</color>\n巧妙调配holo成员们，让对手无路可走！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-4",
+        "data": {
+            "id": "la-tips-shogi-quest-description-4",
+            "text": "让自己的领队一路冲向敌阵最右列的落脚点吧！\n\n▼获胜条件②（冲锋陷阵）\n让我方领队抵达位于对手阵地最右列的落脚点，就有机会获胜！\n抵达后的<color=#ff3bc8>下一回合，若我方领队位于不会被推下水的位置，即可判定获胜！</color>"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-5",
+        "data": {
+            "id": "la-tips-shogi-quest-description-5",
+            "text": "<color=#ff3bc8>绿乌龟一旦进入最右列，就会升级成金乌龟！</color>\n\n不过要注意，如果直接将加入我方的holo成员配置在最右列的落脚点上，是不会升级的！\n另外不要忘了，金乌龟一旦落水，就会变回原样！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-6",
+        "data": {
+            "id": "la-tips-shogi-quest-description-6",
+            "text": "<color=#ff3bc8>头上的帽子决定每位成员的行动方式！</color>\n\n▼行动方式\n・领队：所有方向1格\n・鲸鱼：斜向4个方向1格\n・海豚：上下左右4个方向1格\n・绿乌龟：前方1格\n・金乌龟：除斜后方以外的6个方向1格"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-7",
+        "data": {
+            "id": "la-tips-shogi-quest-description-7",
+            "text": "对局时要注意避免重复操作哦！\n\n▼平手\n如果双方都在重复同样的操作，<color=#ff3bc8>出现3次完全相同的状况就会判定平手</color>！\n实在分不出胜负时，试着移动到别的落脚点上吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-8",
+        "data": {
+            "id": "la-tips-shogi-quest-description-8",
+            "text": "单人模式还有限定功能“悔棋”！\n\n按下“悔棋”键，就会<color=#ff3bc8>回退到上一个自己的回合</color>！\n但要注意，悔棋次数有限！\n\n不小心下错的时候就用用看吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-catch-end-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-catch-end-description-1",
+            "text": "<color=#ff3bc8>将对手的领队推入水中就赢了！</color>\n\n在实际对战中也以此为目标吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-catch-start-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-catch-start-description-1",
+            "text": "<color=#ff3bc8>将对手的领队（王冠holo成员）推入水中吧！</color>\n\n巧妙移动自己的holo成员，将对手领队推入水中即可获胜！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-nakama-end-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-nakama-end-description-1",
+            "text": "<color=#ff3bc8>将加入我方的holo成员巧妙利用起来，可以占据优势！</color>\n\n在实际对战中也积极利用吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-nakama-start-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-nakama-start-description-1",
+            "text": "<color=#ff3bc8>推落水中的敌方holo成员，可被纳入我方队伍！</color>\n\n可以将加入我方的holo成员配置在空的落脚点上！\n巧妙配置，让对手无路可走吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-naru-end-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-naru-end-description-1",
+            "text": "<color=#ff3bc8>绿乌龟一旦进入最右列的落脚点，就会升级成金乌龟，活动方向也会增加！</color>\n\n在实际对战中也以此为目标吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-naru-start-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-naru-start-description-1",
+            "text": "<color=#ff3bc8>绿乌龟进入最右列的落脚点后会“升级”！</color>\n\n让乌龟冲向最右列的落脚点，占据优势吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-try-end-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-try-end-description-1",
+            "text": "我方领队<color=#ff3bc8>抵达场地最右列的落脚点后，如果下一回合没有落水，就构成“冲锋陷阵”获胜了！</color>\n\n在实际对战中也以此为目标吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-try-start-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-try-start-description-1",
+            "text": "<color=#ff3bc8>让自己的领队一路冲向最右列的落脚点，就能达成“冲锋陷阵”获胜！</color>\n\n如果我方领队抵达后的下一回合能被推落水中，则不构成冲锋陷阵！\n抓住对手的破绽，让自己的领队一路冲向最右列的落脚点吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage1-hint-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage1-hint-description-1",
+            "text": "先试试用海豚将对手的绿乌龟推落水中吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage2-hint-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage2-hint-description-1",
+            "text": "让领队往前走1格吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage3-hint-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage3-hint-description-1",
+            "text": "把已经加入我方的绿乌龟，放在对手领队的正前方吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage4-hint-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage4-hint-description-1",
+            "text": "让绿乌龟往前走1格，升级为金乌龟吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage5-hint-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage5-hint-description-1",
+            "text": "善加利用已经加入我方的holo成员吧！"
         }
     },
     {

@@ -406,6 +406,20 @@
         }
     },
     {
+        "id": "la-quest-area-a01-30-description",
+        "data": {
+            "id": "la-quest-area-a01-30-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-30-title",
+        "data": {
+            "id": "la-quest-area-a01-30-title",
+            "text": "登上梦想舞台！任务开始"
+        }
+    },
+    {
         "id": "la-quest-area-a02-01-description",
         "data": {
             "id": "la-quest-area-a02-01-description",
@@ -893,6 +907,20 @@
         "data": {
             "id": "la-quest-area-a03-19-title",
             "text": "用心仪的饮品干杯"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-20-description",
+        "data": {
+            "id": "la-quest-area-a03-20-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-20-title",
+        "data": {
+            "id": "la-quest-area-a03-20-title",
+            "text": "浮出水面，开始对决！"
         }
     },
     {

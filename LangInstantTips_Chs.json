@@ -103,5 +103,12 @@
             "id": "la-instant_tips-random_reward-livehouse-1",
             "text": "已升级【holo成员的隐秘宝藏】。"
         }
+    },
+    {
+        "id": "la-tips-instant_tips-exchange_booth-facility-a03-exchangebooth-release",
+        "data": {
+            "id": "la-tips-instant_tips-exchange_booth-facility-a03-exchangebooth-release",
+            "text": "一条贵宾会所新增材料兑换功能，可以将特训道具转换成其他特训道具！"
+        }
     }
 ]

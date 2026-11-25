@@ -14,6 +14,48 @@
         }
     },
     {
+        "id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-card_area-005-rare_5.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-card_area-005-rare_5.1-description",
+            "text": "范围内的Holo成员面板效果提升135%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-card_area-005-rare_5.2-description",
+        "data": {
+            "id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-card_area-005-rare_5.2-description",
+            "text": "范围内的Holo成员面板效果提升[highlight]185[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-content_area-005-rare_5.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-content_area-005-rare_5.1-description",
+            "text": "范围内的Holo成员面板效果提升135%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-content_area-005-rare_5.2-description",
+        "data": {
+            "id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-content_area-005-rare_5.2-description",
+            "text": "范围内的Holo成员面板效果提升[highlight]185[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-general_purpose_area-002-rare_5.1-description",
+        "data": {
+            "id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-general_purpose_area-002-rare_5.1-description",
+            "text": "范围内的Holo成员面板效果提升75%"
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-general_purpose_area-002-rare_5.2-description",
+        "data": {
+            "id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-general_purpose_area-002-rare_5.2-description",
+            "text": "范围内的Holo成员面板效果提升[highlight]125[/highlight]%"
+        }
+    },
+    {
         "id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-center_area-004-rare_4.1-description",
         "data": {
             "id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-center_area-004-rare_4.1-description",

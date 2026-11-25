@@ -140,6 +140,20 @@
         }
     },
     {
+        "id": "la-mini_game-shogi-description",
+        "data": {
+            "id": "la-mini_game-shogi-description",
+            "text": "设法让落脚点上的对手落水的战略游戏"
+        }
+    },
+    {
+        "id": "la-mini_game-shogi-name",
+        "data": {
+            "id": "la-mini_game-shogi-name",
+            "text": "浮排大战"
+        }
+    },
+    {
         "id": "la-mini_game-splash_ball-description",
         "data": {
             "id": "la-mini_game-splash_ball-description",

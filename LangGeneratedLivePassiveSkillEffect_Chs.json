@@ -308,6 +308,104 @@
         }
     },
     {
+        "id": "la-generated-live_leader_skill_effect-live_active_skill_effect_up_permil_up-450-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-live_active_skill_effect_up_permil_up-450-live_skill_effect_target-all.1-description",
+            "text": "全体成员中得分辅助效果45%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-performance_up_permil_up-850-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-performance_up_permil_up-850-live_skill_effect_target-all.1-description",
+            "text": "全体成员中表现力提升85%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-sense_up_permil_up-500-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-sense_up_permil_up-500-live_skill_effect_target-all.1-description",
+            "text": "全体成员中品位提升50%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill_effect-technique_up_permil_up-850-live_skill_effect_target-all.1-description",
+        "data": {
+            "id": "la-generated-live_leader_skill_effect-technique_up_permil_up-850-live_skill_effect_target-all.1-description",
+            "text": "全体成员中技巧提升85%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_activation_probability_up_permil_up-140-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_activation_probability_up_permil_up-140-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色技能发动概率提升14%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-live_active_skill_activation_probability_up_permil_up-190-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-live_active_skill_activation_probability_up_permil_up-190-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色技能发动概率提升19%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色表现力提升34%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-450-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-450-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色表现力提升45%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-130-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-130-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色品位提升13%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-170-live_skill_effect_target-attribute-attribute_1-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-170-live_skill_effect_target-attribute-attribute_1-2.1-description",
+            "text": "2名[attribute=cute]可爱类型[/attribute]角色品位提升17%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-230-live_skill_effect_target-attribute-attribute_1-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-230-live_skill_effect_target-attribute-attribute_1-3.1-description",
+            "text": "3名[attribute=cute]可爱类型[/attribute]角色技巧提升23%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-300-live_skill_effect_target-attribute-attribute_1-3.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-300-live_skill_effect_target-attribute-attribute_1-3.1-description",
+            "text": "3名[attribute=cute]可爱类型[/attribute]角色技巧提升30%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-340-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-340-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色技巧提升34%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-450-live_skill_effect_target-attribute-attribute_2-2.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-450-live_skill_effect_target-attribute-attribute_2-2.1-description",
+            "text": "2名[attribute=pure]纯洁类型[/attribute]角色技巧提升45%"
+        }
+    },
+    {
         "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-300-live_skill_effect_target-all.1-description",
         "data": {
             "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-300-live_skill_effect_target-all.1-description",

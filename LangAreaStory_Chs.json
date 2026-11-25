@@ -77,6 +77,13 @@
         }
     },
     {
+        "id": "la-area_story_chapter_area-a01-012",
+        "data": {
+            "id": "la-area_story_chapter_area-a01-012",
+            "text": "登上梦想舞台！任务开始"
+        }
+    },
+    {
         "id": "la-area_story_chapter_area-a02-001",
         "data": {
             "id": "la-area_story_chapter_area-a02-001",
@@ -158,6 +165,13 @@
         "data": {
             "id": "la-area_story_chapter_area-a03-006",
             "text": "为了两人一起享乐"
+        }
+    },
+    {
+        "id": "la-area_story_chapter_area-a03-007",
+        "data": {
+            "id": "la-area_story_chapter_area-a03-007",
+            "text": "浮出水面，开始对决！"
         }
     }
 ]

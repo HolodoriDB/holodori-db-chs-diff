@@ -70,6 +70,27 @@
         }
     },
     {
+        "id": "la-tutorial-park_quest_live_tower-01",
+        "data": {
+            "id": "la-tutorial-park_quest_live_tower-01",
+            "text": "巧妙编入加成成员，努力达成目标得分吧！"
+        }
+    },
+    {
+        "id": "la-tutorial-park_quest_live_tower-02",
+        "data": {
+            "id": "la-tutorial-park_quest_live_tower-02",
+            "text": "可以任意挑战你喜欢的难度！"
+        }
+    },
+    {
+        "id": "la-tutorial-park_quest_live_tower-03",
+        "data": {
+            "id": "la-tutorial-park_quest_live_tower-03",
+            "text": "先返回乐园吧！"
+        }
+    },
+    {
         "id": "la-tutorial-skill_tree-01-1",
         "data": {
             "id": "la-tutorial-skill_tree-01-1",

@@ -1,0 +1,2270 @@
+[
+    {
+        "id": "la-chr-00001_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00001_shogi-lines-captured",
+            "text": "不要呀——！"
+        }
+    },
+    {
+        "id": "la-chr-00001_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00001_shogi-lines-check",
+            "text": "嘿嘿，你快要没路可走啦♪"
+        }
+    },
+    {
+        "id": "la-chr-00001_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00001_shogi-lines-checkmate",
+            "text": "哇啊～被摆了一道～……"
+        }
+    },
+    {
+        "id": "la-chr-00001_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00001_shogi-lines-pon",
+            "text": "嘿！走这里～！"
+        }
+    },
+    {
+        "id": "la-chr-00001_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00001_shogi-lines-self-turn",
+            "text": "要上咯～"
+        }
+    },
+    {
+        "id": "la-chr-00001_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00001_shogi-lines-thinking",
+            "text": "嗯……如果对手出这招，那……"
+        }
+    },
+    {
+        "id": "la-chr-00002_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00002_shogi-lines-captured",
+            "text": "别抢走我的同伴呀～！"
+        }
+    },
+    {
+        "id": "la-chr-00002_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00002_shogi-lines-check",
+            "text": "你没办法逃离我的手掌心啦～♪"
+        }
+    },
+    {
+        "id": "la-chr-00002_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00002_shogi-lines-checkmate",
+            "text": "等下等下？！先暂停一下！"
+        }
+    },
+    {
+        "id": "la-chr-00002_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00002_shogi-lines-pon",
+            "text": "那就动这里看看吧～♪"
+        }
+    },
+    {
+        "id": "la-chr-00002_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00002_shogi-lines-self-turn",
+            "text": "好～！"
+        }
+    },
+    {
+        "id": "la-chr-00002_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00002_shogi-lines-thinking",
+            "text": "动这边？还是那边？呜呜～想不出来！"
+        }
+    },
+    {
+        "id": "la-chr-00004_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00004_shogi-lines-captured",
+            "text": "啊～～？！被拿走了……"
+        }
+    },
+    {
+        "id": "la-chr-00004_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00004_shogi-lines-check",
+            "text": "啊呀～？亚绮罗森该不会要赢了吧？"
+        }
+    },
+    {
+        "id": "la-chr-00004_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00004_shogi-lines-checkmate",
+            "text": "嗯……挺聪明嘛～"
+        }
+    },
+    {
+        "id": "la-chr-00004_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00004_shogi-lines-pon",
+            "text": "就动这里吧～♪"
+        }
+    },
+    {
+        "id": "la-chr-00004_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00004_shogi-lines-self-turn",
+            "text": "使出全力吧——！"
+        }
+    },
+    {
+        "id": "la-chr-00004_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00004_shogi-lines-thinking",
+            "text": "嗯……到底该怎么办才好～？"
+        }
+    },
+    {
+        "id": "la-chr-00005_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00005_shogi-lines-captured",
+            "text": "恰玛～～？？！"
+        }
+    },
+    {
+        "id": "la-chr-00005_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00005_shogi-lines-check",
+            "text": "咚！！哈恰玛立直——！！"
+        }
+    },
+    {
+        "id": "la-chr-00005_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00005_shogi-lines-checkmate",
+            "text": "居然攻那里？！真的假的～……"
+        }
+    },
+    {
+        "id": "la-chr-00005_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00005_shogi-lines-pon",
+            "text": "哈恰玛从不犹豫！"
+        }
+    },
+    {
+        "id": "la-chr-00005_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00005_shogi-lines-self-turn",
+            "text": "加油豚～豚！"
+        }
+    },
+    {
+        "id": "la-chr-00005_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00005_shogi-lines-thinking",
+            "text": "哈恰玛思考时——间！"
+        }
+    },
+    {
+        "id": "la-chr-00006_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00006_shogi-lines-captured",
+            "text": "不要啊～？！真的假的～？！"
+        }
+    },
+    {
+        "id": "la-chr-00006_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00006_shogi-lines-check",
+            "text": "哼、哼、哼，你逃不出白上的手掌心哦～♪"
+        }
+    },
+    {
+        "id": "la-chr-00006_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00006_shogi-lines-checkmate",
+            "text": "哦哦，很有谋略呢～……"
+        }
+    },
+    {
+        "id": "la-chr-00006_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00006_shogi-lines-pon",
+            "text": "嗯～还是走这里好了～"
+        }
+    },
+    {
+        "id": "la-chr-00006_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00006_shogi-lines-self-turn",
+            "text": "KONKON～♪"
+        }
+    },
+    {
+        "id": "la-chr-00006_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00006_shogi-lines-thinking",
+            "text": "唔唔唔，这下烦恼了……"
+        }
+    },
+    {
+        "id": "la-chr-00007_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00007_shogi-lines-captured",
+            "text": "喂！你做什么呀～～！"
+        }
+    },
+    {
+        "id": "la-chr-00007_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00007_shogi-lines-check",
+            "text": "呵呵呵♪　你被阿祭将军咯♡"
+        }
+    },
+    {
+        "id": "la-chr-00007_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00007_shogi-lines-checkmate",
+            "text": "哎呀～你盯着那里，祭可没辙了～"
+        }
+    },
+    {
+        "id": "la-chr-00007_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00007_shogi-lines-pon",
+            "text": "总之，先动这一块～♪"
+        }
+    },
+    {
+        "id": "la-chr-00007_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00007_shogi-lines-self-turn",
+            "text": "好啦，要上咯～"
+        }
+    },
+    {
+        "id": "la-chr-00007_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00007_shogi-lines-thinking",
+            "text": "嗯嗯嗯～怎么办呢？"
+        }
+    },
+    {
+        "id": "la-chr-00010_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00010_shogi-lines-captured",
+            "text": "欸欸～？为什么～～？！"
+        }
+    },
+    {
+        "id": "la-chr-00010_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00010_shogi-lines-check",
+            "text": "咦？余是不是……把你逼到绝路了？"
+        }
+    },
+    {
+        "id": "la-chr-00010_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00010_shogi-lines-checkmate",
+            "text": "唔……哎？余是不是有点不妙？"
+        }
+    },
+    {
+        "id": "la-chr-00010_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00010_shogi-lines-pon",
+            "text": "呃哎～？那就……这里！"
+        }
+    },
+    {
+        "id": "la-chr-00010_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00010_shogi-lines-self-turn",
+            "text": "好～要上了～♪"
+        }
+    },
+    {
+        "id": "la-chr-00010_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00010_shogi-lines-thinking",
+            "text": "欸——？余不知道该怎么办啦～"
+        }
+    },
+    {
+        "id": "la-chr-00011_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00011_shogi-lines-captured",
+            "text": "等下等下！啊啊啊——？！"
+        }
+    },
+    {
+        "id": "la-chr-00011_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00011_shogi-lines-check",
+            "text": "呵呵，不会让你跑掉的哦♡"
+        }
+    },
+    {
+        "id": "la-chr-00011_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00011_shogi-lines-checkmate",
+            "text": "欸欸～倒是放点水给人家啊～"
+        }
+    },
+    {
+        "id": "la-chr-00011_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00011_shogi-lines-pon",
+            "text": "嗯～比如这里～？"
+        }
+    },
+    {
+        "id": "la-chr-00011_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00011_shogi-lines-self-turn",
+            "text": "我会加油的～！"
+        }
+    },
+    {
+        "id": "la-chr-00011_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00011_shogi-lines-thinking",
+            "text": "这里要这样～……嗯嗯……"
+        }
+    },
+    {
+        "id": "la-chr-00012_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00012_shogi-lines-captured",
+            "text": "吼哇————？？！"
+        }
+    },
+    {
+        "id": "la-chr-00012_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00012_shogi-lines-check",
+            "text": "来啦来啦来啦！别想跑哦！！！"
+        }
+    },
+    {
+        "id": "la-chr-00012_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00012_shogi-lines-checkmate",
+            "text": "呜哇～～～没想到还有这一招！！"
+        }
+    },
+    {
+        "id": "la-chr-00012_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00012_shogi-lines-pon",
+            "text": "决定了！就动这里～！"
+        }
+    },
+    {
+        "id": "la-chr-00012_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00012_shogi-lines-self-turn",
+            "text": "好——！要上咯～♪"
+        }
+    },
+    {
+        "id": "la-chr-00012_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00012_shogi-lines-thinking",
+            "text": "糟糕啦——！完全搞不懂——！！"
+        }
+    },
+    {
+        "id": "la-chr-00013_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00013_shogi-lines-captured",
+            "text": "哇啊～被拿走了～！"
+        }
+    },
+    {
+        "id": "la-chr-00013_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00013_shogi-lines-check",
+            "text": "呵呵……是不是可以喊guess了？"
+        }
+    },
+    {
+        "id": "la-chr-00013_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00013_shogi-lines-checkmate",
+            "text": "哦～走这一步啊……"
+        }
+    },
+    {
+        "id": "la-chr-00013_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00013_shogi-lines-pon",
+            "text": "呵呵，该走这里吧～♪"
+        }
+    },
+    {
+        "id": "la-chr-00013_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00013_shogi-lines-self-turn",
+            "text": "请多指教啦！"
+        }
+    },
+    {
+        "id": "la-chr-00013_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00013_shogi-lines-thinking",
+            "text": "呃，现在应该～……"
+        }
+    },
+    {
+        "id": "la-chr-00014_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00014_shogi-lines-captured",
+            "text": "喂，你开什么玩笑～！"
+        }
+    },
+    {
+        "id": "la-chr-00014_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00014_shogi-lines-check",
+            "text": "嘿！你无路可逃啦～♪"
+        }
+    },
+    {
+        "id": "la-chr-00014_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00014_shogi-lines-checkmate",
+            "text": "啊～你这样下，咱就有点窘迫了呢～"
+        }
+    },
+    {
+        "id": "la-chr-00014_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00014_shogi-lines-pon",
+            "text": "嗯～总之先动这里好啦♪"
+        }
+    },
+    {
+        "id": "la-chr-00014_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00014_shogi-lines-self-turn",
+            "text": "好，那就上吧～"
+        }
+    },
+    {
+        "id": "la-chr-00014_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00014_shogi-lines-thinking",
+            "text": "这下又该怎么办呢～"
+        }
+    },
+    {
+        "id": "la-chr-00015_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00015_shogi-lines-captured",
+            "text": "别开玩笑了啊～？！"
+        }
+    },
+    {
+        "id": "la-chr-00015_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00015_shogi-lines-check",
+            "text": "好，巫女赢了～！逼上绝路了捏～♪"
+        }
+    },
+    {
+        "id": "la-chr-00015_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00015_shogi-lines-checkmate",
+            "text": "哼……很会下嘛。"
+        }
+    },
+    {
+        "id": "la-chr-00015_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00015_shogi-lines-pon",
+            "text": "唔～嘿呀！"
+        }
+    },
+    {
+        "id": "la-chr-00015_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00015_shogi-lines-self-turn",
+            "text": "巫女会加油的！"
+        }
+    },
+    {
+        "id": "la-chr-00015_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00015_shogi-lines-thinking",
+            "text": "原来如此……想了一下也不是很懂！"
+        }
+    },
+    {
+        "id": "la-chr-00016_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00016_shogi-lines-captured",
+            "text": "不要呀～？！"
+        }
+    },
+    {
+        "id": "la-chr-00016_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00016_shogi-lines-check",
+            "text": "喏，再不想办法，就要被我拿走了哦～？"
+        }
+    },
+    {
+        "id": "la-chr-00016_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00016_shogi-lines-checkmate",
+            "text": "呜呜～不要欺负我呀。"
+        }
+    },
+    {
+        "id": "la-chr-00016_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00016_shogi-lines-pon",
+            "text": "嗯……该走这里吗～？"
+        }
+    },
+    {
+        "id": "la-chr-00016_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00016_shogi-lines-self-turn",
+            "text": "要上咯～"
+        }
+    },
+    {
+        "id": "la-chr-00016_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00016_shogi-lines-thinking",
+            "text": "欸～好难！怎么办啊～～～"
+        }
+    },
+    {
+        "id": "la-chr-00017_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00017_shogi-lines-captured",
+            "text": "呀啊啊啊啊——？！"
+        }
+    },
+    {
+        "id": "la-chr-00017_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00017_shogi-lines-check",
+            "text": "大危机耶～？现在是什么心情～？"
+        }
+    },
+    {
+        "id": "la-chr-00017_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00017_shogi-lines-checkmate",
+            "text": "哼～～……原～如～捏。"
+        }
+    },
+    {
+        "id": "la-chr-00017_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00017_shogi-lines-pon",
+            "text": "不是这边，是这里！啊哈哈哈♪"
+        }
+    },
+    {
+        "id": "la-chr-00017_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00017_shogi-lines-self-turn",
+            "text": "交给我吧♪"
+        }
+    },
+    {
+        "id": "la-chr-00017_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00017_shogi-lines-thinking",
+            "text": "唔唔……脑袋里乱成一团电线了。"
+        }
+    },
+    {
+        "id": "la-chr-00018_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00018_shogi-lines-captured",
+            "text": "呜哇，真的假的？！"
+        }
+    },
+    {
+        "id": "la-chr-00018_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00018_shogi-lines-check",
+            "text": "咦？看样子星街要赢了吧？了吧☆"
+        }
+    },
+    {
+        "id": "la-chr-00018_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00018_shogi-lines-checkmate",
+            "text": "会下哦！那么～该怎么办呢……"
+        }
+    },
+    {
+        "id": "la-chr-00018_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00018_shogi-lines-pon",
+            "text": "总之先走……这边！"
+        }
+    },
+    {
+        "id": "la-chr-00018_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00018_shogi-lines-self-turn",
+            "text": "那就上阵吧～"
+        }
+    },
+    {
+        "id": "la-chr-00018_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00018_shogi-lines-thinking",
+            "text": "嗯～下一步怎么办呢？"
+        }
+    },
+    {
+        "id": "la-chr-00019_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00019_shogi-lines-captured",
+            "text": "你这家伙，开什么玩笑～！"
+        }
+    },
+    {
+        "id": "la-chr-00019_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00019_shogi-lines-check",
+            "text": "哦啦！你逃不掉咯！！"
+        }
+    },
+    {
+        "id": "la-chr-00019_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00019_shogi-lines-checkmate",
+            "text": "啧……想不到你还挺行的PEKO……"
+        }
+    },
+    {
+        "id": "la-chr-00019_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00019_shogi-lines-pon",
+            "text": "嘿呀！就是这里～！"
+        }
+    },
+    {
+        "id": "la-chr-00019_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00019_shogi-lines-self-turn",
+            "text": "准备拿下PEKO"
+        }
+    },
+    {
+        "id": "la-chr-00019_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00019_shogi-lines-thinking",
+            "text": "哇啊～这下可头疼了PEKO～"
+        }
+    },
+    {
+        "id": "la-chr-00021_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00021_shogi-lines-captured",
+            "text": "呜哇～真的假的～"
+        }
+    },
+    {
+        "id": "la-chr-00021_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00021_shogi-lines-check",
+            "text": "你·逃·不·掉·啦♪"
+        }
+    },
+    {
+        "id": "la-chr-00021_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00021_shogi-lines-checkmate",
+            "text": "我想也是～一般都会走那步嘛……"
+        }
+    },
+    {
+        "id": "la-chr-00021_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00021_shogi-lines-pon",
+            "text": "总之，先走这边吧～！"
+        }
+    },
+    {
+        "id": "la-chr-00021_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00021_shogi-lines-self-turn",
+            "text": "好，加油吧！"
+        }
+    },
+    {
+        "id": "la-chr-00021_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00021_shogi-lines-thinking",
+            "text": "嗯……怎么做才是最好的呢……？"
+        }
+    },
+    {
+        "id": "la-chr-00022_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00022_shogi-lines-captured",
+            "text": "不要啊～！被拿走了～……！"
+        }
+    },
+    {
+        "id": "la-chr-00022_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00022_shogi-lines-check",
+            "text": "嘿～！把你逼到死角啦～！"
+        }
+    },
+    {
+        "id": "la-chr-00022_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00022_shogi-lines-checkmate",
+            "text": "呜哇～来这一招啊……"
+        }
+    },
+    {
+        "id": "la-chr-00022_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00022_shogi-lines-pon",
+            "text": "大概要走……这边！"
+        }
+    },
+    {
+        "id": "la-chr-00022_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00022_shogi-lines-self-turn",
+            "text": "要上喽～！"
+        }
+    },
+    {
+        "id": "la-chr-00022_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00022_shogi-lines-thinking",
+            "text": "哇啊～好难～～……！"
+        }
+    },
+    {
+        "id": "la-chr-00023_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00023_shogi-lines-captured",
+            "text": "欸？不是，真假？！"
+        }
+    },
+    {
+        "id": "la-chr-00023_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00023_shogi-lines-check",
+            "text": "不会让你逃的……玛琳绝对不会放跑你的！"
+        }
+    },
+    {
+        "id": "la-chr-00023_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00023_shogi-lines-checkmate",
+            "text": "哦、哦～？你会做这种事啊……"
+        }
+    },
+    {
+        "id": "la-chr-00023_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00023_shogi-lines-pon",
+            "text": "欸～？是这里吗～？"
+        }
+    },
+    {
+        "id": "la-chr-00023_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00023_shogi-lines-self-turn",
+            "text": "让你们看看船长的认真劲♪"
+        }
+    },
+    {
+        "id": "la-chr-00023_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00023_shogi-lines-thinking",
+            "text": "呃，这里是这样～然后……"
+        }
+    },
+    {
+        "id": "la-chr-00026_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00026_shogi-lines-captured",
+            "text": "不要呀！住手～？！"
+        }
+    },
+    {
+        "id": "la-chr-00026_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00026_shogi-lines-check",
+            "text": "哦？绵芽好像能赢了哦？嗯？"
+        }
+    },
+    {
+        "id": "la-chr-00026_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00026_shogi-lines-checkmate",
+            "text": "唔唔唔，这下麻烦了……"
+        }
+    },
+    {
+        "id": "la-chr-00026_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00026_shogi-lines-pon",
+            "text": "决定了！就动——这里～～～！"
+        }
+    },
+    {
+        "id": "la-chr-00026_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00026_shogi-lines-self-turn",
+            "text": "要加油了，噢～！"
+        }
+    },
+    {
+        "id": "la-chr-00026_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00026_shogi-lines-thinking",
+            "text": "唔唔，这下可纠结了……"
+        }
+    },
+    {
+        "id": "la-chr-00027_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00027_shogi-lines-captured",
+            "text": "你干什么呢你啊～！"
+        }
+    },
+    {
+        "id": "la-chr-00027_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00027_shogi-lines-check",
+            "text": "都到这一步了！你应该跑不掉了吧～♪"
+        }
+    },
+    {
+        "id": "la-chr-00027_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00027_shogi-lines-checkmate",
+            "text": "真假？！呜哇～被摆了一道……"
+        }
+    },
+    {
+        "id": "la-chr-00027_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00027_shogi-lines-pon",
+            "text": "除了这里没别的能走了吧～！"
+        }
+    },
+    {
+        "id": "la-chr-00027_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00027_shogi-lines-self-turn",
+            "text": "专心对阵吧～"
+        }
+    },
+    {
+        "id": "la-chr-00027_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00027_shogi-lines-thinking",
+            "text": "嗯～～～先把那边那样动一下……"
+        }
+    },
+    {
+        "id": "la-chr-00028_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00028_shogi-lines-captured",
+            "text": "你这家伙！开什么玩笑～！"
+        }
+    },
+    {
+        "id": "la-chr-00028_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00028_shogi-lines-check",
+            "text": "嗯呐～！都拜倒在嗯呐碳脚下的啦～！"
+        }
+    },
+    {
+        "id": "la-chr-00028_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00028_shogi-lines-checkmate",
+            "text": "喂，刚刚那步不算！重新来！"
+        }
+    },
+    {
+        "id": "la-chr-00028_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00028_shogi-lines-pon",
+            "text": "就动这里的啦♪"
+        }
+    },
+    {
+        "id": "la-chr-00028_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00028_shogi-lines-self-turn",
+            "text": "要加油的啦～！"
+        }
+    },
+    {
+        "id": "la-chr-00028_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00028_shogi-lines-thinking",
+            "text": "嗯～这下可头疼了的啦～"
+        }
+    },
+    {
+        "id": "la-chr-00030_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00030_shogi-lines-captured",
+            "text": "不要啊！住手啊你～？！"
+        }
+    },
+    {
+        "id": "la-chr-00030_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00030_shogi-lines-check",
+            "text": "好！你逃不掉啦！看！快看！"
+        }
+    },
+    {
+        "id": "la-chr-00030_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00030_shogi-lines-checkmate",
+            "text": "居然下那里？！倒是下手轻一点啊～"
+        }
+    },
+    {
+        "id": "la-chr-00030_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00030_shogi-lines-pon",
+            "text": "这里！这里！这里～！"
+        }
+    },
+    {
+        "id": "la-chr-00030_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00030_shogi-lines-self-turn",
+            "text": "菈米来上阵～！"
+        }
+    },
+    {
+        "id": "la-chr-00030_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00030_shogi-lines-thinking",
+            "text": "嗯……脑袋里好乱～？！"
+        }
+    },
+    {
+        "id": "la-chr-00031_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00031_shogi-lines-captured",
+            "text": "欸欸？！怎么这样～！"
+        }
+    },
+    {
+        "id": "la-chr-00031_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00031_shogi-lines-check",
+            "text": "嘿呀～！怎么可能放你溜走呢～～！！"
+        }
+    },
+    {
+        "id": "la-chr-00031_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00031_shogi-lines-checkmate",
+            "text": "嗬嗬～来这一招啊～"
+        }
+    },
+    {
+        "id": "la-chr-00031_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00031_shogi-lines-pon",
+            "text": "就是这里～！哇呀呀～～！"
+        }
+    },
+    {
+        "id": "la-chr-00031_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00031_shogi-lines-self-turn",
+            "text": "好～要加油了～！"
+        }
+    },
+    {
+        "id": "la-chr-00031_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00031_shogi-lines-thinking",
+            "text": "要动哪个好呢～♪"
+        }
+    },
+    {
+        "id": "la-chr-00032_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00032_shogi-lines-captured",
+            "text": "呜哇，真的假的？"
+        }
+    },
+    {
+        "id": "la-chr-00032_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00032_shogi-lines-check",
+            "text": "嘿☆　再不想想办法，你就要输了哦～？"
+        }
+    },
+    {
+        "id": "la-chr-00032_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00032_shogi-lines-checkmate",
+            "text": "啊——果然会下那里啊……"
+        }
+    },
+    {
+        "id": "la-chr-00032_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00032_shogi-lines-pon",
+            "text": "嗯～要动的话，就是这里吧～"
+        }
+    },
+    {
+        "id": "la-chr-00032_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00032_shogi-lines-self-turn",
+            "text": "那就上阵吧～！"
+        }
+    },
+    {
+        "id": "la-chr-00032_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00032_shogi-lines-thinking",
+            "text": "这边这样的话，对方就会像这样……"
+        }
+    },
+    {
+        "id": "la-chr-00034_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00034_shogi-lines-captured",
+            "text": "呜哇啊啊啊……？？！"
+        }
+    },
+    {
+        "id": "la-chr-00034_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00034_shogi-lines-check",
+            "text": "好！这胜利波尔卡就笑纳了～！"
+        }
+    },
+    {
+        "id": "la-chr-00034_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00034_shogi-lines-checkmate",
+            "text": "啊呀～这一步，走得还真厉害……"
+        }
+    },
+    {
+        "id": "la-chr-00034_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00034_shogi-lines-pon",
+            "text": "唔，总之先动这里好了？"
+        }
+    },
+    {
+        "id": "la-chr-00034_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00034_shogi-lines-self-turn",
+            "text": "就努努力好了～"
+        }
+    },
+    {
+        "id": "la-chr-00034_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00034_shogi-lines-thinking",
+            "text": "把这里，这样，弄一下！……能行吗？"
+        }
+    },
+    {
+        "id": "la-chr-00035_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00035_shogi-lines-captured",
+            "text": "欸？等、为什么啊～？！"
+        }
+    },
+    {
+        "id": "la-chr-00035_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00035_shogi-lines-check",
+            "text": "耶～！把你逼进死胡同～！"
+        }
+    },
+    {
+        "id": "la-chr-00035_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00035_shogi-lines-checkmate",
+            "text": "哈～～？还能这样吗？"
+        }
+    },
+    {
+        "id": "la-chr-00035_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00035_shogi-lines-pon",
+            "text": "注意了！这就是吾辈的妙手！"
+        }
+    },
+    {
+        "id": "la-chr-00035_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00035_shogi-lines-self-turn",
+            "text": "那就稍微认真点吧～"
+        }
+    },
+    {
+        "id": "la-chr-00035_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00035_shogi-lines-thinking",
+            "text": "嗯～……算啦，随便弄下就好。"
+        }
+    },
+    {
+        "id": "la-chr-00036_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00036_shogi-lines-captured",
+            "text": "等、别啊啊啊啊？！"
+        }
+    },
+    {
+        "id": "la-chr-00036_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00036_shogi-lines-check",
+            "text": "你现在已经逃不掉了哦～？"
+        }
+    },
+    {
+        "id": "la-chr-00036_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00036_shogi-lines-checkmate",
+            "text": "呃，这个局势……不太妙吗？"
+        }
+    },
+    {
+        "id": "la-chr-00036_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00036_shogi-lines-pon",
+            "text": "总之，先走这边吧。"
+        }
+    },
+    {
+        "id": "la-chr-00036_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00036_shogi-lines-self-turn",
+            "text": "展示一下策略吧～"
+        }
+    },
+    {
+        "id": "la-chr-00036_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00036_shogi-lines-thinking",
+            "text": "嗯～该怎么办呢？"
+        }
+    },
+    {
+        "id": "la-chr-00037_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00037_shogi-lines-captured",
+            "text": "呀——！！等一下等一下？！"
+        }
+    },
+    {
+        "id": "la-chr-00037_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00037_shogi-lines-check",
+            "text": "咦～？小夜好像要赢了耶～？"
+        }
+    },
+    {
+        "id": "la-chr-00037_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00037_shogi-lines-checkmate",
+            "text": "啊～原来如此，还有这一招啊～"
+        }
+    },
+    {
+        "id": "la-chr-00037_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00037_shogi-lines-pon",
+            "text": "你能看穿小夜的思路吗～♪"
+        }
+    },
+    {
+        "id": "la-chr-00037_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00037_shogi-lines-self-turn",
+            "text": "准备好了哦～！"
+        }
+    },
+    {
+        "id": "la-chr-00037_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00037_shogi-lines-thinking",
+            "text": "好的好的好的……小夜已经看明白了！"
+        }
+    },
+    {
+        "id": "la-chr-00039_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-00039_shogi-lines-captured",
+            "text": "欸～～？！被拿走了～！"
+        }
+    },
+    {
+        "id": "la-chr-00039_shogi-lines-check",
+        "data": {
+            "id": "la-chr-00039_shogi-lines-check",
+            "text": "太好了！胜利就在眼前是也～♪"
+        }
+    },
+    {
+        "id": "la-chr-00039_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-00039_shogi-lines-checkmate",
+            "text": "这一手下得可真是不赖……"
+        }
+    },
+    {
+        "id": "la-chr-00039_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-00039_shogi-lines-pon",
+            "text": "走、走这里？！呼哧呼哧呼哧……"
+        }
+    },
+    {
+        "id": "la-chr-00039_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-00039_shogi-lines-self-turn",
+            "text": "要上了是也～！"
+        }
+    },
+    {
+        "id": "la-chr-00039_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-00039_shogi-lines-thinking",
+            "text": "这、这样之后就会变成那样，然后……！"
+        }
+    },
+    {
+        "id": "la-chr-03001_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-03001_shogi-lines-captured",
+            "text": "欸～～？！开什么玩笑～！"
+        }
+    },
+    {
+        "id": "la-chr-03001_shogi-lines-check",
+        "data": {
+            "id": "la-chr-03001_shogi-lines-check",
+            "text": "啊呀呀～？你好像没路可走了吧～？"
+        }
+    },
+    {
+        "id": "la-chr-03001_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-03001_shogi-lines-checkmate",
+            "text": "欸欸～你居然要做这种事～？"
+        }
+    },
+    {
+        "id": "la-chr-03001_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-03001_shogi-lines-pon",
+            "text": "欸～？是这里吗～？"
+        }
+    },
+    {
+        "id": "la-chr-03001_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-03001_shogi-lines-self-turn",
+            "text": "随时可以出动哦～！"
+        }
+    },
+    {
+        "id": "la-chr-03001_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-03001_shogi-lines-thinking",
+            "text": "咿嘻嘻！该怎么办才好呢～♪"
+        }
+    },
+    {
+        "id": "la-chr-03002_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-03002_shogi-lines-captured",
+            "text": "呜哇～……真的假的～……"
+        }
+    },
+    {
+        "id": "la-chr-03002_shogi-lines-check",
+        "data": {
+            "id": "la-chr-03002_shogi-lines-check",
+            "text": "耶——！不会让你逃掉的～！"
+        }
+    },
+    {
+        "id": "la-chr-03002_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-03002_shogi-lines-checkmate",
+            "text": "欸？你、你要下那里吗？……你确定？"
+        }
+    },
+    {
+        "id": "la-chr-03002_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-03002_shogi-lines-pon",
+            "text": "这里！怎么样？！"
+        }
+    },
+    {
+        "id": "la-chr-03002_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-03002_shogi-lines-self-turn",
+            "text": "要玩得开心点～"
+        }
+    },
+    {
+        "id": "la-chr-03002_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-03002_shogi-lines-thinking",
+            "text": "嗯……？现在应该怎么办？"
+        }
+    },
+    {
+        "id": "la-chr-03003_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-03003_shogi-lines-captured",
+            "text": "欸欸～？！为什么为什么？！"
+        }
+    },
+    {
+        "id": "la-chr-03003_shogi-lines-check",
+        "data": {
+            "id": "la-chr-03003_shogi-lines-check",
+            "text": "这基本上确定是Yopi赢了吧！"
+        }
+    },
+    {
+        "id": "la-chr-03003_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-03003_shogi-lines-checkmate",
+            "text": "欸欸～？！不许下那边～！"
+        }
+    },
+    {
+        "id": "la-chr-03003_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-03003_shogi-lines-pon",
+            "text": "好～！就走这里～～～！"
+        }
+    },
+    {
+        "id": "la-chr-03003_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-03003_shogi-lines-self-turn",
+            "text": "要上喽～～～！！"
+        }
+    },
+    {
+        "id": "la-chr-03003_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-03003_shogi-lines-thinking",
+            "text": "嗯……完～全搞不懂啊～～！"
+        }
+    },
+    {
+        "id": "la-chr-03004_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-03004_shogi-lines-captured",
+            "text": "NOOOO？！不要啊～！"
+        }
+    },
+    {
+        "id": "la-chr-03004_shogi-lines-check",
+        "data": {
+            "id": "la-chr-03004_shogi-lines-check",
+            "text": "来啊来啊，你要怎么办～？"
+        }
+    },
+    {
+        "id": "la-chr-03004_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-03004_shogi-lines-checkmate",
+            "text": "唔唔～～！真是棘手……！"
+        }
+    },
+    {
+        "id": "la-chr-03004_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-03004_shogi-lines-pon",
+            "text": "是这里吗～？嘿咻♪"
+        }
+    },
+    {
+        "id": "la-chr-03004_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-03004_shogi-lines-self-turn",
+            "text": "一起上吧～！"
+        }
+    },
+    {
+        "id": "la-chr-03004_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-03004_shogi-lines-thinking",
+            "text": "好的好的……就用那一招吧♪"
+        }
+    },
+    {
+        "id": "la-chr-03005_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-03005_shogi-lines-captured",
+            "text": "哇啊～被拿走了……"
+        }
+    },
+    {
+        "id": "la-chr-03005_shogi-lines-check",
+        "data": {
+            "id": "la-chr-03005_shogi-lines-check",
+            "text": "还能逃得掉……嗯，一般人会这么以为吧？"
+        }
+    },
+    {
+        "id": "la-chr-03005_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-03005_shogi-lines-checkmate",
+            "text": "哦～？来这一招啊。"
+        }
+    },
+    {
+        "id": "la-chr-03005_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-03005_shogi-lines-pon",
+            "text": "嗯～算了，先动这里好了。"
+        }
+    },
+    {
+        "id": "la-chr-03005_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-03005_shogi-lines-self-turn",
+            "text": "交给我吧～！"
+        }
+    },
+    {
+        "id": "la-chr-03005_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-03005_shogi-lines-thinking",
+            "text": "啊……暂停。让我考虑一下。"
+        }
+    },
+    {
+        "id": "la-chr-03006_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-03006_shogi-lines-captured",
+            "text": "等？！啊啊，真是的～！"
+        }
+    },
+    {
+        "id": "la-chr-03006_shogi-lines-check",
+        "data": {
+            "id": "la-chr-03006_shogi-lines-check",
+            "text": "你怎么啦～？好像被逼到绝境了哦～"
+        }
+    },
+    {
+        "id": "la-chr-03006_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-03006_shogi-lines-checkmate",
+            "text": "啊！你下那里的话，我就有点麻烦了……"
+        }
+    },
+    {
+        "id": "la-chr-03006_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-03006_shogi-lines-pon",
+            "text": "嗯～……这里！！"
+        }
+    },
+    {
+        "id": "la-chr-03006_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-03006_shogi-lines-self-turn",
+            "text": "要优雅地上阵♪"
+        }
+    },
+    {
+        "id": "la-chr-03006_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-03006_shogi-lines-thinking",
+            "text": "嗯～这个时候，就应该咚地一下猛攻～！"
+        }
+    },
+    {
+        "id": "la-chr-03007_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-03007_shogi-lines-captured",
+            "text": "等等等等，为什么～？！"
+        }
+    },
+    {
+        "id": "la-chr-03007_shogi-lines-check",
+        "data": {
+            "id": "la-chr-03007_shogi-lines-check",
+            "text": "啊哈哈，你没路可走啦。小笨蛋♡"
+        }
+    },
+    {
+        "id": "la-chr-03007_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-03007_shogi-lines-checkmate",
+            "text": "唔～刚刚这步不算。你重新下。"
+        }
+    },
+    {
+        "id": "la-chr-03007_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-03007_shogi-lines-pon",
+            "text": "真是的～～～我要走这个！"
+        }
+    },
+    {
+        "id": "la-chr-03007_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-03007_shogi-lines-self-turn",
+            "text": "那就拿出真本事吧♪"
+        }
+    },
+    {
+        "id": "la-chr-03007_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-03007_shogi-lines-thinking",
+            "text": "嗯～……嗯～……想不明白呀～？！"
+        }
+    },
+    {
+        "id": "la-chr-03008_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-03008_shogi-lines-captured",
+            "text": "啊……"
+        }
+    },
+    {
+        "id": "la-chr-03008_shogi-lines-check",
+        "data": {
+            "id": "la-chr-03008_shogi-lines-check",
+            "text": "嗯，这样你就逃不掉了。"
+        }
+    },
+    {
+        "id": "la-chr-03008_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-03008_shogi-lines-checkmate",
+            "text": "Good good！很会下嘛～"
+        }
+    },
+    {
+        "id": "la-chr-03008_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-03008_shogi-lines-pon",
+            "text": "走这个吧。"
+        }
+    },
+    {
+        "id": "la-chr-03008_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-03008_shogi-lines-self-turn",
+            "text": "那就开始吧。"
+        }
+    },
+    {
+        "id": "la-chr-03008_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-03008_shogi-lines-thinking",
+            "text": "…………这下可纠结了。"
+        }
+    },
+    {
+        "id": "la-chr-03009_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-03009_shogi-lines-captured",
+            "text": "啊啊——？！为什么啊～？！"
+        }
+    },
+    {
+        "id": "la-chr-03009_shogi-lines-check",
+        "data": {
+            "id": "la-chr-03009_shogi-lines-check",
+            "text": "Kobo已经赢啦——！耶耶耶！"
+        }
+    },
+    {
+        "id": "la-chr-03009_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-03009_shogi-lines-checkmate",
+            "text": "啊！你为什么要下那里啊～～？！"
+        }
+    },
+    {
+        "id": "la-chr-03009_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-03009_shogi-lines-pon",
+            "text": "啊啊——！这里————！！"
+        }
+    },
+    {
+        "id": "la-chr-03009_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-03009_shogi-lines-self-turn",
+            "text": "要上喽～"
+        }
+    },
+    {
+        "id": "la-chr-03009_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-03009_shogi-lines-thinking",
+            "text": "……唔唔唔唔唔唔唔唔～～！！"
+        }
+    },
+    {
+        "id": "la-chr-04001_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-04001_shogi-lines-captured",
+            "text": "What's？！Why？！Why？！"
+        }
+    },
+    {
+        "id": "la-chr-04001_shogi-lines-check",
+        "data": {
+            "id": "la-chr-04001_shogi-lines-check",
+            "text": "Yaaay！死神来掳走胜利咯！"
+        }
+    },
+    {
+        "id": "la-chr-04001_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-04001_shogi-lines-checkmate",
+            "text": "呜哇！No, no！不可以下那边～！"
+        }
+    },
+    {
+        "id": "la-chr-04001_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-04001_shogi-lines-pon",
+            "text": "该走这个！绝对是这个！"
+        }
+    },
+    {
+        "id": "la-chr-04001_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-04001_shogi-lines-self-turn",
+            "text": "尽管期待吧。"
+        }
+    },
+    {
+        "id": "la-chr-04001_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-04001_shogi-lines-thinking",
+            "text": "呃呃呃～～～啊啊～～～……"
+        }
+    },
+    {
+        "id": "la-chr-04002_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-04002_shogi-lines-captured",
+            "text": "欸欸～～？！为什么啦～……"
+        }
+    },
+    {
+        "id": "la-chr-04002_shogi-lines-check",
+        "data": {
+            "id": "la-chr-04002_shogi-lines-check",
+            "text": "啊呀啊呀～？好像把你逼到死角咯～♪"
+        }
+    },
+    {
+        "id": "la-chr-04002_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-04002_shogi-lines-checkmate",
+            "text": "欸欸～不要走这种棋好不好～～？"
+        }
+    },
+    {
+        "id": "la-chr-04002_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-04002_shogi-lines-pon",
+            "text": "要动的话，应该就是这里吧～"
+        }
+    },
+    {
+        "id": "la-chr-04002_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-04002_shogi-lines-self-turn",
+            "text": "上了上了～！"
+        }
+    },
+    {
+        "id": "la-chr-04002_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-04002_shogi-lines-thinking",
+            "text": "嗯～……那么，该怎么办呢？"
+        }
+    },
+    {
+        "id": "la-chr-04003_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-04003_shogi-lines-captured",
+            "text": "WAH～？！为什么呀～？！"
+        }
+    },
+    {
+        "id": "la-chr-04003_shogi-lines-check",
+        "data": {
+            "id": "la-chr-04003_shogi-lines-check",
+            "text": "呵呵呵……你逃不掉了♪"
+        }
+    },
+    {
+        "id": "la-chr-04003_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-04003_shogi-lines-checkmate",
+            "text": "WAH～！不可以下那边……！"
+        }
+    },
+    {
+        "id": "la-chr-04003_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-04003_shogi-lines-pon",
+            "text": "就选这个好了～"
+        }
+    },
+    {
+        "id": "la-chr-04003_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-04003_shogi-lines-self-turn",
+            "text": "一起加油吧！"
+        }
+    },
+    {
+        "id": "la-chr-04003_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-04003_shogi-lines-thinking",
+            "text": "嗯～是不是这里最好～？"
+        }
+    },
+    {
+        "id": "la-chr-04007_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-04007_shogi-lines-captured",
+            "text": "为什么啦～！真是的～～～！"
+        }
+    },
+    {
+        "id": "la-chr-04007_shogi-lines-check",
+        "data": {
+            "id": "la-chr-04007_shogi-lines-check",
+            "text": "咦，真假？！已经逼得你跑不掉了嘛～♪"
+        }
+    },
+    {
+        "id": "la-chr-04007_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-04007_shogi-lines-checkmate",
+            "text": "呜哇，怎么会有人盯着那边下的～？！"
+        }
+    },
+    {
+        "id": "la-chr-04007_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-04007_shogi-lines-pon",
+            "text": "嗯～大概要走这里才对～？"
+        }
+    },
+    {
+        "id": "la-chr-04007_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-04007_shogi-lines-self-turn",
+            "text": "该我大显身手了！"
+        }
+    },
+    {
+        "id": "la-chr-04007_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-04007_shogi-lines-thinking",
+            "text": "欸～……纠结了一下，应该要～……"
+        }
+    },
+    {
+        "id": "la-chr-04010_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-04010_shogi-lines-captured",
+            "text": "等？！欸欸～……？"
+        }
+    },
+    {
+        "id": "la-chr-04010_shogi-lines-check",
+        "data": {
+            "id": "la-chr-04010_shogi-lines-check",
+            "text": "呵呵，你是没法逃离我的♪"
+        }
+    },
+    {
+        "id": "la-chr-04010_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-04010_shogi-lines-checkmate",
+            "text": "太、太卑鄙了！你居然做这种事……！"
+        }
+    },
+    {
+        "id": "la-chr-04010_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-04010_shogi-lines-pon",
+            "text": "决定了！我要走这个！"
+        }
+    },
+    {
+        "id": "la-chr-04010_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-04010_shogi-lines-self-turn",
+            "text": "来，准备上阵。"
+        }
+    },
+    {
+        "id": "la-chr-04010_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-04010_shogi-lines-thinking",
+            "text": "这、这样……不，应该要这样？嗯～……"
+        }
+    },
+    {
+        "id": "la-chr-04012_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-04012_shogi-lines-captured",
+            "text": "哈啊啊啊～？！骗人的吧……"
+        }
+    },
+    {
+        "id": "la-chr-04012_shogi-lines-check",
+        "data": {
+            "id": "la-chr-04012_shogi-lines-check",
+            "text": "哈——哈哈！看来是我赢啦！"
+        }
+    },
+    {
+        "id": "la-chr-04012_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-04012_shogi-lines-checkmate",
+            "text": "哼、哼哼～……你还挺厉害的嘛。"
+        }
+    },
+    {
+        "id": "la-chr-04012_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-04012_shogi-lines-pon",
+            "text": "嘿～！就走这个吧！"
+        }
+    },
+    {
+        "id": "la-chr-04012_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-04012_shogi-lines-self-turn",
+            "text": "我要展现优点～！"
+        }
+    },
+    {
+        "id": "la-chr-04012_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-04012_shogi-lines-thinking",
+            "text": "唔唔唔……这下可有得烦恼了……"
+        }
+    },
+    {
+        "id": "la-chr-04013_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-04013_shogi-lines-captured",
+            "text": "欸？！等下……！"
+        }
+    },
+    {
+        "id": "la-chr-04013_shogi-lines-check",
+        "data": {
+            "id": "la-chr-04013_shogi-lines-check",
+            "text": "呵呵……觉得能逃掉，就试试看吧♪"
+        }
+    },
+    {
+        "id": "la-chr-04013_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-04013_shogi-lines-checkmate",
+            "text": "原来如此，还能这样进攻……"
+        }
+    },
+    {
+        "id": "la-chr-04013_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-04013_shogi-lines-pon",
+            "text": "看这个局势……该走这里吧？"
+        }
+    },
+    {
+        "id": "la-chr-04013_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-04013_shogi-lines-self-turn",
+            "text": "我会尽力。"
+        }
+    },
+    {
+        "id": "la-chr-04013_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-04013_shogi-lines-thinking",
+            "text": "嗯～……总之先按直觉走吧♪"
+        }
+    },
+    {
+        "id": "la-chr-04014_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-04014_shogi-lines-captured",
+            "text": "啊啊啊？！为什么～～？！"
+        }
+    },
+    {
+        "id": "la-chr-04014_shogi-lines-check",
+        "data": {
+            "id": "la-chr-04014_shogi-lines-check",
+            "text": "耶～！Biboo要拿下胜利喽！"
+        }
+    },
+    {
+        "id": "la-chr-04014_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-04014_shogi-lines-checkmate",
+            "text": "不行——！！刚刚的不算！！"
+        }
+    },
+    {
+        "id": "la-chr-04014_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-04014_shogi-lines-pon",
+            "text": "就走这个～！上啊上啊～！"
+        }
+    },
+    {
+        "id": "la-chr-04014_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-04014_shogi-lines-self-turn",
+            "text": "Let's go～♪"
+        }
+    },
+    {
+        "id": "la-chr-04014_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-04014_shogi-lines-thinking",
+            "text": "嗯～～～～…………"
+        }
+    },
+    {
+        "id": "la-chr-04015_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-04015_shogi-lines-captured",
+            "text": "先等一等……！啊啊～……"
+        }
+    },
+    {
+        "id": "la-chr-04015_shogi-lines-check",
+        "data": {
+            "id": "la-chr-04015_shogi-lines-check",
+            "text": "呵呵……不许跑哦？"
+        }
+    },
+    {
+        "id": "la-chr-04015_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-04015_shogi-lines-checkmate",
+            "text": "呀！被摆了一道……！"
+        }
+    },
+    {
+        "id": "la-chr-04015_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-04015_shogi-lines-pon",
+            "text": "这里！我走对了吗……？"
+        }
+    },
+    {
+        "id": "la-chr-04015_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-04015_shogi-lines-self-turn",
+            "text": "共创美好时光吧"
+        }
+    },
+    {
+        "id": "la-chr-04015_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-04015_shogi-lines-thinking",
+            "text": "好犹豫啊～……该怎么办呢？"
+        }
+    },
+    {
+        "id": "la-chr-04016_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-04016_shogi-lines-captured",
+            "text": "BAU BAU～？！为什么～？！"
+        }
+    },
+    {
+        "id": "la-chr-04016_shogi-lines-check",
+        "data": {
+            "id": "la-chr-04016_shogi-lines-check",
+            "text": "BAU BAU～！这局是Fuwawa赢了♪"
+        }
+    },
+    {
+        "id": "la-chr-04016_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-04016_shogi-lines-checkmate",
+            "text": "BAU BAU？！不要欺负人呀～！"
+        }
+    },
+    {
+        "id": "la-chr-04016_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-04016_shogi-lines-pon",
+            "text": "BAU BAU！就决定走这个了！"
+        }
+    },
+    {
+        "id": "la-chr-04016_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-04016_shogi-lines-self-turn",
+            "text": "一起加油吧♪"
+        }
+    },
+    {
+        "id": "la-chr-04016_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-04016_shogi-lines-thinking",
+            "text": "嗯～这该怎么办才好呢～？"
+        }
+    },
+    {
+        "id": "la-chr-04017_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-04017_shogi-lines-captured",
+            "text": "BAU BAU～？！为什么呀～？！"
+        }
+    },
+    {
+        "id": "la-chr-04017_shogi-lines-check",
+        "data": {
+            "id": "la-chr-04017_shogi-lines-check",
+            "text": "BAU BAU～！这局Mococo赢♪"
+        }
+    },
+    {
+        "id": "la-chr-04017_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-04017_shogi-lines-checkmate",
+            "text": "BAU BAU？！不要欺负我～！"
+        }
+    },
+    {
+        "id": "la-chr-04017_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-04017_shogi-lines-pon",
+            "text": "BAU BAU！就决定走这个啦～！"
+        }
+    },
+    {
+        "id": "la-chr-04017_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-04017_shogi-lines-self-turn",
+            "text": "好期待啊～♪"
+        }
+    },
+    {
+        "id": "la-chr-04017_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-04017_shogi-lines-thinking",
+            "text": "嗯——这应该怎么办才好呢～？"
+        }
+    },
+    {
+        "id": "la-chr-06002_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-06002_shogi-lines-captured",
+            "text": "哈？！你开什么玩笑——！"
+        }
+    },
+    {
+        "id": "la-chr-06002_shogi-lines-check",
+        "data": {
+            "id": "la-chr-06002_shogi-lines-check",
+            "text": "嘎哈哈♪　看样子奏要赢了哦～♪"
+        }
+    },
+    {
+        "id": "la-chr-06002_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-06002_shogi-lines-checkmate",
+            "text": "什么？！嗯……怎么办呢～？"
+        }
+    },
+    {
+        "id": "la-chr-06002_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-06002_shogi-lines-pon",
+            "text": "就动这里好啦～♪"
+        }
+    },
+    {
+        "id": "la-chr-06002_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-06002_shogi-lines-self-turn",
+            "text": "哎，大家就看着吧！"
+        }
+    },
+    {
+        "id": "la-chr-06002_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-06002_shogi-lines-thinking",
+            "text": "嗯嗯……该怎么办呢～♪"
+        }
+    },
+    {
+        "id": "la-chr-06003_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-06003_shogi-lines-captured",
+            "text": "呜哇？！完～蛋～了～啦……"
+        }
+    },
+    {
+        "id": "la-chr-06003_shogi-lines-check",
+        "data": {
+            "id": "la-chr-06003_shogi-lines-check",
+            "text": "别以为可以逃得出莉莉华的手掌心！"
+        }
+    },
+    {
+        "id": "la-chr-06003_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-06003_shogi-lines-checkmate",
+            "text": "欸，还能这样？！也太会了……！"
+        }
+    },
+    {
+        "id": "la-chr-06003_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-06003_shogi-lines-pon",
+            "text": "比如，这里？这样对吗？！对吗？！"
+        }
+    },
+    {
+        "id": "la-chr-06003_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-06003_shogi-lines-self-turn",
+            "text": "要上了哦～♪"
+        }
+    },
+    {
+        "id": "la-chr-06003_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-06003_shogi-lines-thinking",
+            "text": "欸～～……？总之先动动看好了～"
+        }
+    },
+    {
+        "id": "la-chr-06004_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-06004_shogi-lines-captured",
+            "text": "欸——？！怎么这样～……"
+        }
+    },
+    {
+        "id": "la-chr-06004_shogi-lines-check",
+        "data": {
+            "id": "la-chr-06004_shogi-lines-check",
+            "text": "嘿！好了好了，你要怎么应对？！"
+        }
+    },
+    {
+        "id": "la-chr-06004_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-06004_shogi-lines-checkmate",
+            "text": "啊——那里啊！哎呀～真是被摆了一道！"
+        }
+    },
+    {
+        "id": "la-chr-06004_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-06004_shogi-lines-pon",
+            "text": "嘿——！就走这里吧～～～！"
+        }
+    },
+    {
+        "id": "la-chr-06004_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-06004_shogi-lines-self-turn",
+            "text": "我来上阵！"
+        }
+    },
+    {
+        "id": "la-chr-06004_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-06004_shogi-lines-thinking",
+            "text": "嗯嗯，综合考虑盘面上的状况……"
+        }
+    },
+    {
+        "id": "la-chr-06005_shogi-lines-captured",
+        "data": {
+            "id": "la-chr-06005_shogi-lines-captured",
+            "text": "不要呀呀呀～？！"
+        }
+    },
+    {
+        "id": "la-chr-06005_shogi-lines-check",
+        "data": {
+            "id": "la-chr-06005_shogi-lines-check",
+            "text": "哦哦！说不定我要赢了！"
+        }
+    },
+    {
+        "id": "la-chr-06005_shogi-lines-checkmate",
+        "data": {
+            "id": "la-chr-06005_shogi-lines-checkmate",
+            "text": "姆呀姆呀，你还挺会下嘛……"
+        }
+    },
+    {
+        "id": "la-chr-06005_shogi-lines-pon",
+        "data": {
+            "id": "la-chr-06005_shogi-lines-pon",
+            "text": "哎呀～～～看不懂呐！走这里吗？！"
+        }
+    },
+    {
+        "id": "la-chr-06005_shogi-lines-self-turn",
+        "data": {
+            "id": "la-chr-06005_shogi-lines-self-turn",
+            "text": "请交给我吧！"
+        }
+    },
+    {
+        "id": "la-chr-06005_shogi-lines-thinking",
+        "data": {
+            "id": "la-chr-06005_shogi-lines-thinking",
+            "text": "欸欸～～～怎么办啊～～……？"
+        }
+    }
+]

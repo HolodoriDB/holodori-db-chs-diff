@@ -280,6 +280,20 @@
         }
     },
     {
+        "id": "la-park_fishing_fish-0021-description",
+        "data": {
+            "id": "la-park_fishing_fish-0021-description",
+            "text": "在惊涛骇浪中锻炼出一身漆黑的条纹，人称“岩滩王者”。面对连贝壳都能咬碎的强颚与利齿，人们也拿出筷子来应战！做成刺身尝一尝，肉质弹到保证吓你一大跳！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0021-name",
+        "data": {
+            "id": "la-park_fishing_fish-0021-name",
+            "text": "条石鲷"
+        }
+    },
+    {
         "id": "la-park_fishing_fish-0022-description",
         "data": {
             "id": "la-park_fishing_fish-0022-description",
@@ -319,6 +333,34 @@
         "data": {
             "id": "la-park_fishing_fish-0024-name",
             "text": "龙虾"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0025-description",
+        "data": {
+            "id": "la-park_fishing_fish-0025-description",
+            "text": "性格非常文静的鲨鱼，基本上是每座水族馆的疗愈专员。背着“猫耳”在海底遨游的身姿煞是可爱，要是隔着水槽玻璃对上了眼，呆呆的样子一定会彻底俘虏你的心！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0025-name",
+        "data": {
+            "id": "la-park_fishing_fish-0025-name",
+            "text": "宽纹虎鲨"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0026-description",
+        "data": {
+            "id": "la-park_fishing_fish-0026-description",
+            "text": "体色鲜艳，仿佛戴着军帽，一副高傲的样子。但一旦你与它建立了深厚的情谊，对它的印象更会180度大转变！毫不设防地贴过来的样子，堪称海中第一反差萌！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0026-name",
+        "data": {
+            "id": "la-park_fishing_fish-0026-name",
+            "text": "拿破仑鱼"
         }
     },
     {
@@ -375,6 +417,48 @@
         "data": {
             "id": "la-park_fishing_fish-0030-name",
             "text": "卡哇伊势龙虾"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0031-description",
+        "data": {
+            "id": "la-park_fishing_fish-0031-description",
+            "text": "长得很像小水母的布偶。据说不知为何经常会钓到。钓师们私底下都在讨论它嘴边若隐若现的黑痣。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0031-name",
+        "data": {
+            "id": "la-park_fishing_fish-0031-name",
+            "text": "很像小水母的布偶"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0032-description",
+        "data": {
+            "id": "la-park_fishing_fish-0032-description",
+            "text": "酷似助手君的布偶。据说不知为何经常会钓到。它的可爱让人在提竿的时候忍不住叹息。是钓师间很受欢迎的精品！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0032-name",
+        "data": {
+            "id": "la-park_fishing_fish-0032-name",
+            "text": "酷似助手君的布偶"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0033-description",
+        "data": {
+            "id": "la-park_fishing_fish-0033-description",
+            "text": "长得极像小狗Uni的布偶。据说不知为何经常会钓到。蓬松的毛发大受钓师欢迎，据说也有人专为了钓它而来。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0033-name",
+        "data": {
+            "id": "la-park_fishing_fish-0033-name",
+            "text": "极像Uni的布偶"
         }
     },
     {
@@ -644,6 +728,20 @@
         }
     },
     {
+        "id": "la-park_fishing_fish-0053-description",
+        "data": {
+            "id": "la-park_fishing_fish-0053-description",
+            "text": "它是海中的魔术师，在漆黑的深海提着一盏摇曳的灯笼。雄性靠近雌性，最终融为一体的奇特生态，简直就像奇幻故事一般神奇。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0053-name",
+        "data": {
+            "id": "la-park_fishing_fish-0053-name",
+            "text": "鮟鱇鱼"
+        }
+    },
+    {
         "id": "la-park_fishing_fish-0054-description",
         "data": {
             "id": "la-park_fishing_fish-0054-description",
@@ -700,6 +798,34 @@
         }
     },
     {
+        "id": "la-park_fishing_fish-0058-description",
+        "data": {
+            "id": "la-park_fishing_fish-0058-description",
+            "text": "大约有着4亿年历史的深海老前辈。4亿年来完全没改动过躯体设计，或许能从这位前辈身上找到进化链条中缺失的一环？如果见到它，就充满敬意地向它鞠个躬吧！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0058-name",
+        "data": {
+            "id": "la-park_fishing_fish-0058-name",
+            "text": "腔棘鱼"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0059-description",
+        "data": {
+            "id": "la-park_fishing_fish-0059-description",
+            "text": "戴着狼头面具的孤独守护者。平时为爱而活，疲于争斗便会躲进岩洞。那身影让人不禁心生慈爱。部分地区会将它拍粉香煎或裹粉炸制，是美食家和渔夫们的老朋友。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0059-name",
+        "data": {
+            "id": "la-park_fishing_fish-0059-name",
+            "text": "东方狼鱼"
+        }
+    },
+    {
         "id": "la-park_fishing_fish-0060-description",
         "data": {
             "id": "la-park_fishing_fish-0060-description",
@@ -753,6 +879,48 @@
         "data": {
             "id": "la-park_fishing_fish-0063-name",
             "text": "鼠目沙钻鱼"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0064-description",
+        "data": {
+            "id": "la-park_fishing_fish-0064-description",
+            "text": "雪民造型的布偶。不知为何经常会钓到。它的可爱每天都在持续给自己圈粉，摔倒的样子更是一上社媒就被热转。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0064-name",
+        "data": {
+            "id": "la-park_fishing_fish-0064-name",
+            "text": "雪民造型的布偶"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0065-description",
+        "data": {
+            "id": "la-park_fishing_fish-0065-description",
+            "text": "很像是船员熊的布偶。不知为何经常会钓到。得到它就立刻拉拢它加入船队，组建将来向汪洋大海进发的生力军吧！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0065-name",
+        "data": {
+            "id": "la-park_fishing_fish-0065-name",
+            "text": "船员熊感觉的布偶"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0066-description",
+        "data": {
+            "id": "la-park_fishing_fish-0066-description",
+            "text": "眉眼间神似Mr. Squeaks的布偶。不知为何经常会钓到。小小的蝴蝶结颇惹人怜爱，如果钓到它，可得拿去跟别的钓师炫耀炫耀！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0066-name",
+        "data": {
+            "id": "la-park_fishing_fish-0066-name",
+            "text": "神似Mr. Squeaks的布偶"
         }
     },
     {
@@ -994,6 +1162,20 @@
         }
     },
     {
+        "id": "la-park_fishing_fish-0084-description",
+        "data": {
+            "id": "la-park_fishing_fish-0084-description",
+            "text": "只有在活着的时候，它的身体才会发出祖母绿的光辉！拍层薄粉，用黄油香煎，或者豪迈地炸熟后送入口中，整个口腔都会感受到南国海风的香气。在夏威夷别名“强强鱼”，是高档鱼种哦！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0084-name",
+        "data": {
+            "id": "la-park_fishing_fish-0084-name",
+            "text": "鬼头刀"
+        }
+    },
+    {
         "id": "la-park_fishing_fish-0085-description",
         "data": {
             "id": "la-park_fishing_fish-0085-description",
@@ -1019,6 +1201,20 @@
         "data": {
             "id": "la-park_fishing_fish-0086-name",
             "text": "海蛇"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0087-description",
+        "data": {
+            "id": "la-park_fishing_fish-0087-description",
+            "text": "警惕心极强，就连一点影子也会视为威胁，从而立刻隐去踪迹。尽管一身柔软的肌肉蕴含着绝佳的口感，但想钓到它也并非易事，正可谓钓师的终极目标！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0087-name",
+        "data": {
+            "id": "la-park_fishing_fish-0087-name",
+            "text": "镰鳍鲳鲹"
         }
     },
     {
@@ -1050,6 +1246,20 @@
         }
     },
     {
+        "id": "la-park_fishing_fish-0090-description",
+        "data": {
+            "id": "la-park_fishing_fish-0090-description",
+            "text": "它的招牌是尖锐长枪般的上颚，能以时速100km突破翻涌的浪潮！将它千锤百炼的鱼身切大块煸炒，或做成照烧风味，品尝过后便会感到自己在吸收汪洋大海中的能量！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0090-name",
+        "data": {
+            "id": "la-park_fishing_fish-0090-name",
+            "text": "旗鱼"
+        }
+    },
+    {
         "id": "la-park_fishing_fish-0091-description",
         "data": {
             "id": "la-park_fishing_fish-0091-description",
@@ -1061,6 +1271,20 @@
         "data": {
             "id": "la-park_fishing_fish-0091-name",
             "text": "锤头鲨"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0092-description",
+        "data": {
+            "id": "la-park_fishing_fish-0092-description",
+            "text": "作为某鲨鱼电影的原型一举成名的“白色死神”，一旦碰上必定歇菜，非常危险！要是被那张强劲的大嘴狠狠咬住，可就不管怎么求饶都没用了！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0092-name",
+        "data": {
+            "id": "la-park_fishing_fish-0092-name",
+            "text": "大白鲨"
         }
     },
     {
@@ -1117,6 +1341,62 @@
         "data": {
             "id": "la-park_fishing_fish-0096-name",
             "text": "小丑安在青蛙鱼"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0097-description",
+        "data": {
+            "id": "la-park_fishing_fish-0097-description",
+            "text": "长得很有Cilus感的布偶。不知为何经常会钓到。像云团一样可爱的外表大受钓师们的喜爱，社交媒体上也常常看到有人钓到它后晒照炫耀。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0097-name",
+        "data": {
+            "id": "la-park_fishing_fish-0097-name",
+            "text": "Cilus风的布偶"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0098-description",
+        "data": {
+            "id": "la-park_fishing_fish-0098-description",
+            "text": "令人想起呜帕欧的布偶。不知为何经常会钓到。那天真无邪的表情公认十分治愈，据说还有大量收集它的钓师呢。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0098-name",
+        "data": {
+            "id": "la-park_fishing_fish-0098-name",
+            "text": "令人想起呜帕欧的布偶"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0099-description",
+        "data": {
+            "id": "la-park_fishing_fish-0099-description",
+            "text": "有座员风范的布偶。不知为何经常会钓到。头上的高筒礼帽和两撇胡子很是威风，如果走运钓到了，就摆在房间里做装饰吧！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0099-name",
+        "data": {
+            "id": "la-park_fishing_fish-0099-name",
+            "text": "有座员风范的布偶"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0100-description",
+        "data": {
+            "id": "la-park_fishing_fish-0100-description",
+            "text": "鲜少能钓到的黄金鲷鱼。因其罕见性，能卖出很高的收购价。但不管炖着还是炸着都不好吃……据说送进嘴里会咯哩咯哩的。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0100-name",
+        "data": {
+            "id": "la-park_fishing_fish-0100-name",
+            "text": "黄金鲷"
         }
     },
     {

@@ -61,5 +61,54 @@
             "id": "la-perm-a03-resortshop-description-3",
             "text": "道别"
         }
+    },
+    {
+        "id": "la-perm-a03-resortshop-description-4",
+        "data": {
+            "id": "la-perm-a03-resortshop-description-4",
+            "text": "材料转换"
+        }
+    },
+    {
+        "id": "la-perm-a03-shogi",
+        "data": {
+            "id": "la-perm-a03-shogi",
+            "text": "浮排大战"
+        }
+    },
+    {
+        "id": "la-perm-a03-splashball",
+        "data": {
+            "id": "la-perm-a03-splashball",
+            "text": "水球大战"
+        }
+    },
+    {
+        "id": "la-perm-a03-splashstadium-description-",
+        "data": {
+            "id": "la-perm-a03-splashstadium-description-",
+            "text": "算了"
+        }
+    },
+    {
+        "id": "la-perm-live_tower-description-1",
+        "data": {
+            "id": "la-perm-live_tower-description-1",
+            "text": "个人演出"
+        }
+    },
+    {
+        "id": "la-perm-live_tower-description-2",
+        "data": {
+            "id": "la-perm-live_tower-description-2",
+            "text": "挑战演出"
+        }
+    },
+    {
+        "id": "la-perm-live_tower-description-3",
+        "data": {
+            "id": "la-perm-live_tower-description-3",
+            "text": "道别"
+        }
     }
 ]

@@ -273,6 +273,34 @@
         }
     },
     {
+        "id": "la-mission_grp-missionpass-261201-daily",
+        "data": {
+            "id": "la-mission_grp-missionpass-261201-daily",
+            "text": "每日任务"
+        }
+    },
+    {
+        "id": "la-mission_grp-missionpass-261201-season",
+        "data": {
+            "id": "la-mission_grp-missionpass-261201-season",
+            "text": "季度任务"
+        }
+    },
+    {
+        "id": "la-mission_grp-missionpass-261201-weekly",
+        "data": {
+            "id": "la-mission_grp-missionpass-261201-weekly",
+            "text": "每周任务"
+        }
+    },
+    {
+        "id": "la-mission_grp-shogi_celebration-261125",
+        "data": {
+            "id": "la-mission_grp-shogi_celebration-261125",
+            "text": "浮排大战开幕纪念任务"
+        }
+    },
+    {
         "id": "la-mission_grp-training_support-260816",
         "data": {
             "id": "la-mission_grp-training_support-260816",
@@ -283,6 +311,13 @@
         "id": "la-mission_grp-training_support-261105",
         "data": {
             "id": "la-mission_grp-training_support-261105",
+            "text": "养成支援任务"
+        }
+    },
+    {
+        "id": "la-mission_grp-training_support-261205",
+        "data": {
+            "id": "la-mission_grp-training_support-261205",
             "text": "养成支援任务"
         }
     }

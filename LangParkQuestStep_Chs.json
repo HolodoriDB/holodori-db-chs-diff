@@ -595,6 +595,20 @@
         }
     },
     {
+        "id": "la-quest-area-a01-30-1-1",
+        "data": {
+            "id": "la-quest-area-a01-30-1-1",
+            "text": "前往协律花园的舞台，与{character}对话吧！"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-30-1-2",
+        "data": {
+            "id": "la-quest-area-a01-30-1-2",
+            "text": "为了筹备全面开放演出，展开特训！准备好了就跟{{character}对话吧！"
+        }
+    },
+    {
         "id": "la-quest-area-a02-01-1-1",
         "data": {
             "id": "la-quest-area-a02-01-1-1",
@@ -1306,6 +1320,20 @@
         "data": {
             "id": "la-quest-area-a03-19-1-2",
             "text": "将海上的特等席变得更豪华！与{character}一起强化玛琳公主号。"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-20-1-1",
+        "data": {
+            "id": "la-quest-area-a03-20-1-1",
+            "text": "holo成员都聚集在水花运动场。去看看情况吧！"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-20-1-2",
+        "data": {
+            "id": "la-quest-area-a03-20-1-2",
+            "text": "浮排大战开始！落汤女王的头衔究竟花落谁家？！"
         }
     },
     {

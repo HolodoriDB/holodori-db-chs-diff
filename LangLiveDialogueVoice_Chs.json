@@ -56,6 +56,13 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0120-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0120-00_myself",
+            "text": "【菁英圣诞老人驾到！ 巫女】SP技能"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00016_00016-5-uniq-0076-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-00016_00016-5-uniq-0076-00_myself",
@@ -123,6 +130,13 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_myself",
             "text": "【悠闲公主的任性海滩 璐娜】SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0121-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0121-00_myself",
+            "text": "【闪耀的公主交响曲 璐娜】SP技能"
         }
     },
     {
@@ -252,6 +266,13 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0122-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0122-00_myself",
+            "text": "【Sweet Snow INAvitation Ina'nis】SP技能"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0106-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0106-00_myself",
@@ -270,6 +291,13 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-04013_04013-5-uniq-0083-00_myself",
             "text": "【求知若渴的泳池之夜 Shiori】SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04013_04013-5-uniq-0123-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04013_04013-5-uniq-0123-00_myself",
+            "text": "【被烛光给引诱 Shiori】SP技能"
         }
     },
     {
@@ -1071,6 +1099,48 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_00015-to-00028",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_00015-to-00028",
+            "text": "【菁英圣诞老人驾到！ 巫女】巫女&璐娜"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_00015-to-04003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_00015-to-04003",
+            "text": "【菁英圣诞老人驾到！ 巫女】巫女&Ina'nis"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_00015-to-04013",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_00015-to-04013",
+            "text": "【菁英圣诞老人驾到！ 巫女】巫女&Shiori"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_00028-to-00015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_00028-to-00015",
+            "text": "【菁英圣诞老人驾到！ 巫女】璐娜&巫女"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_04003-to-00015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_04003-to-00015",
+            "text": "【菁英圣诞老人驾到！ 巫女】Ina'nis&巫女"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_04013-to-00015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_04013-to-00015",
+            "text": "【菁英圣诞老人驾到！ 巫女】Shiori&巫女"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_00016-5-uniq-0014-00_00016-to-00006",
         "data": {
             "id": "la-name_live_dial_voice_card_00016-5-uniq-0014-00_00016-to-00006",
@@ -1852,6 +1922,48 @@
         "data": {
             "id": "la-name_live_dial_voice_card_00028-5-uniq-0070-00_00034-to-00028",
             "text": "【悠闲公主的任性海滩 璐娜】波尔卡&璐娜"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_00015-to-00028",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_00015-to-00028",
+            "text": "【闪耀的公主交响曲 璐娜】巫女&璐娜"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_00028-to-00015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_00028-to-00015",
+            "text": "【闪耀的公主交响曲 璐娜】璐娜&巫女"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_00028-to-04003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_00028-to-04003",
+            "text": "【闪耀的公主交响曲 璐娜】璐娜&Ina'nis"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_00028-to-04013",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_00028-to-04013",
+            "text": "【闪耀的公主交响曲 璐娜】璐娜&Shiori"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_04003-to-00028",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_04003-to-00028",
+            "text": "【闪耀的公主交响曲 璐娜】Ina'nis&璐娜"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_04013-to-00028",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_04013-to-00028",
+            "text": "【闪耀的公主交响曲 璐娜】Shiori&璐娜"
         }
     },
     {
@@ -3339,6 +3451,48 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_00015-to-04003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_00015-to-04003",
+            "text": "【Sweet Snow INAvitation Ina'nis】巫女&Ina'nis"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_00028-to-04003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_00028-to-04003",
+            "text": "【Sweet Snow INAvitation Ina'nis】璐娜&Ina'nis"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_04003-to-00015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_04003-to-00015",
+            "text": "【Sweet Snow INAvitation Ina'nis】Ina'nis&巫女"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_04003-to-00028",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_04003-to-00028",
+            "text": "【Sweet Snow INAvitation Ina'nis】Ina'nis&璐娜"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_04003-to-04013",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_04003-to-04013",
+            "text": "【Sweet Snow INAvitation Ina'nis】Ina'nis&Shiori"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_04013-to-04003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_04013-to-04003",
+            "text": "【Sweet Snow INAvitation Ina'nis】Shiori&Ina'nis"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_04007-5-uniq-0047-00_04007-to-04010",
         "data": {
             "id": "la-name_live_dial_voice_card_04007-5-uniq-0047-00_04007-to-04010",
@@ -3630,6 +3784,48 @@
         "data": {
             "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04015-to-04013",
             "text": "【求知若渴的泳池之夜 Shiori】Nerissa&Shiori"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_00015-to-04013",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_00015-to-04013",
+            "text": "【被烛光给引诱 Shiori】巫女&Shiori"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_00028-to-04013",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_00028-to-04013",
+            "text": "【被烛光给引诱 Shiori】璐娜&Shiori"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_04003-to-04013",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_04003-to-04013",
+            "text": "【被烛光给引诱 Shiori】Ina'nis&Shiori"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_04013-to-00015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_04013-to-00015",
+            "text": "【被烛光给引诱 Shiori】Shiori&巫女"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_04013-to-00028",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_04013-to-00028",
+            "text": "【被烛光给引诱 Shiori】Shiori&璐娜"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_04013-to-04003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_04013-to-04003",
+            "text": "【被烛光给引诱 Shiori】Shiori&Ina'nis"
         }
     },
     {

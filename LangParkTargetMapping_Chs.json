@@ -295,7 +295,7 @@
         "id": "la-perm-a03-stadium-title",
         "data": {
             "id": "la-perm-a03-stadium-title",
-            "text": "水球大战"
+            "text": "水花运动场"
         }
     },
     {
@@ -320,10 +320,31 @@
         }
     },
     {
+        "id": "la-target_map-a03-shogi",
+        "data": {
+            "id": "la-target_map-a03-shogi",
+            "text": "浮排大战"
+        }
+    },
+    {
         "id": "la-target_map-area-a01-29-1-2",
         "data": {
             "id": "la-target_map-area-a01-29-1-2",
             "text": "夜色追逐战"
+        }
+    },
+    {
+        "id": "la-target_map-area-a01-30-1-2",
+        "data": {
+            "id": "la-target_map-area-a01-30-1-2",
+            "text": "挑战演出"
+        }
+    },
+    {
+        "id": "la-target_map-area-a03-20-1-2",
+        "data": {
+            "id": "la-target_map-area-a03-20-1-2",
+            "text": "浮排大战"
         }
     }
 ]

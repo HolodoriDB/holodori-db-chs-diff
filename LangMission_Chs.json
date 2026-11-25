@@ -9744,6 +9744,13 @@
         }
     },
     {
+        "id": "la-mission-achievement-common-absolute_live_tower_stage_clear_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_live_tower_stage_clear_count-description",
+            "text": "通关STAGE{0}"
+        }
+    },
+    {
         "id": "la-mission-achievement-common-absolute_music_highest_score_rating_sum-description",
         "data": {
             "id": "la-mission-achievement-common-absolute_music_highest_score_rating_sum-description",
@@ -9786,6 +9793,27 @@
         }
     },
     {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0031-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0031-description",
+            "text": "钓起很像小水母的布偶"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0032-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0032-description",
+            "text": "钓起酷似助手君的布偶"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0033-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0033-description",
+            "text": "钓起极像Uni的布偶"
+        }
+    },
+    {
         "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0061-description",
         "data": {
             "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0061-description",
@@ -9807,6 +9835,27 @@
         }
     },
     {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0064-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0064-description",
+            "text": "钓起雪民造型的布偶"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0065-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0065-description",
+            "text": "钓起船员熊感觉的布偶"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0066-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0066-description",
+            "text": "钓起神似Mr. Squeaks的布偶"
+        }
+    },
+    {
         "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0094-description",
         "data": {
             "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0094-description",
@@ -9825,6 +9874,27 @@
         "data": {
             "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0096-description",
             "text": "钓起小丑安在青蛙鱼"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0097-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0097-description",
+            "text": "钓起Cilus风的布偶"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0098-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0098-description",
+            "text": "钓起令人想起呜帕欧的布偶"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0099-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0099-description",
+            "text": "钓起有座员风范的布偶"
         }
     },
     {
@@ -9859,7 +9929,7 @@
         "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a03-description",
         "data": {
             "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a03-description",
-            "text": "完成所有汽水泡泡海湾的主线、区域任务"
+            "text": "完成34个汽水泡泡海湾的主线、区域任务"
         }
     },
     {
@@ -9916,6 +9986,34 @@
         "data": {
             "id": "la-mission-achievement-common-absolute_poster_get_count-description",
             "text": "获得{0}种回忆卡"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_shogi_piece_take_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_shogi_piece_take_count-description",
+            "text": "让对手的holo成员落水{0}次"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_shogi_piece_taken_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_shogi_piece_taken_count-description",
+            "text": "被对手的holo成员推落水{0}次"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_shogi_piece_taken_count-name",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_shogi_piece_taken_count-name",
+            "text": "擅长落水"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_shogi_stage_clear_count-single-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_shogi_stage_clear_count-single-description",
+            "text": "通关{0}次NORMAL / CHALLENGE关卡"
         }
     },
     {
@@ -10322,6 +10420,13 @@
         "data": {
             "id": "la-mission-achievement-common-increment_mini_game_play_count-jump_rope-description",
             "text": "游玩{0}次跳跳大绳"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_mini_game_play_count-shogi-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_mini_game_play_count-shogi-description",
+            "text": "游玩{0}次浮排大战"
         }
     },
     {
@@ -11326,6 +11431,76 @@
         }
     },
     {
+        "id": "la-mission-event_mission-shogi_celebration-261125-absolute_park_fishing_fish_unique_count",
+        "data": {
+            "id": "la-mission-event_mission-shogi_celebration-261125-absolute_park_fishing_fish_unique_count",
+            "text": "钓起{0}种鱼"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-shogi_celebration-261125-absolute_shogi_piece_take_count",
+        "data": {
+            "id": "la-mission-event_mission-shogi_celebration-261125-absolute_shogi_piece_take_count",
+            "text": "在浮排大战中让{0}名敌方holo成员加入我方"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-shogi_celebration-261125-absolute_shogi_stage_clear_count-single",
+        "data": {
+            "id": "la-mission-event_mission-shogi_celebration-261125-absolute_shogi_stage_clear_count-single",
+            "text": "通关{0}次浮排大战的NORMAL关卡"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-shogi_celebration-261125-increment_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-shogi_celebration-261125-increment_live_play_count",
+            "text": "游玩演出{0}次"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-shogi_celebration-261125-increment_mini_game_play_count-shogi",
+        "data": {
+            "id": "la-mission-event_mission-shogi_celebration-261125-increment_mini_game_play_count-shogi",
+            "text": "游玩{0}次浮排大战"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-shogi_celebration-261125-increment_mini_game_stamina_consumption",
+        "data": {
+            "id": "la-mission-event_mission-shogi_celebration-261125-increment_mini_game_stamina_consumption",
+            "text": "总计消耗{0}点迷你游戏能量"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-shogi_celebration-261125-increment_mission_clear_count-event_normal-mission_grp-shogi_celebration-261125",
+        "data": {
+            "id": "la-mission-event_mission-shogi_celebration-261125-increment_mission_clear_count-event_normal-mission_grp-shogi_celebration-261125",
+            "text": "完成所有任务"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-shogi_celebration-261125-increment_multi_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-shogi_celebration-261125-increment_multi_live_play_count",
+            "text": "游玩共同演出{0}次"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-shogi_celebration-261125-increment_park_present_receive_count",
+        "data": {
+            "id": "la-mission-event_mission-shogi_celebration-261125-increment_park_present_receive_count",
+            "text": "领取{0}次来自holo成员的礼物"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-shogi_celebration-261125-increment_work_finish_count",
+        "data": {
+            "id": "la-mission-event_mission-shogi_celebration-261125-increment_work_finish_count",
+            "text": "完成{0}次holowork"
+        }
+    },
+    {
         "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
         "data": {
             "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
@@ -11462,6 +11637,76 @@
         "id": "la-mission-event_mission-training_support-261105-increment_work_finish_count",
         "data": {
             "id": "la-mission-event_mission-training_support-261105-increment_work_finish_count",
+            "text": "完成{0}次holowork"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261205-absolute_card_level_count-70",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261205-absolute_card_level_count-70",
+            "text": "将{0}名成员的Lv提升到70"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261205-absolute_character_level_sum",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261205-absolute_character_level_sum",
+            "text": "将总计Holo成员Rank提升到{0}"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261205-absolute_live_clear_music_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261205-absolute_live_clear_music_count",
+            "text": "通关{0}种不同演出"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261205-absolute_live_deck_evaluation_value",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261205-absolute_live_deck_evaluation_value",
+            "text": "小队总分达到{0}"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261205-absolute_live_tower_stage_clear_count-live_tower-default-001",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261205-absolute_live_tower_stage_clear_count-live_tower-default-001",
+            "text": "通关挑战演出第{0}关"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261205-absolute_skill_tree_release_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261205-absolute_skill_tree_release_count",
+            "text": "总计解锁{0}个Holo成员面板"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261205-increment_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261205-increment_live_play_count",
+            "text": "游玩演出{0}次"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261205-increment_mini_game_stamina_consumption",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261205-increment_mini_game_stamina_consumption",
+            "text": "总计消耗{0}点迷你游戏能量"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261205-increment_mission_clear_count-event_normal-mission_grp-training_support-261205",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261205-increment_mission_clear_count-event_normal-mission_grp-training_support-261205",
+            "text": "完成所有任务"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261205-increment_work_finish_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261205-increment_work_finish_count",
             "text": "完成{0}次holowork"
         }
     },
@@ -12225,6 +12470,167 @@
         "id": "la-mission-missionpass-261101-weekly-increment_work_start_count-name",
         "data": {
             "id": "la-mission-missionpass-261101-weekly-increment_work_start_count-name",
+            "text": "开始{0}次Holowork"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-daily-increment_card_level_up_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-daily-increment_card_level_up_count-name",
+            "text": "强化成员Lv{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-daily-increment_drop_item_get_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-daily-increment_drop_item_get_count-name",
+            "text": "拾取{0}个隐秘宝藏"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-daily-increment_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-daily-increment_live_play_count-name",
+            "text": "游玩演出{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-daily-increment_mini_game_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-daily-increment_mini_game_play_count-name",
+            "text": "游玩迷你游戏{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-daily-increment_multi_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-daily-increment_multi_live_play_count-name",
+            "text": "游玩共同演出{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-daily-increment_park_present_receive_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-daily-increment_park_present_receive_count-name",
+            "text": "领取{0}次来自holo成员的礼物"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-daily-increment_park_quest_clear_count-daily-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-daily-increment_park_quest_clear_count-daily-name",
+            "text": "完成{0}次每日任务"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-daily-increment_work_start_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-daily-increment_work_start_count-name",
+            "text": "开始{0}次Holowork"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-season-absolute_live_tower_stage_clear_count-live_tower-default-001-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-season-absolute_live_tower_stage_clear_count-live_tower-default-001-name",
+            "text": "将挑战演出通关至第{0}关"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-season-absolute_park_fishing_fish_unique_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-season-absolute_park_fishing_fish_unique_count-name",
+            "text": "钓起{0}种鱼"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-season-increment_mini_game_play_count-shogi-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-season-increment_mini_game_play_count-shogi-name",
+            "text": "游玩{0}次浮排大战"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-season-increment_park_fishing_fish_caught_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-season-increment_park_fishing_fish_caught_count-name",
+            "text": "钓起{0}条鱼"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-weekly-increment_card_level_limit_break_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-weekly-increment_card_level_limit_break_count-name",
+            "text": "让成员特训{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-weekly-increment_drop_item_get_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-weekly-increment_drop_item_get_count-name",
+            "text": "拾取{0}个隐秘宝藏"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-weekly-increment_exchange_purchase_count-exchange_booth-facility-a01-exchangebooth-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-weekly-increment_exchange_purchase_count-exchange_booth-facility-a01-exchangebooth-name",
+            "text": "在音波菈牡商店兑换Holo金币{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-weekly-increment_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-weekly-increment_live_play_count-name",
+            "text": "游玩演出{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-weekly-increment_live_stamina_consumption-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-weekly-increment_live_stamina_consumption-name",
+            "text": "总计消耗{0}点演出能量"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-weekly-increment_mini_game_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-weekly-increment_mini_game_play_count-name",
+            "text": "游玩迷你游戏{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-weekly-increment_mini_game_stamina_consumption-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-weekly-increment_mini_game_stamina_consumption-name",
+            "text": "总计消耗{0}点迷你游戏能量"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-weekly-increment_multi_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-weekly-increment_multi_live_play_count-name",
+            "text": "游玩共同演出{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-weekly-increment_music_creative_chart_live_clear_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-weekly-increment_music_creative_chart_live_clear_count-name",
+            "text": "通关自制谱面乐曲{0}次"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-weekly-increment_skill_tree_release_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-weekly-increment_skill_tree_release_count-name",
+            "text": "解锁{0}个Holo成员面板"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-weekly-increment_work_start_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-weekly-increment_work_start_count-name",
             "text": "开始{0}次Holowork"
         }
     },
